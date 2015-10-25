@@ -1,5 +1,4 @@
 ---
-title: Plans
 layout: default
 ---
 
@@ -24,4 +23,4 @@ All plans include:
 
 ## Sign up
 
-Right now we are in beta, but would love to make your content, [request an invite at helpdesk@newatoms.com](mailto:helpdesk@newatoms.com)
+Right now we are in beta, but would love to make your content, [request an invite](mailto:helpdesk@newatoms.com)
