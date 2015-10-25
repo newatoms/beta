@@ -1,3 +1,8 @@
+---
+title: Plans
+layout: default
+---
+
 # Plans
 
 All plans include:
@@ -10,8 +15,9 @@ All plans include:
 - A 30 day money back guarantee!
 
 ## Blog
+
 |                    | Monthly       | Weekly        | Daily         |
-| :----------------- |:-------------:|:-------------:|:-------------:|
+|:----------------- |:-------------:|:-------------:|:-------------:|
 | Blog posts         |  1/month      |  1/week       |  5/week       |
 | Per month          |  €500         |  €1,500       |  €5,000       |
 | First month        | -75% **€125** | -75% **€375** |-50% **€2,500**|
