@@ -21,6 +21,6 @@ All plans include:
 | Per month          |  €500         |  €1,500       |  €5,000       |
 | First month        | -75% **€125** | -75% **€375** |-50% **€2,500**|
 
-## Sign up
+# Sign up
 
 Right now we are in beta, but would love to make your content, [request an invite](mailto:helpdesk@newatoms.com)
