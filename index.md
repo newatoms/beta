@@ -9,11 +9,11 @@ All plans include:
 - All in the style and language of your choice.
 - Fully royalty free and you have all the copyrights, no strings attached.
 - Online tool that gives you full control where you choose which of the posts are written out of ideas we have.
-- We post to your blog and to your Twitter and your Facebook.
+- We post to your blog or Medium publication and to your Twitter and your Facebook.
 - Bank grade security with SSL Security managed by Google.
 - A 30 day money back guarantee!
 
-## Blog
+## Blogs or Medium publication
 
 |                    | Monthly       | Weekly        | Daily         |
 |:----------------- |:-------------:|:-------------:|:-------------:|
