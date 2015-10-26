@@ -6,7 +6,7 @@ id: howitworks
 ---
 
 ## 1. Sign Up and Customise
-You sign up online, fill in your basic information and requests and upload style guidelines and the other documents necessary for us to understand what we should make for you.
+You sign up online, fill in your basic information and requests, upload style guidelines and the other documents necessary for us to understand what we should make for you.
 
 ## 2. Pick and Commission
 Our team suggests ideas for posts based on your input and you choose which ones to commission.
