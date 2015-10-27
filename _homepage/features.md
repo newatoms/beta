@@ -1,9 +1,10 @@
 ---
-title: All subscription plans include
 layout: section
 order: 50
 id: features
 ---
+
+# All subscription plans include
 
 - Great engaging and beautiful content including photography or illustrations.
 - All in the style and language of your choice.
