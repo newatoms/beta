@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: howitworks
 order: 10
 ---
 
