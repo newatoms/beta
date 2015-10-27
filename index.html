@@ -6,8 +6,7 @@ layout: default
 {% for section in sections %}
 
   <section id="{{ section.id }}">
-    <h1>{{ section.title }}</h1>
-    <content>{{ section.content }}</content>
+    {{ section.output }}
   </section>
 
 {% endfor %}
