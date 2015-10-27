@@ -3,13 +3,15 @@ layout: howitworks
 order: 10
 ---
 
-# How It Works
+# How it works
 
 ## 1. Tell us what you need
-You sign up online, fill in your basic information and requests, upload style guidelines and the other documents necessary for us to understand what we should make for you.
+You sign up online, tell us what you want to achieve with the content, upload company style guidelines if you have them.
 
 ## 2. Pick and commission posts
-Our team suggests ideas for posts based on your input and you choose which ones to commission and they will be produced.
+Our team suggests ideas for posts, you choose which ones to commission. After this our team will start producing  and will deliver posts with writing and imagery.
 
-## 3. You Approve, We Post
+## 3. You approve, post
 With your approval the post is posted to your blog or Medium publication and promoted on your Twitter and Facebook.
+
+Now go ahead, commission more posts! They will be produced at a frequency you choose.
