@@ -5,7 +5,7 @@ order: 10
 
 # How It Works
 
-## 1. Sign Up and Customise
+## 1. Tell us what you need
 You sign up online, fill in your basic information and requests, upload style guidelines and the other documents necessary for us to understand what we should make for you.
 
 ## 2. Pick and Commission
