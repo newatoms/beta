@@ -14,4 +14,4 @@ Using an online interface you can decide the goal of your publication; commissio
 
 It is like having an in-house editorial team without the hassle.
 
-![Commission and edit posts on the go](images/devices-screenshots.png)
+![Commission and edit posts on the go](images/commission-review.png)
