@@ -1,7 +1,6 @@
 ---
-layout: section
+layout: features
 order: 50
-id: features
 ---
 
 # All subscription plans include
