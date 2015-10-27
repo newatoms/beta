@@ -14,4 +14,4 @@ Our team suggests ideas for posts, you choose which ones to commission. After th
 ## 3. You approve, the content is posted
 With your approval the post is posted to your blog or Medium publication and promoted on your Twitter and Facebook.
 
-Now go ahead, commission more posts! The posts will be produced at the frequency you choose, e.g. once per month or per day.
+Now go ahead, commission more posts! The posts will be produced at the frequency you choose, e.g. once per month, week or day.
