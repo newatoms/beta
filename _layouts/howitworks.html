@@ -1,0 +1,36 @@
+<style>
+  #howitworks {
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+  #howitworks p, #howitworks h2 {
+    max-width: 40vw;
+  }
+  #howitworks h1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    /*bottom: 0;*/
+    max-width: 40vw;
+    max-height: 100%;
+    background: transparent;
+    font-size: 10vw;
+    border-bottom: none;
+    color: #4CAF50;
+  }
+  @media (max-width: 830px) {
+    #howitworks p, #howitworks h2 {
+      max-width: 100%;
+    }
+    #howitworks h1 {
+      position: relative;
+      max-width: 100%;
+      font-size: 3rem;
+    }
+  }
+</style>
+
+<article id="howitworks">
+  {{ content }}
+</article>
