@@ -1,5 +1,5 @@
 ---
-layout: section
+layout: introduction
 order: 0
 id: introduction
 ---
