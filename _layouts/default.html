@@ -4,6 +4,8 @@
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+  <base href="/">
+
   <title>{{ site.title }}</title>
 
   <style>
@@ -28,6 +30,9 @@
     display: block;
     padding: 10vh 5vw;
     color: white;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+    z-index: 1;
+    position: relative;
   }
   body>header h1 {
     font-size: 5em;
@@ -59,15 +64,11 @@
     text-align: center;
   }
 
-  body>article, body>nav, body>footer {
+  section>article, body>nav, body>footer {
     width: 100%;
     max-width: 45rem;
     margin: auto;
     padding: 2.5vh 5vw;
-  }
-
-  body>article p:first-child {
-    font-size: 150%;
   }
 
   /*GitHub MarkDown CSS*/
@@ -709,19 +710,19 @@
   <header>
     <p class="byline">Content supplied by</p>
     <h1><span>content</span><span>.supply</span></h1>
+
+    <nav>
+     {% for page in site.pages %}
+      {% if page.title %}
+      <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+     {% endfor %}
+    </nav>
   </header>
 
-  <nav>
-   {% for page in site.pages %}
-    {% if page.title %}
-    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-    {% endif %}
-   {% endfor %}
-  </nav>
-
-  <article>
+  <main>
    {{ content }}
-  </article>
+ </main>
 
   <footer>
     <p>
