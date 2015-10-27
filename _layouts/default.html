@@ -61,7 +61,7 @@
     text-align: center;
   }
 
-  body>article, body>nav, body>footer {
+  section>article, body>nav, body>footer {
     width: 100%;
     max-width: 45rem;
     margin: auto;
@@ -707,19 +707,19 @@
   <header>
     <p class="byline">Content supplied by</p>
     <h1><span>content</span><span>.supply</span></h1>
+
+    <nav>
+     {% for page in site.pages %}
+      {% if page.title %}
+      <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+     {% endfor %}
+    </nav>
   </header>
 
-  <nav>
-   {% for page in site.pages %}
-    {% if page.title %}
-    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-    {% endif %}
-   {% endfor %}
-  </nav>
-
-  <article>
+  <main>
    {{ content }}
-  </article>
+ </main>
 
   <footer>
     <p>
