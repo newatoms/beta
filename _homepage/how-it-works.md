@@ -1,7 +1,6 @@
 ---
 layout: section
 order: 10
-id: howitworks
 ---
 
 # How It Works
@@ -12,8 +11,5 @@ You sign up online, fill in your basic information and requests, upload style gu
 ## 2. Pick and Commission
 Our team suggests ideas for posts based on your input and you choose which ones to commission.
 
-## 3. Go About Your Things
-After you commission a post the team goes to work and makes the content and finds beautiful imagery to go along with it.
-
-## 4. You Approve, We Post
+## 3. You Approve, We Post
 With your approval the post is posted to your blog or Medium publication and promoted on your Twitter and Facebook.
