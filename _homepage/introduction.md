@@ -5,6 +5,7 @@ id: introduction
 ---
 
 Our teams of content developers create highly engaging and beautiful posts for your business for a fixed fee per month. Commision and review posts with the click of a button. The easiest to work with editorial team you have ever hired.
+Get great custom content for your blog with ease.
 
 ---
 
