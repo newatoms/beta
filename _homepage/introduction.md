@@ -13,3 +13,5 @@ Bespoke journalism by a team of specialists focussing on maximal impact. We are 
 Using an online interface you can decide the goal of your publication; commission new posts and approve posts as the final editor. The rest is done by us.
 
 It is like having an in-house editorial team without the hassle.
+
+![Commission and edit posts on the go](images/devices-screenshots.png)
