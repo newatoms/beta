@@ -1,9 +1,10 @@
 ---
-title: How it works
 layout: section
 order: 10
 id: howitworks
 ---
+
+# How It Works
 
 ## 1. Sign Up and Customise
 You sign up online, fill in your basic information and requests, upload style guidelines and the other documents necessary for us to understand what we should make for you.
