@@ -13,4 +13,4 @@ To us this seems insane.
 
 Our teams are made up out of multiple diciplines that always work together on every bit of content created. Instead of writing our content we develop it, together.
 
-This leads to content that is better than the sum of its parts and definetely better than what most individuals can create. Content that works for the audience.
+This leads to content that is better than the sum of its parts and definetely better than what most individuals can create. Strong editorial content that works for the audience.
