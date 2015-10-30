@@ -23,12 +23,16 @@
     line-height: 1.6;
     word-wrap: break-word;
     margin: 0;
+    background-color: black;
+  }
+  main {
+    background-color: white;
   }
 
   body>header {
     background-color: #4CAF50;
     display: block;
-    padding: 15vh 5vw;
+    padding: 15vh 5vw 0;
     color: white;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
     z-index: 1;
@@ -39,10 +43,23 @@
     font-weight: 600;
     margin: 0;
     border-bottom: 0;
+    margin-bottom: 10vh;
+  }
+  body>header nav {
+    font-size: 150%;
+    padding: 0.5rem;
+  }
+  body>header nav>ul {
+    padding: 0;
+  }
+  body>header nav>ul>li {
+    list-style: none;
+    display: inline-block;
+    padding: 0.5rem;
   }
   @media (max-width: 430px) {
     body>header {
-      padding: 20vh 2.5vw;
+      padding: 20vh 2.5vw 0;
     }
     body>header h1 {
       font-size: 3.75em;
@@ -50,7 +67,7 @@
   }
   @media (min-width: 430px) and (max-width: 830px) {
     body>header {
-      padding: 10vh 2.5vw;
+      padding: 10vh 2.5vw 0;
     }
     body>header h1 {
       font-size: 3.75em;
@@ -732,13 +749,15 @@
   <header>
     <p class="byline">Content supplied by</p>
     <h1><a href="http://content.supply"><span>content</span><span>.supply</span></a></h1>
-
     <nav>
-     {% for page in site.pages %}
-      {% if page.title %}
-      <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-      {% endif %}
-     {% endfor %}
+      <ul>
+      {% assign pages = site.pages | sort:"order" %}
+        {% for page in pages %}
+          {% if page.title %}
+            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
     </nav>
   </header>
 
