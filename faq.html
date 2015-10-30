@@ -7,21 +7,20 @@ order: 50
 
 <style>
   #faq {
-    max-width: 40rem;
     margin: auto;
     box-sizing: border-box;
-    padding: 1rem;
   }
+  #faq>
 </style>
 
-<div id="faq">
+<section id="faq">
 {% assign qs = site.faq | sort:"order" %}
 {% for q in qs %}
 
-  <section>
+  <article>
     <h1><a>{{ q.question }}</a></h1>
     {{ q.output }}
-  </section>
+  </article>
 
 {% endfor %}
-</div>
+</section>
