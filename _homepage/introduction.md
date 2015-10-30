@@ -6,7 +6,7 @@ id: introduction
 
 Get great custom content for your blog with ease.
 
-Whether you want to tell the story of your company or you want to connect to your target audience through posts they will love, content.supply can provide the custom content you need.
+Whether you want to tell the story of your company or connect to your target audience through posts they will love, content.supply can provide the content you need.
 
 Bespoke journalism by a team of specialists focussing on maximal impact. We are able to provide your audience with the experience you want to give them.
 
