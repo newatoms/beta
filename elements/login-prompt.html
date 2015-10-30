@@ -1,0 +1,117 @@
+<link rel="import" href="/bower_components/polymer/polymer.html">
+<link rel="import" href="/bower_components/paper-button/paper-button.html">
+<link rel="import" href="/bower_components/iron-icon/iron-icon.html">
+<link rel="import" href="/bower_components/iron-icons/iron-icons.html">
+
+<dom-module id="login-prompt">
+  <template>
+    <style>
+      :host {
+        display: flex;
+        flex-direction: column;
+        position: relative;
+      }
+
+      p {
+        /*max-width: 20rem;*/
+      }
+
+      article {
+        /*padding: 0.5rem;*/
+      }
+
+      paper-button {
+        background: var(--accent-color);
+        color: var(--paper-menu-background-color);
+        margin: 0 auto;
+      }
+    </style>
+
+    <template is="dom-if" if="[[connected]]" restamp="true">
+
+      <template is="dom-if" if="[[!authenticated]]" restamp="true">
+        <article>
+          <h2>Step 1/3</h2>
+          <p>Authenticate with Google to open a super secure connection.</p>
+        </article>
+        <paper-button raised on-tap="logInButtonPressed"><iron-icon icon="icons:lock-open"></iron-icon>Authenticate</paper-button>
+      </template>
+
+      <template is="dom-if" if="[[authenticated]]" restamp="true">
+        <template is="dom-if" if="[[needsProfile]]" restamp="true">
+          <article>
+            <h2>Step 2/3</h2>
+            <p>We need you to save your name and e-mail address to our server.</p>
+          </article>
+          <paper-button raised on-tap="createProfileButton"><iron-icon icon="icons:lock-open"></iron-icon>Create Account</paper-button>
+        </template>
+        <template is="dom-if" if="[[needsApproval]]" restamp="true">
+          <article>
+            <h2>Step 3/3</h2>
+            <p>Thanks for signing up. You need to be approved for access, sit tight we'll get to you very quickly.</p>
+          </article>
+        </template>
+      </template>
+
+    </template>
+
+    <template is="dom-if" if="[[!connected]]" restamp="true">
+
+      <article>
+        <h2>Loading,</h2>
+        <p>there is a lot of data to process, and it's all top-secret, and we're double-checking the connection with every request... Sorry it's taking so long.</p>
+      </article>
+
+    </template>
+
+  </template>
+  <script>
+    Polymer({
+      is: 'login-prompt',
+
+      properties: {
+        needsProfile: {
+          type: Boolean,
+          notify: true,
+          computed: 'computeNeedsProfile(profile)'
+        },
+        needsApproval: {
+          type: Boolean,
+          notify: true,
+          computed: 'computeNeedsApproval(profile)'
+        },
+        connected: {
+          type: Boolean,
+          value: false,
+          notify: true
+        },
+        authenticated: {
+          type: Boolean,
+          value: false,
+          notify: true
+        },
+        profile: {
+          type: Object,
+          notify: true,
+        }
+      },
+
+      computeNeedsProfile: function(profile) {
+        return (!profile || !profile.displayName)
+      },
+
+      computeNeedsApproval: function(profile) {
+        return (profile && !profile.approved)
+      },
+
+      logInButtonPressed: function () {
+        this.fire('login')
+      },
+
+      createProfileButton: function () {
+        this.fire('create-profile')
+      }
+    })
+
+  </script>
+</dom-module>
