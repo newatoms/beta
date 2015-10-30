@@ -1,0 +1,26 @@
+---
+permalink: /faq/
+layout: default
+title: FAQ
+order: 50
+---
+
+<style>
+  #faq {
+    margin: auto;
+    box-sizing: border-box;
+  }
+  #faq>
+</style>
+
+<section id="faq">
+{% assign qs = site.faq | sort:"order" %}
+{% for q in qs %}
+
+  <article>
+    <h1><a>{{ q.question }}</a></h1>
+    {{ q.output }}
+  </article>
+
+{% endfor %}
+</section>
