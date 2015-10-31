@@ -1,0 +1,171 @@
+<!doctype html>
+<link rel="import" href="/bower_components/polymer/polymer.html">
+<link rel="import" href="/bower_components/firebase-element/firebase-auth.html">
+<link rel="import" href="/bower_components/firebase-element/firebase-document.html">
+<link rel="import" href="/bower_components/firebase-element/firebase.html">
+
+<link rel="import" href="/elements/login-prompt.html">
+
+<dom-module id="user-session">
+  <template>
+    <firebase-auth
+      id="auth"
+      provider="google"
+      location="[[location]]"
+      status-known="{{connected}}"
+      user="{{firebaseUser}}"
+      on-login="afterLogin"
+      ></firebase-auth>
+
+    <firebase-document
+      location="[[profileLocation]]"
+      data="{{profile}}"
+      ></firebase-document>
+
+    <firebase-document
+      location="[[sessionLocation]]"
+      data="{{session}}"
+      ></firebase-document>
+
+    <template is="dom-if" if="{{!loggedIn}}">
+      <login-prompt
+        on-login="login"
+        on-create-profile="updateProfileFromLogin"
+        connected="[[connected]]"
+        authenticated="[[authenticated]]"
+        profile="[[profile]]"
+        ></login-prompt>
+    </template>
+
+    <template is="dom-if" if="{{loggedIn}}">
+      <content></content>
+    </template>
+
+  </template>
+  <script>
+    Polymer({
+      is: 'user-session',
+
+      properties: {
+        location: {
+          type: String,
+          notify: true,
+          value: 'https://interface.firebaseio.com/'
+        },
+
+        firebaseUser: {
+          type: Object,
+          notify: true,
+          value: null
+        },
+
+        authenticated: {
+          type: Boolean,
+          notify: true,
+          computed: 'computeAuthenticated(firebaseUser)'
+        },
+
+        connected: {
+          type: Boolean,
+          value: false,
+          notify: true
+        },
+
+        profileLocation: {
+          type: String,
+          notify: true,
+          value: ''
+        },
+
+        profile: {
+          type: Object,
+          notify: true
+        },
+
+        sessionLocation: {
+          type: String,
+          notify: true,
+          value: ''
+        },
+
+        session: {
+          type: Object,
+          notify: true,
+        },
+
+        loggedIn: {
+          type: Boolean,
+          value: false,
+          notify: true,
+          computed: 'computeLoggedIn(connected, authenticated, profile)'
+        },
+      },
+
+      login: function (e) {
+        this.$.auth.login({scope: 'email'})
+      },
+
+      logout: function (e) {
+        this.$.auth.logout(),
+        this.set('profileLocation', null)
+        this.set('sessionLocation', null)
+      },
+
+      afterLogin: function (e) {
+        this.set('profileLocation', this.computeProfileLocation(e.detail.user))
+        this.set('sessionLocation', this.computeSessionLocation(e.detail.user))
+      },
+
+      computeLoggedIn: function (connected, authenticated, profile) {
+        if (connected && authenticated && profile && profile.displayName && profile.approved) {
+          return true
+        }
+        return false
+      },
+
+      computeAuthenticated: function (firebaseUser) {
+        if (firebaseUser) {
+          return true
+        }
+        return false
+      },
+
+      createUserProfile: function () {
+        var googleProfile = this.firebaseUser.google
+        var cachedUserProfile = googleProfile.cachedprofile || googleProfile.cachedUserProfile
+        var profile = {
+          createdAt: new Date().getTime(),
+          displayName: googleProfile.displayName,
+          profileImageURL: googleProfile.profileImageURL,
+          email: googleProfile.email,
+          familyName: cachedUserProfile.family_name,
+          personalName: cachedUserProfile.given_name,
+          origin: 'content.supply',
+          approved: false
+        }
+        return profile
+      },
+
+      updateProfileFromLogin: function () {
+        return this.set('profile', this.createUserProfile())
+      },
+
+      computeFirebaseUserLocation: function (firebaseUser, pathPrefix) {
+        if (!firebaseUser) {
+          return null
+        }
+        return this.location + pathPrefix + firebaseUser.uid
+      },
+
+      computeProfileLocation: function (firebaseUser) {
+        return this.computeFirebaseUserLocation(firebaseUser, 'users/')
+      },
+
+      computeSessionLocation: function (firebaseUser) {
+        return this.computeFirebaseUserLocation(firebaseUser, 'sessions/')
+      },
+    })
+
+  </script>
+
+</dom-module>

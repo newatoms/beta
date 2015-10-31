@@ -1,10 +1,8 @@
 ---
-layout: section
+layout: sign-up
 order: 90
 ---
 
-# Sign Up!
+# Sign up
 
-Right now we are in beta, but would love to make your content,
-
-[request an invite](mailto:helpdesk@newatoms.com)
+Create an account and we'll get back to you as quickly as possible to set it up.
