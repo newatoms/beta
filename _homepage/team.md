@@ -5,7 +5,7 @@ layout: team
 
 # Teamwork makes for better content
 
-> “Because we work together we can make better things, in less time.”
+> “Because we work together we can make better content, in less time.”
 — Boris van Hoytema, Director
 
 Most editorial work is done by individuals. One person has to come up with ideas, do research, understand difficult concepts, find the right form to explain them in and communicate all that he has learned to the target audience. All by himself.
