@@ -1,6 +1,6 @@
 ---
 order: 20
-layout: section
+layout: team
 ---
 
 # Teamwork makes for better content
