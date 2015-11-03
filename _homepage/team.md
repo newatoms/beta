@@ -1,18 +1,21 @@
 ---
 order: 20
-layout: section
+layout: team
 ---
 
-# Teamwork makes better content
+# Teamwork makes for better content
 
-> Because we work together we can make better content, in less time. — Boris van Hoytema, Director
+> “Because we work together we can make better content, in less time.”
+— Boris van Hoytema, Director
 
-Most editorial work is done by individuals, this means a good journalist is both good in coming up with ideas, researching, understanding them, formulating them, conveying them to the user and sharing them.
+Most editorial work is done by individuals. One person has to come up with ideas, do research, understand difficult concepts, find the right form to explain them in and communicate all that he has learned to the target audience. All by himself.
 
 To us this seems insane.
 
-Our teams are made up out of multiple diciplines that always work together on every bit of content created. Instead of writing our content we develop it, together.
+Our team consists of members from multiple disciplines and with different skill sets that create content together, from inception to publication. Making content that is crafted to strike the right chord with the audience.
 
-> Let technology do the boring parts, they never seem to be insulted, I mean not yet.. — Thomas de Beus, Content Developer
+> “Let technology do the boring parts, they never seem to be insulted,
+I mean not yet...”
+— Thomas de Beus, Content Developer
 
-This leads to content that is better than the sum of its parts and definetely better than what most individuals can create. Strong editorial content that works for the audience.
+This approach allows us to create more valuable content, in considerably less time.
