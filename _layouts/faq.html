@@ -1,8 +1,5 @@
 ---
-permalink: /faq/
 layout: default
-title: FAQ
-order: 50
 ---
 
 <style>
@@ -14,7 +11,7 @@ order: 50
 </style>
 
 <section id="faq">
-{% assign qs = site.faq | sort:"order" %}
+{% assign qs = site.faq | where:"language", page.language | sort:"order" %}
 {% for q in qs %}
 
   <article>
