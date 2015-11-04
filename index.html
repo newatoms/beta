@@ -3,7 +3,11 @@ layout: default
 title: content.supply
 ---
 <script>
+  if (navigator.languages.indexOf('nl') > 1) {
+    window.location.assign("/nl/")
+  } else {
     window.location.assign("/en/")
+  }
 </script>
 
 <a href="/en/" lang="en">English</a>
