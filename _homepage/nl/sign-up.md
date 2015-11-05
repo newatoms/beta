@@ -7,4 +7,4 @@ order: 90
 
 > Nieuwe accounts krijgen **50%** korting voor de eerste drie maanden!
 
-Maak een account aan en we nemen zo snel mogelijk contact met u op voor het inrichten van uw redactionele interface.
+Maak een account aan en we nemen zo snel mogelijk contact met je op voor het inrichten van jouw redactionele interface.
