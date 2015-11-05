@@ -11,6 +11,6 @@ Van journalistieke kwaliteit en op maat door een team van specialisten, gefocust
 
 Met een online interface kan jij kiezen wat het doel van je publicatie is; nieuwe posts laten maken en als eindredacteur optreden. De rest wordt door ons gedaan.
 
-Het is alsof je een redactioneelteam binnen je bedrijf hebt zonder het gedoe.
+Het is alsof je een interne redactie hebt zonder het gedoe.
 
 ![Kies uit welke posts er worden gemaakt op je mobiel](images/commission-review.png)
