@@ -9,7 +9,7 @@ order: 10
 Je meld je online aan, vertelt ons wat je wil bereiken met de content, upload bedrijfshuisstijlregels als je die hebt.
 
 ## 2. Kies welke blog posts gemaakt worden
-Ons team suggerereerd ideeën ofwel 'pitches' voor posts, jij kiest welke er worden gemaakt. Hierna begint ons team met het produceren en zullen we posts afleveren met tekst en afbeeldingen. Als de content over jouw of over je bedrijf gaat dan moet je wellicht beschikbaar zijn voor een paar vragen of een interview.
+Ons team suggerereerd pitches voor posts, jij kiest welke er worden gemaakt. Hierna begint ons team met het produceren en zullen we posts afleveren met tekst en afbeeldingen. Als de content over jouw of over je bedrijf gaat dan moet je wellicht beschikbaar zijn voor een paar vragen of een interview.
 
 ## 3. Je keurt goed, de content wordt gepost
 Met jouw toestemming en na jouw eindredactie wordt de post op je blog of Medium publicatie geplaatst en gepromoot op je Twitter- en Facebookpagina.
