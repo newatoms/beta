@@ -1,6 +1,6 @@
 ---
 question: Zijn jullie een content farm?
 ---
-Nee, [content farms](https://en.wikipedia.org/wiki/Content_farm) creëren grote aantallen textuele inhoud om aan de behoefte van zoekmachine algoritmes te voldoen. Wij maken hoge kwaliteit custom content om engagement te krijgen van jouw doelgroep.
+Nee, [content farms](https://en.wikipedia.org/wiki/Content_farm) creëren heel veel teksten van lage kwaliteit zodat de site vaak in de zoekresultaten verschijnt. Wij maken op maat gemaakte editorials van hoge kwaliteit gericht op een specifieke doelgroep.
 
-Bijna alle content farms gebruiken grote aantallen freelance schrijvers voor dit werk, wij hebben sterke en vaste teams die samenwerken om het beste product te creëren voor de opdrachtgever en de doelgroep.
+Bijna alle content farms gebruiken grote aantallen freelance schrijvers, wij gebruiken juist vaste teams om het beste product te creëren.

@@ -1,6 +1,6 @@
 ---
 question: Hoe communiceren we?
 ---
-We communiceren door een beveiligde content.supply app die het makkelijk maakt om samen te werken.
+We communiceren door de beveiligde op maat gemaakte content.supply app.
 
-En mocht er iets mis gaan, dan kan je ons altijd emailen of bellen.
+Daarnaast kan je ons altijd emailen of bellen.

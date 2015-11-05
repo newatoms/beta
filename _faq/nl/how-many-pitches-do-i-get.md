@@ -1,4 +1,4 @@
 ---
 question: Hoe veel pitches krijg ik?
 ---
-We zijn trots op ons vermogen om met een klein aantal hele goede pitches te kunnen komen per toezegbare post. Als er niets is dat je goed vindt (wat haast nooit gebeurd) dan zullen we zorgen dat we wat meer pitches voor je maken.
+We zijn trots op ons vermogen om hele goede pitches te creëren. Als blijkt dat geen van de pitches toereikend is, om wat voor reden dan ook, dan zullen we doorgaan tot beide partijen volledig achter een nieuwe pitch staan.
