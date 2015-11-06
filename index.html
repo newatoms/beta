@@ -10,5 +10,24 @@ title: content.supply
   }
 </script>
 
-<a href="/en/" lang="en">English</a>
-<a href="/nl/" lang="nl">Nederlands</a>
+<style>
+  ul#language-picker {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+  }
+  ul#language-picker>li {
+    display: inline-block;
+  }
+  ul#language-picker>li>a {
+    display: inline-block;
+    font-size: 5vw;
+    padding: 5vh 5vw;
+  }
+</style>
+
+<ul id="language-picker">
+  <li><a href="/en/" lang="en">English</a></li>
+  <li><a href="/nl/" lang="nl">Nederlands</a></li>
+</ul>
