@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% assign sections = site.homepage | where:"language", page.language | sort:"order" %}
+{% for section in sections %}
+
+  <section id="{{ section.id }}">
+    {{ section.output }}
+  </section>
+
+{% endfor %}

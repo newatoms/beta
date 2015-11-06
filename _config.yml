@@ -10,6 +10,38 @@ collections:
   faq:
     output: false
 
+defaults:
+  -
+    scope:
+      path: en
+    values:
+      language: en
+  -
+    scope:
+      path: homepage/en
+    values:
+      language: en
+  -
+    scope:
+      path: faq/en
+    values:
+      language: en
+  -
+    scope:
+      path: nl
+    values:
+      language: nl
+  -
+    scope:
+      path: homepage/nl
+    values:
+      language: nl
+  -
+    scope:
+      path: faq/nl
+    values:
+      language: nl
+
 # Build settings
 encoding: utf-8
 markdown: kramdown
@@ -17,4 +49,4 @@ kramdown:
   input: GFM
 highlighter: pygments
 
-exclude: ["Gemfile", "Gemfile.lock"]
+exclude: ["Gemfile", "Gemfile.lock", "bower_components"]
