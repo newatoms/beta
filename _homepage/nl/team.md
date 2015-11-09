@@ -3,19 +3,18 @@ order: 20
 layout: team
 ---
 
-# Teamwork maakt betere content
+# Teamwork voor betere content
 
-> “Omdat we samenwerken kunnen we betere content maken in minder tijd”
+> “Door samen te werken kunnen we betere content maken, in minder tijd" 
 — Boris van Hoytema, Directeur
 
-Tegenwoordig wordt het meeste redactionele werk nog steeds door individuen gedaan. Eén persoon bedenkt de ideeën, doet onderzoek, begrijpt moeilijke concepten en communiceert het geleerde in de juiste vorm uit aan een specifieke doelgroep. Allemaal in z'n eentje. 
+Het grootste deel van het redactionele werk wordt vandaag de dag nog steeds door individuen gedaan. Eén persoon bedenkt de ideeën, doet onderzoek, doorgrondt moeilijke concepten en deelt zijn bevindingen in het juiste format met zijn doelgroep. Allemaal in z'n eentje. 
 
-Wij vinden dit geschift.
+Wij vinden dit volstrekt gedateerd.
 
-Ons team bestaat uit professionals uit verschillende disciplines met verschillende kwaliteiten die samen content creëren, van idee tot publicatie. Content maken die op maat gemaakt is, om bij de doelgroep de juiste snaar te raken.
+Ons team is samengesteld uit professionals vanuit allerlei disciplines, met elk hun eigen kwaliteiten die het geheel versterken. Samen creëren we content, van idee tot publicatie. Content die op maat gemaakt is, om zo bij de doelgroep de juiste snaar te raken. 
 
-> “Laat de technologie de saaie dingen doen, ze lijken nooit beledigd te zijn,
-ik bedoel... nog niet”
+> “Laat de technologie de saaie dingen doen, ze lijken nooit beledigd te zijn. Tenminste... nog niet"
 — Thomas de Beus, Content Developer
 
-Op deze manier kunnen we content met meer waarde maken, in veel minder tijd.
+Onze manier van werken zorgt voor content met meer waarde, draagkracht en diversiteit. En dit alles in minder tijd, met minder moeite. 
