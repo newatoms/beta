@@ -24,12 +24,12 @@ Als je de potentiele lezer met je fantastische titel binnen gehaald hebt, beslui
 
 Het *intro* is de eerste allinea en ondersteunend aan de goed gekozen titel.  Hiermee staat of valt het 'vangen van de lezer'. De lezer scant het intro en beslist in een aantal seconden of het verder keest of niet.
 
-**Vette** en *cursieve* woorden zorgen voor verduidelijking van de begrippen. *Korte alinea's* zorgen ervoor dat de tekst voor de lezer behapbaar wordt. Terwijl *duidelijke quotes* de lezer uitnodigd om verder te lezen.
+**Vette** en *cursieve* woorden zorgen voor verduidelijking van de besproken begrippen. *Korte alinea's* zijn er om de tekst voor de lezer behapbaar te maken. Terwijl *duidelijke quotes* de lezer uitnodigd om verder te lezen.
 
 ## Geen afbeelding? Vergeet het...
-De mens is een visueel wezen. Gemiddeld genomen neemt de kans dat iemand een artikel begint te lezen met maarliefst [**94%**](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) toe. Afbeeldingen maken samen met de juiste titel nieuwsgierig. Zij zorgen voor een hogere betrokkenheid als de afbeeldingen  dienend zijn voor het geschreven stuk. 
+De mens is een visueel wezen. Onderzoek gedaan door [Skyword](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) wees uit dat gemiddeld genomen de kans met **94%** toe neemt dat iemand een artikel begint te lezen met een afbeelding dan zonder afbeelding. Foto's en illustarties maken samen met de juiste titel nieuwsgierig. Zij zorgen voor een hogere betrokkenheid als de afbeeldingen  dienend zijn voor het geschreven stuk. 
 
-> 94% is de groei die een artikel gemiddeld doormaakt als het een relavante hoofd-afbeelding bezit.
+> 94% is de groei die een artikel gemiddeld doormaakt als het een relavante hoofd-afbeelding bezit dan als het dat niet heeft.
 
 Lezers van non-fictie lezen om iets te leren. Help ze hierbij en vertel ze hoe de informatie toe te passen. Een goede blogpost doet dit al vanzelf. Als er goed over een onderwerp geschreven wordt zal het vanzelf genoeg ideeën geven.
 
