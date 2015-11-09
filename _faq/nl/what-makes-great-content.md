@@ -4,8 +4,6 @@ Steeds meer is er de roep naar *'hoge kwaliteit content'*. Prima, maar wat betek
 ## Originaliteit & geloofwaardigheid 
 Goede content is origineel. Content Farms zijn niet meer van deze tijd en zoekmachines, waaronder Google, worden steeds beter met het identificeren van deze 'clickbate sites' en worden laag gewaardeerd. Originele content wordt veel eerder en vaker gedeeld. Bovendien, waarom zou je iets zeggen als je niets te zeggen hebt?
 
-> *Zeg alsjeblieft niets als je niets te zeggen hebt!* 
-
 Behalve de originaliteit maakt goede kwaliteit content een bepaalde belofte aan de geloofwaardigheid van de tekst. Als gebruik wordt gemaakt van bronnen moeten deze authoriteit uitstralen. Goede bronnen zijn cruciaal en zorgen ervoor dat de tekst serieus genomen wordt.  
 
 
