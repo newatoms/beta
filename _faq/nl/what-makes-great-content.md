@@ -34,9 +34,9 @@ De mens is een visueel wezen. Onderzoek gedaan door [Skyword](http://www.skyword
 
 > 94% is de groei die een artikel gemiddeld doormaakt als het een relavante hoofd-afbeelding bezit dan als het dat niet heeft.
 
-Belangrijk is, dat afbeeldingen alleen iets toevoegen als zij dienend zijn voor het geschreven stuk. De afbeeldingen moeten een zekere maten van context creeren. 
+Belangrijk is, dat afbeeldingen alleen iets toevoegen als zij dienend zijn voor het geschreven stuk. De afbeeldingen moeten een zekere maten van context creëren. 
 
-##Feature afbeelding (met juiste cc):
+## Keuze feature afbeelding (met juiste cc):
 
 * [Vissers boot](https://www.flickr.com/photos/mr_t_in_dc/3157822073)
 * [Visnet](https://www.pexels.com/photo/fishing-net-4004/)
