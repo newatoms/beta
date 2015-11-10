@@ -6,7 +6,7 @@ order: 10
 # Hoe het werkt
 
 ## 1. Vertel ons wat je nodig hebt
-Je meldt je online aan, vertelt ons wat je wil bereiken met de content en uploadt bedrijfshuisstijlregels als je die hebt.
+Je meldt je online aan, vertelt ons wat jij wil bereiken met de content en uploadt bedrijfshuisstijlregels als je die hebt.
 
 ## 2. Kies welke blogposts gemaakt worden
 Ons team suggereert pitches voor posts, jij kiest welke er gemaakt worden. Vervolgens begint ons team met het produceren en leveren van posts met tekst en afbeeldingen. Als de content over jou of over jouw bedrijf gaat, dan moet je wellicht beschikbaar zijn om wat extra informatie te verschaffen. 
