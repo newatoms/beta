@@ -14,4 +14,4 @@ Ons team suggereert pitches voor posts, jij kiest welke er gemaakt worden. Vervo
 ## 3. Je geeft het akkoord en de content wordt gepost
 Na een eventuele eindredactie publiceren we de post op jouw platform naar keuze (sociale media, blog, etc.) en zorgen we voor promotie op je Twitter- en Facebookpagina.
 
-Nu begint het weer van voor af aan en heb je de keuze uit een aantal voorstellen waarna door ons weer blog posts worden gemaakt! De posts worden geproduceerd met een frequentie naar keuze, bijvoorbeeld eens per maand, week of dag.
+Nu begint het weer van voor af aan en heb je de keuze uit een aantal pitches waarna door ons weer blog posts worden gemaakt! De posts worden geproduceerd met een frequentie naar keuze, bijvoorbeeld eens per maand, week of dag.
