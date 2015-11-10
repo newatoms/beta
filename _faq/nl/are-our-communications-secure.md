@@ -5,4 +5,4 @@ Ja, we gebruiken een SSL certificaat met een uitzonderlijk sterke 2048-bits vers
 
 De database die we gebruiken is Firebase, een dochteronderneming van Google in de Verenigde Staten. Ze hebben [uitgebreide voorwaarden](https://cloud.google.com/terms/data-processing-terms) beschikbaar over hoe zij omgaan met de data.
 
-Als je communicatie nodig hebt die niet door Firebase/Google kan gaan dan richten we een speciale service voor je in.
+Als je communicatie nodig hebt die niet door Firebase/Google kan gaan dan voorzien we voor jou een speciale service. 
