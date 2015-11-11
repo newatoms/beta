@@ -27,10 +27,7 @@ Het *intro* is de eerste allinea en ondersteunend aan de goed gekozen titel.  Hi
 
 **Vette** en *cursieve* woorden zorgen voor verduidelijking van de besproken begrippen. *Korte alinea's* zijn er om de tekst voor de lezer behapbaar te maken. Terwijl *duidelijke quotes* de lezer uitnodigd om verder te lezen.
 
-## Tijd is relatief 
-Volgens Jacob Nielsen van de [Nielsen Norman Group](http://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/), spendeert de bezoeker gemiddeld iets minder dan een minuut op een webpagina. De bezoeker heeft meestal maar tijd  om een kwart van de tekst te lezen. Als in de content een duidelijk aanbod of een belofte naar voren komt wordt hierbij de potentie om gelezen te worden verhoogt.
-
-Kwaliteit content streeft ernaar de lezer nieuwe inzichten mee te geven over een bepaald onderwerp. De lezer moet iets met de content en het is aan ons de gespendeerde waardevolle tijd goed te benutten.
+Volgens Jacob Nielsen van de [Nielsen Norman Group](http://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/), spendeert de bezoeker gemiddeld iets minder dan een minuut op een webpagina. De bezoeker heeft meestal maar tijd  om een kwart van de tekst te lezen. Als in de content een duidelijk aanbod of een belofte naar voren komt wordt hierbij de potentie om gelezen te worden verhoogt. Kwaliteit content streeft ernaar de lezer nieuwe inzichten mee te geven over een bepaald onderwerp. 
 
 ## Geen afbeelding? Vergeet het...
 De mens is een visueel wezen. Onderzoek gedaan door [Skyword](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) wees uit dat gemiddeld genomen de kans met **94%** toe neemt dat iemand een artikel bekijkt met een afbeelding dan een artikel zonder afbeelding. Foto's en illustraties maken samen met de juiste titel nieuwsgierig.  
