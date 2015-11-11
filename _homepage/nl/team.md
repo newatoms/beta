@@ -10,7 +10,7 @@ layout: team
 
 Het grootste deel van het redactionele werk wordt vandaag de dag nog steeds door individuen gedaan. Eén persoon bedenkt de ideeën, doet onderzoek, doorgrondt moeilijke concepten en deelt zijn bevindingen in het juiste format met zijn doelgroep. Allemaal in z'n eentje. 
 
-Wij vinden dit krankzinnig.
+Wij vinden dit belachelijk.
 
 Ons team is samengesteld uit professionals vanuit allerlei disciplines, met elk hun eigen kwaliteiten die het geheel versterken. Samen creëren we content, van idee tot publicatie. Content die op maat gemaakt is, om zo bij de doelgroep de juiste snaar te raken. 
 
