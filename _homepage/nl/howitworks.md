@@ -9,7 +9,7 @@ order: 10
 Je meldt je online aan, vertelt ons wat jij wil bereiken met de content en uploadt bedrijfshuisstijlregels als je die hebt.
 
 ## 2. Kies welke blogposts gemaakt worden
-Ons team suggereert pitches voor posts, jij kiest welke er gemaakt worden. Vervolgens begint ons team met het produceren en leveren van posts met tekst en afbeeldingen. Als de content over jou of over jouw bedrijf gaat, dan moet je wellicht beschikbaar zijn om wat extra informatie te verschaffen. 
+Ons team suggereert pitches voor posts, jij kiest welke er gemaakt worden. Vervolgens begint ons team met het produceren en leveren van posts met tekst en afbeeldingen. Als de content over jou of over jouw bedrijf gaat, dan moet je wellicht beschikbaar zijn voor extra informatie. 
 
 ## 3. Je geeft het akkoord en de content wordt gepost
 Na een eventuele eindredactie publiceren we de post op jouw platform naar keuze (sociale media, blog, etc.) en zorgen we voor promotie op je Twitter- en Facebookpagina.
