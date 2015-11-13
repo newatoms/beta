@@ -21,7 +21,7 @@ Lezers zoeken antwoorden en willen deze steeds sneller vinden. Een goed gestruct
 * Korte alinea's 
 * Duidelijke quotes 
 
-Een sterke en opvallende *titel* is belangrijk om de lezer binnen te halen. Een goede titel prikkelt, moet nieuwsgierig maken en oproepen tot actie. Het is bewezen dat bij krantenkoppen de titel de belangrijkste factor is voor het lezen van het artikel. Digitaal geldt dit ook.
+Een sterke en opvallende *titel* is belangrijk om de lezer binnen te halen. Een goede titel prikkelt, moet nieuwsgierig maken en oproepen tot actie. Bij krantenkoppen is de titel de belangrijkste factor is voor het lezen van het artikel. Digitaal geldt dit ook.
 
 Als je de potentiele lezer met je fantastische titel binnen gehaald hebt, besluit hij/zij vaak om de eerste paar regels van de tekst te lezen - wat ons brengt bij de intro van de tekst en het belang ervan. 
 
