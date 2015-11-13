@@ -1,5 +1,5 @@
 # Waar moet een goede blogpost aan voldoen?
-Steeds meer is er de roep naar *'hoge kwaliteit content'*. Prima, maar wat betekent dit eigenlijk? Hoe haal je de lezer binnen en hoe laat je hem of haar niet meer los? Na toepassing van deze onderstaande tips is de kans groot dat jouw blogpost gelezen en gedeeld wordt.   
+Steeds meer is er de roep naar *'hoge kwaliteit content'*. Prima, maar wat betekent dit eigenlijk? Hoe haal je de lezers binnen en hoe laat je ze niet meer los? Na toepassing van deze onderstaande tips is de kans groot dat jouw blogpost gelezen en gedeeld wordt.   
 
 ## Originaliteit & geloofwaardigheid 
 Goede content is origineel. [Content Farms](https://en.wikipedia.org/wiki/Content_farm) zijn niet meer van deze tijd en zoekmachines, waaronder Google, worden steeds beter in het identificeren van deze 'clickbate sites'. Ze worden ook laag gewaardeerd. Originele content wordt sneller en vaker gedeeld. Bovendien, waarom zou je iets zeggen als je niets te zeggen hebt? 
