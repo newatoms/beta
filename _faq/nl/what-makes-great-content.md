@@ -24,7 +24,7 @@ Als je de potentiele lezer met je fantastische titel binnen gehaald hebt, beslui
 
 > Als de titel en de afbeelding het aas bij het vissen zijn, is het intro de lijn die sterk genoeg moet zijn. 
 
-Het *intro* is de eerste alinea en ondersteunt de goed gekozen titel.  Hiermee staat of valt het 'vangen van de lezer'. De lezer scant het intro en beslist in een aantal seconden of hij/zij verder leest of niet.
+Het *intro* is de eerste alinea en ondersteunt de goed gekozen titel.  Hiermee staat of valt het 'vangen van de lezer'. Lezers scannen het intro en beslissen in een aantal seconden of zij verder leezen of niet.
 
 **Vette** en *cursieve* woorden zorgen voor verduidelijking van de besproken begrippen. *Korte alinea's* zijn er om de tekst voor de lezer behapbaar te maken. Terwijl *duidelijke quotes* de lezer uitnodigd om verder te lezen.
 
