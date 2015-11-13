@@ -4,7 +4,7 @@ question: What should a good blog post have?
 How do you attract your readers and how do you keep them close? More and more there is a cry for *'high quality content'*. And that is good, but what does this mean exactly? After learning these few key concepts, chances are your blog post is read and shared as well.
 
 ## Originality & authenticity
-Good content is original. [Content Farms](https://en.wikipedia.org/wiki/Content_farm) are no longer wanted in these times. Search enginges, such as Google, are getting better and better at detecting these 'clickbate sites' and these sites are not recieved well. Original content is sure to be shared more often. Even more so, why would you say something when it's not worth saying?
+Good content is original. [Content Farms](https://en.wikipedia.org/wiki/Content_farm) are no longer wanted in these times. Search enginges, such as Google, are getting better and better at detecting these 'clickbait sites' and these sites are not recieved well. Original content is sure to be shared more often. Even more so, why would you say something when it's not worth saying?
 
 > You share content because you want to achieve a certain goal. You want it to be read, and you want the reader to learn something from it.
 
@@ -20,10 +20,11 @@ Readers are looking for answers and want to find them in the easiest, fastes way
 * Short paragraphs 
 * Clear quotes 
 
-A strong and remarkable *title* is important to attract your reader. A good title should activate, make curious and excite. Often enough with newspaper articles—also the digital ones—the title is the key component in attracting the reader.  
-If you have lured your whith a fantastic title, he often decides whether to keep on reading or not based on the first few sentences. This brings us to the intro of the text and the importance hereof. 
+A strong and remarkable *title* is important to attract your reader. A good title should activate, interest and excite. Often enough with newspaper articles—also the digital ones—the title is the key component in attracting the reader.
 
-> If the title and image are the bate, than the intro is the line that has to be strong enough to pull the reader in. 
+If you have lured your reader with a fantastic title, he often decides whether to keep on reading or not based on the first few sentences. This brings us to the intro of the text and the importance hereof. 
+
+> If the title and image are the bait, the intro is the line that has to be strong enough to pull the reader in. 
 
 The *intro* is the first paragraph and supports a well chosen title. With this beginning the reader is either triggerd and will stay, or not. Readers will scan the intro and decide in just a matter of seconds whether they want to keep on reading.
 
