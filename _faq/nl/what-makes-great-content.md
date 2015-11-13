@@ -8,7 +8,7 @@ Goede content is origineel. [Content Farms](https://en.wikipedia.org/wiki/Conten
 
 Behalve de originaliteit maakt goede kwaliteit content een bepaalde belofte aan de geloofwaardigheid van de tekst. Als gebruik wordt gemaakt van bronnen moeten deze autoriteit uitstralen. Goede bronnen zijn cruciaal en zorgen ervoor dat de tekst serieus genomen wordt.   
 
-## Vang de lezer en laat hem niet meer los
+## Vang de lezer en laat niet meer los
 Lezers zoeken antwoorden en willen deze steeds sneller vinden. Een goed gestructureerde tekst zorgt voor houvast en leidt de lezer op een goede, snelle manier naar wat zij uit de tekst willen halen. Een overzichtelijke tekst bestaat uit:
 
 * De titel
