@@ -4,9 +4,9 @@
 
 Since the core of Content.supply is located in Amsterdam it's logic that we start our market research here. Our first campaign is going to be released in the Netherlands. There are a couple of answers that we have to find in order to know who our competitors and prospects are. There are a bunch of things we could try.  
 
-* We have to understand who our competitors are in order to know how we have to position ourselves on the web. By tracking (as in track their web traffic and analyse their business) our biggest competitors we create a better understanding of the market and oppertunities. Wat are their strengts and weaknesess (SWOT), and why are we better. 
+* We have to understand who our competitors are in order to know how we have to position ourselves on the web. By tracking (as in track their web traffic and analyse their business) our biggest competitors we create a better understanding of the market and oppertunities. Wat are their strengts and weaknesess (SWOT), and why are we better. There are different tools to 'spy' on competitors websites.
 
-* To understand which google keywords our prospects use (which are popular), we know where to position ourselves. Where are our prospects looking for?   
+* To understand which google keywords our prospects use (which are popular), we know where to position ourselves. Where are our prospects looking for? Different tools for example [Google Trends](https://www.google.nl/trends/) can be used to achive this goal.   
 
 ## Competition by google search results
 
