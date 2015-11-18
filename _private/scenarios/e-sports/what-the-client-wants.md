@@ -21,6 +21,8 @@ subject: E-Sports news for anbnorth.news
 > 
 > Sophia Lee
 > Coördinator News & Sports, ANB North
+>
+> <img src="http://i.imgur.com/OHFrTqn.png?1)" width="100">
 
 ```
 from: helpdesk@content.supply
