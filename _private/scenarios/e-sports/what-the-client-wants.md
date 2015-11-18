@@ -20,6 +20,7 @@ subject: E-Sports news for anbnorth.news
 > Thanks,
 > 
 > Sophia Lee
+>
 > Coördinator News & Sports, ANB North
 >
 > <img src="http://i.imgur.com/OHFrTqn.png?1)" width="100">
@@ -43,5 +44,7 @@ subject: Re: E-Sports news for anbnorth.news
 > On behalf of the team,
 > 
 > Boris van Hoyema
+>
 > Product developer, content.supply
+>
 > Managing Director and Founder, New Atoms
