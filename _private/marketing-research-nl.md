@@ -6,13 +6,16 @@ Since the core of Content.supply is located in Amsterdam it's logic that we star
 
 * We have to understand who our competitors are in order to know how we have to position ourselves on the web. By tracking (as in track their web traffic and analyse their business) our biggest competitors we create a better understanding of the market and oppertunities. Wat are their strengts and weaknesess (SWOT), and why are we better. 
 
-* To understand which google keywords our prospects use (which are popular), we know where to position ourselves.  
+* To understand which google keywords our prospects use (which are popular), we know where to position ourselves. Where are our prospects looking for?   
 
 ## Competition by google search results
 
-Here, competition is scaled under google keywords that are affiliated with content.supply. Then, compatitors are descriped with a SWOT (Strengts, Weaknesess, Opportunities, analyses). Taken in to account that search results are from a Dutch IP address. 
+Here, competition is scaled under google keywords that are affiliated with content.supply. Then, compatitors are descriped with a SWOT (Strengts, Weaknesess, Opportunities, analyses). Taken in to account that search results are from a Dutch IP address. Country is set on 'Nederland'. Only the first Google page is treated. 
 
-### Custom content
+### 'Custom content'
+Note: when doing statistics the keyword 'custom content' is very popular with fans of the game The Sims so data might be coloured!
 
 * [G+J Media](http://www.genj.nl/custom-content):
-
+* [Webwereld](http://webwereld.nl/blog/81902-redactieblog-onafhankelijkheid-en-custom-content) to [ContentWorks](http://contentworks.nl/):
+* [Butler](http://butler-cms.com/snappons/custom-content):
+* 
