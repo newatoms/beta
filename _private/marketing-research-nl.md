@@ -18,6 +18,6 @@ Note: when doing statistics the keyword 'custom content' is very popular with fa
 * [G+J Media](http://www.genj.nl/custom-content):
 	* Strenghts:
 	* Weaknesess:
-* [Webwereld](http://webwereld.nl/blog/81902-redactieblog-onafhankelijkheid-en-custom-content) to [ContentWorks](http://contentworks.nl/):
+* [ContentWorks](http://contentworks.nl/) through [Webwereld blog](http://webwereld.nl/blog/81902-redactieblog-onafhankelijkheid-en-custom-content):
 * [Butler](http://butler-cms.com/snappons/custom-content):
 * 
