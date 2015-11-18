@@ -1,4 +1,4 @@
-# Marketing Research (The Netherlands)
+# Market Research (The Netherlands)
 
 [Content.supply](http://content.supply/nl)
 
