@@ -3,6 +3,8 @@ layout: introduction
 order: 0
 ---
 
+You pick, we make, you approve, we post.
+
 Get great custom content for your blog with ease.
 
 Whether you want to tell the story of your company or connect to your target audience through posts they will love, content.supply can provide the content you need.
