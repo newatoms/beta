@@ -35,9 +35,9 @@ subject: Re: E-Sports news for anbnorth.news
 > 
 > We could certainly do this, and are already excited, this is a subject near and dear to our heart. It's not a problem to find a link to your region, E-Sports are everywhere and we'll find some great relevant stories.
 > 
-> As for our subscriptions, if you want to get something on a weekly basis the cost will come down to €1999 per month, of course you decide what to publish and if you do not like our service we offer a rolling 30-day money back > satisfaction guarantee.
+> As for our subscriptions, if you want to get something on a weekly basis the cost will come down to €1999 per month, of course you decide what to publish and if you do not like our service we offer a rolling 30-day money back satisfaction guarantee.
 > 
-> You can get started by going to content.supply/signup, as soon as you've authenticated with your Google account you  can set up your account. When logged in you can open up the chat window (on the right of the page) and we can help  you configuring everything.
+> You can get started by going to content.supply/signup, as soon as you've authenticated with your Google account you can set up your account. When logged in you can open up the chat window (on the right of the page) and we can help  you configuring everything.
 > 
 > Thank you very much and we look forward to working together,
 > 
