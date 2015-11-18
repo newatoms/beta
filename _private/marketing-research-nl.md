@@ -19,9 +19,6 @@ Since the core of Content.supply is located in Amsterdam it's logic that we star
 
 [Lincelot](https://www.lincelot.com/content-marketing-cijfers-b2b-b2c/) has done quite some research about B2B and B2C content marketing. A lot of numbers but unfortunately all research is about North-America or globally. 
 
-## Found competition
-
-
 ## Competition by google search results
 
 Here, competition is scaled under google keywords that are affiliated with content.supply. Then, compatitors are descriped with a SWOT (Strengts, Weaknesess, Opportunities, analyses). Taken in to account that search results are from a Dutch IP address. Country is set on 'Nederland'. Only the first Google page is treated. 
@@ -36,10 +33,15 @@ Note: when doing statistics the keyword 'custom content' is very popular with fa
 * [Butler](http://butler-cms.com/snappons/custom-content):
 
 ### 'Content op maat'
+* [Text Broker](https://www.textbroker.nl/waarom-content-marketing)
 
 ### 'Laat mijn blog schrijven'
+* [Blog Express](http://blogexpress.nl/) (was an google ad)
 * [SEO Zwolle](http://www.seozwolle.nl/)
 * [Contany](http://contany.nl/) say they write content for hundreds of blogs.
 * [Schrijven en Schrappen](http://www.schrijven-en-schrappen.nl/)
 * [Writeaholic](http://www.writeaholic.nl/)
 * [Ahcommunicatie](http://www.ahcommunicatie.nl/)
+
+### Content voor blog
+[Stan and Stacy](http://stanandstacy.com/)
