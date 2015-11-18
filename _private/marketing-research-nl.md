@@ -17,7 +17,10 @@ Since the core of Content.supply is located in Amsterdam it's logic that we star
 
 * 18% of the total marketing budget is spend on content marketing.
 
-[Lincelot](https://www.lincelot.com/content-marketing-cijfers-b2b-b2c/) has done quite some research about B2B and B2C content marketing. 
+[Lincelot](https://www.lincelot.com/content-marketing-cijfers-b2b-b2c/) has done quite some research about B2B and B2C content marketing. A lot of numbers but unfortunately all research is about North-America or globally. 
+
+## Found competition
+
 
 ## Competition by google search results
 
@@ -34,3 +37,9 @@ Note: when doing statistics the keyword 'custom content' is very popular with fa
 
 ### 'Content op maat'
 
+### 'Laat mijn blog schrijven'
+* [SEO Zwolle](http://www.seozwolle.nl/)
+* [Contany](http://contany.nl/) say they write content for hundreds of blogs.
+* [Schrijven en Schrappen](http://www.schrijven-en-schrappen.nl/)
+* [Writeaholic](http://www.writeaholic.nl/)
+* [Ahcommunicatie](http://www.ahcommunicatie.nl/)
