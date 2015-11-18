@@ -16,6 +16,8 @@ Here, competition is scaled under google keywords that are affiliated with conte
 Note: when doing statistics the keyword 'custom content' is very popular with fans of the game The Sims so data might be coloured!
 
 * [G+J Media](http://www.genj.nl/custom-content):
+	* Strenghts:
+	* Weaknesess:
 * [Webwereld](http://webwereld.nl/blog/81902-redactieblog-onafhankelijkheid-en-custom-content) to [ContentWorks](http://contentworks.nl/):
 * [Butler](http://butler-cms.com/snappons/custom-content):
 * 
