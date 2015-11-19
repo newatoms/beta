@@ -67,7 +67,7 @@ _In less than 140 characters. We'd love to help you with this, just open the con
 - [ ] Activate the user to do something.
 - [ ] Engage the user with you.
 
-# Output media (English)
+# Posting to media (English)
 _Content will never be posted without your approval_
 
 ### Wordpress coupled
