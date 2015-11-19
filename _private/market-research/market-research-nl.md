@@ -27,9 +27,17 @@ Interesting:
 * Publishes content: **24%** daily; **34%** several times a week; **7%** monthly or less.
 * Significant amount of businesses that want to produce more content want to do this with the same amount of marketing budget.
 * Expected expenditure content marketing budget 2016: **39%** increase **37%** same and only **3%** decrease. 
+* Blogging on own website are the most popular form of content marketing (no known %).
+* Fysical events, infographics and video is seen as most effective (no known %).* 
+* **65%** sees Effective and high quality content as their biggest challenge.
+* Promoted posts (**45%**) and social ads (**32%**) i seen as most effective way of advertising.
+* In **34%** of the cases content goes through a dedicated editor in chief. **40%** of the cases content is checked by a colleague.
+* Most content is made in 2 hours (**40%**), 2-4 hours (**35%**)
+* **69%** has an in-house editorial team while **
 	    
 [Lincelot](https://www.lincelot.com/content-marketing-cijfers-b2b-b2c/) has done quite some research about B2B and B2C content marketing. A lot of numbers but unfortunately all research is about North-America or globally. 
 
+[Hubspot](http://www.stateofinbound.com/) interesting report (American).
 ## Competition by google search results
 
 Here, competition is scaled under google keywords that are affiliated with content.supply. Then, compatitors are descriped with a SWOT (Strengts, Weaknesess, Opportunities, analyses). Taken in to account that search results are from a Dutch IP address. Country is set on 'Nederland'. Only the first Google page is treated. 
