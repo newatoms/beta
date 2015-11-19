@@ -67,6 +67,12 @@ _In less than 140 characters. We'd love to help you with this, just open the con
 - [ ] Activate the user to do something.
 - [ ] Engage the user with you.
 
+### In what environment does the content live
+
+- [ ] On its own site.
+- [x] On our site in between other content.
+- [ ] On other media.
+
 # Posting to media (English)
 _Content will never be posted without your approval_
 
