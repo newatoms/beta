@@ -45,10 +45,3 @@ Most important is that the images enriche the article in the sense that they ser
 
 Our content developers have aquired all these qualities in their own practice. Besides that, each one of are team member contributes to every post made, which makes sure that all these diverse qualities are brought together in one big whole, which makes for the best content possible.
   
-## Choices feature images (with right cc):
-
-* [Vissers boot](https://www.flickr.com/photos/mr_t_in_dc/3157822073)
-* [Visnet 1](https://www.pexels.com/photo/fishing-net-4004/)
-* [Visnet 2](https://www.pexels.com/photo/fishing-village-port-net-4006/)
-* [Vissers](https://en.wikipedia.org/wiki/Fishing#/media/File:Stilts_fishermen_Sri_Lanka_02.jpg)
-* [School vissen](https://www.flickr.com/photos/michaelmalz/4688274739/in/photostream/) 
