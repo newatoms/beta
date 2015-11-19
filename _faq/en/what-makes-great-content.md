@@ -45,4 +45,5 @@ Photo's and illustrations together with the right title make the reader curious 
 Most important is that the images enriche the article in the sense that they serve the written piece. Images should create a certain amount of context. A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
 
 Our content developers have aquired all these qualities in their own practice. Besides that, each one of are team member contributes to every post made, which makes sure that all these diverse qualities are brought together in one big whole, which makes for the best content possible.
-  
+
+*Photo: Norwegian Fishing Boat | Credits: [Mr.TinDC](https://www.flickr.com/photos/mr_t_in_dc/3157822073) ([CC 2.0](https://creativecommons.org/licenses/by-nd/2.0/))*   
