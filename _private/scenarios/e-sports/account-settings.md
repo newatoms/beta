@@ -49,7 +49,7 @@ _In less than 500 characters_
 # Topics
 
 ### Describe what the content should be about
-_In less than 140 characters_
+_In less than 140 characters. We'd love to help you with this, just open the conversation_
 
     The blog is about the upcoming world of competitive video gaming. With extra attention for the North region.
 
