@@ -17,8 +17,17 @@ Since the core of Content.supply is located in Amsterdam it's logic that we star
 
 * 18% of the total marketing budget is spend on content marketing.
 
-[Recent market research by o.a. Content.corp](https://github.com/newatoms/contentsupply/blob/feature/_private/marketing-research-nl/_private/market-research/content-onderzoek-nl.pdf): Interesting peer group with percentages and it shows growth for quality content marketing. Although percentages and no hard € cash data... 
+[Recent market research by o.a. Content.corp](https://github.com/newatoms/contentsupply/blob/feature/_private/marketing-research-nl/_private/market-research/content-onderzoek-nl.pdf): Interesting peer group with percentages and it shows growth for content marketing. Although percentages and no hard € cash data...
+1223 respondents were asked. All of which working in marketing, advertising or PR. It was taken in May 2015.   
 
+Interesting:
+
+* **73%** of businesses that didn't have a *content strategy* in 2015 want's to work with one in 2016.
+* **50%** of the organisations say they don't know what effective content is.
+* Publishes content: **24%** daily; **34%** several times a week; **7%** monthly or less.
+* Significant amount of businesses that want to produce more content want to do this with the same amount of marketing budget.
+* Expected expenditure content marketing budget 2016: **39%** increase **37%** same and only **3%** decrease. 
+	    
 [Lincelot](https://www.lincelot.com/content-marketing-cijfers-b2b-b2c/) has done quite some research about B2B and B2C content marketing. A lot of numbers but unfortunately all research is about North-America or globally. 
 
 ## Competition by google search results
