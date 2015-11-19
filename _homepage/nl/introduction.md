@@ -3,7 +3,9 @@ layout: introduction
 order: 0
 ---
 
-Gepersonaliseerde content van hoge kwaliteit voor jouw blog.
+Jij kiest, wij maken, jij keurt, wij posten.
+
+Op maat gemaakte content van hoge kwaliteit voor jouw blog.
 
 Of je nu het verhaal van je bedrijf wil vertellen of de binding met je doelgroep wil vergroten door middel van posts die ze fantastisch zullen vinden, content.supply kan je voorzien van de content die je nodig hebt.
 
