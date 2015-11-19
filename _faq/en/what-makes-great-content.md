@@ -1,6 +1,7 @@
 ---
 question: What should a good blog post be?
 ---
+![Fishing boat](/images/fishing-boat-medium.jpg)
 
 How do you attract your readers and how do you keep them close? More and more there is a cry for *'high quality content'*. And that is good, but what does this mean exactly? After learning these few key concepts, chances are your blog post is read and shared as well.
 
