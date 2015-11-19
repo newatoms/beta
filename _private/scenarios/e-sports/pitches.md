@@ -1,8 +1,8 @@
 # Pitches for E-Sports
 
-- An interview with Brian Peele, competitive League of Legends player from Whitepoole who is on the famous team [ViPür]. How competitive gaming changed his life.
+- An interview with Brian Peele, competitive Starcraft player from Whitepoole who is on the famous team [ViPür]. How competitive gaming changed his life.
 
-- World Championships Series Starcraft, the Global finals this Saturday in Incheon, Korea this year, the winner takes home 1.2 million pounds and it's watched by X million people. How did the Championships go? Who played and how come almost all of them are Korean?
+- League of Legends Season 3 World Championship, the Global finals this Saturday in Berlin, Germany this year, the winner takes home 1 million dollar and it's watched by 32 million people. How did the Championships go? Who played?
 
 - Which competitive video gaming matches are the most exciting matches to watch live this month and why.
 
