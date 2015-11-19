@@ -1,6 +1,7 @@
 ---
 question: Waar moet een goede blogpost aan voldoen?
 ---
+![Fishing boat](/images/fishing-boat-medium.jpg)
 
 Hoe haal je de lezers binnen en hoe laat je ze niet meer los? Steeds meer is er de roep naar *'hoge kwaliteit content'*. Prima, maar wat betekent dit eigenlijk? Na toepassing van deze onderstaande tips is de kans groot dat jouw blogpost gelezen en gedeeld wordt.   
 
@@ -41,14 +42,3 @@ De mens is een visueel wezen. Onderzoek door [Skyword](http://www.skyword.com/co
 Belangrijk is, dat afbeeldingen alleen iets toevoegen als zij dienend zijn voor het geschreven stuk. De afbeeldingen moeten een zekere mate van context creëren. Wat, met het oog op verdere toevoegingen van multimedia, een goede leuze is, is niet "form follows content', maar "content follows form".
   
 Bij onze content developers stromen al deze vaardigheden door de aderen. Daarnaast werkt ieder van ons aan elke post, waardoor de gevarïeerde kwaliteiten van elke afzonderlijke content developer samenkomen om zo de best mogelijke content te creëren. 
-
-## Keuze feature afbeelding (met juiste cc):
-
-* [Vissers boot](https://www.flickr.com/photos/mr_t_in_dc/3157822073)
-* [Visnet 1](https://www.pexels.com/photo/fishing-net-4004/)
-* [Visnet 2](https://www.pexels.com/photo/fishing-village-port-net-4006/)
-* [Vissers](https://en.wikipedia.org/wiki/Fishing#/media/File:Stilts_fishermen_Sri_Lanka_02.jpg)
-* [School vissen](https://www.flickr.com/photos/michaelmalz/4688274739/in/photostream/) 
-
-
-
