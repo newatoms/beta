@@ -42,3 +42,5 @@ De mens is een visueel wezen. Onderzoek door [Skyword](http://www.skyword.com/co
 Belangrijk is, dat afbeeldingen alleen iets toevoegen als zij dienend zijn voor het geschreven stuk. De afbeeldingen moeten een zekere mate van context creëren. Wat, met het oog op verdere toevoegingen van multimedia, een goede leuze is, is niet "form follows content', maar "content follows form".
   
 Bij onze content developers stromen al deze vaardigheden door de aderen. Daarnaast werkt ieder van ons aan elke post, waardoor de gevarïeerde kwaliteiten van elke afzonderlijke content developer samenkomen om zo de best mogelijke content te creëren. 
+
+*Photo: Norwegian Fishing Boat | Credits: [Mr.TinDC](https://www.flickr.com/photos/mr_t_in_dc/3157822073) ([CC 2.0](https://creativecommons.org/licenses/by-nd/2.0/))*   
