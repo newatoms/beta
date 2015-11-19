@@ -13,7 +13,11 @@ Since the core of Content.supply is located in Amsterdam it's logic that we star
 * To understand which google keywords our prospects use (which are popular), we know where to position ourselves. Where are our prospects looking for? Different tools for example [Google Trends](https://www.google.nl/trends/) can be used to achive this goal.   
 
 ## Market share and growth
+[Lewis PR](http://blog.lewispr.nl/content-marketing-is-here-to-stay/) did research togheter with [multiscope](http://www.multiscope.nl/) on the marketing budget in the Netherlands. The following numbers consist of data from 357 marketers and their plans for **2013**. 
 
+* 18% of the total marketing budget is spend on content marketing.
+
+[Lincelot](https://www.lincelot.com/content-marketing-cijfers-b2b-b2c/) has done quite some research about B2B and B2C content marketing. A lot of numbers but unfortunately all research is about North-America or globally. 
 
 ## Competition by google search results
 
@@ -29,4 +33,15 @@ Note: when doing statistics the keyword 'custom content' is very popular with fa
 * [Butler](http://butler-cms.com/snappons/custom-content):
 
 ### 'Content op maat'
+* [Text Broker](https://www.textbroker.nl/waarom-content-marketing)
 
+### 'Laat mijn blog schrijven'
+* [Blog Express](http://blogexpress.nl/) (was an google ad)
+* [SEO Zwolle](http://www.seozwolle.nl/)
+* [Contany](http://contany.nl/) say they write content for hundreds of blogs.
+* [Schrijven en Schrappen](http://www.schrijven-en-schrappen.nl/)
+* [Writeaholic](http://www.writeaholic.nl/)
+* [Ahcommunicatie](http://www.ahcommunicatie.nl/)
+
+### Content voor blog
+[Stan and Stacy](http://stanandstacy.com/)
