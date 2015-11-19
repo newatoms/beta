@@ -25,7 +25,6 @@ ANB North
 - [x] 65+
 
 #### Tone of voice
-- [ ] Informal
 - [ ] Professional
 - [x] Formal
 - [ ] Playful
