@@ -33,7 +33,8 @@ Interesting:
 * Promoted posts (**45%**) and social ads (**32%**) i seen as most effective way of advertising.
 * In **34%** of the cases content goes through a dedicated editor in chief. **40%** of the cases content is checked by a colleague.
 * Most content is made in 2 hours (**40%**), 2-4 hours (**35%**)
-* **69%** has an in-house editorial team while **
+* **69%** has an in-house editorial team while **28** works with a mix of own people and external experts.
+
 	    
 [Lincelot](https://www.lincelot.com/content-marketing-cijfers-b2b-b2c/) has done quite some research about B2B and B2C content marketing. A lot of numbers but unfortunately all research is about North-America or globally. 
 
