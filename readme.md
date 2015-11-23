@@ -3,21 +3,25 @@ This is the [content.supply](http://content.supply) website rendered out using G
 
 ## Installation steps
 
+The site runs on [GitHub-Pages](https://pages.github.com/), so in order to locally see what the server is going to render you need the same software installed as on the server.
+
+GitHub-Pages runs their own modified version of static site generator named [Jekyll](http://jekyllrb.com/docs/github-pages/) named [Pages-Gem](https://github.com/github/pages-gem).
+
 Open a command line interface (e.g. Terminal.app on OSX) and cd to the base directory of this application. Then, run:
 
-	$ sudo gem install jekyll
+	gem install github-pages
 
-Oops, that's it! Amazing huh?
+<img src="https://octodex.github.com/images/labtocat.png" width="100">
 
 ## Run locally
 
 Open a command line interface (e.g. Terminal.app on OSX) and cd to the base directory of this application. Then, run:
 
-	$ bundle exec jekyll serve --watch
+	$ jekyll serve
 
 The web application will be running within a second or two on http://localhost:4000. If you prefer to run the application on a custom http port, use the -P flag:
 
-	$ bundle exec jekyll serve --watch -P 8000
+	$ jekyll serve --watch -P 8000
 
 ## Add a section to the homepage
 
