@@ -6,6 +6,8 @@ In this video we want to give prospects and investors a short pitch. We want to 
 ### Start
 Content supplied by content.supply
 
+*Prototype*
+
 *Op maat gemaakte content van hoge kwaliteit voor jouw blog.*    
 *Jij kiest | wij maken | jij keurt | wij posten*
 
@@ -15,9 +17,9 @@ Of je nu het verhaal van je bedrijf wil vertellen, extra journalistieke verhalen
 Van journalistieke kwaliteit en op maat gemaakt door een team van specialisten, gefocust op maximale impact. Ons team is samengesteld uit professionals vanuit allerlei disciplines, met elk hun eigen kwaliteiten die het geheel versterken. Samen creëren we content van idee tot publicatie. 
 
 ### Hoe werkt het?
-Met een handige app kan jij zowel op kantoor achter je computer als onderweg op je smartphone ons team aansturen. Jij kan als eindredacteur optreden, de rest kan je gerust aan ons overlaten.
+Met een handige app kan jij zowel op kantoor achter je computer als onderweg op je smartphone ons team aansturen. Jij kan met minimale inspanningen als eindredacteur optreden, de rest kan je gerust aan ons overlaten.
 
-1. Subscribe en vertel ons wat jij wil bereiken met de content, uploadt bedrijfshuisstijlregels als je die hebt en zorg voor wat extra informatie zodat onze ideeën-machine kan gaan draaien.
+1. Subscribe en vertel ons wat jij wil bereiken met de content, uploadt huisstijlregels als je die hebt en zorg voor wat extra informatie zodat onze ideeën-machine kan gaan draaien.
 2. Ons team suggereert pitches voor posts, jij kiest welke er gemaakt worden. Vervolgens begint ons team met het produceren en leveren van content met tekst en afbeeldingen. 
 3. Na een eventuele eindredactie publiceren we de post op jouw platform naar keuze en zorgen we voor promotie op je Twitter- en Facebookpagina.
 4. Nu begint het weer van voor af aan en kan je weer uit verschillende pitches kiezen.
@@ -31,4 +33,4 @@ Het is alsof je een diverse en gespecialiseerde interne redactie ter beschikking
 ### Afsluiting
 Content supplied by content.supply
 
-Schrijf je in op content.supply zonder ook maar ergens aan vast te zitten. 
+Schrijf je in op content.supply zonder ook maar ergens aan vast te zitten.  
