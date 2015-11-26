@@ -1,6 +1,6 @@
 # Hoe ziet de Nederlandse content markt er uit?
 
-![Network graph](/images/network-graphic.png)
+![Network graph](/images/take-off.jpg)
 
 De campagne van content.supply zal beginnen in Nederland. In Amsterdam om precies te zijn, waar de meeste van ons wonen. Er zijn een aantal antwoorden die we willen vinden om de markt van *custom content* in kaart te brengen. Door te weten wie onze concurrenten en onze toekomstige klanten zullen zijn doen wij onderzoek naar deze markt. Bij content.supply geloven wij in een zekere mate van transparantie. Deze post wordt continu ververst en aangevuld met nieuwe ontwikkelingen. Dit onderzoek begint met een aantal vragen.     
 
