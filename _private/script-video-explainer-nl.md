@@ -4,12 +4,12 @@ In this video we want to give prospects and investors a short pitch. We want to 
 ## Script proposal
 
 ### Start
-Content supplied by content.supply
+Content supplied by content.supply (beta)
 
 *Prototype*
 
-*Op maat gemaakte content van hoge kwaliteit voor jouw blog.*    
-*Jij kiest | wij maken | jij keurt | wij posten*
+Op maat gemaakte content van hoge kwaliteit voor jouw blog.   
+Jij kiest, wij maken, jij keurt, wij posten
 
 ### Intro
 Of je nu het verhaal van je bedrijf wil vertellen, extra journalistieke verhalen wilt uitproberen of de binding met je doelgroep wil vergroten door middel van posts die ze fantastisch zullen vinden, content.supply kan jou voorzien van de content die je nodig hebt.
@@ -25,7 +25,7 @@ Met onze handige app kan jij zowel op kantoor achter je computer als onderweg op
 3. Na een eventuele eindredactie publiceren we de post op jouw platform naar keuze en zorgen we voor promotie op je Twitter- en Facebookpagina.
 4. Nu begint het weer van voor af aan en kan je weer uit verschillende pitches kiezen.
 
-*Jij kiest, wij maken, jij keurt, wij posten*
+Jij kiest, wij maken, jij keurt, wij posten
 
 Het is alsof je een diverse en gespecialiseerde interne redactie ter beschikking hebt, zonder al het gedoe.
 
