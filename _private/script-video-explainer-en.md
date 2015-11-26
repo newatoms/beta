@@ -6,6 +6,8 @@ In this video we want to give prospects and investors a short pitch. We want to 
 ### Start
 Content supplied by content.supply (Beta)
 
+*Prototype*
+
 Get great custom content for your blog with ease.
 You pick, we make, you approve, we post.
 
