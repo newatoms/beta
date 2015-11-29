@@ -9,7 +9,7 @@ Content supplied by content.supply (beta)
 *Prototype*
 
 Op maat gemaakte content van hoge kwaliteit voor jouw blog.   
-Jij kiest, wij maken, jij keurt, wij posten
+Jij kiest, wij maken, jij keurt, wij posten.
 
 ### Intro
 Of je nu het verhaal van je bedrijf wil vertellen, extra journalistieke verhalen wilt uitproberen of de binding met je doelgroep wil vergroten door middel van posts die ze fantastisch zullen vinden, content.supply kan jou voorzien van de content die je nodig hebt.
