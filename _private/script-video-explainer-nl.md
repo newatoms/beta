@@ -32,4 +32,4 @@ Het is alsof je een diverse en gespecialiseerde interne redactie ter beschikking
 ### Afsluiting
 Content supplied by content.supply
 
-Schrijf je in op content.supply zonder ook maar ergens aan vast te zitten.  
+Meldt je aan op content.supply zonder ook maar ergens aan vast te zitten.  
