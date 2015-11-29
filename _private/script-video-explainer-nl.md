@@ -20,7 +20,7 @@ Van journalistieke kwaliteit en op maat gemaakt door een team van specialisten, 
 ### Hoe werkt het?
 Met onze handige app kan jij zowel op kantoor achter je computer als onderweg op je smartphone ons team aansturen. Je kan met minimale inspanningen als eindredacteur optreden, de rest kan je gerust aan ons overlaten.
 
-1. Subscribe en vertel ons wat jij wil bereiken met de content, uploadt huisstijlregels als je die hebt en zorg voor wat extra informatie zodat onze ideeën-machine kan gaan draaien.
+1. Meld je aan en vertel ons wat je wil bereiken met de content en wat jou eventuele huisregels zijn. Onze ideeën-machine kan dan gelijk gaan draaien.
 2. Ons team suggereert pitches voor posts, jij kiest welke er gemaakt worden. Vervolgens begint ons team met het produceren en leveren van content met tekst en afbeeldingen. 
 3. Na een eventuele eindredactie publiceren we de post op jouw platform naar keuze en zorgen we voor promotie op je Twitter- en Facebookpagina.
 4. Nu begint het weer van voor af aan en kan je weer uit verschillende pitches kiezen.
