@@ -1,35 +1,19 @@
-# Text and ideas for video
-In this video we want to give prospects and investors a short pitch. We want to tell what content.supply is, what our unique selling points are and how it works. 
+# Text script video (nl)
 
-## Script proposal
+Jij wil hoge kwaliteit content voor jouw blog.
 
-### Start
-Content supplied by content.supply (beta)
+Dan zou je natuurlijk opzoek kunnen gaan naar een freelancer of misschien een redactie willen opzetten.
 
-*Prototype*
+Dit is heel veel gedoe en is ook behoorlijk prijzig.
 
-Op maat gemaakte content van hoge kwaliteit voor jouw blog.   
+Wij bieden op maat gemaakte journalistiek door een team dat zich richt op een zo groot mogelijke impact
+
+In tegenstelling to traditionele redacties, bestaan onze teams uit proffesionals vanuit meerdere disciplines en met verschillende vaardigheden, zij werken samen aan de content, van idee tot publicatie. 
+
+Wij hebben een app gebouwd waarmee jij volledig wordt betrokken bij elke stap van het proces, zonder gedoe.
+
+Wij pitchen ideeën voor fantastische posts, jij beslist welke pitches er gemaakt  worden en wanneer ze klaar zijn, daarna posten we het ook nog voor je.
+
 Jij kiest, wij maken, jij keurt, wij posten.
 
-### Intro
-Of je nu het verhaal van je bedrijf wil vertellen, extra journalistieke verhalen wilt uitproberen of de binding met je doelgroep wil vergroten door middel van posts die ze fantastisch zullen vinden, content.supply kan jou voorzien van de content die je nodig hebt.
-
-### Team
-Van journalistieke kwaliteit en op maat gemaakt door een team van specialisten, gefocust op maximale impact. Ons team is samengesteld uit professionals vanuit allerlei disciplines, met elk hun eigen kwaliteiten die het geheel versterken. Samen creëren we content van idee tot publicatie. 
-
-### Hoe werkt het?
-Met onze handige app kan jij zowel op kantoor achter je computer als onderweg op je smartphone ons team aansturen. Je kan met minimale inspanningen als eindredacteur optreden, de rest kan je gerust aan ons overlaten.
-
-1. Meld je aan en vertel ons wat je wil bereiken met de content en wat jou eventuele huisregels zijn. Onze ideeën-machine kan dan gelijk gaan draaien.
-2. Ons team suggereert pitches voor posts, jij kiest welke er gemaakt worden. Vervolgens begint ons team met het produceren en leveren van content met tekst en afbeeldingen. 
-3. Na een eventuele eindredactie publiceren we de post op jouw platform naar keuze en zorgen we voor promotie op je Twitter- en Facebookpagina.
-4. Nu begint het weer van voor af aan en kan je weer uit verschillende pitches kiezen.
-
-Jij kiest, wij maken, jij keurt, wij posten
-
-Het is alsof je een diverse en gespecialiseerde interne redactie ter beschikking hebt, zonder al het gedoe.
-
-### Afsluiting
-Content supplied by content.supply
-
-Meldt je aan op content.supply zonder ook maar ergens aan vast te zitten.  
+Content suplied by content.supply  
