@@ -1,6 +1,6 @@
 # Text script video (nl)
 
-Jij wil hoge kwaliteit content voor jouw blog.
+Jij wilt hoge kwaliteit content voor jouw blog.
 
 Dan zou je natuurlijk opzoek kunnen gaan naar een freelancer of misschien een redactie willen opzetten.
 
@@ -16,4 +16,4 @@ Wij pitchen ideeën voor fantastische posts, jij beslist welke pitches er gemaak
 
 Jij kiest, wij maken, jij keurt, wij posten.
 
-Content suplied by content.supply  
+Content supplied by content.supply  
