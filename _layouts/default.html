@@ -32,7 +32,7 @@
   body>header {
     background-color: #4CAF50;
     display: block;
-    padding: 15vh 5vw 0;
+    /*padding: 15vh 5vw 0;*/
     color: white;
     box-shadow: 0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
     z-index: 1;
@@ -45,6 +45,7 @@
     border-bottom: 0;
     margin-bottom: 10vh;
   }
+
   body>header nav {
     font-size: 150%;
     padding: 0.5rem;
@@ -57,27 +58,53 @@
     display: inline-block;
     padding: 0.5rem;
   }
+  body>header iframe {
+    width: 100%;
+    height: 80vh;
+  }
+  body>header p.byline {
+    padding: 20vh 2.5vw 0;
+    display: block;
+    font-size: 33px;
+    font-weight: 400;
+    margin: 0;
+  }
   @media (max-width: 430px) {
-    body>header {
+    body>header p.byline {
       padding: 20vh 2.5vw 0;
     }
     body>header h1 {
       font-size: 3.75em;
     }
+    body>header iframe {
+      width: 100%;
+      height: 25vh;
+    }
   }
   @media (min-width: 430px) and (max-width: 830px) {
-    body>header {
+    body>header p.byline {
       padding: 10vh 2.5vw 0;
     }
     body>header h1 {
       font-size: 3.75em;
     }
+    body>header iframe {
+      width: 100%;
+      height: 40vh;
+    }
   }
-  body>header p.byline {
-    display: block;
-    font-size: 33px;
-    font-weight: 400;
-    margin: 0;
+  @media (min-width: 830px) and (max-width: 1100px) {
+    body>header iframe {
+      width: 100%;
+      height: 60vh;
+    }
+  }
+  @media (min-width: 1500px) {
+    body>header iframe {
+      width: 1500px;
+      height: 845px;
+      max-height: 80vh;
+    }
   }
   @media (max-width: 630px) {
     body>header p.byline {
@@ -87,7 +114,6 @@
   body>header>h1>a>span {
     display: inline-block;
   }
-
   body>footer, body>header, body>nav {
     text-align: center;
   }
@@ -759,8 +785,12 @@
   <body>
 
   <header>
+    {% if page.language == "en" and page.title == "Home" %}
+    <iframe src="https://www.youtube.com/embed/yHHUM_iL_l0" frameborder="0" allowfullscreen></iframe>
+    {% else %}
     <p class="byline">Content supplied by</p>
     <h1><a href="http://content.supply"><span>content</span><span>.supply</span></a></h1>
+    {% endif %}
     <nav>
       <ul>
       {% assign pages = site.pages | where:"language", page.language | sort:"order" %}
