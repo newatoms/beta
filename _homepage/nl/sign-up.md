@@ -3,8 +3,6 @@ layout: sign-up
 order: 90
 ---
 
-# Sign up
+> We willen graag je content maken, maar zijn er nog niet helemaal klaar voor.
 
-> Nieuwe accounts krijgen **50%** korting voor de eerste drie maanden!
-
-Maak een account aan en we nemen zo snel mogelijk contact met je op voor het inrichten van jouw redactionele interface.
+Laat je e-mailadres achter en we laten je weten wanneer we klaar zijn om je content te maken.

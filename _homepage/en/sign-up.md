@@ -3,8 +3,6 @@ layout: sign-up
 order: 90
 ---
 
-# Sign up
+> We'd love to make your content, but not we're not completely yet ready yet!
 
-> We're discounting the first new accounts with **50%** for the first 3 months!
-
-Create an account and we'll get back to you as quickly as possible to set it up.
+Leave your email address and we'll let you know as soon as we're ready to make your content.
