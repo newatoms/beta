@@ -786,10 +786,10 @@
 
   <header>
     {% if page.language == "en" and page.title == "Home" %}
-      <iframe src="https://www.youtube-nocookie.com/embed/rcECheJag44?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>    
-    {% else %}
-    <p class="byline">Content supplied by</p>
-    <h1><a href="http://content.supply"><span>content</span><span>.supply</span></a></h1>
+      <iframe src="https://www.youtube-nocookie.com/embed/rcECheJag44?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    {% endif %}
+    {% if page.language == "nl" and page.title == "Home" %}
+      <iframe src="https://www.youtube-nocookie.com/embed/4JD_ePZtn4I?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
     {% endif %}
     <nav>
       <ul>
