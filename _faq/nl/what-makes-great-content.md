@@ -8,7 +8,7 @@ Hoe haal je de lezers binnen en hoe laat je ze niet meer los? Steeds meer is er 
 ## Originaliteit & geloofwaardigheid 
 Goede content is origineel. [Content Farms](https://en.wikipedia.org/wiki/Content_farm) zijn niet meer van deze tijd. Zoekmachines, waaronder Google, worden steeds beter in het identificeren van deze 'clickbate sites' en worden ook laag gewaardeerd. Originele content wordt sneller en vaker gedeeld. Bovendien, waarom zou je iets zeggen als je niets te zeggen hebt?
 
-Je deelt content omdat je een bepaald doel wil bereiken. Je wil dat het gelezen wordt en dat de lezer er iets van opsteekt. *Storytelling* werkt goed omdat het de lezer nieuwsgierig maakt.   
+> Je deelt content omdat je een bepaald doel wil bereiken. Je wil dat het gelezen wordt en dat de lezer er iets van opsteekt. 
 
 Behalve de originaliteit maakt goede kwaliteit content een bepaalde belofte aan de geloofwaardigheid van de tekst. Als gebruik wordt gemaakt van bronnen moeten deze autoriteit uitstralen. Goede bronnen zijn cruciaal en zorgen ervoor dat de tekst serieus genomen wordt.
 
@@ -46,8 +46,7 @@ Belangrijk is, dat afbeeldingen alleen iets toevoegen als zij dienend zijn voor 
 Bij onze content developers stromen al deze vaardigheden door de aderen. Daarnaast werkt ieder van ons aan elke post, waardoor de gevarïeerde kwaliteiten van elke afzonderlijke content developer samenkomen om zo de best mogelijke content te creëren. 
 
 ## Goede content is makkelijk te vinden
-
-SEO: 
+Door goede SEO — Search Engine Optimization — toe te passen worden blog posts eerder gevonden door zoekmachines als Google. Met de groeiende hoeveelheid content is dit belangrijk zodat jouw boodschap niet ondergesneeuwd wordt.   
 
 
 *Photo: [Mr.TinDC](https://www.flickr.com/photos/mr_t_in_dc/3157822073) ([CC 2.0](https://creativecommons.org/licenses/by-nd/2.0/))*   
