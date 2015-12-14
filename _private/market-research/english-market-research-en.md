@@ -1,6 +1,14 @@
 # English market research
 This document is an attempt to get to know the content creation market. Google trends will be shown and most important insights of survey's are given. All this, to show the potential of content.supply to investors and/or prospects. They can see how large the market is in the UK, US and the rest of the English speaking world. 
 
+## Google trends inbound and Content marketing 
+_Click on image for full analysis:_
+[![Google Trends 1](google-trends-1.png)](https://www.google.com/trends/explore#q=Content%20marketing%2C%20Inbound%20marketing&date=1%2F2008%2096m&cmpt=q&tz=Etc%2FGMT-1)
+
+Embedded link:
+	
+	<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Content+marketing,+Inbound+marketing&date=1/2008+96m&cmpt=q&tz=Etc/GMT-1&tz=Etc/GMT-1&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
+
 ## The State of Inbound Survey 2015
 _Inbound_ marketing prioritizes compelling content over ads, and pulling customers to you rather than pushing your message onto them.  
 
@@ -15,6 +23,7 @@ _Outbound_ marketing: commercials, flyers, advertisements, cold calls, email bla
 * **3/4** marketers prioritize an inbound approach to marketing.
 
 ![Inbound vs. Outbound](inbound-vs-outbound-graph.png)
+
 ![Top challenges by company type](top-challenges-by-company-type-graph.png)  
 
 Notable to see that the top challenge for Non-profits in _managing their own website_ is a high **46%**. A problem that content.supply can tackle through creating, posting content and posting on social media platforms. 
