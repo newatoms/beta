@@ -1,0 +1,2 @@
+# English market research
+This document is an attempt to get to know the content creation market. Google trends will be shown and most imported insights of survey's are given. All this, to show the potential of content.supply to investors or customers. They can see how large the market is in the UK, US and the rest of the English speaking world. 
