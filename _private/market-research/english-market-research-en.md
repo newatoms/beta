@@ -47,7 +47,9 @@ Marketing content creation no longer limited to in-house writers. Data shows an 
 ## Business blogging secrets revealed
 This survey is done in 2014 by [Curata](http://www.curata.com/), a content marketing software company. Following data is taken from a suvey where they've questioned 428 marketers.
 
-* 80% of marketers are using blogging as part of their content marketing tactics.
+* **80%** of marketers are using blogging as part of their content marketing tactics.
+* **56%** of leading business bloggers are hiring additional resources in the next 12 months (of 2015).
+* Business bloggers’ greatest priority is creating a strategy, followed by the need to measure impact of the blog on their organization’s success.
 
 ## Linkedin B2B content marketing report
 [Here](http://www.slideshare.net/hschulze/b2b-content-marketing-report-40688285) you can find the link to the survey from 2014. With 600 respondents consisting of marketing professionals. In every survey you find that metrics about ROI (Return On Investment) is a big challenge which few say they are able to. One key finding perhaps interesting for us: 
@@ -55,7 +57,6 @@ This survey is done in 2014 by [Curata](http://www.curata.com/), a content marke
 _"The most mentioned content marketing challenge is finding enough time and resources to create content. The next big content marketing challenge is to produce enough content, followed by producing truly engaging content to serve the needs of marketing programs."_  
 
 * With **65%**, blogging is the most common used content marketing tactic.
-* **56%** of leading business bloggers are hiring additional resources in the next 12 months (of 2015).
 
 Content marketing challenges:
 ![Content marketing challenges](marketing-challenges.png) 
