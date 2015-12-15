@@ -45,8 +45,33 @@ So, striking: even respondents (**32%**) whose companies identify as primarily o
 Marketing content creation no longer limited to in-house writers. Data shows an increase in the number of respondents who indicated they use freelancers and agency partners of content creation.
 
 ## Business blogging secrets revealed
-This survey is done in 2014 by [Curata](http://www.curata.com/)a content marketing software company. Following data is taken from a suvey where they've questioned 428 marketers.
+This survey is done in 2014 by [Curata](http://www.curata.com/), a content marketing software company. Following data is taken from a suvey where they've questioned 428 marketers.
 
 * 80% of marketers are using blogging as part of their content marketing tactics.
-*    
+
+## Linkedin B2B content marketing report
+[Here](http://www.slideshare.net/hschulze/b2b-content-marketing-report-40688285) you can find the link to the survey from 2014. With 600 respondents consisting of marketing professionals. In every survey you find that metrics about ROI (Return On Investment) is a big challenge which few say they are able to. One key finding perhaps interesting for us: 
+
+_"The most mentioned content marketing challenge is finding enough time and resources to create content. The next big content marketing challenge is to produce enough content, followed by producing truly engaging content to serve the needs of marketing programs."_  
+
+* With **65%**, blogging is the most common used content marketing tactic.
+* **56%** of leading business bloggers are hiring additional resources in the next 12 months (of 2015).
+
+Content marketing challenges:
+![Content marketing challenges](marketing-challenges.png) 
+
+* Engaging and compelling Storytelling is on second place with **57%** when you ask: what makes content effective?
+*  Most outsourced content after analyst/reseach (27%) reports, so second is: **blogging** (24%). 
+
+![Internal or external](internal-or-external.png) 
+
+Most outsourced content marketing activities:
+![Most outsourced activities](most-outsourced-activities.png)
+
+* **77%** increased content marketing budget in 2015.
+
+How frequently is content published:
+![How frequent content is published](how-frequent-content-is-published.png)
+ 
+ 
 
