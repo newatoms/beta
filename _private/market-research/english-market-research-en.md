@@ -17,7 +17,13 @@ The marketing software market is expected to grow from **$20,2 million in 2014**
 
 [IDC's](http://www.idc.com/getdoc.jsp?containerId=prUS25209414) IDC Research Manager, Gerry Murray states that: "The full potential of this market will only be realized when technology, creative and technical services come together. How that happens will determine the winners and losers."
 
+## Content marketing institute B2B 2016
+Data are for North America.
 
+* **76%** of content marketeers are planning to produce more content in 2016 over 2015.
+* **93%**  use social media and **81%** use blogging as a content marketing tactic.
+
+ 
 ## The State of Inbound Survey 2015
 [_The State of Inbound 2015_](inbound-report-2015.pdf) is a survey from hubspot, a renowned inbound marketing and sales platform. The majority of their nearly **4,000 respondents** are marketers and sales people who work for B2B and SMB's (small and medium size business)in more than 150 countries. One-third have an affiliation with [HubSpot](http://www.hubspot.com/). 
 
