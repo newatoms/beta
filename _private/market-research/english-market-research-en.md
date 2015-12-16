@@ -18,10 +18,21 @@ The marketing software market is expected to grow from **$20,2 million in 2014**
 [IDC's](http://www.idc.com/getdoc.jsp?containerId=prUS25209414) IDC Research Manager, Gerry Murray states that: "The full potential of this market will only be realized when technology, creative and technical services come together. How that happens will determine the winners and losers."
 
 ## Content marketing institute B2B 2016
-Data are for North America.
+Global data from the Content Marketing Institute. Report: [B2B Content Marketing: 2016 Benchmarks, Budgets, and Trends—North America](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf). Recipients asked: 3,714. 
 
 * **76%** of content marketeers are planning to produce more content in 2016 over 2015.
 * **93%**  use social media and **81%** use blogging as a content marketing tactic.
+* **28%** from the marketing budget is spent on content marketing.
+* **51%** of B2B marketers plan to increase their content marketing budget.
+
+Top priorities for B2B Content Creators: 
+![Top priorities for B2B Content Creators:](top-priorities-2016.png) 
+
+Top Challenges for content marketeers in 2016:
+![](top-challenges-2016.png)
+
+Most important metrics:
+![Imporatant metrics](important-metrics.png)
 
  
 ## The State of Inbound Survey 2015
