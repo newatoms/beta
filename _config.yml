@@ -49,4 +49,4 @@ kramdown:
   input: GFM
 highlighter: pygments
 
-exclude: ["Gemfile", "Gemfile.lock", "bower_components"]
+exclude: ["Gemfile", "Gemfile.lock", "bower_components","circle.yml"]
