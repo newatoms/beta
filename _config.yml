@@ -2,7 +2,7 @@
 title: content.supply
 email: helpdesk@newatoms.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://content.supply" # the base hostname & protocol for your site
+baseurl: "http://content.supply/" # the base hostname & protocol for your site
 
 collections:
   homepage:
@@ -49,4 +49,4 @@ kramdown:
   input: GFM
 highlighter: pygments
 
-exclude: ["Gemfile", "Gemfile.lock", "bower_components"]
+exclude: ["Gemfile", "Gemfile.lock", "bower_components","circle.yml"]
