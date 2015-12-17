@@ -1,4 +1,7 @@
 # content.supply
+
+[![Circle CI](https://circleci.com/gh/newatoms/contentsupply.svg?style=svg&circle-token=47cd8195c9d5e8668db4aeaf2b445d3099497fc2)](https://circleci.com/gh/newatoms/contentsupply)
+
 This is the [content.supply](http://content.supply) website rendered out using GH-Pages
 
 ## Installation steps
