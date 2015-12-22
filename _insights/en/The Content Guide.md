@@ -1,6 +1,6 @@
 # The Content Guide
 
-How do you attract your readers and how do you keep them close? More and more there is a cry for *'high quality content'*. And that is good, but what does this mean exactly? After learning these few key concepts, chances are your blog post is read and shared as well.
+How do you attract your readers and how do you keep them close? More and more there is a cry for *'high quality content'*. That's all good, but what does this mean exactly? Which ingrediënts do you have to use to make a nice meal that people will remember? Better even, how do you make the perfect dish for guests that they will ask the recipe off and share it with others?   
 
 ## Originality & authenticity
 
@@ -10,7 +10,11 @@ Good content is original. [Content Farms](https://en.wikipedia.org/wiki/Content_
 
 Apart from originality high quality content also makes a certain promise about the credibility of the text. When sources are been used they should provide authority. Good sources are crucial and make sure that a text is taken seriously. 
 
-## Attract the reader and don't let go
+Be a guardian of the originality and authenticity of your content piece. It's easier sad than done while we all scrape information from different kind of sources. When it's authority in people you interview, articles, books or your own judgement, it's all based on other work. The difference where you as an author come in, is how you handle these sources. Combine them to share new insights. 
+
+Repetition is not always a bad thing, it can be a powerful tool, but know that this will only work when it's used for original and compelling observations.  
+
+## Structure and readability
 
 Readers are looking for answers and want to find them in the easiest, fastest way. A well structured text gives guidance and leads the reader towards its conclusion in a gentle, organic fashion. A clear text consists of:
 
