@@ -1,2 +1,0 @@
-# Marketing Research (The Netherlands)
-
