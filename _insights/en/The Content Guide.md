@@ -41,6 +41,20 @@ With the ever growing content, the bad and the good, content developers should k
 
 According to Jacob Nielsen of the [Nielsen Norman Group](http://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/), a visitor spends an avarage of less than a minute on a webpage. The visitor usually only has time to read a quarter of the text presented. If the content has a clear message or benefit the chances it will be read are hightenend. Quality content aims to give the reader new insights about a specific topic. 
 
+### Search Engine optimisation (SEO), here we go:
+
+We believe that the quality, originality and creative components of made content always stands above SEO strategy. However, we do acknowledge SEO as an important strategy when it comes to the visibility of the content. It would be a shame when a written masterpeice floaths on the web and isn't picked up by an  audience. 
+
+Eventualy businesses want traffic. Top named challenges and priorities for marketing proffesionals –besides creating more content in lesser time— are: 
+
+* Measure content effctiveness 
+* Producing more _engaging_ content
+* Metrics that measure Sales lead quality, sales and higher conversion rates.
+
+(sources survey's: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/)) 
+
+ 
+
 ## No image? Forget about it...
 
 Humans are visual creatures. Research done by [Skyword](http://www.skyword.com/contentstandard/enterprise-marketing/skyword-study-add-images-to-improve-content-performance/) has shown that chances a text will be read are increased with **94%** if the article shown has an image. 
@@ -49,9 +63,6 @@ Photo's and illustrations together with the right title make the reader curious 
 > 94% the growth an article goes through if it has a relevant main image, compared to an article that has none. 
 
 Most important is that the images enriche the article in the sense that they serve the written piece. Apart from estetics images should create a certain amount of context. A good mantra, with the addition of more multimedia in the back of our minds, is not "form follows content" but "content follows form".
-
-# Search Engine Optimisation (SEO), here we go
-
 
 
 
