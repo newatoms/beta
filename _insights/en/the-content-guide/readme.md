@@ -1,4 +1,4 @@
-## [The Content Guide](the-content-guide)
+## The Content Guide
 
 This guide is intended for external communication but can also be a source for our in-house content developers. 
 The target audience are communication professionals. See it as a comprehensive guide, a white paper if you will, to show others our know-how. Because the product that we sell are blog posts or web articles, we should be able to display our skills. 
