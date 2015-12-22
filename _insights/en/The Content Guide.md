@@ -35,7 +35,7 @@ The *intro* is officiously the first paragraph, and also supports a well chosen 
 
 **Bold** en *italic* words make sure that highlighted concepts are cleared up. *Short paragraphs* are there to make the text understandable for the reader. *Clear quotes*, then, invite the reader to keep on reading. 
 
-## Visitor spending time
+## Visitor spending behavior
 
 With the ever growing content, the bad and the good, content developers should know how readers behave on the web and how they 
 
@@ -45,7 +45,7 @@ According to Jacob Nielsen of the [Nielsen Norman Group](http://www.nngroup.com/
 
 We believe that the quality, originality and creative components of made content always stands above SEO strategy. However, we do acknowledge SEO as an important strategy when it comes to the visibility of the content. It would be a shame when a written masterpeice floaths on the web and isn't picked up by an  audience. 
 
-Eventualy businesses want traffic. Top named challenges and priorities for marketing proffesionals –besides creating more content in lesser time— are: 
+Eventualy businesses want traffic. Top named challenges and priorities for marketing proffesionals –besides creating more _high quality content_ in lesser time— are: 
 
 * Measure content effctiveness 
 * Producing more _engaging_ content
@@ -53,6 +53,7 @@ Eventualy businesses want traffic. Top named challenges and priorities for marke
 
 (sources survey's: [Content marketing institute](http://contentmarketinginstitute.com/wp-content/uploads/2015/09/2016_B2B_Report_Final.pdf), Linkedin B2B content marketing report, [Hubspot's The State of Inbound 2015](http://www.stateofinbound.com/)) 
 
+To meet and tackle these challenges and priorities, content has to be found. _Search Engine Optimisation_ strategies helps to be visible by readers and enabaling business to get more traffic. By more, we mean the difference between 300 and 10.000 visitors. 
  
 
 ## No image? Forget about it...
