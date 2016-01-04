@@ -1,9 +1,9 @@
 # Potential first costumers
-​*Here is the list of potential customers we don’t know that we’ve talked about:*​
+​*Here is the list of first potential customers:*
 
 ## Big companies
 
-Rijksmuseum, MHKA & all museums
+* Rijksmuseum, MHKA & all museums
 * Nationale Politie
 * Gemeente Amsterdam
 * De Nationale Opera
@@ -42,6 +42,15 @@ Rijksmuseum, MHKA & all museums
 * Hutspot
 * Marqt
 
+### Office Hubs
+
+They can possibly offer discounts to new subscribers. We can offer the discount. We could also make cool blog content for these work space companies. Enough businesses and subjects!
+
+* [WeWork](https://www.wework.com/)
+* [Spaces](http://www.spacesworks.com/products-services/memberships/)
+* [B. Amsterdam](http://www.b.amsterdam/blog/) has already quite good blog but their last post was 2 October 2015. All posts written by one person.
+* [A-lab](http://www.a-lab.nl/)
+
 ## Small sized companies
 
 * Stach
@@ -56,6 +65,7 @@ Rijksmuseum, MHKA & all museums
 * [Re-5](http://www.re-5.nl/)
 * [Boweevil](http://www.boweevil.nl/nl/)
 
+
 ## (Sustainability) competitions.
 
 *For example by banks. (Content by content.supply can be the prize)*
@@ -63,20 +73,17 @@ Rijksmuseum, MHKA & all museums
 * [Duurzaamheidsprijs bollenstreek](http://www.duurzaamheidsprijsbollenstreek.nl/)
 * [ASN Bank Wereldprijs](https://www.voordewereldvanmorgen.nl/wereldprijs)
 
-
-
-
 ## Companies we know​
 
-BBC
-VPRO
-Cineville
-Crowd About Now
-Lots of People
-GitHub
-TriggerTrap
-ScreenCloud
-WeTransfer
-Slack
-TEEM
-Samsung(edited)
+* BBC
+* VPRO
+* Cineville
+* Crowd About Now
+* Lots of People
+* GitHub
+* TriggerTrap
+* ScreenCloud
+* WeTransfer
+* Slack
+* TEEM
+* Samsung
