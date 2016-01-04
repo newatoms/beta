@@ -3,7 +3,6 @@
 
 ## Big companies
 
-* Rijksmuseum, MHKA & all museums
 * Nationale Politie
 * Gemeente Amsterdam
 * De Nationale Opera
@@ -27,7 +26,6 @@
 
 ## Medium sized companies
 
-* Tropenmuseum
 * Theatergroep Oostpool
 * Zonnefabriek
 * Bunq
@@ -41,6 +39,15 @@
 * Markthallen
 * Hutspot
 * Marqt
+* Stach
+
+### Museums
+
+* Rijksmuseum
+* [Amsterdams Museum](https://www.amsterdammuseum.nl/nieuws): quite frequent posts, not very interesting stuff though.
+* [The Hermitage](http://thehermitage.com/blog/): Not too crowdy blog even a bit outdated - October 22th 2015.
+* [Scheepvaartmuseum](https://www.hetscheepvaartmuseum.nl/ontdek/nieuws): Not very frequent posts.
+* [Tropenmuseum](http://tropenmuseum.nl/): amount of content is low.  
 
 ### Office Hubs
 
@@ -48,12 +55,11 @@ They can possibly offer discounts to new subscribers. We can offer the discount.
 
 * [WeWork](https://www.wework.com/)
 * [Spaces](http://www.spacesworks.com/products-services/memberships/)
-* [B. Amsterdam](http://www.b.amsterdam/blog/) has already quite good blog but their last post was 2 October 2015. All posts written by one person.
+* [B. Amsterdam](http://www.b.amsterdam/blog/) has already quite a good blog but their last post was 2 October 2015. All posts written by one person.
 * [A-lab](http://www.a-lab.nl/)
 
 ## Small sized companies
 
-* Stach
 * Sugar factory
 * Hello Fresh
 * [Butchers Tears (beer)](http://butchers-tears.com/)
@@ -70,8 +76,8 @@ They can possibly offer discounts to new subscribers. We can offer the discount.
 
 *For example by banks. (Content by content.supply can be the prize)*
 
-* [Duurzaamheidsprijs bollenstreek](http://www.duurzaamheidsprijsbollenstreek.nl/)
-* [ASN Bank Wereldprijs](https://www.voordewereldvanmorgen.nl/wereldprijs)
+* [Duurzaamheidsprijs bollenstreek](http://www.duurzaamheidsprijsbollenstreek.nl/): registration period till 9th February.
+* [Koning Willem I prijs](http://www.kw1prijs.nl/aanmelden-2): registration till 31 January.  
 
 ## Companies we know​
 
