@@ -1,5 +1,6 @@
 # Potential first costumers
-​*Here is the list of first potential customers:*
+​
+*Here's the list of first potential customers. Disclaimer: also still a lot of brainstorm ideas so this list is there to better specify and filter to real good potential customers.*
 
 ## Big companies
 
@@ -51,7 +52,7 @@
 
 ### Office Hubs
 
-They can possibly offer discounts to new subscribers. We can offer the discount. We could also make cool blog content for these work space companies. Enough businesses and subjects!
+They can possibly offer discounts to new registrations. We can offer the discount. We could also make cool blog content for these work space companies. Enough businesses and subjects!
 
 * [WeWork](https://www.wework.com/)
 * [Spaces](http://www.spacesworks.com/products-services/memberships/)
