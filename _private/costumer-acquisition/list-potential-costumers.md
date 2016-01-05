@@ -1,6 +1,8 @@
 # Potential first costumers
 ​
-*Here's the list of first potential customers. Disclaimer: also still a lot of brainstorm ideas so this list is there to better specify and filter to real good potential customers.*
+Here's the list of first potential customers of content.supply. By analyzing possible customers we can filter and even make pitches for them. This is done before we approach them to have a better shot of making them our clients. This document is there to rate potential customers. Describe what their blog is like, can we be of a good help? Where and how can we help them create better content? 
+
+Disclaimer: also still a lot of brainstorm ideas so this list is there to better specify and filter to real good potential customers.
 
 ## Big companies
 
