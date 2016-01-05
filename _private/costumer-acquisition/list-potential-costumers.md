@@ -31,11 +31,6 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 
 * Theatergroep Oostpool
 * Zonnefabriek
-* Bunq
-* Oedipus
-* NGOs
-* Wakawaka
-* Fairphone
 * [Moyee coffee](http://www.moyeecoffee.com/about/): have a pretty nice blog already.
 * [Bocca coffee](http://www.bocca.nl/category/blog/): already a blog, quite frequent.
 * [Nationaal Ballet](http://www.operaballet.nl/en/ballet/ballet): Already have nice content in videos. Also news page.
@@ -89,7 +84,6 @@ They can possibly offer discounts to new registrations. We can offer the discoun
 * VPRO
 * Cineville
 * Crowd About Now
-* Lots of People
 * GitHub
 * TriggerTrap
 * ScreenCloud
