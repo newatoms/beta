@@ -36,8 +36,7 @@ To let potential customers know we exist and that you should be exited about our
 
 What do you get for €200 per month?
 
->
-* Engaging en mooie content met fotografie en illustraties.
+> * Engaging en mooie content met fotografie en illustraties.
 * Stijl en taalgebruik naar keuze.
 * Volledig royalty free, jij hebt alle copyrights. Doe ermee wat je wil.
 * Een online tool die jou volledige controle geeft over welke inhoud de redactie maakt.
