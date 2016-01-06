@@ -15,7 +15,7 @@ Side note: We have to make new pictures of course. More coherent. Really like ma
 
 ### Waarom deze belachelijke voordelen?
 
-Onze [content.supply](http://content.supply/) service gaat na een lange voorbereiding eindelijk beginnen. Hiervoor hebben wij een **test-gebruiker** nodig die samen met ons het product volwassen wil maken.
+Onze [content.supply](http://content.supply/) service gaat na een lange voorbereiding eindelijk beginnen. Hiervoor hebben wij een **één test-gebruiker** nodig die samen met ons het product volwassen wil maken.
 
 ### Wat krijg je allemaal voor €200,- per maand?
 
@@ -24,6 +24,8 @@ Onze [content.supply](http://content.supply/) service gaat na een lange voorbere
 * Volledig royalty free, jij hebt alle copyrights. Doe ermee wat je wil.
 
 * Een online tool die jou volledige controle geeft over welke inhoud de redactie maakt. Met de minst mogelijke moeite kan je optreden als eindrecateur van onze redactie.
+
+  <img src="/images/devices-screenshots.png" width="250">
 
 * Een redactie samengesteld uit professionals vanuit allerlei disciplines, met elk hun eigen kwaliteiten die het geheel versterken. Samen creëren we content, van idee tot publicatie.
 
