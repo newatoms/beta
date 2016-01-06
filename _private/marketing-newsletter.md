@@ -1,0 +1,47 @@
+# Marketing newsletter
+
+In this document we make a marketing newsletter to let potential costumers know we exist and try to convince them to be our first VIP customer. This document, intended for the Dutch market, flows from our costumer acquisition strategy.
+
+Side note: We have to make new pictures of course. More coherent. Really like matthijs' pic.  
+
+---  
+
+## Content.supply Beta
+
+> Op maat gemaakte content van hoge kwaliteit voor jouw blog.
+
+* **90%** avonturiers korting op een redactioneel team die content levert voor jouw blog.
+* Een 30 dagen **niet-goed-geld-terug-garantie!**
+
+### Waarom deze belachelijke voordelen?
+
+Onze [content.supply](http://content.supply/) service gaat na een lange voorbereiding eindelijk beginnen. Hiervoor hebben wij een **test-gebruiker** nodig die samen met ons het product volwassen wil maken.
+
+### Wat krijg je allemaal voor €200,- per maand?
+
+* Eén artikel per week met engaging en mooie content met fotografie en illustraties.
+
+* Volledig royalty free, jij hebt alle copyrights. Doe ermee wat je wil.
+
+* Een online tool die jou volledige controle geeft over welke inhoud de redactie maakt. Met de minst mogelijke moeite kan je optreden als eindrecateur van onze redactie.
+
+* Een redactie samengesteld uit professionals vanuit allerlei disciplines, met elk hun eigen kwaliteiten die het geheel versterken. Samen creëren we content, van idee tot publicatie.
+
+### Content supplied by:
+
+<img src="/images/boris-pic.jpeg" width="100">
+<img src="/images/thomas-pic.jpeg" width="100">
+<img src="/images/sam-pic.jpeg" width="100">
+<img src="/images/matthijs-pic.jpg" width="80">
+
+Team players: Boris van Hoytema, Thomas de Beus, Sam Prinssen, Matthijs Mentink
+
+### Waar komt die €200,- vandaan?
+
+Ons tarief is €2000,- per maand voor 1 artikel per week. Omdat we  alle software en onze samenwerking moeten testen krijgt de eerste gebruiker 90% avonturiers korting voor drie maanden. We willen rustig beginnen, maar snel artikelen per dag aanbieden. Belangrijk: het abbonement is per maand opzegbaar.
+
+Wij streven er uiteraard naar om een zo lang mogelijke relatie aan te gaan met onze klanten.   
+
+### Benieuwd naar onze app? Vragen? Meer weten?
+
+Ga naar onze website: [content.supply](http://content.supply/)
