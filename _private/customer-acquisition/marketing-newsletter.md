@@ -10,7 +10,7 @@ Side note: We have to make new pictures of course. More coherent. Really like Ma
 
 > Op maat gemaakte content van hoge kwaliteit voor jouw blog.
 
-* **90%** avonturiers korting op een redactioneel team die content levert voor jouw blog.
+* **90%** avonturiers korting op een redactioneel team die custom made content levert voor jouw blog.
 * Een 30 dagen **niet-goed-geld-terug-garantie!**
 
 ### Waarom deze belachelijke voordelen?
