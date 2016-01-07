@@ -40,7 +40,7 @@ Team players: Boris van Hoytema, Thomas de Beus, Sam Prinssen, Matthijs Mentink
 
 ### Waar komt die €200,- vandaan?
 
-Ons tarief is €2000,- per maand voor 1 artikel per week. Omdat we  alle software en onze samenwerking moeten testen krijgt de eerste gebruiker 90% avonturiers korting per maand voor drie maanden. We willen rustig beginnen, maar snel artikelen per dag aanbieden. Belangrijk: het abbonement is per maand opzegbaar.
+Ons tarief is €2000,- per maand voor 1 artikel per week. Omdat we alle software en onze samenwerking moeten testen krijgt de eerste gebruiker 90% avonturiers korting per maand voor drie maanden. We willen rustig beginnen, maar snel artikelen per dag aanbieden. Belangrijk: het abbonement is per maand opzegbaar.
 
 Wij streven er uiteraard naar om een zo lang mogelijke relatie aan te gaan met onze klanten.   
 
