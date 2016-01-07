@@ -27,13 +27,20 @@ To let potential customers know we exist and that you should be exited about our
 # First draft
 
 > Content.supply is de service die content creëren fijn maakt. Het is alsof je een diverse en gespecialiseerde interne redactie ter beschikking hebt, zonder al het gedoe. Ons professionele team maakt de custom made content terwijl jij met minimale moeite als eindredacteur kan optreden. Onze speciaal gemaakte app zorgt voor een vloeiende ervaring, van idee tot publicatie. 
-Ons team is samengesteld uit professionals vanuit allerlei disciplines met elk hun eigen kwaliteiten die het geheel versterken. Content die op maat gemaakt is, om zo bij de doelgroep de juiste snaar te raken.
+Ons team is samengesteld uit professionals vanuit allerlei disciplines die samen de content maken. Content die op maat gemaakt is, om zo bij de doelgroep de juiste snaar te raken.
 Onze service is grotendeels af maar moet nog getest worden. Hiervoor zijn wij op zoek naar een klant die voor een enorme korting, 90%, de service wil testen en feedback kan geven. 
 
-What do you get for €200 per month?
+# First draft of telephone conversation
 
-From the website:
 
+> Fan van jou bedrijf. 
+Wij hebben gemerkt dat het bedrijf weinig communiceert naar de klant terwijl wij denken dat dit juist veel kan bieden. Wij hebben veel ideeën over wat jou doelgroep interessant vindt. 
+Onze service, Content.supply maakt content creëren fijn. Het is alsof je een diverse en gespecialiseerde interne redactie ter beschikking hebt, zonder al het gedoe. Ons professionele team maakt de custom made content terwijl jij met minimale moeite als eindredacteur kan optreden. Onze speciaal gemaakte app zorgt voor een vloeiende ervaring, van idee tot publicatie. 
+Ons team is samengesteld uit professionals vanuit allerlei disciplines die samen de content maken. Content die op maat gemaakt is, om zo bij de doelgroep de juiste snaar te raken.
+Onze service is grotendeels af maar moet nog getest worden. Hiervoor zijn wij op zoek naar een klant die voor een enorme korting, 90%, de service wil testen en feedback kan geven. 
+
+
+# Extra information that could be added
 > * Engaging en mooie content met fotografie en illustraties.
 * Stijl en taalgebruik naar keuze.
 * Volledig royalty free, jij hebt alle copyrights. Doe ermee wat je wil.
