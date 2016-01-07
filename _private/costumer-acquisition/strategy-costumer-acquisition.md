@@ -18,16 +18,15 @@ To let potential customers know we exist and that you should be exited about our
 ### Content in newsletter
  
 * What do we offer, what and how can we solve your problem.
-* Costumer's role
+* Costumer's role.
 * Of course the freaking **90%** discount you get if you're subscribe now.
 * A 30-day money back guarantee!
 * That we're in Beta and look for test customers (that's why you get a big discount).
 * Content.supply video.
 
+# First draft
 
-  * Some Copy:
-
-> Content.supply is de app die eindelijk een einde maakt aan de moeite die het creëren van content kost. Jij kan met minimale moeite als eindredacteur optreden en de blogposts worden door ons professionele team gecreërd.    
+> Content.supply is de service die eindelijk content creëren fijn maakt. Jij kan met minimale moeite als eindredacteur optreden  professionele team de content gecreërd.    
 
 What do you get for €200 per month?
 
