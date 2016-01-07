@@ -26,7 +26,9 @@ To let potential customers know we exist and that you should be exited about our
 
 # First draft
 
-> Content.supply is de service die eindelijk content creëren fijn maakt. Jij kan met minimale moeite als eindredacteur optreden  professionele team de content gecreërd.    
+> Content.supply is de service die content creëren fijn maakt. Het is alsof je een diverse en gespecialiseerde interne redactie ter beschikking hebt, zonder al het gedoe. Ons professionele team maakt de custom made content terwijl jij met minimale moeite als eindredacteur kan optreden. Onze speciaal gemaakte app zorgt voor een vloeiende ervaring, van idee tot publicatie. 
+Ons team is samengesteld uit professionals vanuit allerlei disciplines met elk hun eigen kwaliteiten die het geheel versterken. Content die op maat gemaakt is, om zo bij de doelgroep de juiste snaar te raken.
+Onze service is grotendeels af maar moet nog getest worden. Hiervoor zijn wij op zoek naar een klant die voor een enorme korting, 90%, de service wil testen en feedback kan geven. 
 
 What do you get for €200 per month?
 
