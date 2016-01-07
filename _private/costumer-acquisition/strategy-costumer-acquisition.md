@@ -17,7 +17,7 @@ To let potential customers know we exist and that you should be exited about our
 
 ### Content in newsletter
  
-* What our company can deliver
+* What our company can deliver / how you can benefit from our product
 * Of course the freaking **90%** discount you get if you're subscribe now.
 * A 30-day money back guarantee!
 * That we're in Beta and look for test customers (that's why you get a big discount).
