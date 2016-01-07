@@ -23,7 +23,7 @@ Onze [content.supply](http://content.supply/) service is na een lange voorbereid
 
 * Volledig royalty free, jij hebt alle copyrights. Doe ermee wat je wil.
 
-* Een online tool die jou volledige controle geeft over welke inhoud de redactie maakt. Zo kan je gemakkelijk onze ideëen voor posts en de posts zelf goed- of afkeuren, communiceren met ons en de financiën regelen.
+* Een online tool die jou volledige controle geeft over welke inhoud de redactie maakt. Zo kan je gemakkelijk onze ideeën voor posts en de posts zelf goed- of afkeuren, communiceren met ons en de financiën regelen.
 
   <img src="/images/devices-screenshots.png" width="250">
 
