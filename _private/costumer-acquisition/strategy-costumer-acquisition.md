@@ -16,8 +16,6 @@ This document describes marketing communication tactics to approach content.supp
 To let potential customers know we exist and that you should be exited about our product and hire us we can make an email newsletter. We can send these to designated communication people of potential businesses. Contact mail addresses are in the customer acquisition list.
 
 ### Content in newsletter
-
-Here, some content that we could use in the newsletter.
  
 * Of course the freaking **90%** discount you get if you're subscribe now.
 * A 30-day money back guarantee!
