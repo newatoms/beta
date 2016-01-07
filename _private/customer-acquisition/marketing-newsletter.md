@@ -23,7 +23,7 @@ Onze [content.supply](http://content.supply/) service is na een lange voorbereid
 
 * Volledig royalty free, jij hebt alle copyrights. Doe ermee wat je wil.
 
-* Een online tool die jou volledige controle geeft over welke inhoud de redactie maakt. Met de minst mogelijke moeite kan je optreden als eindrecateur van onze redactie.
+* Een online tool die jou volledige controle geeft over welke inhoud de redactie maakt. Zo kan je gemakkelijk onze ideëen voor posts en de posts zelf goed- of afkeuren, communiceren met ons en de financiën regelen.
 
   <img src="/images/devices-screenshots.png" width="250">
 
@@ -36,7 +36,7 @@ Onze [content.supply](http://content.supply/) service is na een lange voorbereid
 <img src="/images/sam-pic.jpeg" width="100">
 <img src="/images/matthijs-pic.jpg" width="80">
 
-Team players: Boris van Hoytema, Thomas de Beus, Sam Prinssen, Matthijs Mentink
+Team players: Boris van Hoytema, Thomas de Beus, Sam Prinssen, Matthijs Mentink.
 
 ### Waar komt die €200,- vandaan?
 
