@@ -15,7 +15,7 @@ Side note: We have to make new pictures of course. More coherent. Really like Ma
 
 ### Waarom deze belachelijke voordelen?
 
-Onze [content.supply](http://content.supply/) service gaat na een lange voorbereiding eindelijk beginnen. Hiervoor hebben wij een **één test-gebruiker** nodig die samen met ons het product volwassen wil maken.
+Onze [content.supply](http://content.supply/) service gaat na een lange voorbereiding eindelijk beginnen. Hiervoor hebben wij **één test-gebruiker** nodig die samen met ons het product volwassen wil maken.
 
 ### Wat krijg je allemaal voor €200,- per maand?
 
