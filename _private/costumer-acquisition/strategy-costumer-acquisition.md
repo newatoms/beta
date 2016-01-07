@@ -1,6 +1,6 @@
 # Strategy
 
-This document describes marketing communication tactics to approach content.supply customers. Here, we discuss, talk about and add acquisition strategy. Also, what can we offer them what should we communicate.    
+This document describes marketing communication tactics to approach content.supply customers. Use this guide when approaching a costumer. Feel free to add/change if you think it can be improved. Also, what can we offer them what should we communicate.    
 
 ## Cold acquisition
 
