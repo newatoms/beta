@@ -1,21 +1,39 @@
 # Potential first costumers
-​
+
 Here's the list of first potential customers of content.supply. By analyzing possible customers we can filter and even make pitches for them. This is done before we approach them to have a better shot of making them our clients. This document is there to rate potential customers. Describe what their blog is like, can we be of a good help? Where and how can we help them create better content?
 
 Disclaimer: also still a lot of brainstorm ideas so this list is there to better specify and filter to real good potential customers.
 
 ## Best chance
+
+### Companies we know
+
+* [Standby](http://www.stby.eu/): User experience and impact innovation services. They have trouble keeping there blog coming out consistantly. They are interested in being a test case. 
+* [Kpn](https://www.kpn.com/): There blog is only cosumer service oriented. [Pim Stevens](bit.ly/1mHuOWd) (Program Manager Smart Cities and Amsterdam ArenA at KPN) . Is boasting about KPN having too much money and wanting to invest in innovations regarding connectivity. Perhaps we can start a substantially blog. They could be interested in our product or supporting us financially
+* [Konnectid](https://www.konnektid.com/): A free web service that enables people to learn from each other by offering or searching on lessons in theire neigborhood. Asked us for a proposal, offered 1 euro per new subscriber.
+* [Beter Bio](http://beterbio.nl/default.aspx): Fast growing bio food delivery service, having a lot of trouble with there communication, but don’t have the time to figgure out what to do.
+
+### Companies we don't know
 * [Markthallen](http://www.foodhallen.nl/home.html): Have no blog. So, maybe a good opportunity for us? A lot of subjects.  
 * [Zonnefabriek](http://www.zonnefabriek.nl/): have no blog.
-* [Stach](http://www.stach-food.nl/index.php?page=Home#r): bigger than we thought (9 shops). They have no blog whatsoever.   
+* [Stach](http://www.stach-food.nl/index.php?page=Home#r): bigger than we thought (9 shops). They have no blog whatsoever. Their social media is filled with there product and there costomers. We could give more insight about there product's
+* [Inoniqa](http://www.ioniqa.com/news/): First company that can remove the collor out of P.E.T when recycling, giving it a much broader use. They only have a news blog. 
+* [AFK](http://www.amsterdamsfondsvoordekunst.nl/): Small cultural fund, have no blog or "succes" stories. With the changing perception towards cultural funds it could be interesting to have a blog about costomer experiences. 
 
-## Small sized companies
+## Lower chance or too big for now
+
+### Small sized companies
 
 * [Sugar factory](https://www.sugarfactory.nl/): have no blog.
 * [Hello Fresh](http://blog.hellofresh.nl/): quite good and comprehensive blog already.
 * [BeeBox](https://beebox.nl/blog/19/kinderen-en-gezonde-voeding/) (farm food delivery service): outdated blog.
 * [Butchers Tears (beer)](http://butchers-tears.com/): have no blog but they have a bulletin.
 * [de Prael, Brewery](http://deprael.nl/): have no blog.
+
+### Cultural Institutions
+
+* [Concertgebouw](http://www.concertgebouw.nl/): Prestegious house of conteporarie and classical music. Just introduced a live stream feature for a reduced price, makes me think they want a bigger online presence. 
+* [de Balie](http://www.debalie.nl/magazine/): Smal vanue and bar/restaurant. Have a blog with about 1 in depth post per month.
 
 ### Sustainable clothing companies
 
@@ -24,14 +42,14 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 * [Boweevil](http://www.boweevil.nl/nl/): No blog.
 
 
-## (Sustainability) competitions.
+### (Sustainability) competitions.
 
 *For example by banks. (Content by content.supply can be the prize)*
 
 * [Duurzaamheidsprijs bollenstreek](http://www.duurzaamheidsprijsbollenstreek.nl/): registration period till 9th February.
 * [Koning Willem I prijs](http://www.kw1prijs.nl/aanmelden-2): registration till 31 January.
 
-## Medium sized companies
+### Medium sized companies
 
 * [Theatergroep Oostpool](http://www.toneelgroepoostpool.nl/nieuws): they have a news page but no blog. Namely of course a lot descriptions and announcements of show.
 * [Zonnefabriek](http://www.zonnefabriek.nl/): have no blog.
@@ -55,7 +73,7 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 * [Scheepvaartmuseum](https://www.hetscheepvaartmuseum.nl/ontdek/nieuws): Not very frequent posts.
 * [Tropenmuseum](http://tropenmuseum.nl/): low amount of content.  
 
-## Big companies
+### Big companies
 
 * Nationale Politie
 * Gemeente Amsterdam
@@ -78,7 +96,7 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 * Lego
 * Max Havelaar
 
-## Companies we know​
+### Companies we know
 
 * BBC
 * VPRO
