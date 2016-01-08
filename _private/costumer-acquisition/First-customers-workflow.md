@@ -6,7 +6,7 @@ The first client will participate in a one month startup phase, after which they
 The client makes a user profile and fills out all the forms.
 We pitch ideas in the application until the client approved 4 pitches, enough for the first month. 
 Once we have 4 approved pitches discuss the process with the client. In person or digitally
-What do we need to make that possible: User profile, Orgasition profile, Project profile,  Commission pitches
+What do we need to make that possible: User profile, Organisation profile, Project profile,  Commission pitches
 
 ## Phase 2: Approving and publishing post's
 we create 4 posts and discuss these with the client in the application until they're ready to be published.
