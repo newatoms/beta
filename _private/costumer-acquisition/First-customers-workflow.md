@@ -1,6 +1,6 @@
 # First customers workflow
 For the first customers we will need more time than usual to test run the application and workflow.
-The first client will participate in a one month startup trajec, after which they get a 3 month subscription for a 90% discount. 
+The first client will participate in a one month startup phase, after which they get a 3 month subscription for a 90% discount. 
 
 ## Phase 1: The brief
 The client makes a user profile and fils out all the forms.
