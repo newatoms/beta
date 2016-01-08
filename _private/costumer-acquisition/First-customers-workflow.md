@@ -3,7 +3,7 @@ For the first customers we will need more time than usual to test run the applic
 The first client will participate in a one month startup phase, after which they get a 3 month subscription for a 90% discount. 
 
 ## Phase 1: The brief
-The client makes a user profile and fils out all the forms.
+The client makes a user profile and fills out all the forms.
 We discuss the result with the client. 
 What do we need to make that possible: User profile, Orgasition profile, Project profile
 
