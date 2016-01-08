@@ -110,3 +110,4 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 * Slack
 * TEEM
 * Samsung
+* [Amsterdam ArenA](http://www.amsterdamarena.nl/home.htm)Is bussy developing an e-sports branch. None of the people working there know's what e-sports is exactly but know its getting bigger. Could be interesting for both internal and external communication
