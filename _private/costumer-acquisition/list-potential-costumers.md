@@ -15,6 +15,7 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 * [Standby](http://www.stby.eu/): User experience and impact innovation services. They have trouble keeping there blog coming out consistantly. They are interested in being a test case. 
 * [Kpn](https://www.kpn.com/): There blog is only cosumer service oriented. [Pim Stevens](bit.ly/1mHuOWd) (Program Manager Smart Cities and Amsterdam ArenA at KPN) . Is boasting about KPN having too much money and wanting to invest in innovations regarding connectivity. Perhaps we can start a substantially blog. They could be interested in our product or supporting us financially
 * [Konnectid](https://www.konnektid.com/): A free web service that enables people to learn from each other by offering or searching on lessons in theire neigborhood. Asked us for a proposal, offered 1 euro per new subscriber.
+* [Beter Bio](http://beterbio.nl/default.aspx) Fast growing bio food delivery service, having a lot of trouble with there communication, but don’t have the time to figgure out what to do.
 
 
 ## Small sized companies
