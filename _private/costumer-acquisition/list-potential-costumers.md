@@ -32,6 +32,7 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 ## Cultural Institutions
 
 * [Concertgebouw](http://www.concertgebouw.nl/): Prestegious house of conteporarie and classical music. Just introduced a live stream feature for a reduced price, makes me think they want a bigger online presence. 
+* [de Balie](http://www.debalie.nl/magazine/): Smal vanue and bar/restaurant. Have a blog with about 1 in depth post per month.
 
 ### Sustainable clothing companies
 
