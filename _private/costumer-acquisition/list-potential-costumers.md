@@ -8,8 +8,10 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 
 * [Markthallen](http://www.foodhallen.nl/home.html): Have no blog. So, maybe a good opportunity for us? A lot of subjects.  
 * [Zonnefabriek](http://www.zonnefabriek.nl/): have no blog.
-* [Stach](http://www.stach-food.nl/index.php?page=Home#r): bigger than we thought (9 shops). They have no blog whatsoever. 
-* [Inoniqa](http://www.ioniqa.com/news/): First company that can remove the collor out of P.E.T when recycling, giveing it a much broader use. They only have a news blog. 
+* [Stach](http://www.stach-food.nl/index.php?page=Home#r): bigger than we thought (9 shops). They have no blog whatsoever. Their social media is filled with there product and there costomers. We could give more insight about there product's
+* [Inoniqa](http://www.ioniqa.com/news/): First company that can remove the collor out of P.E.T when recycling, giving it a much broader use. They only have a news blog. 
+* [AFK](http://www.amsterdamsfondsvoordekunst.nl/): Small cultural fund, have no blog or "succes" stories. With the changing perception towards cultural funds it could be interesting to have a blog about costomer experiences. 
+
 
 ## Personal Contact's
 
@@ -26,6 +28,10 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 * [BeeBox](https://beebox.nl/blog/19/kinderen-en-gezonde-voeding/) (farm food delivery service): outdated blog.
 * [Butchers Tears (beer)](http://butchers-tears.com/): have no blog but they have a bulletin.
 * [de Prael, Brewery](http://deprael.nl/): have no blog.
+
+## Cultural Institutions
+
+* [Concertgebouw](http://www.concertgebouw.nl/): Prestegious house of conteporarie and classical music. Just introduced a live stream feature for a reduced price, makes me think they want a bigger online presence. 
 
 ### Sustainable clothing companies
 
