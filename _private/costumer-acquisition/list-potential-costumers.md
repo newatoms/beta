@@ -8,8 +8,8 @@ Disclaimer: also still a lot of brainstorm ideas so this list is there to better
 * [Markthallen](http://www.foodhallen.nl/home.html): Have no blog. So, maybe a good opportunity for us? A lot of subjects.  
 * [Zonnefabriek](http://www.zonnefabriek.nl/): have no blog.
 * [Stach](http://www.stach-food.nl/index.php?page=Home#r): bigger than we thought (9 shops). They have no blog whatsoever.   
-* [Standby]http://www.stby.eu/: User experience and inpact innovation services. They have trouble keeping there blog coming out consistantly. They are interested in being a test case. 
-* [Konnectid](https://www.konnektid.com/) 
+* [Standby](http://www.stby.eu/): User experience and inpact innovation services. They have trouble keeping there blog coming out consistantly. They are interested in being a test case. 
+* [Konnectid](https://www.konnektid.com/): A free web service that enables people to learn from each other by offering or searching on lesson in theire neigborhood. Asked us for a proposal, offered 1 euro per new subscriber.  
 * 
 ## Small sized companies
 
