@@ -14,7 +14,7 @@ What do we need to make this possible: User profile, Organisation profile, Proje
 
 We create 4 posts and discuss these with the client in the application until they're ready to be published.
 After al post's are approved and scheduled to be published we discuss the process with the client.
-What do we need to make that possible: User profile, Orgasition profile, Project profile,  Commission pitches, Aproved posts
+What do we need to make that possible: User profile, Orgasition profile, Project profile,  Commission pitches, Aproved posts.
 
 ## Phase 3: Full test run
 
