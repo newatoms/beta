@@ -75,6 +75,7 @@ netral, agree, strongly agree).
 
 ### How do you want to achieve your goal?
 
-* Are there company style guidelines that we have to take into account?
 
 ### Extra
+
+* Are there company style guidelines that we have to take into account?
