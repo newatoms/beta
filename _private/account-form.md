@@ -6,6 +6,10 @@ We discussed what to ask to a customer who subscribes to a content.supply accoun
 
 The form shouldn't be boring. The tone of voice can be a bit humor-like and informal, not to much though, but it should be fun to fill out. Favorable answers: yes/no questions, multiple choice and always an 'other' option. Flow-chart like.
 
+## Inspiration: see diversity in blog posts as food groups
+
+[![A Well-Balanced-blog](images/the-blogging-food-groups.png)](http://www.socialfresh.com/content/uploads/2014/02/well-balanced-blog.jpg)
+
 ## Questions and goals
 
 > What floats your boat?
@@ -46,6 +50,6 @@ How do you want the reader to perceive the sender?
 * Language
 * Level of intellect
 * Amount of time people have (busy or not busy readers)
-                  
+
 
 ### How do you want to achieve your goal?
