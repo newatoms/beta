@@ -8,8 +8,7 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 
 ## Inspiration: see diversity in blog posts as food groups
 
-<img src="the-blogging-food-groups.png" width="500">                  
-
+<a href="http://www.socialfresh.com/content/uploads/2014/02/well-balanced-blog.jpg"><img src="the-blogging-food-groups.png" width="500">                  
 ## Questions and goals
 
 > What floats your boat?
@@ -49,12 +48,17 @@ Form ideas: outcomes can be tick boxes [x]. Flow charts with follow up questions
 * Add value to society/help people
 * Elicit emotions
 
-How do you want the reader to perceive the sender?
+* Is there an images/text ratio that we must take into account?
+  * Scale 1-5 image / 1-5 text (slider)
+  * Text more important than images
+  * Images more important than text   
+
+* How do you want the reader to perceive the sender?
 * Playful
 * Funny
 * Serious
 
-### Who do you want to reach?
+### Who do you want to reach with your blog?
 
 * Current clients (same niche)
 * Different clients
@@ -64,5 +68,8 @@ How do you want the reader to perceive the sender?
 * Level of intellect
 * Amount of time people have (busy or not busy readers)
 
-
 ### How do you want to achieve your goal?
+
+* Are there company style guidelines that we have to take into account?
+
+### Extra
