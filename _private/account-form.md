@@ -8,7 +8,7 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 
 ## Inspiration: see diversity in blog posts as food groups
 
-![Blogging in food groups](images/the-blogging-food-groups.png)
+<img src="the-blogging-food-groups.png" width="500">                  
 
 ## Questions and goals
 
@@ -18,19 +18,32 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 2. Who do you want to reach?
 3. How do you want to achieve your goal?
 
-### What do you want to achieve? (possible outcome)
+### What do you want to achieve with your blog? (possible outcome)
+
+Form ideas: outcomes can be tick boxes [x]. Flow charts with follow up questions.   
 
 * Increase current audience
+  * By website traffic
+  * By Facebook followers
+  * By Twitter followers
+  * By LinkedIn connections
+
 * Increase conversion
-* Increase traffic
+  * You always want readers to share your posts
+  * It's important that readers can comment on your post
+
+* Increase website traffic
 * Give company insights
   * World view
-  * Employees
+  * Get to know your employees
+  * Show how you work
+
+* Show your clients/customers to the world
 * Show why your organisation is great to work with
 * Change perception of brand
 * Show your organisation is an integral part of society
 * Increase exposure
-* Show your expertise
+* Show and explain your expertise
 * Show you're different from competition
 * You're creating something new
 * Add value to society/help people
