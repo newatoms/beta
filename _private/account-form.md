@@ -8,7 +8,7 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 
 ## Inspiration: see diversity in blog posts as food groups
 
-[![A Well-Balanced-blog](images/the-blogging-food-groups.png)](http://www.socialfresh.com/content/uploads/2014/02/well-balanced-blog.jpg)
+![Blogging in food groups](images/the-blogging-food-groups.png)
 
 ## Questions and goals
 
