@@ -17,9 +17,14 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 2. Who do you want to reach?
 3. How do you want to achieve your goal?
 
-### What do you want to achieve with your blog? (possible outcome)
+### Form ideas:
+  * Outcomes can be tick boxes [x].
+  * Flow charts with follow-up questions (yes/no).
+  * Likert scales (strongly disagree, Disagree
+netral, agree, strongly agree).
+  * Ranking 1-5/1-10
 
-Form ideas: outcomes can be tick boxes [x]. Flow charts with follow up questions.   
+### What do you want to achieve with your blog? (possible outcome)
 
 * Increase current audience
   * By website traffic
