@@ -57,21 +57,26 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
   * Text more important than images
   * Images more important than text   
 
-* How do you want the reader to perceive the sender?
+* How do you want the reader to perceive the sender? (slider? How many 'jokes'?)
 * Playful
-* Funny (with slider? 1-10)
+* Funny
 * Serious
 * Professional
 
-
 ### Who do you want to reach with your blog?
 
+* Current customers
+* Different customers
 * Current clients (same niche)
 * Different clients
+* Current and different
 * Colleagues
-* Digitally native / or not
+* Digitally native / or not (slider?)
 * Language
-* Level of intellect
+  * English
+  * Dutch
+  * English and Dutch (your price goes up with 50%)
+* Level of intellect (slider with )
 * Amount of time people have (busy or not busy readers)
 
 ### How do you want to achieve your goal?
