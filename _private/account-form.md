@@ -1,14 +1,16 @@
 # Account form
 
-We discussed what to ask to a customer who subscribes to a content.supply account. From these questions an editorial brief or formula should be generated. With the answers of these questions we should be able to make worthy pitches.
+We discussed what to ask to a customer who subscribes to a content.supply account. From these questions an editorial brief or formula should be generated. With the answers of these questions we should be able to make worthy pitches and blog posts.
 
 ## General take-aways
 
-The form shouldn't be boring. The tone of voice can be a bit humor-like and informal, not to much though, but it should be fun to fill out. Favorable answers: yes/no questions, multiple choice and always an 'other' option. Flow-chart like.
+The form shouldn't be boring. The tone of voice can be a bit humor-like and informal, not too much though, but it should be fun to fill out. Favorable answers: yes/no questions, multiple choice and always an 'other' option. Flow-chart like.
 
 ## Inspiration: see diversity in blog posts as food groups
 
-<a href="http://www.socialfresh.com/content/uploads/2014/02/well-balanced-blog.jpg"><img src="the-blogging-food-groups.png" width="500">                  
+<a href="http://www.socialfresh.com/content/uploads/2014/02/well-balanced-blog.jpg"><img src="the-blogging-food-groups.png" width="800">      
+
+
 ## Questions and goals
 
 > What floats your boat?
@@ -16,6 +18,13 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 1. What do you want to achieve?
 2. Who do you want to reach?
 3. How do you want to achieve your goal?
+
+
+## How do we make a useable brief of the answers?
+
+  * When using sliders/ratings on different questions, we could rank all those answers with most important goals on top, less important on the bottom.
+  * When the potential subscriber is done with the form, we could send them an overview of what they answered with top priorities for the blog.
+  * They can then ok the answers or change some if they need different priorities on top.
 
 ### Form ideas:
   * Outcomes can be tick boxes [x].
@@ -35,7 +44,6 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
   * You always want readers to share your posts
   * It's important that readers can comment on your post
 
-* Increase website traffic
 * Give company insights
   * World view
   * Get to know your employees
@@ -57,7 +65,7 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
   * Text more important than images
   * Images more important than text   
 
-* How do you want the reader to perceive the sender? (slider? How many 'jokes'?)
+* How do you want the reader to perceive the sender? (slider? Maybe even: how many 'jokes'?)
 * Playful
 * Funny
 * Serious
@@ -76,18 +84,13 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
   * English
   * Dutch
   * English and Dutch (your price goes up with 50%)
-* Level of intellect (slider with )
+* Level of intellect (slider: public service news t/m Nature science magazine)
 * Amount of time people have (busy or not busy readers)
 
 ### How do you want to achieve your goal?
 
+By hiring content.supply!
 
 ### Extra
 
 * Are there company style guidelines that we have to take into account?
-
-## How do we make a useable brief of the answers?
-
-* When using sliders/ratings on different questions, we could rank all those answers with most important goals on top, less important on the bottom. 
-* When the potential subscriber is done with the form, we could send them an overview of what they answered with top priorities for the blog.
-* They can then ok the answers or change some if they need different priorities on top.
