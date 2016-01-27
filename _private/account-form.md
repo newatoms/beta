@@ -21,7 +21,7 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
   * Outcomes can be tick boxes [x].
   * Flow charts with follow-up questions (yes/no).
   * Likert scales (strongly disagree, disagree, neutral, agree, strongly agree).
-  * Ranking 1-5/1-10
+  * Ranking 1-5/1-10 (sliders)
 
 ### What do you want to achieve with your blog? (possible outcome)
 
@@ -85,3 +85,9 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 ### Extra
 
 * Are there company style guidelines that we have to take into account?
+
+## How do we make a useable brief of the answers?
+
+* When using sliders/ratings on different questions, we could rank all those answers with most important goals on top, less important on the bottom. 
+* When the potential subscriber is done with the form, we could send them an overview of what they answered with top priorities for the blog.
+* They can then ok the answers or change some if they need different priorities on top.
