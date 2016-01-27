@@ -73,10 +73,10 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 
 ### Who do you want to reach with your blog?
 
-* Current customers
-* Different customers
-* Current clients (same niche)
-* Different clients
+* Current customers B2C
+* Different customers B2C
+* Current clients B2B (same niche)
+* Different clients B2B
 * Current and different
 * Colleagues
 * Digitally native / or not (slider?)
@@ -89,7 +89,7 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 
 ### How do you want to achieve your goal?
 
-By hiring content.supply!
+#### By hiring content.supply!
 
 ### Extra
 
