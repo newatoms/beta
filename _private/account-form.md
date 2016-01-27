@@ -20,8 +20,7 @@ The form shouldn't be boring. The tone of voice can be a bit humor-like and info
 ### Form ideas:
   * Outcomes can be tick boxes [x].
   * Flow charts with follow-up questions (yes/no).
-  * Likert scales (strongly disagree, Disagree
-netral, agree, strongly agree).
+  * Likert scales (strongly disagree, disagree, neutral, agree, strongly agree).
   * Ranking 1-5/1-10
 
 ### What do you want to achieve with your blog? (possible outcome)
@@ -60,8 +59,10 @@ netral, agree, strongly agree).
 
 * How do you want the reader to perceive the sender?
 * Playful
-* Funny
+* Funny (with slider? 1-10)
 * Serious
+* Professional
+
 
 ### Who do you want to reach with your blog?
 
