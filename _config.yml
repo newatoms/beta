@@ -2,7 +2,6 @@
 title: content.supply
 email: helpdesk@newatoms.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-baseurl: "http://content.supply/" # the base hostname & protocol for your site
 
 collections:
   homepage:

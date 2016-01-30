@@ -19,7 +19,7 @@ dependencies:
 
 test:
   override:
-    - BASEURL=https://circle-artifacts.com/gh/$CIRCLE_USERNAME/$CIRCLE_PROJECT_REPONAME/$CIRCLE_PREVIOUS_BUILD_NUM/artifacts/0/home/ubuntu/$CIRCLE_PROJECT_REPONAME/_site/
-    - echo $BASEURL
+    - URL=https://circle-artifacts.com/gh/$CIRCLE_USERNAME/$CIRCLE_PROJECT_REPONAME/$CIRCLE_PREVIOUS_BUILD_NUM/artifacts/0/home/ubuntu/$CIRCLE_PROJECT_REPONAME/_site/
+    - echo $URL
     - sed -i "s,/http\/\/www.content.supply\//,$BASEURL,g" "_config.yml"
     - bundle exec jekyll build
