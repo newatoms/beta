@@ -68,9 +68,10 @@
   }
   h2.tagline {
     color: white;
+    font-weight: 500;
     border-bottom: none;
     text-align: center;
-    margin: 8px 8px;
+    margin: 16px 16px 10px;
   }
   @media (max-width: 430px) {
     body>header p.byline {
@@ -82,6 +83,9 @@
     body>header iframe {
       width: 100%;
       height: 25vh;
+    }
+    h2.tagline {
+      margin: 8px 8px 4px;
     }
   }
   @media (min-width: 430px) and (max-width: 830px) {
@@ -817,10 +821,10 @@
   
   <h2 class="tagline">
     {% if page.language == "en" and page.title == "Home" %}
-      Bespoke content<br> without the hassle
+      Bespoke&nbsp;content without the&nbsp;hassle
     {% endif %}
     {% if page.language == "nl" and page.title == "Home" %}
-      Inhoud op maat<br> zonder gedoe
+      Inhoud op&nbsp;maat zonder&nbsp;gedoe
     {% endif %}
     
   </h2>
