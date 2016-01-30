@@ -70,6 +70,7 @@
     color: white;
     border-bottom: none;
     text-align: center;
+    margin: 8px 8px;
   }
   @media (max-width: 430px) {
     body>header p.byline {
@@ -815,7 +816,13 @@
   </header>
   
   <h2 class="tagline">
-    Bespoke content without the hassle
+    {% if page.language == "en" and page.title == "Home" %}
+      Bespoke content<br> without the hassle
+    {% endif %}
+    {% if page.language == "nl" and page.title == "Home" %}
+      Inhoud op maat<br> zonder gedoe
+    {% endif %}
+    
   </h2>
 
   <main>
