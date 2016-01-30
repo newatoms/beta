@@ -36,3 +36,6 @@ layout: section # The template used to render this
 order: 50 # The lowest order is rendered at the top
 ---
 ```
+## [The Content Guide](_insights/en/the-content-guide/)
+
+This guide is an organic document that has to grow and increases quality with time. Did you learn anything which involves creating content? Then this is your space to add your findings. You can of course use it as a source to consult. 
