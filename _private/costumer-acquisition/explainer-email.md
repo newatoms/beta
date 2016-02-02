@@ -2,7 +2,7 @@ Hoi Vera,
 
 Zoals beloofd, hierbij wat informatie over content.supply en het testtraject dat wij graag met jullie zouden willen ingaan!
 
-Content.supply is een app waarmee je een redactieteam kan inhuren en aansturen voor het maken van blog posts. Het doel: Het creëren van hoge kwaliteit content voor zo min mogelijk gedoe. 
+Content.supply is een app waarmee je een redactieteam kan inhuren en aansturen voor het maken van blogposts. Het doel: Het creëren van hoge kwaliteit content voor zo min mogelijk gedoe. 
 
 Hoe werkt de app:
 Door verschillende vragen te beantwoorden wordt er een redactieformule gecreëerd die bepaalt wat voor blogposts we zullen maken.
@@ -19,7 +19,7 @@ Gedurende het gehele proces kunnen jullie ons altijd chatten, bellen of mailen.
 
 Wij hadden de volgende planning bedacht:
 
-1. In de laatste week van februari maken jullie een content.supply account en vullen jullie de configuratie in.
+1. In de laatste week van februari maken jullie een content.supply account aan en vullen jullie de configuratie in.
 
 2. In de eerste week van maart staan de eerste pitches voor de blogposts al klaar. In de tweede week van maart zouden we graag met jullie willen afspreken om het proces en het gebruik van de app te bespreken.
 
