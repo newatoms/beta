@@ -1,11 +1,10 @@
 # Welcoming mail Stby
 
-contact: Ingrid Wendel
-organisation: Stby
+contact: Ingrid Wendel, organisation: Stby
 
-from: helpdesk@newatoms.com
-to: ingrid@stby.eu
-cc: geke@stby.eu
+* to: ingrid@stby.eu
+* cc: geke@stby.eu
+* from: helpdesk@newatoms.com
 
 Beste Ingrid,
 
@@ -19,5 +18,4 @@ Aarzel niet ons te mailen als je nog vragen of opmerkingen hebt.
 
 Met vriendelijke groet,
 
-Thomas de Beus
-content.supply
+Thomas de Beus, content.supply
