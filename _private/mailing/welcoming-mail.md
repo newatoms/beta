@@ -12,9 +12,11 @@ Het is zover. De eerste stappen kunnen gezet worden! Het aanmaken en het configu
 
 Ga naar https://interface.newatoms.com/account/thoughts/configuration, maak een account aan en de rest wijst zich vanzelf.
 
-Deze stap is vooral bedoeld om ons te laten weten wat we voor jullie kunnen maken, en we hopen met de configuratie goede piches te kunnen ontwikkelen.
+Deze stap is vooral bedoeld om ons te laten weten wat we voor jullie kunnen maken, en we hopen met de configuratie goede piches te kunnen ontwikkelen. Je kan deze configuratie uiteraard altijd nog veranderen.
 
-Aarzel niet ons te mailen (helpdesk@newatoms.com) of mij te bellen als je nog vragen of opmerkingen hebt.
+We kijken uit naar het maken van de pitches, en zijn er benieuwd naar of alles goed werkt.
+
+Aarzel niet ons te mailen (helpdesk@newatoms.com) of mij te bellen als je nog vragen of opmerkingen hebt. 
 
 Met vriendelijke groet,
 
