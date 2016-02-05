@@ -8,7 +8,7 @@ Content.supply is een app waarmee je een redactieteam kan inhuren en aansturen v
 De kosten hiervoor zijn normaal €2000 per maand, maar tijdens de beta fase geven we tussen de 80% en 50% korting, afhankelijk van de fase waar we op dat moment in zitten.
 
 Waarom is het maken en uitzetten van content relevant?
-Alles wat je doet en zegt, draagt bij aan hoe mensen je zien. Op he moment dat wat je deelt voort komt uit de relevantie van je organisatie laat je de noodzaak van je bestaan laat zien, bevestig je je kennis én geef je mensen een reden om je content te delen.
+Alles wat je doet en zegt, draagt bij aan hoe mensen je zien. Op he moment dat wat je deelt voort komt uit de relevantie van je organisatie laat je de noodzaak van je bestaan laat zien, bevestig je je kennis én geef je mensen een reden om je content te delen. Content.supply kan deze content voor je maken.
 
 Hoe werkt de app: Door verschillende vragen te beantwoorden wordt er een redactionele formule gecreëerd die ons input geeft om ideeen te pitchen. De goedgekeurde pitches worden uitgewerkt tot items. De goedgekeurde items worden op het door de gebruiker aan gegeven moment en plek uitgezet. Nadat eenmalig het formulier is ingevuld krijgen jullie dus met twee korte acties, pitches en posts approven/rejecten, één blog post per week.
 Tijdens het pitch en maak process is er altijd de mogelijkheid om alles te bespreken via de live chat.
