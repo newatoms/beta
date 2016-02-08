@@ -14,7 +14,7 @@ Normaal krijg je voor €2000 per maand elke week een blogpost maar voor de beta
 
 * Een online tool die de volledige controle geeft over welke ideeën er tot blogposts worden ontwikkeld en wanneer en waar de blogposts online komen. 
 
-* Een redactie team samengesteld uit professionals vanuit verschillende disciplines die samen eigenzinnige en originele content maken die past bij Konnektid. Ons team is ervan overtuigd dat een up-to-date blog met originele posts een waardevolle toevoeging is voor je communicatie.
+* Een redactie team samengesteld uit professionals vanuit verschillende disciplines die samen originele content maken die past bij Konnektid. Ons team is ervan overtuigd dat een up-to-date blog met originele posts een waardevolle toevoeging is voor je communicatie.
 
 Mocht het  jullie ook leuk lijken om samen met ons de derde testfase in te gaan, zouden we al per één mei kunnen beginnen. Als je geïnteresseerd bent sturen we je graag wat meer info toe over de details qua planning, de werking van de app etc..
 
