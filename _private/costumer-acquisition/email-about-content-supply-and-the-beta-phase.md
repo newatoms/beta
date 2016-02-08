@@ -14,20 +14,6 @@ We zouden het heel leuk vinden om samen met jullie content.supply te testen.
 Mochten jullie dat ook willen zouden we al per één mei samen de derde testfase in kunnen gaan. Jullie krijgen dan voor drie maanden een conten.supply abonnement voor €600 p/m. Hier staat tegenover dat jullie drie keer met ons samen komen om feedback te geven en de live chat gebruiken om problemen die je tegenkomt aan te geven.
 We hanteren altijd een niet goed geld terug garantie waarbij je elk moment kan stoppen met het abonnement en het betaalde bedrag voor die maand terug krijgt.
 
-Voor deze periode hebben we de volgende planning bedacht:
-In de laatste week van maart maken jullie een content.supply account aan via de door ons toegestuurde link en vullen jullie de configuratie in.
-
-In de eerste week van april staan de eerste pitches klaar en kunnen jullie bepalen welke wij daarvan gaan uitwerken.
-In de tweede week van maart zouden we graag met jullie willen afspreken om het proces en het gebruik van de app te bespreken.
-
-In de derde week van maart kan de eerste blogpost geplaatst worden. Vanaf dit moment krijgen jullie een blogpost per week gedurende de daarna volgende 3 maanden.
-
-Als de tweede post geplaatst is zouden wij het fijn vinden om weer een uurtje met jullie te zitten.
-
-In mei, juni en de eerste twee weken van juli zullen we een volledige test run doen waarbij alles via de applicatie gaat.
-
-In de derde week van juli zouden we ook graag nog een keer samen komen om te bepreken hoe jullie content.supply over het algemeen hebben ervaren.
-
 Ik hoop je zo genoeg te hebben geïnformeerd en kijk uit naar je reactie!
 
 Hartelijke groet,
