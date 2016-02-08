@@ -15,15 +15,15 @@ Normaal krijg je voor €2000 per maand elke week een blogpost maar voor de beta
 
 * Een online tool die de volledige overzicht en controle geeft over welke van de door ons gecreëerde ideeën er tot blogposts worden ontwikkeld en wanneer deze geplaatst worden. Hierdoor kan jij of een van je collega's zonder moeite als eindredacteur optreden.
 
+
 * Een redactie team samengesteld uit professionals vanuit verschillende disciplines die samen originele content maken die past bij Konnektid. Ons team is ervan overtuigd dat een up-to-date blog met originele posts een waardevolle toevoeging is voor je communicatie.
 
-<<<<<<< HEAD
-Mochten jullie met ons de beta fase in willen gaan dan start deze per 1 mei. Graag sturen we je verdere informatie over de werking van de app, details qua planning, etc..
-=======
-Mocht het  jullie ook leuk lijken om samen met ons de derde testfase in te gaan, zouden we al per één mei kunnen beginnen. Als je geïnteresseerd bent sturen we je graag wat meer info toe over de details qua planning, de werking van de app etc..
->>>>>>> parent of 558e466... feedback
+
+Mocht het  jullie ook leuk lijken om samen met ons de derde testfase in te gaan, zouden we al per 1 mei kunnen beginnen. Als je geïnteresseerd bent sturen we je graag wat meer info toe over de details qua planning, de werking van de app etc..
+
 
 Laat het me maar weten of het je wat lijkt!
+
 
 Hartelijke groet,
 
