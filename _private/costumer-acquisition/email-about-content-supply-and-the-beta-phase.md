@@ -10,7 +10,7 @@ Normaal betaal je voor één blogpost per week €2000 per maand maar voor de be
 
 **Wat krijg je allemaal voor €600,- per maand?**
 
-* Een royalty free artikel per week.
+* Een royalty free artikel per week waar je mee mag doen wat je wilt.
 
 * Een online tool die de volledige controle geeft over welke van de door ons gecreëerde ideeën er tot blogposts worden ontwikkeld en wanneer deze geplaatst worden. 
 
