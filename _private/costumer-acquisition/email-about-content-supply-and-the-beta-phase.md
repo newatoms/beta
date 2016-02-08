@@ -6,7 +6,7 @@ Het doel van content.supply: Het laten creëren van hoge kwaliteit blogposts voo
 
 **70% korting!**
 
-Normaal krijg je voor €2000 per maand elke week een blogpost maar voor de beta fase die we graag met jullie zouden willen ingaan geven we 70% korting voor een periode van drie maanden.
+Normaal krijg je voor €2000 per maand elke week een blogpost maar voor de beta fase die we graag met jullie willen ingaan geven we 70% korting voor een periode van drie maanden.
 
 **Wat krijg je allemaal voor €600,- per maand?**
 
