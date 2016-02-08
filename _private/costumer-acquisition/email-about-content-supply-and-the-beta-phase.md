@@ -4,15 +4,17 @@ We hadden het twee weken geleden over content.supply, hierbij wat meer info!
 
 Content.supply is een app waarmee je een redactieteam kan inhuren en aansturen voor het maken van een blogpost per week. Het doel: Het creëren van hoge kwaliteit content voor zo min mogelijk gedoe.
 
+**70% korting!**
+
 De kosten hiervoor zijn normaal €2000 per maand maar voor de beta fase die we graag met jullie zouden willen ingaan geven we 70% korting voor een periode van drie maanden.
 
-Wat krijg je allemaal voor die €600,- per maand?
+**Wat krijg je allemaal voor die €600,- per maand?**
 
 * Een royalty free artikel  per week waar je mee mag doen wat je wilt.
 
-* Een online tool die jou een volledig overzicht en controle geeft over welke ideeën er worden uitgevoerd en wat, wanneer en waar ze online komen.
+* Een online tool die jou een volledig overzicht en controle geeft over welke ideeën er worden uitgevoerd en wat, wanneer en waar ze online komen. Hiermee stelt het jou in staat om zonder moeite als eindredacteur op te treden.
 
-* Een redactie team samengesteld uit professionals vanuit verschillende disciplines die samen eigenzinnige en originele content maken.
+* Een redactie team samengesteld uit professionals vanuit verschillende disciplines die samen eigenzinnige en originele content maken die past bij jou organisatie. Ons team is er zich van bewust dat een up-to-date blog met originele posts een waardevolle toevoeging is voor marketing doeleinden.
 
 Mocht het  jullie ook leuk lijken om samen met ons de derde testfase in te gaan, zouden we al per één mei kunnen beginnen. Als je geïnteresseerd bent sturen we je graag wat meer info toe over de details qua planning etc..
 
