@@ -12,11 +12,11 @@ De kosten hiervoor zijn normaal €2000 per maand maar voor de beta fase die we 
 
 * Een royalty free artikel  per week waar je mee mag doen wat je wilt.
 
-* Een online tool die jou een volledig overzicht en controle geeft over welke ideeën er worden uitgevoerd en wat, wanneer en waar ze online komen. Hiermee stelt het jou in staat om zonder moeite als eindredacteur op te treden.
+* Een online tool die jou een volledig overzicht en controle geeft over welke ideeën er worden uitgevoerd en wat, wanneer en waar ze online komen. Hiermee stelt het jou of een van je collega's in staat om zonder moeite als eindredacteur op te treden.
 
-* Een redactie team samengesteld uit professionals vanuit verschillende disciplines die samen eigenzinnige en originele content maken die past bij jou organisatie. Ons team is er zich van bewust dat een up-to-date blog met originele posts een waardevolle toevoeging is voor marketing doeleinden.
+* Een redactie team samengesteld uit professionals vanuit verschillende disciplines die samen eigenzinnige en originele content maken die past bij Konnektid. Ons team is er van overtuigd dat een up-to-date blog met originele posts een waardevolle toevoeging is voor je communicatie.
 
-Mocht het  jullie ook leuk lijken om samen met ons de derde testfase in te gaan, zouden we al per één mei kunnen beginnen. Als je geïnteresseerd bent sturen we je graag wat meer info toe over de details qua planning etc..
+Mocht het  jullie ook leuk lijken om samen met ons de derde testfase in te gaan, zouden we al per één mei kunnen beginnen. Als je geïnteresseerd bent sturen we je graag wat meer info toe over de details qua planning, de werking van de app etc..
 
 Laat het me maar weten of het je wat lijkt!
 
