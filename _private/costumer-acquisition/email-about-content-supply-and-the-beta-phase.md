@@ -10,7 +10,7 @@ De kosten hiervoor zijn normaal €2000 per maand maar voor de beta fase die we 
 
 **Wat krijg je allemaal voor €600,- per maand?**
 
-* Een royalty free artikel per week waar je mee mag doen wat je wilt.
+* Een royalty free artikel per week.
 
 * Een online tool die jou een volledig overzicht en controle geeft over welke ideeën er worden uitgevoerd en wat, wanneer en waar ze online komen. Hiermee stelt het jou of een van je collega's in staat om zonder moeite als eindredacteur op te treden.
 
