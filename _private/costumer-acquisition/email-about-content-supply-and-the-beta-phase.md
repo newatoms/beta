@@ -1,8 +1,8 @@
 Hoi Michel!
 
-We hadden het twee weken geleden over content.supply, hierbij wat meer info!
+We hadden het twee weken geleden over content.supply; hierbij wat meer info!
 
-Content.supply is een app waarmee je een redactieteam kan inhuren en aansturen voor het maken van een blogpost per week. Het doel: Het creëren van hoge kwaliteit content voor zo min mogelijk gedoe.
+Content.supply is een app waarmee je een redactieteam kan inhuren en aansturen voor het maken van één blogpost per week. Het doel: Het creëren van hoge kwaliteit content voor zo min mogelijk gedoe.
 
 **70% korting!**
 
