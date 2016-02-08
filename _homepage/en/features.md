@@ -5,6 +5,7 @@ order: 50
 
 # All subscription plans include
 
+- 1 blog post a week. 
 - Great engaging and beautiful content including photography or illustrations.
 - All in the style and language of your choice.
 - Fully royalty free and you have all the copyrights, no strings attached, you own it.
