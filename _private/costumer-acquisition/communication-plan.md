@@ -31,11 +31,22 @@ Content.supply is a easy and pleasant way to act as editor in chief over a remot
 * Referals get rewarded
 Personally make money by helping content.supply
 
-### Notes
+
+## Practice what we preach.
+
+We sell a pleasant way to control the creation of  great content marketing. We could communicate that in the following ways.
+
+### General Communication
+
+Give people a pleasant way to learn about content marketing. Why it is important and how to do it well. By doing this we use content marketing to show the value of content marketing.
+
+* We share all our knowledge about content marketing on content.supply: Why it is relevant and how to use it
+* We share all our sources on content.supply
+*
+
+Help people to make great content by giving them great inspiration sources. For example by having the website and a newsletter as a source. Store all the sources we use for research. Not our insights, but just the sources, and maybe also our blogposts.
+* presentations about content marketing for free
+
+###
+## Ideas
 we need to find a way that we can start with a huge output, that everyone knows what content.supply is, and what its relevance is. This can be done by getting in the media, doing something big on social media.
-
-### Practice what we preach.
-
-We sell a pleasant way to make great content marketing. We could communicate that in the following ways.
-* Give people a pleasant ways to learn about content marketing. Why it is important and how to do it well. by doing this we use content marketing to show the value of content marketing
-* Help people to 
