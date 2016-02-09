@@ -1,6 +1,8 @@
 # STBY
 
-In this document, ideas for STBY pitches.
+In this document, ideas for STBY pitches. The idea of the three sections is that we show what the *Goal* is of the post, then how we're going to achieve this (*Method*) and finally what *outcome* is linked with the pitches.
+
+The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what they'll achieve if the pitch is commissioned and it can provide context. 
 
 ## Pitch 1
 
