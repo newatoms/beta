@@ -14,7 +14,9 @@ We can show a series of success cases in history that made a huge impact on the 
 
 ### Outcome
 
-Create new audience, improve perception, show how good the organization
+* Create new audience
+* Improve perception
+* Show how good the organization
 
 ## Pitch 2
 
@@ -24,7 +26,7 @@ To show how good STBY is in design research
 
 ### Method
 
-We can show research on a small subject
+We can show what research they do in small subjects
 
 ### Outcome
 
@@ -43,6 +45,11 @@ To show the relevance of design research
 
 We can show impact full conclusions and insights drawn from the research and show the physical changes drawn from it.
 
+### Outcome
+
+* Create new audience
+* Improve perception of the organisation
+
 ## Pitch 4
 
 ### Goal
@@ -51,7 +58,7 @@ To show the personal side of standby and show there competence
 
 ### Method
 
-We interview family members about what they think STBY and their employees do, and have achieved
+We interview family members about what they think STBY and their employees do, and have achieved.
 
 ## Pitch 5
 
