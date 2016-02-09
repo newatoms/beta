@@ -70,11 +70,17 @@ We interview a few family members (partners) of employees about what they think 
 
 ### Goal
 
-To create insight in the organization
+To create insight within the organisation
 
 ### Method
 
 We look at the impact of their service of older clients. STBY should suggest which clients we should look at.
+
+### Outcome
+
+* Create insights within the organisation
+* Show how good the product/service is
+* Improve relationship with existing audience
 
 ## Pitch 6
 
