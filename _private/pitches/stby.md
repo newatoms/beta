@@ -26,7 +26,7 @@ To show how good STBY is in design research
 
 ### Method
 
-We can show what research they do in small subjects
+We can show what research they do in small projects.
 
 ### Outcome
 
@@ -43,7 +43,7 @@ To show the relevance of design research
 
 ### Method
 
-We can show impact full conclusions and insights drawn from the research and show the physical changes drawn from it.
+We can show impact full conclusions and insights drawn from the research on everyday objects and show the physical changes
 
 ### Outcome
 
@@ -54,11 +54,17 @@ We can show impact full conclusions and insights drawn from the research and sho
 
 ### Goal
 
-To show the personal side of standby and show there competence
+To show the personal side of standby and show their competence
 
 ### Method
 
-We interview family members about what they think STBY and their employees do, and have achieved.
+We interview a few family members (partners) of employees about what they think STBY is doing and where individual employees are good at.
+
+### Outcome
+
+* Improve perception of the organisation
+* Create insights within the organisation
+* Improve relationship with existing audience
 
 ## Pitch 5
 
