@@ -6,6 +6,7 @@
 
 ### Who are the main users of content.supply
 * Communication & PR personel
+* Director's & CEO's
 * Project managers
 * Communication and Advertisment agencies
 
