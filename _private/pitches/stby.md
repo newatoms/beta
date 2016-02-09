@@ -86,16 +86,13 @@ We look at the impact of their service of older clients. STBY should suggest whi
 
 ### Goal
 
-To show the Necessities of service design
+To show the Necessity of service design
 
 ### Method
 
 We show the impact service design has on every day objects/products.
 
-## Pitch 7
+### Outcome
 
-### Goal
-
-
-
-### Method
+* Create new audience
+* Improve perception of the organisation
