@@ -2,9 +2,9 @@
 
 In this document, ideas for STBY pitches. The idea of the three sections is that we show what the *Goal* is of the post, then how we're going to achieve this (*Method*) and finally what *outcome* is linked with the pitches.
 
-The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It can also provide context. 
+The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It can also provide context.
 
-## Pitch 1
+## Pitch 1:
 
 ### Goal
 
@@ -28,7 +28,7 @@ To show how good STBY is in design research
 
 ### Method
 
-We can show what research they do in small projects.
+We can show what aspects of the research helps small projects going forward.
 
 ### Outcome
 
@@ -45,7 +45,7 @@ To show the relevance of design research
 
 ### Method
 
-We can show impact full conclusions and insights drawn from the research on everyday objects and show the physical changes
+We can show how impact full conclusions and insights drawn from the research and show the physical changes.
 
 ### Outcome
 
