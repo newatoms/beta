@@ -19,37 +19,36 @@ We can show a series of success cases in history that made a huge impact on the 
 * Create new audience
 * Improve perception
 
-## Pitch 2: Good research makes good design possible
+## Pitch 2: Service design examples in everyday objects
 
 ### Goal
 
-To show how good STBY is in design research
+To show the Necessity of service design
 
 ### Method
 
-We can show what aspects of the research helps small projects going forward.
-
-### Outcome
-
-* Show how good the organisation is
-* Show how good the product/service is
-* Improve relationship with existing audience
-* Create insights within the organisation.
-
-## Pitch 3:
-
-### Goal
-
-To show the relevance of design research
-
-### Method
-
-We can show how impact full conclusions and insights drawn from the research and show the physical changes.
+We show the impact service design has on every day objects/products.
 
 ### Outcome
 
 * Create new audience
 * Improve perception of the organisation
+
+## Pitch 3: Past clients revisited
+
+### Goal
+
+To create insight within the organisation
+
+### Method
+
+We look at the impact of their service of older clients. STBY should suggest which clients we should look at.
+
+### Outcome
+
+* Create insights within the organisation
+* Show how good the product/service is
+* Improve relationship with existing audience
 
 ## Pitch 4: What do you think your partner does?
 
@@ -67,33 +66,34 @@ We interview a few family members (partners) of employees about what they think 
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## Pitch 5: Past clients revisited
+## Pitch 5: Physical changes caused by design research
 
 ### Goal
 
-To create insight within the organisation
+To show the relevance of design research
 
 ### Method
 
-We look at the impact of their service of older clients. STBY should suggest which clients we should look at.
-
-### Outcome
-
-* Create insights within the organisation
-* Show how good the product/service is
-* Improve relationship with existing audience
-
-## Pitch 6: Service design examples in everyday objects 
-
-### Goal
-
-To show the Necessity of service design
-
-### Method
-
-We show the impact service design has on every day objects/products.
+We can show how impact full conclusions and insights drawn from the research and show the physical changes.
 
 ### Outcome
 
 * Create new audience
 * Improve perception of the organisation
+
+## Pitch 6: Good research makes good design possible
+
+### Goal
+
+To show how good STBY is in design research
+
+### Method
+
+We can show what aspects of the research helps small projects going forward.
+
+### Outcome
+
+* Show how good the organisation is
+* Show how good the product/service is
+* Improve relationship with existing audience
+* Create insights within the organisation.
