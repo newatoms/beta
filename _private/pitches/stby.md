@@ -17,7 +17,7 @@ We can show a series of success cases in history that made a huge impact on the 
 ### Outcome
 
 * Create new audience
-* Improve perception
+* Improve perception of the organisation
 
 ## Pitch 2: Service design examples in everyday objects
 
@@ -121,11 +121,11 @@ We interview them about their favorite project, why they were interested in the 
 
 ### Goal
 
-To better understand there vision
+To better understand the vision of STBY
 
 ### Method
 
-we show what choices STBY made on accepted projects and the changes they suggested and made
+We show what choices STBY makes when accepting projects. Short interview needed.
 
 ### Outcome
 
@@ -141,7 +141,7 @@ To show what impact STBY can have on our lives
 
 ### Method
 
-We show show changes in projects that can be implemented in every day objects
+We show changes in projects that can be implemented in every day objects.
 
 ### Outcome
 * Create new audience
@@ -160,7 +160,7 @@ To give more insights in what STBY does
 
 ### Method
 
-We can show important steps in their research process
+We can show important steps in their research process.
 
 ### Outcome
 * Give insight in the organization
@@ -177,7 +177,7 @@ To show the relevance of service design
 
 ### Method
 
-We can show new exciting innovations in the field
+We can show new exciting innovations in the field.
 
 ### Outcome
 
