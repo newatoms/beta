@@ -75,7 +75,7 @@ To show the relevance of design research
 
 ### Method
 
-We can show how impact full conclusions and insights drawn from the research and show the physical changes.
+We show how impact full conclusions and insights drawn from the research can be, and show the physical changes that came from these conclusions.
 
 ### Outcome
 
