@@ -185,3 +185,13 @@ We can show new exciting innovations in the field.
 * Improve perception of the organisation
 * Create insights within the organisation
 * Improve relationship with existing audience
+
+
+
+
+**Note:**
+What do they base their research and conclusions on.
+How did they learn to do what they do.
+what methods do they use
+when do you decide when to use what methods
+how did you come to those methods
