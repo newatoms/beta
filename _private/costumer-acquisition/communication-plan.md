@@ -22,7 +22,10 @@ How do we use the website to do this, and how do we get people to the website by
 ## Website
 * Item(s) about the relevance of content marketing
 * Item(s) about the proper use of content marketing
-* A list of all our sources we have quoted and used in our research filtered and searchable by subject.
+* A list of all our sources we have ever quoted or used in our research.
+* Information about our product
+* The option to create a account en formulate the briefing for free
+* The option to activate the account and your payed subscription
 
 ## Traffic to the website
 
