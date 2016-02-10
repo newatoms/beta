@@ -146,7 +146,7 @@ We show show changes in projects that can be implemented in every day objects
 ### Outcome
 * Create new audience
 * Grow existing audience
-* Give insighs in the orgenisation
+* Give insights in the orgenisation
 * Show how good the product is
 * show how good the service or product is
 * Improve relationship with existing audience
@@ -181,7 +181,7 @@ We can show new exciting innovations in the field
 
 ### Outcome
 
-* Greate new audience
-* Improve perception of the organization
+* create new audience
+* Improve perception of the organisation
 * Create insights within the organisation
 * Improve relationship with existing audience
