@@ -17,4 +17,4 @@ Make your own branch. When working on the document, create a pull request for ea
 
 ## User story:
 
-To know what makes good content — As a communication professional — I can get a comprehensive guide to making content.
+To know what makes good content — As a communication professional — I can read a comprehensive guide about content creation.
