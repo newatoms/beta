@@ -29,6 +29,15 @@ How do we use the website to do this, and how do we get people to the website by
 
 ## Traffic to the website
 
+### Paid traffic
+* Google Adwords
+* Youtube commercial
+
+### Organic traffic
+* Youtube video
+* Slide share
+* Free Presentations & Workshops
+
 
 ## Who are the main users of content.supply
 
