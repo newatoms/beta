@@ -18,7 +18,6 @@ We can show a series of success cases in history that made a huge impact on the 
 
 * Create new audience
 * Improve perception
-* Show how good the organization
 
 ## Pitch 2
 
