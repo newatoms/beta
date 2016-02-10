@@ -36,7 +36,7 @@ We can show what aspects of the research helps small projects going forward.
 * Improve relationship with existing audience
 * Create insights within the organisation.
 
-## Pitch 3
+## Pitch 3:
 
 ### Goal
 
@@ -51,7 +51,7 @@ We can show how impact full conclusions and insights drawn from the research and
 * Create new audience
 * Improve perception of the organisation
 
-## Pitch 4: What does your partner do actually and what makes them good at their job you think?  
+## Pitch 4: What do you think your partner does?
 
 ### Goal
 
@@ -59,7 +59,7 @@ To show the personal side of standby and show their competence
 
 ### Method
 
-We interview a few family members (partners) of employees about what they think STBY is doing and where individual employees are good at.
+We interview a few family members (partners) of employees about what they think STBY is doing and why they think individual employees are good at what they do.
 
 ### Outcome
 
