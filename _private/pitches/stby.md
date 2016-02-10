@@ -90,7 +90,7 @@ To show how good STBY is in design research
 
 ### Method
 
-We can show what aspects of the research helps small projects going forward.
+We can show a aspects of the research that helped a projects going forward.
 
 ### Outcome
 
