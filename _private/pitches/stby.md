@@ -160,7 +160,7 @@ To give more insights in what STBY does
 
 ### Method
 
-We can show important steps in their research process.
+We can show important steps in their research process. Interview needed.
 
 ### Outcome
 * Give insight in the organization
@@ -181,7 +181,7 @@ We can show new exciting innovations in the field.
 
 ### Outcome
 
-* create new audience
+* Create new audience
 * Improve perception of the organisation
 * Create insights within the organisation
 * Improve relationship with existing audience
