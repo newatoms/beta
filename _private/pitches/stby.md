@@ -58,7 +58,8 @@ To show the personal side of standby and show their competence
 
 ### Method
 
-We interview a few family members (partners) of employees about what they think STBY is doing and why they think individual employees are good at what they do.
+We interview a family member or partner
+of a employee about what they think STBY is doing and why they think individual employees are good at what they do.
 
 ### Outcome
 
