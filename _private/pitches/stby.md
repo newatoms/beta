@@ -147,8 +147,7 @@ We show changes in projects that can be implemented in every day objects.
 * Create new audience
 * Grow existing audience
 * Give insights in the organisation
-* Show how good the product is
-* show how good the service or product is
+* show how good the service/product is
 * Improve relationship with existing audience
 
 
