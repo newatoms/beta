@@ -169,7 +169,7 @@ We can show important steps in their research process and what other fields coul
 * Grow existing audience
 * Improve relationship with existing audience
 
-## Pitch 10:
+## Pitch 10: New and exciting innovations
 
 ### Goal
 
