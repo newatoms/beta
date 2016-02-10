@@ -9,7 +9,8 @@ Content.supply is a easy and pleasant way to act as editor in chief over a remot
 
 ## Practice what we preach.
 
-Everything we do and say should stimulate the use and quality of content marketing. This way we use content marketing to show the value of content marketing and content.supply
+Everything we do and say should stimulate the use and quality of content marketing. This way we use content marketing to show the value of content marketing and content.supply. This can be done in the following ways.
+
 
 * Show the relevance of content marketing
 * Give insight in how to use content marketing
@@ -30,7 +31,7 @@ Everything we do and say should stimulate the use and quality of content marketi
 
 * Colleagues in the same field who use content.supply
 * Designers working on a project who know about content.supply
-* Employees who worked with conent,supply
+* Employees who worked with conent.supply
 * Random people
 
 ## What organic insentive can we give users to talk about content.supply
