@@ -4,7 +4,7 @@ In this document, ideas for STBY pitches. The idea of the three sections is that
 
 The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It can also provide context.
 
-## Pitch 1:
+## Pitch 1: Impact of service design, a small history.
 
 ### Goal
 
@@ -52,7 +52,7 @@ We can show how impact full conclusions and insights drawn from the research and
 * Create new audience
 * Improve perception of the organisation
 
-## Pitch 4: What does your spouse do actually and what makes them good at their job you think?  
+## Pitch 4: What does your partner do actually and what makes them good at their job you think?  
 
 ### Goal
 
