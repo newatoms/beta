@@ -144,6 +144,7 @@ To show what impact STBY can have on our lives
 We show changes in projects that can be implemented in every day objects.
 
 ### Outcome
+
 * Create new audience
 * Grow existing audience
 * Give insights in the organisation
@@ -151,7 +152,7 @@ We show changes in projects that can be implemented in every day objects.
 * Improve relationship with existing audience
 
 
-## Pitch 9:
+## Pitch 9: Which important steps to make in research
 
 ### Goal
 
@@ -159,9 +160,10 @@ To give more insights in what STBY does
 
 ### Method
 
-We can show important steps in their research process. Interview needed.
+We can show important steps in their research process and what other fields could learn from this. Interview needed.
 
 ### Outcome
+
 * Give insight in the organization
 * Create new audience
 * Grow existing audience
