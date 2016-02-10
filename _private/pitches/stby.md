@@ -83,7 +83,7 @@ We look at the impact of their service of older clients. STBY should suggest whi
 * Show how good the product/service is
 * Improve relationship with existing audience
 
-## Pitch 6
+## Pitch 6: Service design examples in everyday objects 
 
 ### Goal
 
