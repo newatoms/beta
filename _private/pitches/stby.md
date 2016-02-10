@@ -117,7 +117,7 @@ We interview them about their favorite project, why they were interested in the 
 * Create insights within the organisation
 * Create new audience
 
-## Pitch 8:
+## Pitch 8: Describing vision through considerations   
 
 ### Goal
 
@@ -125,7 +125,7 @@ To better understand the vision of STBY
 
 ### Method
 
-We show what choices STBY makes when accepting projects. Short interview needed.
+We show which considerations STBY makes when accepting projects. Short interview needed.
 
 ### Outcome
 
@@ -168,7 +168,6 @@ We can show important steps in their research process. Interview needed.
 * Improve relationship with existing audience
 
 ## Pitch 10:
-
 
 ### Goal
 
