@@ -33,11 +33,13 @@ How do we use the website to do this, and how do we get people to the website by
 * Google Adwords
 * Youtube commercial
 
-### Organic traffic
-* Youtube video
-* Slide share
-* Free Presentations & Workshops
+### Organic traffic using the network of others
+* Public Presentations & Workshops at renown venues
+* Airtime about the relevance of content marketing and the changes it has gone trough
 
+### Organic traffic using our own network
+* Publishing items about the relevance of content marketing trough social media
+* Publishing Items about the proper use of content marketing trough social media
 
 ## Who are the main users of content.supply
 
