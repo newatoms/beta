@@ -19,7 +19,7 @@ We can show a series of success cases in history that made a huge impact on the 
 * Create new audience
 * Improve perception
 
-## Pitch 2
+## Pitch 2: Good research makes good design possible
 
 ### Goal
 
