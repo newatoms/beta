@@ -98,3 +98,90 @@ We can show a aspect of the research that helped a projects going forward.
 * Show how good the product/service is
 * Improve relationship with existing audience
 * Create insights within the organisation.
+
+
+## Pitch 7: Personal thrive
+
+### Goal
+
+To show the personal motivation of the employees
+
+### Method
+
+We interview them about their favorite project, why they were interested in the project and what changes they hoped to aspire
+
+### Outcome
+
+* Show how good the organisation is
+* Improve relationship with existing audience
+* Create insights within the organisation
+* Create new audience
+
+## Pitch 8:
+
+### Goal
+
+To better understand there vision
+
+### Method
+
+we show what choices STBY made on accepted projects and the changes they suggested and made
+
+### Outcome
+
+* Grow existing audience
+* Improve relationship with existing audience
+* Give in sight in the organisation
+
+## Pitch 9:
+
+### Goal
+
+To show what impact STBY can have on our lives
+
+### Method
+
+We show show changes in projects that can be implemented in every day objects
+
+### Outcome
+* Create new audience
+* Grow existing audience
+* Give insighs in the orgenisation
+* Show how good the product is
+* show how good the service or product is
+* Improve relationship with existing audience
+
+
+## Pitch 9:
+
+### Goal
+
+To give more insights in what STBY does
+
+### Method
+
+We can show important steps in their research process
+
+### Outcome
+* Give insight in the organization
+* Create new audience
+* Grow existing audience
+* Improve relationship with existing audience
+
+## Pitch 10:
+
+
+### Goal
+
+To show the relevance of service design
+
+### Method
+
+We can show new exciting innovations in the field
+
+### Outcome
+
+* Greate new audience
+* Improve perception of the organization
+* Create insights within the organisation
+* Improve relationship with existing audience
