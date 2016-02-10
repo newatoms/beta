@@ -1,6 +1,6 @@
 # STBY
 
-In this document, ideas for STBY pitches. The idea of the three sections is that we show what the *Goal* is of the post, then how we're going to achieve this (*Method*) and finally what *outcome* is linked with the pitches.
+In this document, ideas for STBY pitches. The idea of the three sections is that we show what the *Goal* is of the post, then how we're going to achieve this (*Method*) and finally what *outcome* is linked to the pitches.
 
 The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It can also provide context.
 
@@ -12,7 +12,7 @@ To make it clear and understandable what service design is
 
 ### Method
 
-We can show a series of success cases in history that made a huge impact on the field.
+We can show a series of success cases in history that made a huge impact on the field. STBY can make suggestions.
 
 ### Outcome
 
@@ -52,7 +52,7 @@ We can show how impact full conclusions and insights drawn from the research and
 * Create new audience
 * Improve perception of the organisation
 
-## Pitch 4
+## Pitch 4: What does your spouse do actually and what makes them good at their job you think?  
 
 ### Goal
 
