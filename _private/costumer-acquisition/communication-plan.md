@@ -9,7 +9,7 @@ Content.supply is a easy and pleasant way to act as editor in chief over a remot
 
 ## Practice what we preach.
 
-**Everything** we do and say should stimulate the use and quality of content marketing. This way we use content marketing to show the value of content marketing and content.supply. This can be done in the following ways.
+**Everything** we do and say should stimulate the use and **quality** of content marketing. This way we use content marketing to show the value of content marketing and content.supply. This can be done in the following ways.
 
 
 * Show the relevance of content marketing
@@ -17,23 +17,20 @@ Content.supply is a easy and pleasant way to act as editor in chief over a remot
 * Helping to create high quality content
 
 
-How do we use the website to do this, and how do we get people to the website by doing this.
 
 ## Website
-What can we do on our website to stimulate the use of content marketing and the quality of the content.
-* Item(s) about the relevance of content marketing.
-* Item(s) about the use of content marketing.
-* Items about high quality content.
-* Items about the creation of high quality content.
-* A list of all our sources we have ever quoted or used in our research.
-* A list of all our sources for inspiration.
-* Information about our product.
+To stimulate the use of content marketing and the quality of the content we can make the website a place where team members and outsiders are be able to develop themselves in use of content marketing and the creation of content.
+
+* A item about the relevance of content marketing.
+* A item about the uses of content marketing.
+* A stream of items that help you create the best content
+ that you can make.
 * The option to create a account en formulate the briefing for free.
-* The option to create a account and use our interface.
 * The option to activate the account and your payed subscription.
-* The option to create a account and use our interface.
+
 
 ## Traffic to the website
+How can we get people to our website by stimulating the use of content marketing and the quality of the content.
 
 ### Paid traffic
 * Google Adwords
@@ -44,8 +41,8 @@ What can we do on our website to stimulate the use of content marketing and the 
 * Airtime on radio & T.V
 
 ### Organic traffic using our own network
-* Publishing items about the relevance of content marketing trough social media
-* Publishing Items about the proper use of content marketing trough social media
+* Publishing Items trough social media
+* Publishing a news letter
 
 ## Social media
 
