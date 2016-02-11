@@ -25,6 +25,7 @@ How do we use the website to do this, and how do we get people to the website by
 * A list of all our sources we have ever quoted or used in our research.
 * Information about our product
 * The option to create a account en formulate the briefing for free
+* The option to create a account and use our interface for free
 * The option to activate the account and your payed subscription
 
 ## Traffic to the website
@@ -34,8 +35,8 @@ How do we use the website to do this, and how do we get people to the website by
 * Youtube commercial
 
 ### Organic traffic using the network of others
-* Public Presentations & Workshops at renown venues
-* Airtime about the relevance of content marketing and the changes it has gone trough
+* Public Presentations & Workshops at renown venues.
+* Airtime on radio & T.V§
 
 ### Organic traffic using our own network
 * Publishing items about the relevance of content marketing trough social media
