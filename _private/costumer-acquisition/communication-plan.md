@@ -36,11 +36,33 @@ How do we use the website to do this, and how do we get people to the website by
 
 ### Organic traffic using the network of others
 * Public Presentations & Workshops at renown venues.
-* Airtime on radio & T.V§
+* Airtime on radio & T.V
 
 ### Organic traffic using our own network
 * Publishing items about the relevance of content marketing trough social media
 * Publishing Items about the proper use of content marketing trough social media
+
+## Social media
+
+### Positives
+* Easy way to reach a lot of people at once
+* Easy to create a constant flow of Communication
+* Best place to use and test content marketing
+
+
+### Negatives
+* Necessity to publish multiple items per week.
+* Hard to create constant communication without becoming hollow.
+
+
+### Uses
+
+* Share items we made for clients, generating traffic for them and showing our work.
+* Test and show the effectiveness of activity on social, make it interactive
+* Publish our findings on content marketing, only works if we use our website as a Blog. which fits our m.o.
+
+### Best channels
+
 
 ## Who are the main users of content.supply
 
@@ -49,6 +71,7 @@ How do we use the website to do this, and how do we get people to the website by
 * Director's & CEO's
 * Project managers
 * Communication and Advertisement agencies
+
 
 ## From who do  users hear about content.supply
 
@@ -70,3 +93,7 @@ How do we use the website to do this, and how do we get people to the website by
 
 * Referrals get rewarded
 Personally make money by helping content.supply
+
+
+**Notes:** De we keep developing ourselfs in content marketing? If it is about adding relevance, we should develop ourselfs in ways to be rellavant.
+We should write stuf about how to write propperly. How to decide what to write, where to find your info, and how to write. Workflows, tips, etc. All aspects of creating content. This is about the quality of the content of content marketing. So there are three parts, **how to decide what to write, how to write it and how to distribute it.** 
