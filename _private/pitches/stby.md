@@ -1,4 +1,4 @@
-# STBY
+# STBY - Pitches
 
 In this document, ideas for STBY pitches. The idea of the three sections is that we show what the *Goal* is of the post, then how we're going to achieve this (*Method*) and finally what *outcome* is linked to the pitches.
 
