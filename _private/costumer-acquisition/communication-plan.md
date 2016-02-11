@@ -14,19 +14,20 @@ Content.supply is a easy and pleasant way to act as editor in chief over a remot
 
 * Show the relevance of content marketing
 * Give insight in how to use content marketing
-* Helping to create content marketing by giving tools and sources
+* Helping to create high quality content
 
 
 How do we use the website to do this, and how do we get people to the website by doing this.
 
 ## Website
-* Item(s) about the relevance of content marketing
-* Item(s) about the proper use of content marketing
+* Item(s) about the relevance of content marketing.
+* Item(s) about the use of content marketing.
+* Items about the creation of content.
 * A list of all our sources we have ever quoted or used in our research.
-* Information about our product
-* The option to create a account en formulate the briefing for free
-* The option to create a account and use our interface for free
-* The option to activate the account and your payed subscription
+* Information about our product.
+* The option to create a account en formulate the briefing for free.
+* The option to activate the account and your payed subscription.
+* The option to create a account and use our interface for free.
 
 ## Traffic to the website
 
@@ -95,5 +96,7 @@ How do we use the website to do this, and how do we get people to the website by
 Personally make money by helping content.supply
 
 
-**Notes:** De we keep developing ourselfs in content marketing? If it is about adding relevance, we should develop ourselfs in ways to be rellavant.
-We should write stuf about how to write propperly. How to decide what to write, where to find your info, and how to write. Workflows, tips, etc. All aspects of creating content. This is about the quality of the content of content marketing. So there are three parts, **how to decide what to write, how to write it and how to distribute it.** 
+**Notes:** De we keep developing ourselves in content marketing? If it is about adding relevance, we should develop ourselves in ways to be relevant.
+We should write stuf about how to write propperly. How to decide what to write, where to find your info, and how to write. Workflows, tips, etc. All aspects of creating content. This is about the quality of the content of content marketing. So there are four parts, **The importance to create, how to decide what to create, how to create it and how to distribute it.**
+
+Everything we do is focused on showing the relevance of content marketing and stimulating the
