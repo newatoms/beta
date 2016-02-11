@@ -67,7 +67,23 @@ of a employee about what they think STBY is doing and why they think individual 
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## Pitch 5: Physical changes caused by design research
+## Pitch 5:  
+
+### Goal
+
+To show what careers are behind it takes to be a good service/research designer at STBY
+
+### Method
+
+We give a fun resume analysis/overview of all employees combined.
+
+### Outcome
+
+* Show how good the organisation is
+* Improve perception of the organisation
+* Create insights within the organisation
+
+## Pitch 6: Physical changes caused by design research
 
 ### Goal
 
@@ -82,7 +98,7 @@ We show how impact full conclusions and insights drawn from the research can be,
 * Create new audience
 * Improve perception of the organisation
 
-## Pitch 6: Good research makes good design possible
+## Pitch 7: Good research makes good design possible
 
 ### Goal
 
@@ -100,7 +116,7 @@ We can show a aspect of the research that helped a projects going forward.
 * Create insights within the organisation.
 
 
-## Pitch 7: Personal thrive
+## Pitch 8: Personal thrive
 
 ### Goal
 
@@ -117,7 +133,7 @@ We interview them about their favorite project, why they were interested in the 
 * Create insights within the organisation
 * Create new audience
 
-## Pitch 8: Describing vision through considerations   
+## Pitch 9: Describing vision through considerations   
 
 ### Goal
 
@@ -133,7 +149,7 @@ We show which considerations STBY makes when accepting projects. Short interview
 * Improve relationship with existing audience
 * Give in sight in the organisation
 
-## Pitch 9:
+## Pitch 10:
 
 ### Goal
 
@@ -152,7 +168,7 @@ We show changes in projects that can be implemented in every day objects.
 * Improve relationship with existing audience
 
 
-## Pitch 9: Which important steps to make in research
+## Pitch 11: Which important steps to make in research
 
 ### Goal
 
@@ -169,7 +185,7 @@ We can show important steps in their research process and what other fields coul
 * Grow existing audience
 * Improve relationship with existing audience
 
-## Pitch 10: New and exciting innovations
+## Pitch 12: New and exciting innovations
 
 ### Goal
 
@@ -186,21 +202,7 @@ We can show new exciting innovations in the field.
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## Pitch 11:  
 
-### Goal
-
-To show what careers are behind it takes to be a good service/research designer at STBY
-
-### Method
-
-We give a fun resume analysis/overview of all employees combined.
-
-### Outcome
-
-* Show how good the organisation is
-* Improve perception of the organisation
-* Create insights within the organisation
 
 
 
