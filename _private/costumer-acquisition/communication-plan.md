@@ -20,14 +20,18 @@ Content.supply is a easy and pleasant way to act as editor in chief over a remot
 How do we use the website to do this, and how do we get people to the website by doing this.
 
 ## Website
+What can we do on our website to stimulate the use of content marketing and the quality of the content.
 * Item(s) about the relevance of content marketing.
 * Item(s) about the use of content marketing.
-* Items about the creation of content.
+* Items about high quality content.
+* Items about the creation of high quality content.
 * A list of all our sources we have ever quoted or used in our research.
+* A list of all our sources for inspiration.
 * Information about our product.
 * The option to create a account en formulate the briefing for free.
+* The option to create a account and use our interface.
 * The option to activate the account and your payed subscription.
-* The option to create a account and use our interface for free.
+* The option to create a account and use our interface.
 
 ## Traffic to the website
 
