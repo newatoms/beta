@@ -19,7 +19,7 @@ Content.supply is a easy and pleasant way to act as editor in chief over a remot
 
 
 ## Website
-To stimulate the use of content marketing and the quality of the content we can make the website a place where team members and outsiders are be able to develop themselves in use of content marketing and the creation of content.
+To stimulate the use of content marketing and the quality of the content we can make the website a place where team members and outsiders are able to develop themselves in the use of content marketing and the creation of content.
 
 * A item about the relevance of content marketing.
 * A item about the uses of content marketing.
@@ -60,8 +60,7 @@ How can we get people to our website by stimulating the use of content marketing
 ### Uses
 
 * Share items we made for clients, generating traffic for them and showing our work.
-* Test and show the effectiveness of activity on social, make it interactive
-* Publish our findings on content marketing, only works if we use our website as a Blog. which fits our m.o.
+* Publish new items on the website.
 
 ### Best channels
 
