@@ -186,6 +186,21 @@ We can show new exciting innovations in the field.
 * Create insights within the organisation
 * Improve relationship with existing audience
 
+## Pitch 11:  
+
+### Goal
+
+To show what careers are behind it takes to be a good service/research designer at STBY
+
+### Method
+
+We give a fun resume analysis/overview of all employees combined.
+
+### Outcome
+
+* Show how good the organisation is
+* Improve perception of the organisation
+* Create insights within the organisation
 
 
 
