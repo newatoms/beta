@@ -12,7 +12,7 @@ To make it clear and understandable what service design is
 
 ### Method
 
-We can show the success case about the signage at Schiphol airport that made a huge impact on how we can manage large flows of people. This could be a series and you can make suggestions. 
+We can show the success case about the signage at Schiphol airport that made a huge impact on how we can manage large flows of people. This could be a series and you can make suggestions.
 
 ### Outcome
 
@@ -23,11 +23,11 @@ We can show the success case about the signage at Schiphol airport that made a h
 
 ### Goal
 
-To show the Necessity of service design
+To show the necessity of service design
 
 ### Method
 
-We create a very simple but comprehensive explanatory of what service design is. What impact does service design has on every day objects/products?
+We create a very simple but comprehensive explanatory of what service design is. We show what impact service design has had on every day objects. For example: from a basic wooden tool to a stabilizing spoon for parkinson patients.
 
 ### Outcome
 
@@ -42,7 +42,7 @@ To create insight within the organisation
 
 ### Method
 
-We look at the impact that STBY had on past clients/products/services. It would be good if STBY could suggest which clients to look at.
+We look at the impact that STBY had on past clients/products/services. It would be good if you could suggest a client to look at.
 
 ### Outcome
 
@@ -74,7 +74,7 @@ To show what careers are behind STBY and to show what it takes to be a good serv
 
 ### Method
 
-We give a fun anonymous resume analysis/overview of all employees combined. Done studies, talents, hobbies etc.
+We give a fun anonymous resume analysis/overview of all employees combined with information from LinkedIn. Done studies, talents, hobbies etc.
 
 
 ### Outcome
