@@ -14,4 +14,4 @@ To stimulate the quality of content marketing we can make
 
 ## A stream of items that help you create the best content that you can make.
 To stimulate the quality of the content used we can make
-* a blog were we publish all the things we have learned about creating content as developers from a personal perspective
+* a blog where we publish all the things we have learned about creating content as developers from a personal perspective
