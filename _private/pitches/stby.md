@@ -27,7 +27,7 @@ To show the Necessity of service design
 
 ### Method
 
-We show the impact service design has on every day objects/products.
+We create a very simple explanatory of what service design is. What impact does service design has on every day objects/products? 
 
 ### Outcome
 
