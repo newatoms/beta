@@ -42,7 +42,7 @@ To create insight within the organisation
 
 ### Method
 
-We look at the impact of their service of older clients. STBY should suggest which clients we should look at.
+We look at the impact that STBY had on past clients/products/services. It would be good if STBY could suggest which clients to look at.
 
 ### Outcome
 
@@ -58,8 +58,7 @@ To show the personal side of standby and show their competence
 
 ### Method
 
-We interview a family member or partner
-of a employee about what they think STBY is doing and why they think individual employees are good at what they do.
+We interview a family member or partner of an employee about what they think STBY is doing and why they think individual employees are good at what they do.
 
 ### Outcome
 
