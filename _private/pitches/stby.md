@@ -67,15 +67,16 @@ of a employee about what they think STBY is doing and why they think individual 
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## Pitch 5:  
+## Pitch 5: A fun analysis of combined talents   
 
 ### Goal
 
-To show what careers are behind it takes to be a good service/research designer at STBY
+To show what careers are behind STBY and to show what it takes to be a good service/research designer
 
 ### Method
 
-We give a fun resume analysis/overview of all employees combined.
+We give a fun anonymous resume analysis/overview of all employees combined. Done studies, talents, hobbies etc. 
+
 
 ### Outcome
 
