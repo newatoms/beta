@@ -107,7 +107,7 @@ To show how good STBY is in design research
 
 ### Method
 
-We can show a aspect of the research that helped a projects going forward.
+We can show an aspect of the research that helped a project going forward.
 
 ### Outcome
 
@@ -125,7 +125,7 @@ To show the personal motivation of the employees
 
 ### Method
 
-We interview them about their favorite project, why they were interested in the project and what changes they hoped to aspire
+We interview them about their favorite project, why they were interested in the project and what changes they hoped to aspire.
 
 ### Outcome
 
