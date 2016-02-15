@@ -12,7 +12,7 @@ To make it clear and understandable what service design is
 
 ### Method
 
-We can show a series of success cases in history that made a huge impact on the field. STBY can make suggestions.
+We can show the success case about the signage at Schiphol airport that made a huge impact on how we can manage large flows of people. This could be a series and you can make suggestions. 
 
 ### Outcome
 
@@ -91,7 +91,7 @@ To show the relevance of design research
 
 ### Method
 
-We describe how impact full conclusions and insights drawn from the research of best practices can be, and show the physical changes that came from these conclusions. For example: The story behind the unique way of signage at Schiphol airport.
+We describe how impact full conclusions and insights drawn from the research of best practices can be, and show the physical changes that came from these conclusions.
 
 ### Outcome
 
