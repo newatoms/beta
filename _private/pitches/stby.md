@@ -92,7 +92,7 @@ To show the relevance of design research
 
 ### Method
 
-We describe how impact full conclusions and insights drawn from the research of best practices can be, and show the physical changes that came from these conclusions.
+We describe how impact full conclusions and insights drawn from the research of best practices can be, and show the physical changes that came from these conclusions. For example: The story behind the unique way of signage at Schiphol airport.
 
 ### Outcome
 
