@@ -75,7 +75,7 @@ To show what careers are behind STBY and to show what it takes to be a good serv
 
 ### Method
 
-We give a fun anonymous resume analysis/overview of all employees combined. Done studies, talents, hobbies etc. 
+We give a fun anonymous resume analysis/overview of all employees combined. Done studies, talents, hobbies etc.
 
 
 ### Outcome
@@ -92,7 +92,7 @@ To show the relevance of design research
 
 ### Method
 
-We show how impact full conclusions and insights drawn from the research can be, and show the physical changes that came from these conclusions.
+We describe how impact full conclusions and insights drawn from the research of best practices can be, and show the physical changes that came from these conclusions.
 
 ### Outcome
 
