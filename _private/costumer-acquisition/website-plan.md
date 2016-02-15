@@ -1,5 +1,7 @@
 ### Website
 
+In this documents ideas about the content of the website.
+
 To stimulate the use of content marketing and the quality of the content, we can make the website a place where team members and outsiders are able to develop themselves in the use of content marketing and the creation of content.
 
 ## A item about the relevance of content marketing.
