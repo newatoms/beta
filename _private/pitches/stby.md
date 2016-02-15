@@ -74,7 +74,7 @@ To show what careers are behind STBY and to show what it takes to be a good serv
 
 ### Method
 
-We give a fun anonymous resume analysis/overview of all employees combined with information from LinkedIn. Done studies, talents, hobbies etc.
+We give a fun anonymous resume analysis/overview of all employees combined with information from LinkedIn. Done studies, talents etc.
 
 
 ### Outcome
@@ -199,6 +199,21 @@ We can show new exciting innovations in the field.
 * Create new audience
 * Improve perception of the organisation
 * Create insights within the organisation
+* Improve relationship with existing audience
+
+## Pitch 13:
+
+### Goal
+
+To better understand the key differences between service design and design research
+
+### Methods
+
+we use a fictional case to show that service design and design research both have the main goal of optimising user effectiveness. Whereas service design is about functionality and design research is more about the physical appearance. We'll also show how they both compliment each other.      
+
+### Outcome
+
+* Create new audience
 * Improve relationship with existing audience
 
 
