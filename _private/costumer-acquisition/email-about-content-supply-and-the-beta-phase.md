@@ -4,6 +4,8 @@ We hadden het twee weken geleden over content.supply, hierbij wat meer info!
 
 Content.supply is een app waarmee je een redactieteam kan inhuren en aansturen voor het maken van één blogpost per week. Het doel: Het creëren van hoge kwaliteit content voor zo min mogelijk gedoe.
 
+Wij zouden vooral willen schrijven over wat jullie drijfveer is, in plaats van over wat jullie letterlijk doen.  Zo zouden we bijvoorbeeld kunnen schrijven over het belang van biologisch eten, de invloed van gezond eten op je energie en gemoedstoestand, de oorsprong van biologische ingrediënten, de invloed van Beter Bio op het leven van jullie klanten, enzovoorts! Door de relevantie van biologisch eten te laten zien ben je altijd interessant voor je doelgroep, ongeacht of ze op dat moment een abonnement van je willen afnemen. Zo weten ze wie je bent op het moment dat ze het wel willen!
+
 **70% korting!**
 
 
