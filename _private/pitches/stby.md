@@ -150,7 +150,7 @@ We show which considerations STBY makes when accepting projects. Short interview
 * Improve relationship with existing audience
 * Give in sight in the organisation
 
-## Pitch 10:
+## Pitch 10: Service/research design in everyday objects
 
 ### Goal
 
@@ -167,7 +167,6 @@ We show changes in projects that can be implemented in every day objects.
 * Give insights in the organisation
 * show how good the service/product is
 * Improve relationship with existing audience
-
 
 ## Pitch 11: Which important steps to make in research
 
@@ -204,12 +203,7 @@ We can show new exciting innovations in the field.
 * Improve relationship with existing audience
 
 
-
-
-
 **Note:**
-What do they base their research and conclusions on.
-How did they learn to do what they do.
 what methods do they use
 when do you decide when to use what methods
 how did you come to those methods
