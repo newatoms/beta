@@ -4,7 +4,7 @@ In this document, ideas for STBY pitches. The idea of the three sections is that
 
 The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It can also provide context.
 
-## Pitch 1: Impact of service design, a small history.
+## #1 Impact of service design Schiphol airport.
 
 ### Goal
 
@@ -12,14 +12,17 @@ To make it clear and understandable what service design is
 
 ### Method
 
-We can show the success case about the signage at Schiphol airport that made a huge impact on how we can manage large flows of people. This could be a series and you can make suggestions.
+We can show the success case about the signage at Schiphol airport that made a huge impact on how we can manage and accommodate the needs of large flows of people.
+
+> This could be a series and you can make suggestions.
 
 ### Outcome
 
 * Create new audience
 * Improve perception of the organisation
+* Improve relationship with existing audience
 
-## Pitch 2: Service design examples in everyday objects
+## #2 Service design examples in everyday objects
 
 ### Goal
 
@@ -27,14 +30,15 @@ To show the necessity of service design
 
 ### Method
 
-We create a very simple but comprehensive explanatory of what service design is. We show what impact service design has had on every day objects. For example: from a basic wooden tool to a stabilizing spoon for parkinson patients.
+We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on every day objects, using basic wooden tool to a stabilizing spoon for parkinson patients as an example.
 
 ### Outcome
 
 * Create new audience
 * Improve perception of the organisation
+* Improve relationship with existing audience
 
-## Pitch 3: Past clients revisited
+## #3 Past clients revisited
 
 ### Goal
 
@@ -42,19 +46,22 @@ To create insight within the organisation
 
 ### Method
 
-We look at the impact that STBY had on past clients/products/services. It would be good if you could suggest a client to look at.
+We look at the impact that STBY had on past clients/products/services.
+
+> It would be good if you could suggest a client to look at.
 
 ### Outcome
 
 * Create insights within the organisation
 * Show how good the product/service is
 * Improve relationship with existing audience
+* Create new audience
 
-## Pitch 4: What do you think your partner does?
+## #4 What do you think your partner does?
 
 ### Goal
 
-To show the personal side of standby and show their competence
+To show the personal side of standby and their competence
 
 ### Method
 
@@ -74,8 +81,7 @@ To show what careers are behind STBY and to show what it takes to be a good serv
 
 ### Method
 
-We give a fun anonymous resume analysis/overview of all employees combined with information from LinkedIn. Done studies, talents etc.
-
+We give a fun anonymous resume analysis/overview of all employees combined with information from LinkedIn.
 
 ### Outcome
 
