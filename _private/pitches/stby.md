@@ -77,11 +77,11 @@ We interview a family member or partner of an employee about what they think STB
 
 ### Goal
 
-To show what careers are behind STBY and to show what it takes to be a good service/research designer
+To show what it takes to be a good service/research designer
 
 ### Method
 
-We give a fun anonymous resume analysis/overview of all employees combined with information from LinkedIn.
+We give a fun anonymous resume analysis/overview of all employees using information from LinkedIn.
 
 ### Outcome
 
