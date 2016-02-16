@@ -42,13 +42,13 @@ We create a very simple but comprehensive explanatory of what service design is.
 
 ### Goal
 
-To create insight within the organisation
+To show the long term effects of investing in service design
 
 ### Method
 
 We look at the impact that STBY had on past clients/products/services.
 
-> It would be good if you could suggest a client to look at.
+> Please suggest a client.
 
 ### Outcome
 
