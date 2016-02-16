@@ -125,7 +125,7 @@ We can show a research technique that helped a project going forward.
 * Create new audience
 
 
-##  #8 Personal thrive
+##  #8 Personal drive
 
 ### Goal
 
@@ -133,7 +133,7 @@ To show the personal motivation of the employees
 
 ### Method
 
-We interview them about their favorite project, why they were interested in the project and what changes they hoped to aspire.
+We interview them about their favorite project, what roadblocks they've faced, why they want to work at STBY and what changes they hope to aspire.
 
 > Interview is needed
 
