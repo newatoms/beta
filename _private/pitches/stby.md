@@ -108,13 +108,13 @@ we use disposable objects as an example to show what you can accomplish with goo
 
 ### Goal
 
-To show how good STBY is in design research
+To develop understand into the process of service design
 
 ### Method
 
-We can show an aspect of the research that helped a project going forward.
+We can show a research technique that helped a project going forward.
 
-> we will need input for this
+> We will need input for this
 
 ### Outcome
 
@@ -245,6 +245,7 @@ We discuss cases where the producers were and were not aware of the needs of the
 ### Outcome
 * Create new audience
 * Improve relationship with existing audience
+
 
 
 **Note:**
