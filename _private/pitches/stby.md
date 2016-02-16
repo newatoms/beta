@@ -240,7 +240,7 @@ we use a fictional case to show that service design and design research both hav
 To show how important it is to connect with you user base
 
 ### Methods
-We discuss cases where the producers were and were not aware of the needs of the user and argue the reasons for it. We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) or [trust me i'm an engineer](http://9gag.com/gag/6494774) examples.
+We discuss cases where the designers were and were not aware of the needs of the user. We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) or [trust me i'm an engineer](http://9gag.com/gag/6494774) examples.
 
 ### Outcome
 * Create new audience
