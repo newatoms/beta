@@ -144,7 +144,7 @@ We interview them about their favorite project, what roadblocks they've faced, w
 * Create insights within the organisation
 * Create new audience
 
-## #9 Describing vision through considerations   
+## #9 Describing vision through choice of projects   
 
 ### Goal
 
@@ -160,7 +160,7 @@ We show which considerations STBY makes when accepting projects.
 
 * Grow existing audience
 * Improve relationship with existing audience
-* Give in sight in the organisation
+* Give insight in the organisation
 
 ## #10 Service/research design in everyday objects
 
