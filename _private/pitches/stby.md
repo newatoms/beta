@@ -61,7 +61,7 @@ We look at the impact that STBY had on past clients/products/services.
 
 ### Goal
 
-To show the personal side of standby and their competence
+To show the qualities of the people you'll work with when you hire STBY
 
 ### Method
 
