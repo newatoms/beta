@@ -2,9 +2,9 @@
 
 In this document, ideas for STBY pitches. The idea of the three sections is that we show what the *Goal* is of the post, then how we're going to achieve this (*Method*) and finally what *outcome* is linked to the pitches.
 
-The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It can also provide context.
+The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It̨ can also provide context.
 
-## #1 Impact of service design Schiphol airport.
+## #1 Schiphol airport's use of service design.
 
 ### Goal
 
@@ -12,9 +12,9 @@ To make it clear and understandable what service design is
 
 ### Method
 
-We can show the success case about the signage at Schiphol airport that made a huge impact on how we can manage and accommodate the needs of large flows of people.
+We can show the success case of Schiphol airport's use of signage that allowed them to manage large flows of people.
 
-> This could be a series and you can make suggestions.
+> We could make a series of success cases in service design.
 
 ### Outcome
 
