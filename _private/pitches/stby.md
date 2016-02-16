@@ -2,9 +2,9 @@
 
 In this document, ideas for STBY pitches. The idea of the three sections is that we show what the *Goal* is of the post, then how we're going to achieve this (*Method*) and finally what *outcome* is linked to the pitches.
 
-The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It can also provide context.
+The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It̨ can also provide context.
 
-## #1 Impact of service design Schiphol airport.
+## #1 Schiphol airport's use of service design.
 
 ### Goal
 
@@ -12,9 +12,9 @@ To make it clear and understandable what service design is
 
 ### Method
 
-We can show the success case about the signage at Schiphol airport that made a huge impact on how we can manage and accommodate the needs of large flows of people.
+We can show the success case of Schiphol airport's use of signage that allowed them to manage large flows of people.
 
-> This could be a series and you can make suggestions.
+> We could make a series of success cases in service design.
 
 ### Outcome
 
@@ -30,7 +30,7 @@ To show the necessity of service design
 
 ### Method
 
-We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on every day objects, using basic wooden tool to a stabilizing spoon for parkinson patients as an example.
+We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on everyday objects by using the development of the stabilizing spoon for parkinson patients.
 
 ### Outcome
 
@@ -42,13 +42,13 @@ We create a very simple but comprehensive explanatory of what service design is.
 
 ### Goal
 
-To create insight within the organisation
+To show the long term effects of service design
 
 ### Method
 
 We look at the impact that STBY had on past clients/products/services.
 
-> It would be good if you could suggest a client to look at.
+> Please suggest a client.
 
 ### Outcome
 
@@ -61,7 +61,7 @@ We look at the impact that STBY had on past clients/products/services.
 
 ### Goal
 
-To show the personal side of standby and their competence
+To show the qualities of the people working at STBY
 
 ### Method
 
@@ -77,11 +77,11 @@ We interview a family member or partner of an employee about what they think STB
 
 ### Goal
 
-To show what careers are behind STBY and to show what it takes to be a good service/research designer
+To show the diversity and competence of STBY
 
 ### Method
 
-We give a fun anonymous resume analysis/overview of all employees combined with information from LinkedIn.
+We give a fun anonymous resume analysis/overview of all employees using information from LinkedIn.
 
 ### Outcome
 
@@ -108,13 +108,13 @@ we use disposable objects as an example to show what you can accomplish with goo
 
 ### Goal
 
-To show how good STBY is in design research
+To develop understanding into the process of service design
 
 ### Method
 
-We can show an aspect of the research that helped a project going forward.
+We can show a research technique that helped a project going forward.
 
-> we will need input for this
+> We will need input for this
 
 ### Outcome
 
@@ -125,7 +125,7 @@ We can show an aspect of the research that helped a project going forward.
 * Create new audience
 
 
-##  #8 Personal thrive
+##  #8 Personal drive
 
 ### Goal
 
@@ -133,7 +133,7 @@ To show the personal motivation of the employees
 
 ### Method
 
-We interview them about their favorite project, why they were interested in the project and what changes they hoped to aspire.
+We interview them about their favorite project. What roadblocks they faced and what changes they hoped to aspire.
 
 > Interview is needed
 
@@ -144,7 +144,7 @@ We interview them about their favorite project, why they were interested in the 
 * Create insights within the organisation
 * Create new audience
 
-## #9 Describing vision through considerations   
+## #9 Describing vision through choice of projects   
 
 ### Goal
 
@@ -160,7 +160,7 @@ We show which considerations STBY makes when accepting projects.
 
 * Grow existing audience
 * Improve relationship with existing audience
-* Give in sight in the organisation
+* Give insight in the organisation
 
 ## #10 Service/research design in everyday objects
 
@@ -182,15 +182,15 @@ We show changes in projects that can be implemented in every day objects.
 * show how good the service/product is
 * Improve relationship with existing audience
 
-## #11 Which important steps to make in research
+## #11 How to do research for service design
 
 ### Goal
 
-To give more insights in what STBY does
+To give more insights into the research behind service design
 
 ### Method
 
-We can show important steps in their research process and what other fields could learn from this.
+We can show important steps in STBY's research process and what other fields could learn from them.
 
 > Interview or additional information needed.
 
@@ -209,7 +209,7 @@ To show the relevance of service design
 
 ### Method
 
-We can show new exciting innovations in the field, and how they relate to existing methods.
+We can show new exciting innovations in the field and how they relate to existing methods.
 
 > You give us a subject, we research and write about it.
 
@@ -228,7 +228,7 @@ To better understand the key differences between service design and design resea
 
 ### Methods
 
-we use a fictional case to show that service design and design research both have the main goal of optimising user effectiveness. Whereas service design is about functionality and design research is more about the physical appearance. We'll also show how they both compliment each other.      
+we use a fictional case to show that service design and design research both have the main goal of optimising user effectiveness. Whereas service design is about functionality, design research is more about the physical appearance. We'll also show how they both compliment each other.      
 
 ### Outcome
 
@@ -241,11 +241,12 @@ we use a fictional case to show that service design and design research both hav
 To show how important it is to connect with you user base
 
 ### Methods
-We discuss cases where the producers were and were not aware of the needs of the user and argue the reasons for it. We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) or [trust me i'm an engineer](http://9gag.com/gag/6494774) examples.
+We discuss cases where the designers were and were not aware of the needs of the user. We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) or [trust me i'm an engineer](http://9gag.com/gag/6494774) examples.
 
 ### Outcome
 * Create new audience
 * Improve relationship with existing audience
+
 
 
 **Note:**
