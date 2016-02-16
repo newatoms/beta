@@ -209,7 +209,7 @@ To show the relevance of service design
 
 ### Method
 
-We can show new exciting innovations in the field, and how they relate to existing methods.
+We can show new exciting innovations in the field and how they relate to existing methods.
 
 > You give us a subject, we research and write about it.
 ### Outcome
