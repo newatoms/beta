@@ -30,7 +30,7 @@ To show the necessity of service design
 
 ### Method
 
-We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on every day objects, using basic wooden tool to a stabilizing spoon for parkinson patients as an example.
+We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on everyday objects, e.g. developing a stabilizing spoon for parkinson patients.
 
 ### Outcome
 
