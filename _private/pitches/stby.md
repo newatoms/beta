@@ -182,15 +182,15 @@ We show changes in projects that can be implemented in every day objects.
 * show how good the service/product is
 * Improve relationship with existing audience
 
-## #11 Which important steps to make in research
+## #11 How to do research into design
 
 ### Goal
 
-To give more insights in what STBY does
+To give more insights into the research behind service design
 
 ### Method
 
-We can show important steps in their research process and what other fields could learn from this.
+We can show important steps in STBY's research process and what other fields could learn from these.
 
 > Interview or additional information needed.
 
