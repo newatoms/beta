@@ -216,14 +216,14 @@ we use a fictional case to show that service design and design research both hav
 * Create new audience
 * Improve relationship with existing audience
 
-## Pitch 13:
+## Pitch 14:
 
 ### Goal
 To show how important it is to connect with you user base
 
 ### Methods
 We discuss cases where the producer were and where not aware of the needs of the user and argue the reasons for it.
-We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) examples.
+We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) or [trust me i'm an engineer](http://9gag.com/gag/6494774) examples.
 
 ### Outcome
 * Create new audience
