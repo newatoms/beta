@@ -30,7 +30,7 @@ To show the necessity of service design
 
 ### Method
 
-We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on everyday objects, e.g. developing a stabilizing spoon for parkinson patients.
+We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on everyday objects by using the development of the stabilizing spoon for parkinson patients.
 
 ### Outcome
 
@@ -42,7 +42,7 @@ We create a very simple but comprehensive explanatory of what service design is.
 
 ### Goal
 
-To show the long term effects of investing in service design
+To show the long term effects of service design
 
 ### Method
 
@@ -61,7 +61,7 @@ We look at the impact that STBY had on past clients/products/services.
 
 ### Goal
 
-To show the qualities of the people you'll work with when you hire STBY
+To show the qualities of the people working at STBY
 
 ### Method
 
@@ -77,7 +77,7 @@ We interview a family member or partner of an employee about what they think STB
 
 ### Goal
 
-To show what it takes to be a good service/research designer
+To show the diversity and competence of STBY
 
 ### Method
 
@@ -108,7 +108,7 @@ we use disposable objects as an example to show what you can accomplish with goo
 
 ### Goal
 
-To develop understand into the process of service design
+To develop understanding into the process of service design
 
 ### Method
 
@@ -133,7 +133,7 @@ To show the personal motivation of the employees
 
 ### Method
 
-We interview them about their favorite project, what roadblocks they've faced, why they want to work at STBY and what changes they hope to aspire.
+We interview them about their favorite project. What roadblocks they faced and what changes they hoped to aspire.
 
 > Interview is needed
 
@@ -182,7 +182,7 @@ We show changes in projects that can be implemented in every day objects.
 * show how good the service/product is
 * Improve relationship with existing audience
 
-## #11 How to do research into design
+## #11 How to do research for service design
 
 ### Goal
 
@@ -190,7 +190,7 @@ To give more insights into the research behind service design
 
 ### Method
 
-We can show important steps in STBY's research process and what other fields could learn from these.
+We can show important steps in STBY's research process and what other fields could learn from them.
 
 > Interview or additional information needed.
 
