@@ -125,7 +125,7 @@ We can show a research technique that helped a project going forward.
 * Create new audience
 
 
-##  #8 Personal drive
+<!-- ##  #8 Personal drive
 
 ### Goal
 
@@ -142,9 +142,9 @@ We interview them about their favorite project. What roadblocks they faced and w
 * Show how good the organisation is
 * Improve relationship with existing audience
 * Create insights within the organisation
-* Create new audience
+* Create new audience -->
 
-## #9 Describing vision through choice of projects   
+<!-- ## #9 Describing vision through choice of projects   
 
 ### Goal
 
@@ -160,9 +160,9 @@ We show which considerations STBY makes when accepting projects.
 
 * Grow existing audience
 * Improve relationship with existing audience
-* Give insight in the organisation
+* Give insight in the organisation -->
 
-## #10 Service/research design in everyday objects
+<!-- ## #10 Service/research design in everyday objects
 
 ### Goal
 
@@ -180,9 +180,9 @@ We show changes in projects that can be implemented in every day objects.
 * Grow existing audience
 * Give insights in the organisation
 * show how good the service/product is
-* Improve relationship with existing audience
+* Improve relationship with existing audience -->
 
-## #11 How to do research for service design
+<!-- ## #11 How to do research for service design
 
 ### Goal
 
@@ -199,7 +199,7 @@ We can show important steps in STBY's research process and what other fields cou
 * Give insight in the organization
 * Create new audience
 * Grow existing audience
-* Improve relationship with existing audience
+* Improve relationship with existing audience -->
 
 ## #12 New and exciting innovations
 
@@ -235,7 +235,7 @@ we use a fictional case to show that service design and design research both hav
 * Create new audience
 * Improve relationship with existing audience
 
-## #14: Knowing your user base
+<!-- ## #14: Knowing your user base
 
 ### Goal
 To show how important it is to connect with you user base
@@ -245,7 +245,7 @@ We discuss cases where the designers were and were not aware of the needs of the
 
 ### Outcome
 * Create new audience
-* Improve relationship with existing audience
+* Improve relationship with existing audience -->
 
 
 
