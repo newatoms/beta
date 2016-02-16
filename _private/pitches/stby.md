@@ -73,7 +73,7 @@ We interview a family member or partner of an employee about what they think STB
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## Pitch 5: A fun analysis of combined talents   
+## #5 A fun analysis of combined talents   
 
 ### Goal
 
@@ -89,7 +89,7 @@ We give a fun anonymous resume analysis/overview of all employees combined with 
 * Improve perception of the organisation
 * Create insights within the organisation
 
-## Pitch 6: Physical changes caused by design research
+## #6 Physical changes caused by design research
 
 ### Goal
 
@@ -104,7 +104,7 @@ we use disposable objects as an example to show what you can accomplish with goo
 * Create new audience
 * Improve perception of the organisation
 
-## Pitch 7: Good research makes good design possible
+## #7 Good research makes good design possible
 
 ### Goal
 
@@ -114,15 +114,18 @@ To show how good STBY is in design research
 
 We can show an aspect of the research that helped a project going forward.
 
+> we will need input for this
+
 ### Outcome
 
 * Show how good the organisation is
 * Show how good the product/service is
 * Improve relationship with existing audience
 * Create insights within the organisation.
+* Create new audience
 
 
-## Pitch 8: Personal thrive
+##  #8 Personal thrive
 
 ### Goal
 
@@ -132,6 +135,8 @@ To show the personal motivation of the employees
 
 We interview them about their favorite project, why they were interested in the project and what changes they hoped to aspire.
 
+> Interview is needed
+
 ### Outcome
 
 * Show how good the organisation is
@@ -139,7 +144,7 @@ We interview them about their favorite project, why they were interested in the 
 * Create insights within the organisation
 * Create new audience
 
-## Pitch 9: Describing vision through considerations   
+## #9 Describing vision through considerations   
 
 ### Goal
 
@@ -147,7 +152,9 @@ To better understand the vision of STBY
 
 ### Method
 
-We show which considerations STBY makes when accepting projects. Short interview needed.
+We show which considerations STBY makes when accepting projects.
+
+> Short interview or additional information needed.
 
 ### Outcome
 
@@ -155,7 +162,7 @@ We show which considerations STBY makes when accepting projects. Short interview
 * Improve relationship with existing audience
 * Give in sight in the organisation
 
-## Pitch 10: Service/research design in everyday objects
+## #10 Service/research design in everyday objects
 
 ### Goal
 
@@ -165,6 +172,8 @@ To show what impact STBY can have on our lives
 
 We show changes in projects that can be implemented in every day objects.
 
+> Additional information needed
+
 ### Outcome
 
 * Create new audience
@@ -173,7 +182,7 @@ We show changes in projects that can be implemented in every day objects.
 * show how good the service/product is
 * Improve relationship with existing audience
 
-## Pitch 11: Which important steps to make in research
+## #11 Which important steps to make in research
 
 ### Goal
 
@@ -181,7 +190,9 @@ To give more insights in what STBY does
 
 ### Method
 
-We can show important steps in their research process and what other fields could learn from this. Interview needed.
+We can show important steps in their research process and what other fields could learn from this.
+
+> Interview or additional information needed.
 
 ### Outcome
 
@@ -190,7 +201,7 @@ We can show important steps in their research process and what other fields coul
 * Grow existing audience
 * Improve relationship with existing audience
 
-## Pitch 12: New and exciting innovations
+## #12 New and exciting innovations
 
 ### Goal
 
@@ -198,8 +209,9 @@ To show the relevance of service design
 
 ### Method
 
-We can show new exciting innovations in the field.
+We can show new exciting innovations in the field, and how they relate to existing methods.
 
+> You give us a subject, we research and write about it.
 ### Outcome
 
 * Create new audience
@@ -207,7 +219,7 @@ We can show new exciting innovations in the field.
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## Pitch 13:
+## #13 Difference between service design and design research explained
 
 ### Goal
 
@@ -222,14 +234,13 @@ we use a fictional case to show that service design and design research both hav
 * Create new audience
 * Improve relationship with existing audience
 
-## Pitch 14:
+## #14: Knowing your user base
 
 ### Goal
 To show how important it is to connect with you user base
 
 ### Methods
-We discuss cases where the producer were and where not aware of the needs of the user and argue the reasons for it.
-We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) or [trust me i'm an engineer](http://9gag.com/gag/6494774) examples.
+We discuss cases where the producers were and were not aware of the needs of the user and argue the reasons for it. We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) or [trust me i'm an engineer](http://9gag.com/gag/6494774) examples.
 
 ### Outcome
 * Create new audience
