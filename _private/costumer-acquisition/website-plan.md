@@ -4,7 +4,7 @@ In this document: ideas about the content of the website.
 
 To stimulate the use of content marketing and the quality of the content, we can make the website a place where team members and outsiders are able to develop themselves in the use of content marketing and the creation of content.
 
-## An item about the relevance of content marketing.
+## An item about the relevance of our vision on content marketing.
 To show the relevance of content marketing we can make
 * A video or slide share that explains why and how content marketing works and why it is good for the world
 
