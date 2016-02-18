@@ -13,8 +13,8 @@ order: 50
 | Een online tool die jou volledige controle geeft over welke inhoud de redactie maakt. | _Inclusief_ |
 | Directe publicatie op jouw blog, Medium account, Twitter en Facebookpagina. | _Inclusief_ |
 | Bank grade security met een 2048-bits certificaat voorzien door Google. | _Inclusief_ |
-| Taal (Nederlands, Engels beschikbaar, meer komen) | 1* |
+| Taal (Nederlands, Engels beschikbaar, meer komen) | Engels of Nederlands* |
 | Een 30 dagen niet-goed-geld-terug-garantie! | _Inclusief_ |
 |  | **€2000** per&nbsp;maand |
 
-*Elke volgende €1000 per maand
+*Twee talen kost per maand €1000 extra.
