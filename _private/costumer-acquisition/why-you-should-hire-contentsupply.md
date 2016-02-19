@@ -1,36 +1,41 @@
-# What do you get when hiring content.supply?
+# Waar is content.supply goed voor?
 
-We give you the opportunity to act as Editor-in-Chief and get great custom content for your blog with ease.
+Wij geven jou de kans om als eindredacteur op te treden en hoge kwaliteit content voor je blog te realiseren zonder al het gedoe.
 
-Yes, Editor-in-Chief over a remotely controlled editorial team that creates **high quality content marketing** for your organization.
+Gedoe: de juiste freelancers of stagiaires inhuren en aansturen kost vaak veel geld en tijd. Dat veel bedrijven in Nederland het moeilijk hebben met het creëeren van goede content blijkt wel uit onderzoek uit 2015 van o.a. [Content corp.](http://contenteer.nl/download/contentonderzoek-2015/):
 
+> **65%** van de ondervraagden zien het *structureel* maken van content en het produceren van *hoge kwaliteit content* als de grootste uitdaging.
 
-Why do you need content marketing or branded content anyway?
+Als eindredacteur van het blog van jouw organisatie kan je via onze web applicatie op een makkelijke manier in weinig tijd de professionele redactie van content.supply aansturen. Bij ons worden alle blog posts door een team van professionals gemaakt met verschillende talenten en achtergronden.
 
-## We're not showing how good you are
+## Wij laten niet persée zien hoe goed je bent
 
-> We add value to your company by adding value for your audience.
+Veel zogenaamde content marketing is gewoon reclame. Niets mis met reclame, maar dit is niet onze specialiteit.  
 
-Content marketing is a way to create a bond between a reader and a company. By creating high quality content, the reader will thoroughly enjoy, the reader will associate the brand with an awesome feeling and automatically think about that company first whenever searching for a product/service in that domain.
+> Door waardevol te zijn voor anderen, creëer je relevantie voor je jezelf.
 
-We see that a lot of content marketing today is just a better way to do advertisement. Nothing wrong with advertisement, but we really believe that by adding value to the reader marketing works way better.    
+De beste manier om dit te realiseren met je communicatie is door dat wat je met je organisatie probeert te bereiken ook laat zien aan je huidige publiek of natuurlijk vooral nieuw publiek. Wij doen dat in de vorm van tekstuele blog posts.
 
-## How do we pull this off?
+Door content te maken waar de lezer ook daadwerkelijk wat aan heeft zal de lezer bewust of onbewust je organisatie koppelen aan jouw organisatie.  
 
-We write blogposts
+## Een beroemd voorbeeld
 
-## All subscription plans include:
+Bij het wereld beroemde sportmerk Nike, is het doel niet het verkopen van hun producten, maar om zo veel mogenlijk mensen aan te zetten om te sporten en het meeste uit zichzelf te halen. Dat zij dan vervolgens Nike's producten kopen om te kunnen sporten is in hun content marketing een bijzaak.
 
-| Posts | 1 per&nbsp;week |
+Op deze manier is content marketing zowel goed voor de ontvanger als de zender en dus stiekem ook een beetje goed voor de wereld.   
+
+## Alle abonnementen bevatten:
+
+| Posts | 1 per week |
 |:------------|:-------:|
-| Great engaging and beautiful content including photography or illustrations | _Included_ |
-| All in the style and language of your choice | _Included_ |
-| Fully royalty free and you have all the copyrights, no strings attached, you own it | _Included_ |
-| Online tool that gives you complete control over which posts are made out of our ideas | _Included_ |
-| We post to your blog or Medium publication and your Twitter or Facebook | _Included_ |
-| Bank grade security with a 2048-bit certificate provided by Google | _Included_ |
-| Language (English, Dutch available, more coming) | English or Dutch* |
-| A 30-day money back guarantee! | _Included_ |
-|  | **€2000** per&nbsp;month |
+| Engaging en mooie content met fotografie en illustraties. | _Inclusief_ |
+| Stijl en taalgebruik naar keuze. | _Inclusief_ |
+| Volledig royalty free, jij hebt alle copyrights. Doe ermee wat je wil. | _Inclusief_ |
+| Een online tool die jou volledige controle geeft over welke inhoud de redactie maakt. | _Inclusief_ |
+| Directe publicatie op jouw blog, Medium account, Twitter en Facebookpagina. | _Inclusief_ |
+| Bank grade security met een 2048-bits certificaat voorzien door Google. | _Inclusief_ |
+| Taal (Nederlands, Engels beschikbaar, meer in toekomst) | Engels of Nederlands* |
+| Een 30 dagen niet-goed-geld-terug-garantie! | _Inclusief_ |
+|  | **€2000** per&nbsp;maand |
 
-<small>* Two languages for an additional €1000 per month</small>
+<small>* Twee talen kost per maand €1000 extra.</small>
