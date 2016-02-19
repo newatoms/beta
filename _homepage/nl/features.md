@@ -17,4 +17,4 @@ order: 50
 | Een 30 dagen niet-goed-geld-terug-garantie! | _Inclusief_ |
 |  | **€2000** per&nbsp;maand |
 
-*Twee talen kost per maand €1000 extra.
+<small>* Twee talen kost per maand €1000 extra.</small>
