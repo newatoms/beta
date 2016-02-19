@@ -16,7 +16,7 @@ Veel zogenaamde content marketing is gewoon reclame. Niets mis met reclame, maar
 
 De beste manier om dit te realiseren met je communicatie is door dat wat je met je organisatie probeert te bereiken ook laat zien aan je huidige publiek of natuurlijk vooral nieuw publiek. Wij doen dat in de vorm van tekstuele blog posts.
 
-Door content te maken waar de lezer ook daadwerkelijk wat aan heeft zal de lezer bewust of onbewust je organisatie koppelen aan jouw organisatie.  
+Door content te maken waar de lezer ook daadwerkelijk wat aan heeft zal de lezer bewust of onbewust je organisatie koppelen aan jouw organisatie. Door waardevol te zijn voor anderen, creëer je relevantie voor je jezelf. 
 
 ## Een beroemd voorbeeld
 
