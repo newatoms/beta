@@ -5,6 +5,8 @@ Hoe fantastish je ook bent, als niemand weet wie je bent of waar je voor staat, 
 
 Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest. Met de komst van social media is dit veranderd, maar de meeste mensen zijn volgends ons nog niet helemaal op de hoogte van hoe ze social media zo effectief mogelijk kunnen inzetten. 
 
+## Social media = Mond op mond reclame
+
 Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame, iedereen die over je praat heeft in potentie een oneindig bereik. Hoe zorg je dat mensen over je praten? Door zichtbaar waardevol te zijn voor anderen creëer je relevantie voor jezelf en geef je mensen een reden om iets met je uitingen te doen. Dit noemen we content markteting. 
 
 Een goed voorbeeld hiervan is Nike. Hun doel is niet het verkopen van hun producten, maar om zo veel mogenlijk mensen aan te zetten om te sporten en het meeste uit zichzelf te halen. Dat zij dan vervolgens Nike's producten kopen om te kunnen sporten is een bijzaak.
