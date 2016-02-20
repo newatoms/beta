@@ -1,13 +1,12 @@
-# Waarom Content marketing?
+# Waarom content marketing?
 
-Communicatie is een essentieel onderdeel van elke organisatie om zichtbaar te zijn en te blijven.
-Hoe fantastish je ook bent, als niemand weet wie je bent of waar je voor staat, besta je niet.
+Communicatie is een essentieel onderdeel van elke organisatie om zichtbaar te zijn en te blijven. Hoe fantastish je ook bent, als niemand weet wie je bent of waar je voor staat, besta je niet.
 
-Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest. Met de komst van social media is dit veranderd, maar de meeste mensen zijn volgends ons nog niet helemaal op de hoogte van hoe ze social media zo effectief mogelijk kunnen inzetten. 
+Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest. Met de komst van social media is dit veranderd, maar de meeste organisaties zijn volgens ons nog niet helemaal op de hoogte van hoe zij social media zo effectief mogelijk kunnen inzetten. 
 
 ## Social media = mond op mond reclame
 
-Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame, iedereen die over je praat heeft in potentie een oneindig bereik. Hoe zorg je dat mensen over je praten? Door zichtbaar waardevol te zijn voor anderen creëer je relevantie voor jezelf en geef je mensen een reden om iets met je uitingen te doen. Dit noemen we content markteting. 
+Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame, iedereen die over je praat heeft in potentie een oneindig bereik. Hoe zorg je dat mensen over je praten? Door zichtbaar waardevol te zijn voor anderen creëer je relevantie voor jezelf en geef je mensen een reden om iets met je uitingen te doen. Dit noemen we content markteting.
 
 ## Twee vliegen in één klap
 
@@ -36,7 +35,7 @@ De beste manier om dit te realiseren met je communicatie is door dat wat je met 
 Door content te maken waar de lezer ook daadwerkelijk wat aan heeft zal de lezer bewust of onbewust je organisatie koppelen aan jouw organisatie. Door waardevol te zijn voor anderen, creëer je relevantie voor jezelf.
 
 
-## Alle content.supply abonnementen bevatten:
+# Alle content.supply abonnementen bevatten:
 
 | Posts | 1 per week |
 |:------------|:-------:|
