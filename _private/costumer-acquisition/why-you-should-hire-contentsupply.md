@@ -2,7 +2,7 @@
 
 Communicatie is een essentieel onderdeel van elke organisatie om zichtbaar te zijn en te blijven. Hoe fantastish je ook bent, als niemand weet wie je bent of waar je voor staat, besta je niet.
 
-Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest. Met de komst van social media is dit veranderd, maar de meeste organisaties zien volgens ons nog niet hoe zij social media zo effectief mogelijk in kunnen zetten. 
+Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest. Met de komst van social media is dit veranderd, maar de meeste organisaties zien volgens ons nog niet hoe zij social media zo effectief mogelijk in kunnen zetten.
 
 ## Social media = mond op mond reclame
 
@@ -10,7 +10,7 @@ Social media is in principe niets meer dan een extreem versterkte manier van mon
 
 ## Twee vliegen in één klap
 
-Een goed voorbeeld hiervan is Nike. Hun doel is niet het verkopen van hun producten, maar om zo veel mogenlijk mensen aan te zetten om te sporten en het meeste uit zichzelf te halen. Dat zij dan vervolgens Nike's producten kopen om te kunnen sporten is een bijzaak.
+Een goed voorbeeld hiervan is Nike. Hun doel is niet het verkopen van hun producten, maar om zo veel mogenlijk mensen aan te zetten om te sporten en het meeste uit zichzelf te halen. Dat zij dan vervolgens Nike producten kopen om te kunnen sporten is een bijzaak.
 
 Op deze manier is content marketing zowel goed voor de ontvanger als de zender en dus stiekem ook een beetje goed voor de wereld.   
 
