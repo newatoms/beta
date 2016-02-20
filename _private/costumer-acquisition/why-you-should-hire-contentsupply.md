@@ -1,16 +1,15 @@
-# Waarom content marketing
+# Waarom Content marketing?
 
 Communicatie is een essentieel onderdeel van elke organisatie om zichtbaar te zijn en te blijven.
 Hoe fantastish je ook bent, als niemand weet wie je bent of waar je voor staat, besta je niet.
 
-Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest. Met de komst van social media is dit veranderd, maar de meeste mensen zijn volgends ons nog niet helemaal op de hoogte van hoe ze social media het effectiefst in kunnen zetten. 
+Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest. Met de komst van social media is dit veranderd, maar de meeste mensen zijn volgends ons nog niet helemaal op de hoogte van hoe ze social media zo effectief mogelijk kunnen inzetten. 
 
-Social media in princiepe niets meer dan een extreem versterkte manier van mond op mond reclame, iedereen die over je praat heeft een potentioneel oneindig bereik heeft. Hoe zorg je dat mensen over je praten? Door zichtbaar waardevol te zijn voor anderen creeer je relevantie voor jezelf en geef je mensen een reden om iets met je uitingen te doen. Dit noemen we contentmarkteting. 
+Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame, iedereen die over je praat heeft in potentie een oneindig bereik. Hoe zorg je dat mensen over je praten? Door zichtbaar waardevol te zijn voor anderen creëer je relevantie voor jezelf en geef je mensen een reden om iets met je uitingen te doen. Dit noemen we content markteting. 
 
-Een goed voorbeeld hiervan is Nike. Hun doel niet het verkopen van hun producten, maar om zo veel mogenlijk mensen aan te zetten om te sporten en het meeste uit zichzelf te halen. Dat zij dan vervolgens Nike's producten kopen om te kunnen sporten is een bijzaak.
+Een goed voorbeeld hiervan is Nike. Hun doel is niet het verkopen van hun producten, maar om zo veel mogenlijk mensen aan te zetten om te sporten en het meeste uit zichzelf te halen. Dat zij dan vervolgens Nike's producten kopen om te kunnen sporten is een bijzaak.
 
 Op deze manier is content marketing zowel goed voor de ontvanger als de zender en dus stiekem ook een beetje goed voor de wereld.   
-
 
 # Waarom content.supply?
 
@@ -30,7 +29,7 @@ Veel zogenaamde content marketing is gewoon reclame. Niets mis met reclame, maar
 
 De beste manier om dit te realiseren met je communicatie is door dat wat je met je organisatie probeert te bereiken ook laat zien aan je huidige publiek of natuurlijk vooral nieuw publiek. Wij doen dat in de vorm van tekstuele blog posts.
 
-Door content te maken waar de lezer ook daadwerkelijk wat aan heeft zal de lezer bewust of onbewust je organisatie koppelen aan jouw organisatie. Door waardevol te zijn voor anderen, creëer je relevantie voor je jezelf.
+Door content te maken waar de lezer ook daadwerkelijk wat aan heeft zal de lezer bewust of onbewust je organisatie koppelen aan jouw organisatie. Door waardevol te zijn voor anderen, creëer je relevantie voor jezelf.
 
 
 ## Alle abonnementen bevatten:
