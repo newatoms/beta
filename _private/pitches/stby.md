@@ -61,7 +61,7 @@ We show how service design improved the experience of traveling by train in the 
 * Improve perception of the organisation
 * Improve relationship with existing audience
 
-### Service design examples in everyday objects
+### Service design examples in our daily lives
 
 > Stby commentary: Topic is nice, but service design is about services, less about products.
 
@@ -71,7 +71,7 @@ To show the necessity of service design
 
 #### Method
 
-We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on everyday objects by using the development of the stabilizing spoon for parkinson patients.
+We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on our everyday lives by using the journey of a package you order online. What service design choices are made to better the process of sending a package? 
 
 #### Outcome
 
