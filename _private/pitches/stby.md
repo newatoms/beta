@@ -63,15 +63,13 @@ We show how service design improved the experience of traveling by train in the 
 
 ### Service design examples in our daily lives
 
-> Stby commentary: Topic is nice, but service design is about services, less about products.
-
 #### Goal
 
 To show the necessity of service design
 
 #### Method
 
-We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on our everyday lives by using the journey of a package you order online. What service design choices are made to better the process of sending a package? 
+We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on our everyday lives by using the journey of a package you order online. What service design choices are made to better the process of sending a package?
 
 #### Outcome
 
