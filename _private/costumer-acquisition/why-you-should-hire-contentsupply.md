@@ -6,11 +6,11 @@ Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest.
 
 ## Social media = mond op mond reclame
 
-Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame. Alle activiteid op social media wordt voor een korte periode uitgezonden naar iedereen die in je netwerk en het netwerk van iedereen die er een interactie mee heeft. Zo heeft iedereen in potentie een oneindig bereik. Goede content is waardevol voor de ontvanger, en creert zo relevantie voor de zender en iedereen die iets met je uitingen doet.
+Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame. Alle activiteit op social media wordt voor een korte periode uitgezonden naar iedereen die in je netwerk zit en het netwerk van iedereen die er een interactie mee heeft. Zo heb je in potentie een oneindig bereik. Goede content is waardevol voor de ontvanger, en creëert zo relevantie voor de zender en iedereen die iets met je uitingen doet.
 
 ## Twee vliegen in één klap
 
-Een goed voorbeeld hiervan is Nike. Zij verkopen middelen die mensen helpen om te sporten, en alle content die zij uit zetten gaat om het stimuleren en motiveren van sport in plaats van hun producten. Zo is hun content waardevol voor iedreen die de motivatie kan gebruiken ongeacht of ze nike producten kopen. Op het moment dat ze een niewe sport middelen moeten hebben zullen de positieve ervaring die de content hun gaf koppelen aan de afzender, Nike.
+Een goed voorbeeld hiervan is Nike. Zij verkopen artikelen die mensen helpen om te sporten, en alle content die zij uitzetten gaat om het stimuleren en motiveren van sport in plaats van hun producten. Zo is hun content waardevol voor iedreen die de motivatie kan gebruiken ongeacht of ze nike producten kopen. Op het moment dat ze nieuwe sport artikelen nodig hebben zullen de positieve ervaring die de content hun gaf worden gekoppeld aan de afzender, Nike.
 
 # Waarom content.supply?
 
