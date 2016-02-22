@@ -12,22 +12,23 @@ Social media is in principe niets meer dan een extreem versterkte manier van mon
 
 Een goed voorbeeld hiervan is Nike. Zij verkopen artikelen die mensen helpen om te sporten, en alle content die zij uitzetten gaat om het stimuleren en motiveren van sport in plaats van hun producten. Zo is hun content waardevol voor iedreen die de motivatie kan gebruiken ongeacht of ze nike producten kopen. Op het moment dat ze nieuwe sport artikelen nodig hebben zullen de positieve ervaring die de content hun gaf worden gekoppeld aan de afzender, Nike.
 
+## Laat niet persée zien hoe goed je bent
+
+Veel content is gewoon reclame. Niets mis met reclame, maar mensen zijn steeds meer imuum geworden als iets duidelijk wordt verkocht.
+
+> Door waardevol te zijn voor anderen, creëer je relevantie voor je jezelf.
+
+De beste manier om dit te realiseren met je communicatie is door dat wat je met je organisatie probeert te bereiken ook laat zien aan je huidige of vooral nieuwe publiek.
+
+Door content te maken waar de lezer ook daadwerkelijk wat aan heeft zal de lezer bewust of onbewust je organisatie daaraan koppelen. Door waardevol te zijn voor anderen, creëer je relevantie voor jezelf.
+
+---
+
 # Waarom content.supply?
 
 Wij geven jou de mogenlijkheid om op een gemakkelijke manier als eindredacteur op te treden en hoge kwaliteit content voor je organisatie te realiseren in de vorm van textuele blog posts
 
 Als eindredacteur van het blog van jouw organisatie kan je via onze web applicatie op een makkelijke manier in weinig tijd de professionele redactie van content.supply aansturen. Bij ons worden alle blog posts door een team van professionals gemaakt met verschillende talenten en achtergronden.
-
-## Wij laten niet persée zien hoe goed je bent
-
-Veel zogenaamde content is gewoon reclame. Niets mis met reclame, maar dit is niet onze specialiteit.  
-
-> Door waardevol te zijn voor anderen, creëer je relevantie voor je jezelf.
-
-De beste manier om dit te realiseren met je communicatie is door dat wat je met je organisatie probeert te bereiken ook laat zien aan je huidige publiek of natuurlijk vooral nieuw publiek. Wij doen dat in de vorm van tekstuele blog posts.
-
-Door content te maken waar de lezer ook daadwerkelijk wat aan heeft zal de lezer bewust of onbewust je organisatie koppelen aan jouw organisatie. Door waardevol te zijn voor anderen, creëer je relevantie voor jezelf.
-
 
 # Alle content.supply abonnementen bevatten:
 
