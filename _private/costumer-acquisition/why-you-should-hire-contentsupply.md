@@ -1,4 +1,4 @@
-# Waarom content marketing?
+# Waarom heb je goeie content nodig?
 
 Communicatie is een essentieel onderdeel van elke organisatie om zichtbaar te zijn en te blijven. Hoe fantastish je ook bent, als niemand weet wie je bent of waar je voor staat, besta je niet.
 
@@ -6,17 +6,15 @@ Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest.
 
 ## Social media = mond op mond reclame
 
-Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame. Alles wat je uit is zichtbaar voor al je vrienden en al hun vrienden zodra ze er iets mee doen. Zo heeft iedereen in potentie een oneindig bereik. Door zichtbaar waardevol te zijn voor anderen creëer je relevantie voor jezelf en geef je mensen een reden om iets met je uitingen te doen. Dit noemen we content markteting.
+Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame. Alle activiteid op social media wordt voor een korte periode uitgezonden naar iedereen die in je netwerk en dat van iedereen die er een interctie mee heeft. Zo heeft iedereen in potentie een oneindig bereik. Goede content is waardevol voor de ontvanger, en door zichtbaar waardevol te zijn voor anderen creëer je relevantie voor jezelf, em geef je mensen een reden om iets met je uitingen te doen.
 
 ## Twee vliegen in één klap
 
-Een goed voorbeeld hiervan is Nike. Hun doel is niet het verkopen van hun producten, maar om zo veel mogenlijk mensen aan te zetten om te sporten en het meeste uit zichzelf te halen. Dat zij dan vervolgens Nike producten kopen om te kunnen sporten is een bijzaak.
-
-Op deze manier is content marketing zowel goed voor de ontvanger als de zender en dus stiekem ook een beetje goed voor de wereld.   
+Een goed voorbeeld hiervan is Nike. Zij verkopen middelen die mensen helpen om te sporten, en alle content die zij uit zette ging om het stimuleren en motiveren van sport. Zo is hun content waardevol voor iedreen die de motivatie kan gebruiken ongeacht of ze nike producten kopen. Op het moment dat ze een niewe sport middelen moeten hebben zullen ze altijd positief aan nike denken.    
 
 # Waarom content.supply?
 
-Wij geven jou de mogenlijkheid om als eindredacteur op te treden en hoge kwaliteit content voor je blog te realiseren zonder al het gedoe.
+Wij geven jou de mogenlijkheid om op een gemakkelijke manier als eindredacteur op te treden en hoge kwaliteit content voor je organisatie te realiseren in de vorm van textuele blog posts
 
 Gedoe: de juiste freelancers of stagiaires inhuren en aansturen kost vaak veel geld en tijd. Dat veel bedrijven in Nederland het moeilijk hebben met het creëeren van goede content blijkt wel uit onderzoek uit 2015 van o.a. [Content corp.](http://contenteer.nl/download/contentonderzoek-2015/):
 
