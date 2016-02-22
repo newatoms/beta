@@ -6,7 +6,7 @@ Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest.
 
 ## Social media = mond op mond reclame
 
-Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame, iedereen die over je praat is zichtbaar voor al zijn vrienden, en als zij vervolgnds iets zeggen over wat zij hoorden kunnen ook al hun vrienden het weer zien. Zo in potentie een oneindig bereik. Hoe zorg je dat mensen over je praten? Door zichtbaar waardevol te zijn voor anderen creëer je relevantie voor jezelf en geef je mensen een reden om iets met je uitingen te doen. Dit noemen we content markteting.
+Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame. Alles wat je uit is zichtbaar voor al je vrienden en al hun vrienden zodra ze er iets mee doen. Zo heeft iedereen in potentie een oneindig bereik. Door zichtbaar waardevol te zijn voor anderen creëer je relevantie voor jezelf en geef je mensen een reden om iets met je uitingen te doen. Dit noemen we content markteting.
 
 ## Twee vliegen in één klap
 
