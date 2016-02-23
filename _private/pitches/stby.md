@@ -77,21 +77,6 @@ We create a very simple but comprehensive explanatory of what service design is.
 * Improve perception of the organisation
 * Improve relationship with existing audience
 
-## A fun analysis of combined talents   
-
-#### Goal
-
-To show the diversity and competence of STBY
-
-#### Method
-
-We give a fun anonymous resume analysis/overview of all employees using information from LinkedIn.
-
-#### Outcome
-
-* Show how good the organisation is
-* Improve perception of the organisation
-* Create insights within the organisation
 
 ##Physical changes caused by design research
 
@@ -164,6 +149,22 @@ We can show new exciting innovations in the field and how they relate to existin
 
 ## Needs to be improved
 
+## A fun analysis of combined talents   
+
+#### Goal
+
+To show the diversity and competence of STBY
+
+#### Method
+
+We give a fun anonymous resume analysis/overview of all employees using information from LinkedIn.
+
+#### Outcome
+
+* Show how good the organisation is
+* Improve perception of the organisation
+* Create insights within the organisation
+
 ### Personal drive
 
 #### Goal
@@ -183,7 +184,7 @@ We interview them about their favorite project. What roadblocks they faced and w
 * Create insights within the organisation
 * Create new audience
 
-## Describing vision through choice of projects   
+### Describing vision through choice of projects   
 
 #### Goal
 
