@@ -12,7 +12,7 @@ The idea behind showing the *outcome* is that it creates a good overview for us 
 
 To show the long term effects of service design
 
-#### Method
+#### Action
 
 We look at the impact that STBY had on past clients/products/services.
 
@@ -31,7 +31,7 @@ We look at the impact that STBY had on past clients/products/services.
 
 To show the qualities of the people working at STBY
 
-#### Method
+#### Action
 
 We interview a family member or partner of an employee about what they think STBY is doing and why they think individual employees are good at what they do.
 
@@ -67,7 +67,7 @@ We show how service design improved the experience of traveling by train in the 
 
 To show the necessity of service design
 
-#### Method
+#### Action
 
 We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on our everyday lives by using the journey of a package you order online. What service design choices are made to better the process of sending a package?
 
@@ -77,14 +77,15 @@ We create a very simple but comprehensive explanatory of what service design is.
 * Improve perception of the organisation
 * Improve relationship with existing audience
 
+## Not good enough
 
-##Physical changes caused by design research
+### Physical changes caused by design research
 
 #### Goal
 
 To show the relevance of design research
 
-#### Method
+#### Action
 
 we use disposable objects as an example to show what you can accomplish with good design research, even if you're restricted to use minimal materials. For example how [Julia's](https://www.google.nl/search?q=julia%27s+pasta+ns&espv=2&biw=1680&bih=955&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi01eeC6_nKAhXCPBQKHb1wASMQ_AUIBigB#imgrc=YR90Z-s9-YcGwM%3A) made their fancy disposable cutlery. Or how HEMA makes their disposable camera's.
 
@@ -93,13 +94,13 @@ we use disposable objects as an example to show what you can accomplish with goo
 * Create new audience
 * Improve perception of the organisation
 
-## Good research makes good design possible
+### Good research makes good design possible
 
 #### Goal
 
 To develop understanding into the process of service design
 
-#### Method
+#### Action
 
 We can show a research technique that helped a project going forward.
 
@@ -119,7 +120,7 @@ We can show a research technique that helped a project going forward.
 
 To better understand the key differences between service design and design research
 
-#### Methods
+#### Actions
 
 we use a fictional case to show that service design and design research both have the main goal of optimising user effectiveness. Whereas service design is about functionality, design research is more about the physical appearance. We'll also show how they both compliment each other.      
 
@@ -134,7 +135,7 @@ we use a fictional case to show that service design and design research both hav
 
 To show the relevance of service design
 
-#### Method
+#### Action
 
 We can show new exciting innovations in the field and how they relate to existing methods.
 
@@ -149,13 +150,13 @@ We can show new exciting innovations in the field and how they relate to existin
 
 ## Needs to be improved
 
-## A fun analysis of combined talents   
+### A fun analysis of combined talents   
 
 #### Goal
 
 To show the diversity and competence of STBY
 
-#### Method
+#### Action
 
 We give a fun anonymous resume analysis/overview of all employees using information from LinkedIn.
 
@@ -171,7 +172,7 @@ We give a fun anonymous resume analysis/overview of all employees using informat
 
 To show the personal motivation of the employees
 
-#### Method
+#### Action
 
 We interview them about their favorite project. What roadblocks they faced and what changes they hoped to aspire.
 
@@ -190,7 +191,7 @@ We interview them about their favorite project. What roadblocks they faced and w
 
 To better understand the vision of STBY
 
-#### Method
+#### Action
 
 We show which considerations STBY makes when accepting projects.
 
@@ -208,7 +209,7 @@ We show which considerations STBY makes when accepting projects.
 
 To show what impact STBY can have on our lives
 
-#### Method
+#### Action
 
 We show changes in projects that can be implemented in every day objects.
 
@@ -228,7 +229,7 @@ We show changes in projects that can be implemented in every day objects.
 
 To give more insights into the research behind service design
 
-#### Method
+#### Action
 
 We can show important steps in STBY's research process and what other fields could learn from them.
 
@@ -246,7 +247,7 @@ We can show important steps in STBY's research process and what other fields cou
 #### Goal
 To show how important it is to connect with you user base
 
-#### Methods
+#### Actions
 We discuss cases where the designers were and were not aware of the needs of the user. We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) or [trust me i'm an engineer](http://9gag.com/gag/6494774) examples.
 
 #### Outcome
