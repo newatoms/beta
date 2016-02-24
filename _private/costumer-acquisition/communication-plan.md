@@ -1,10 +1,10 @@
 # content.supply
 
-Content.supply is an easy and pleasant way to act as editor in chief over a remotely controlled editorial team that creates **high quality content marketing** for your organization.
+Content.supply is an easy and pleasant way to act as editor in chief over a remotely controlled editorial team that creates **high quality content (marketing)** for your organization.
 
-* We sell a pleasant way to control the creation of high quality content marketing.
-* Content marketing is a way to create relevance for the sender by being valuable for the receiver.
-* Content marketing has a positive effect on both the sender and the receiver.
+* We sell a pleasant way to control the creation of high quality content (marketing).
+* Good content (marketing) is a way to create relevance for the sender by being valuable for the receiver.
+* Good content (marketing) has a positive effect on both the sender and the receiver.
 * **Content marketing is good for the world**
 
 ## Practice what we preach.
