@@ -61,11 +61,11 @@ We look at the impact that STBY had on past clients/products/services.
 
 ### Goal
 
-To show the qualities of the people working at STBY
+To give insight in what service design is and why it is relevant
 
 ### Method
 
-We interview a family member or partner of an employee about what they think STBY is doing and why they think individual employees are good at what they do.
+We interview a partner of an employees of STBY about what they think STBY is, what they think their partner does, what makes them good at what they do and if they know any examples of service design implemented in their lives by their partner working at STBY.
 
 ### Outcome
 
