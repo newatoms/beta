@@ -1,63 +1,31 @@
 # STBY - Pitches
 
-In this document, ideas for STBY pitches. The idea of the three sections is that we show what the *Goal* is of the post, then how we're going to achieve this (*Method*) and finally what *outcome* is linked to the pitches.
+In this document, ideas for STBY pitches. The idea of the three sections is that we show what the *Goal* is of the post, then how we're going to achieve this (*Action*) and finally what *outcome* is linked to the pitches.
 
 The idea behind showing the *outcome* is that it creates a good overview for us (which outcomes did we covered with the pitches). Not only for us, but for the customer as well, because it shows what the potential outcome is if the pitch is commissioned. It̨ can also provide context.
 
-## #1 Schiphol airport's use of service design.
+## Commissioned pitches:
 
-### Goal
+### Past clients revisited
 
-To make it clear and understandable what service design is
-
-### Method
-
-We can show the success case of Schiphol airport's use of signage that allowed them to manage large flows of people.
-
-> We could make a series of success cases in service design.
-
-### Outcome
-
-* Create new audience
-* Improve perception of the organisation
-* Improve relationship with existing audience
-
-## #2 Service design examples in everyday objects
-
-### Goal
-
-To show the necessity of service design
-
-### Method
-
-We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on everyday objects by using the development of the stabilizing spoon for parkinson patients.
-
-### Outcome
-
-* Create new audience
-* Improve perception of the organisation
-* Improve relationship with existing audience
-
-## #3 Past clients revisited
-
-### Goal
+#### Goal
 
 To show the long term effects of service design
 
-### Method
+#### Action
 
 We look at the impact that STBY had on past clients/products/services.
 
 > Please suggest a client.
 
-### Outcome
+#### Outcome
 
 * Create insights within the organisation
 * Show how good the product/service is
 * Improve relationship with existing audience
 * Create new audience
 
-## #4 What do you think your partner does?
+### What do you think your partner does?
 
 ### Goal
 
@@ -67,56 +35,78 @@ To give insight in what service design is and why it is relevant
 
 We interview a partner of an employee of STBY about what they think STBY is, what they think their partner does, what makes them good at what they do and if they know any examples of service design implemented in their lives by their partner working at STBY.
 
-### Outcome
+#### Outcome
 
 * Improve perception of the organisation
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## #5 A fun analysis of combined talents   
+## Pitches revised
 
-### Goal
+### How service design changed the experience of traveling by train
 
-To show the diversity and competence of STBY
+#### Goal
 
-### Method
+To make it clear and understandable what service design is
 
-We give a fun anonymous resume analysis/overview of all employees using information from LinkedIn.
+#### Action
 
-### Outcome
+We show how service design improved the experience of traveling by train in the last few decades.
 
-* Show how good the organisation is
+> "We could make a series of success cases in service design"
+
+#### Outcome
+
+* Create new audience
 * Improve perception of the organisation
-* Create insights within the organisation
+* Improve relationship with existing audience
 
-## #6 Physical changes caused by design research
+### Service design examples in our daily lives
 
-### Goal
+#### Goal
+
+To show the necessity of service design
+
+#### Action
+
+We create a very simple but comprehensive explanatory of what service design is. We show what impact service design can have on our everyday lives by using the journey of a package you order online. What service design choices are made to better the process of sending a package?
+
+#### Outcome
+
+* Create new audience
+* Improve perception of the organisation
+* Improve relationship with existing audience
+
+## Not good enough
+
+### Physical changes caused by design research
+
+#### Goal
 
 To show the relevance of design research
 
-### Method
+#### Action
 
 we use disposable objects as an example to show what you can accomplish with good design research, even if you're restricted to use minimal materials. For example how [Julia's](https://www.google.nl/search?q=julia%27s+pasta+ns&espv=2&biw=1680&bih=955&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi01eeC6_nKAhXCPBQKHb1wASMQ_AUIBigB#imgrc=YR90Z-s9-YcGwM%3A) made their fancy disposable cutlery. Or how HEMA makes their disposable camera's.
 
-### Outcome
+#### Outcome
 
 * Create new audience
 * Improve perception of the organisation
 
-## #7 Good research makes good design possible
+### Good research makes good design possible
 
-### Goal
+#### Goal
 
 To develop understanding into the process of service design
 
-### Method
+#### Action
 
 We can show a research technique that helped a project going forward.
 
 > We will need input for this
 
-### Outcome
+#### Outcome
 
 * Show how good the organisation is
 * Show how good the product/service is
@@ -124,129 +114,145 @@ We can show a research technique that helped a project going forward.
 * Create insights within the organisation.
 * Create new audience
 
+### Difference between service design and design research explained
 
-<!-- ##  #8 Personal drive
+#### Goal
 
-### Goal
+To better understand the key differences between service design and design research
 
-To show the personal motivation of the employees
+#### Actions
 
-### Method
+we use a fictional case to show that service design and design research both have the main goal of optimising user effectiveness. Whereas service design is about functionality, design research is more about the physical appearance. We'll also show how they both compliment each other.      
 
-We interview them about their favorite project. What roadblocks they faced and what changes they hoped to aspire.
-
-> Interview is needed
-
-### Outcome
-
-* Show how good the organisation is
-* Improve relationship with existing audience
-* Create insights within the organisation
-* Create new audience -->
-
-<!-- ## #9 Describing vision through choice of projects   
-
-### Goal
-
-To better understand the vision of STBY
-
-### Method
-
-We show which considerations STBY makes when accepting projects.
-
-> Short interview or additional information needed.
-
-### Outcome
-
-* Grow existing audience
-* Improve relationship with existing audience
-* Give insight in the organisation -->
-
-<!-- ## #10 Service/research design in everyday objects
-
-### Goal
-
-To show what impact STBY can have on our lives
-
-### Method
-
-We show changes in projects that can be implemented in every day objects.
-
-> Additional information needed
-
-### Outcome
+#### Outcome
 
 * Create new audience
-* Grow existing audience
-* Give insights in the organisation
-* show how good the service/product is
-* Improve relationship with existing audience -->
+* Improve relationship with existing audience
 
-<!-- ## #11 How to do research for service design
+### New and exciting innovations
 
-### Goal
-
-To give more insights into the research behind service design
-
-### Method
-
-We can show important steps in STBY's research process and what other fields could learn from them.
-
-> Interview or additional information needed.
-
-### Outcome
-
-* Give insight in the organization
-* Create new audience
-* Grow existing audience
-* Improve relationship with existing audience -->
-
-## #12 New and exciting innovations
-
-### Goal
+#### Goal
 
 To show the relevance of service design
 
-### Method
+#### Action
 
 We can show new exciting innovations in the field and how they relate to existing methods.
 
 > You give us a subject, we research and write about it.
 
-### Outcome
+#### Outcome
 
 * Create new audience
 * Improve perception of the organisation
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## #13 Difference between service design and design research explained
+## Needs to be improved
 
-### Goal
+### A fun analysis of combined talents   
 
-To better understand the key differences between service design and design research
+#### Goal
 
-### Methods
+To show the diversity and competence of STBY
 
-we use a fictional case to show that service design and design research both have the main goal of optimising user effectiveness. Whereas service design is about functionality, design research is more about the physical appearance. We'll also show how they both compliment each other.      
+#### Action
 
-### Outcome
+We give a fun anonymous resume analysis/overview of all employees using information from LinkedIn.
+
+#### Outcome
+
+* Show how good the organisation is
+* Improve perception of the organisation
+* Create insights within the organisation
+
+### Personal drive
+
+#### Goal
+
+To show the personal motivation of the employees
+
+#### Action
+
+We interview them about their favorite project. What roadblocks they faced and what changes they hoped to aspire.
+
+> Interview is needed
+
+#### Outcome
+
+* Show how good the organisation is
+* Improve relationship with existing audience
+* Create insights within the organisation
+* Create new audience
+
+### Describing vision through choice of projects   
+
+#### Goal
+
+To better understand the vision of STBY
+
+#### Action
+
+We show which considerations STBY makes when accepting projects.
+
+> Short interview or additional information needed.
+
+#### Outcome
+
+* Grow existing audience
+* Improve relationship with existing audience
+* Give insight in the organisation
+
+### Service/research design in everyday objects
+
+#### Goal
+
+To show what impact STBY can have on our lives
+
+#### Action
+
+We show changes in projects that can be implemented in every day objects.
+
+> Additional information needed
+
+#### Outcome
 
 * Create new audience
+* Grow existing audience
+* Give insights in the organisation
+* show how good the service/product is
 * Improve relationship with existing audience
 
-<!-- ## #14: Knowing your user base
+### How to do research for service design
 
-### Goal
+#### Goal
+
+To give more insights into the research behind service design
+
+#### Action
+
+We can show important steps in STBY's research process and what other fields could learn from them.
+
+> Interview or additional information needed.
+
+#### Outcome
+
+* Give insight in the organization
+* Create new audience
+* Grow existing audience
+* Improve relationship with existing audience
+
+### Knowing your user base
+
+#### Goal
 To show how important it is to connect with you user base
 
-### Methods
+#### Actions
 We discuss cases where the designers were and were not aware of the needs of the user. We can use the popular social media [design fail](http://9gag.com/search?query=broken+apple+cable) or [trust me i'm an engineer](http://9gag.com/gag/6494774) examples.
 
-### Outcome
+#### Outcome
 * Create new audience
-* Improve relationship with existing audience -->
-
+* Improve relationship with existing audience
 
 
 **Note:**
