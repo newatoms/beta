@@ -28,7 +28,7 @@ Outcome
   * Do you know what service standby provides?
 * Zie je weleens dat zij het werk mee naar huis neemt? Waaraan kun je dat merken?
   * Do you notice wether she brings her work to home? How can you tell?
-* Heeft ze op een bepaalde manier haar leven ingericht wat doet denken aan service design? Dit kunnen ook praktische dingen zijn.
-  * Did she in some way equipped her live that reminds you of service design? This can be very practical things.
+* Heeft ze op een bepaalde manier haar leven ingericht wat doet denken aan service design? Dit kunnen praktische dingen zijn.
+  * Did she in some way equipped her live in a way that it reminds you of service design? This can be practical things.
 * Wat maakt haar goed in wat zij doet?
   * What makes her good in what she does?
