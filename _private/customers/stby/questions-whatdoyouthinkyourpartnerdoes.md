@@ -16,10 +16,34 @@ Outcome
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## Questions
+## The Interview
 
-* Wat deed ze toen jullie net een relatie hadden?
+*Record the interview*
+
+Start with introducing:
+
+* Who are you?
+* Why are you calling?
+* What is the goal of the interview?
+* Explain that you're recording the interview and why.
+
+Follow with small talk, for example:
+
+* What does she he do for a living?
+* Tell about content.supply. 
+
+### Questions
+
+1. Wat deed ze toen jullie net een relatie hadden?
   * What kind of work had she when you both were at the start of your relationship?
+* Wat maakt haar goed in wat zij doet?
+  * What makes her good in what she does?
+* Wat is haar beste kwaliteit?
+  * What is her best quality?
+* Wat heb jij geleerd van haar?
+  * What have you learned from what she does?
+* Hoe heeft dat invloed gehad op jouw leven?
+  * How has that influenced your life?
 * Hoe vertel je aan vrienden wat je partner voor werk doet?
   * How do you tell your friends what your partner does for a living?
 * Kan je zelf nog beter uitleggen wat je partner doet?
@@ -30,5 +54,3 @@ Outcome
   * Do you notice wether she brings her work to home? How can you tell?
 * Heeft ze op een bepaalde manier haar leven ingericht wat doet denken aan service design? Dit kunnen praktische dingen zijn.
   * Did she in some way equipped her live in a way that it reminds you of service design? This can be practical things.
-* Wat maakt haar goed in wat zij doet?
-  * What makes her good in what she does?
