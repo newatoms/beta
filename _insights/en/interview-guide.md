@@ -1,5 +1,5 @@
 # Interview guide
-Here you will find some small tips that might help you improve you interviews.
+Here you will find some small tips that might help you improve your interviews.
 
 ## What to ask
 In this part you will find a small guide about how to formulate the right questions to get the answers you need.
