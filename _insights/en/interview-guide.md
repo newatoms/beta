@@ -17,16 +17,17 @@ It is often scary for a subject to be interviewed even if they have a lot of exp
 Because it is often scary for people to be interviewed it is good to prepare your subject to what is going to happen. You can tell them what you want to discuss with them, what you are looking for as a end result and what the interviews intended goal and form is. If you have complicated questions you can also give them before hand but with the risk that people are going to memorize the answers leading to a very dull and predictable interview
 
 ## Record the interview
-Always record the interview and notify your subject that you are doing so. This helps you to get your facts straight and not to worry about writing and remembering what they are saying and it reassures your subject that you take them seriously, and that you don't wrongly remember what they said.
+Always record the interview and notify your subject that you are doing so. This helps you to get your facts straight and not to worry about writing and remembering what your subject says.  It reassures your subject that you take them seriously, and that you don't wrongly remember what they said.
 
 ## Ask open ended questions
+Try to ask questions that don't have a yes or no answer and let your subject ramble while they try to answer. Often by letting someone explain something in a vague way it helps the subject to clarify what they are saying and so formulate a answer that is right for them.
 
 
 ## Don’t try to fill the void
 Don't be afraid of uncomfortable silences, sometimes you subject needs time or the awkwardness to formulate the right answers. By filling in the voids you often get a very comfortable but predictable interview.
 
 ## Reboot an interview
-If an interview is going badly, you can try to reboot the interview by thanking the participant for their time, and engaging in a little small talk. After a while ask your subject to anwser one last question on the record and slowly reengage the interview. Often people will be more open to your questions after they spoke to you as a person for a bit and it feels as if there is less depending on there awnsers.
+If an interview is going badly, you can try to reboot the interview by thanking the participant for their time, and engaging in a little small talk. After a while ask your subject to answer one last question on the record and slowly reengage the interview. Often people will be more open to your questions after they spoke to you as a person for a bit and it feels as if there is less depending on there answers.
 
 ## Ask about feelings and ask why
-Try to engage in emotional questoins besides your factual questions. Often an awnser about how some one feels about someting can lead to intersting realisations and insights.
+Try to engage in emotional questions besides your factual questions. Often an answer about how some one feels about something can lead to interesting realizations and insights.
