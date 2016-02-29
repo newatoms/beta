@@ -6,7 +6,7 @@ To show the diversity and competence of STBY and to better understand what skill
 
 ## Action
 
-We give a fun anonymous resume analysis/overview of all employees using information from LinkedIn.
+We write an article about all the combined skills that STBY has to offer and how they compliment each other, using information gained from LinkedIn profiles of the employees of STBY. The combined skills and experiences will be presented in such a way that it seems that STBY is a person in stead of a company.
 
 ## Outcome
 
