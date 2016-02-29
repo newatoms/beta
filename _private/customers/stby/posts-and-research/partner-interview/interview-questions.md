@@ -34,7 +34,7 @@ Vervolg met small talk, bijvoorbeeld:
 * Vraag wat hij/zij voor werk doet.
 * Vertel een beetje meer over content.supply.
 
-### Questions (NE)
+### Vragen 
 
 1. Wat deed ze toen jullie net een relatie hadden?
 
@@ -76,7 +76,7 @@ Follow with small talk, for example:
 * What does she he do for a living?
 * Tell about content.supply.
 
-### Questions (EN)
+### Questions 
 
 1. What kind of work had she when you both were at the start of your relationship?
 
