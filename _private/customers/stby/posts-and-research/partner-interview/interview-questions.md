@@ -16,11 +16,55 @@ Outcome
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## The Interview
+## Het Interview (NE)
+
+*Probeer, altijd het interview op te nemen*
+
+### Intro
+
+Begin met jezelf voor te stellen:
+
+* Wie ben je?
+* Waarom bel je?
+* Wat is het doel van het interview?
+* Zeg dat je het gesprek op neemt en waarom.
+
+Vervolg met small talk, bijvoorbeeld:
+
+* Vraag wat hij/zij voor werk doet.
+* Vertel een beetje meer over content.supply.
+
+### Questions (NE)
+
+1. Wat deed ze toen jullie net een relatie hadden?
+
+* Wat is haar beste kwaliteit?
+
+* Wat heb jij geleerd van haar?
+
+* Hoe heeft dat invloed gehad op jouw leven?
+
+* Wat maakt haar goed in wat zij doet?
+
+* Hoe vertel je aan vrienden wat je partner voor werk doet?
+
+* Kan je zelf nog beter uitleggen wat je partner doet?
+
+* Weet je wat voor dienst standby levert?
+
+* Kan je voorbeelden noemen van standby service?
+
+* Zie je weleens dat zij het werk mee naar huis neemt? Waaraan kun je dat merken?
+
+* Heeft ze op een bepaalde manier haar leven ingericht wat doet denken aan service design? Dit kunnen praktische dingen zijn.
+
+### The Interview (EN)
 
 *Please, record the interview*
 
-Start with introducing:
+### Intro
+
+Start introducing yourself:
 
 * Who are you?
 * Why are you calling?
@@ -32,25 +76,27 @@ Follow with small talk, for example:
 * What does she he do for a living?
 * Tell about content.supply.
 
-### Questions
+### Questions (EN)
 
-1. Wat deed ze toen jullie net een relatie hadden?
-  * What kind of work had she when you both were at the start of your relationship?
-* Wat is haar beste kwaliteit?
-  * What is her best quality?
-* Wat heb jij geleerd van haar?
-  * What have you learned from what she does?
-* Hoe heeft dat invloed gehad op jouw leven?
-  * How has that influenced your life?
-* Wat maakt haar goed in wat zij doet?
-  * What makes her good in what she does?
-* Hoe vertel je aan vrienden wat je partner voor werk doet?
-  * How do you tell your friends what your partner does for a living?
-* Kan je zelf nog beter uitleggen wat je partner doet?
-  * Can you describe even better what your partner does?
-* Weet je wat voor dienst standby levert?
-  * Do you know what service standby provides?
-* Zie je weleens dat zij het werk mee naar huis neemt? Waaraan kun je dat merken?
-  * Do you notice wether she brings her work to home? How can you tell?
-* Heeft ze op een bepaalde manier haar leven ingericht wat doet denken aan service design? Dit kunnen praktische dingen zijn.
-  * Did she in some way equipped her live in a way that it reminds you of service design? This can be practical things.
+1. What kind of work had she when you both were at the start of your relationship?
+
+* What is her best quality?
+
+* What have you learned from what she does?
+
+* How has that influenced your life?
+
+* What makes her good in what she does?
+
+* How do you tell your friends what your partner does for a living?
+
+* Can you describe even better what your partner does?
+
+* Do you know what service standby provides?
+
+* Can you come up with an example?
+
+* Do you notice wether she brings her work to home? How can you tell?
+
+* Did she in some way equipped her live in a way that it reminds you of service design?
+ This can be practical things.
