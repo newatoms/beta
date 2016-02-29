@@ -16,7 +16,7 @@ Outcome
 * Create insights within the organisation
 * Improve relationship with existing audience
 
-## Het Interview (NE)
+## Het Interview (NL)
 
 *Probeer, altijd het interview op te nemen*
 
