@@ -31,6 +31,7 @@ In this part you will find some tips about the way you can approach and ask the 
 
 ### Record the interview
 Always record the interview and notify your interviewee that you are doing so. This helps you to get your facts straight and not to worry about writing and remembering what your interviewee says.  It reassures your interviewee that you take them seriously, and that you don't wrongly remember what they said.
+You can use most mobile phones to record a phone call, if this does not work use a second phone or other recording device and put the phone on speaker. As long as you are going to transcribe it, the sound quality does not matter too mutch.
 
 ### Prepare your interviewee
 Because it is often scary for people to be interviewed it is good to prepare your interviewee to what is going to happen. You can tell them what you want to discuss with them, what you are looking for as a end result and what the interviews intended goal and form is. If you have complicated questions you can also give them before hand but with the risk that people are going to memorize the answers leading to a very dull and predictable interview
