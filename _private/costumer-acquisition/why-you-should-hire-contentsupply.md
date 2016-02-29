@@ -2,11 +2,11 @@
 
 Communicatie is een essentieel onderdeel van elke organisatie om zichtbaar te zijn en te blijven. Hoe fantastish je ook bent, als niemand weet wie je bent of waar je voor staat, besta je niet.
 
-Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest. Met de komst van social media is dit veranderd, maar de meeste organisaties vinden het nog lastig om social media effectief in te zetten.
+Het inkopen en inzetten van traditionele media is altijd duur en lastig geweest. Met de komst van social media is dit veranderd, maar de meeste organisaties vinden het nog lastig om hier effectief mee om te gaan.
 
 ## Social media = mond op mond reclame
 
-Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame. Alle activiteit op social media wordt voor een korte periode uitgezonden naar iedereen die in je netwerk zit en het netwerk van iedereen die er een interactie mee heeft. Zo heb je in potentie een oneindig bereik. Goede content is waardevol voor de ontvanger, en creëert zo relevantie voor de zender en iedereen die iets met je uitingen doet.
+Social media is in principe niets meer dan een extreem versterkte manier van mond op mond reclame. Alle activiteit wordt voor een korte periode uitgezonden naar iedereen die in je netwerk zit en het netwerk van iedereen die er een interactie mee heeft. Zo heb je in potentie oneindig bereik. Goede content is waardevol voor de ontvanger, en creëert zo relevantie voor de zender en iedereen die iets met je uitingen doet.
 
 ## Twee vliegen in één klap
 
