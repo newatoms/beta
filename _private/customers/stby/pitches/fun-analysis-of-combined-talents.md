@@ -2,7 +2,7 @@
 
 ## Goal
 
-To show the diversity and competence of STBY
+To show the diversity and competence of STBY and to better understand what skills are needed to be a good service design/design research organisation
 
 ## Action
 
