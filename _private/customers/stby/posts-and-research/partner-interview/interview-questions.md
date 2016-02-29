@@ -36,14 +36,14 @@ Follow with small talk, for example:
 
 1. Wat deed ze toen jullie net een relatie hadden?
   * What kind of work had she when you both were at the start of your relationship?
-* Wat maakt haar goed in wat zij doet?
-  * What makes her good in what she does?
 * Wat is haar beste kwaliteit?
   * What is her best quality?
 * Wat heb jij geleerd van haar?
   * What have you learned from what she does?
 * Hoe heeft dat invloed gehad op jouw leven?
   * How has that influenced your life?
+* Wat maakt haar goed in wat zij doet?
+  * What makes her good in what she does?
 * Hoe vertel je aan vrienden wat je partner voor werk doet?
   * How do you tell your friends what your partner does for a living?
 * Kan je zelf nog beter uitleggen wat je partner doet?
