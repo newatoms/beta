@@ -18,7 +18,7 @@ Outcome
 
 ## The Interview
 
-*Record the interview*
+*Please, record the interview*
 
 Start with introducing:
 
@@ -30,7 +30,7 @@ Start with introducing:
 Follow with small talk, for example:
 
 * What does she he do for a living?
-* Tell about content.supply. 
+* Tell about content.supply.
 
 ### Questions
 
