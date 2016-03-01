@@ -1,10 +1,13 @@
 # content.supply communication guide
+
 In this document you will find guidlines for communicating as content.supply.
 
 ## What is content.supply.
+
 Content.supply is an easy and pleasant way to act as editor in chief over a remotely controlled editorial team that creates **high quality content** for your organisation.
 
 ## Why is content.supply good for the world
+
 * We sell a pleasant way to control the creation of high quality content.
 * Good content is a way to create relevance for the sender by being valuable for the receiver.
 * Good content has a positive effect on both the sender and the receiver.
