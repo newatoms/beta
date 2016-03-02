@@ -36,10 +36,6 @@ On Tuesday 23-02-2016 we met with Ingrid Wendel to discuss the first two phases 
 * It was unclear if the chat messages I typed was send and if it was received by content.supply.
 * It is not clear how much time you need from us when you need our help with pitches.
 
-### Remarks on certain pitches to take into account
-
-* Ingrid: Geke mentioned also that we have to make a distinction between projects, these are about a specific project of STBY, and thoughts. The projects we write ourselves. She has the opinion that examples of good service design can be found on our project page. And services of others, like Schiphol, is oke. But only if it is not about a specific company, like Schiphol, but about a more general service, like flying for example."
-
 ### Conclusions by Ingrid
 
 * Leave as little as possible for interpretation.
