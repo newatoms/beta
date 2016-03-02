@@ -1,10 +1,11 @@
 # Feedback STBY configuration & pitches
-On Tuesday 23-02-2016 we met with Ingrid Wendel to discuss the first two phases of using content.suppl: configuring your account and receiving the first pitches. In this document you will find feedback and conclusions we received from Ingrid..
 
+On Tuesday 23-02-2016 we met with Ingrid Wendel to discuss the first two phases of using content.supply: configuring your account and receiving the first pitches. In this document you will find feedback and conclusions we received from Ingrid..
 
 ## configuration
 
 ### Remarks by Ingrid
+
 * A LOT of questions that often felt the same.
 * I wondered if you knew what you where asking.
 * I doubted that one answer more or less did not really make a difference, witch made the task of filling the form feel a bit redundant.
@@ -16,11 +17,14 @@ On Tuesday 23-02-2016 we met with Ingrid Wendel to discuss the first two phases 
 * It is unclear who is behind the interface, so it is hard to trust in the better judgment of content.supply
 
 ### Conclusions by Ingrid
+
 * The lack of feedback makes the user unsure about what they are doing which influences the way they fill the form.
 * The lack of reason surrounding the questions makes it hard for the user to stand behind their answers.
 
 ## Pitches
+
 ### Remarks by Ingrid
+
 * Some pitches were hard to understand, and if I felt like they were not right for STBY I assumed I did not understand them or lacked insights and felt the need to discuss them before rejecting them.
 * It was not clear for me what I have to contribute to make a pitch possible.
 * It was not clear how content.supply would contact the relations of STBY. It made us worry and created a lot of internal discussion.
@@ -32,6 +36,11 @@ On Tuesday 23-02-2016 we met with Ingrid Wendel to discuss the first two phases 
 * It was unclear if the chat messages I typed was send and if it was received by content.supply.
 * It is not clear how much time you need from us when you need our help with pitches.
 
+### Remarks on certain pitches to take into account
+
+* Ingrid: Geke mentioned also that we have to make a distinction between projects, these are about a specific project of STBY, and thoughts. The projects we write ourselves. She has the opinion that examples of good service design can be found on our project page. And services of others, like Schiphol, is oke. But only if it is not about a specific company, like Schiphol, but about a more general service, like flying for example."
+
 ### Conclusions by Ingrid
+
 * Leave as little as possible for interpretation.
 * Users don't know who is behind the interface so don't count on there trust that you will do things in a certain way.
