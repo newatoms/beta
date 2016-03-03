@@ -16,6 +16,22 @@ Outcome
 * Create insights within the organisation
 * Improve relationship with existing audience
 
+For this pitch we interview Thijs de Boer, the partner of Marie de Vos.
+### Information about Thijs de Boer
+
+
+
+### Information about Marie de Vos
+
+* She is operational manager and design Researcher
+* She has responsibility for fieldwork, analysis and delivery
+* Studied cognitive psychology at Maastricht University
+* Has a MSc. in mediatechnology with her focus here being on ‘creative research which she obtained at Leiden University.
+* She was a intern for 4 months at STBY before graduating
+* Became a full time research assistant until 2012
+* She is a full time design researcher since 2012
+
+
 ## Het Interview (NL)
 
 *Probeer, altijd het interview op te nemen*
@@ -34,7 +50,7 @@ Vervolg met small talk, bijvoorbeeld:
 * Vraag wat hij/zij voor werk doet.
 * Vertel een beetje meer over content.supply.
 
-### Vragen 
+### Vragen
 
 1. Wat deed ze toen jullie net een relatie hadden?
 
@@ -76,7 +92,7 @@ Follow with small talk, for example:
 * What does she he do for a living?
 * Tell about content.supply.
 
-### Questions 
+### Questions
 
 1. What kind of work had she when you both were at the start of your relationship?
 
