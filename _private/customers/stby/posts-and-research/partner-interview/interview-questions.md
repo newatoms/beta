@@ -89,6 +89,7 @@ Start introducing yourself:
 * Who are you?
 * Why are you calling?
 * What is the goal of the interview?
+
 > *We want to give insight in what service design is and why it is relevant.*
 
 > *We want to do this by interviewing you about what you think Marie does at STBY, what makes her good at what she does and if you know of any examples of service design that she has implemented in you lives.*
