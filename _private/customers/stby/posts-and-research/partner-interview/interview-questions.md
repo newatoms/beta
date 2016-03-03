@@ -16,6 +16,21 @@ Outcome
 * Create insights within the organisation
 * Improve relationship with existing audience
 
+For this pitch we interview Thijs de Boer, the partner of Marie de Vos.
+### Information about Thijs de Boer
+Nothing found yet of the right Thijs de Boer. Difficult to find...
+
+### Information about Marie de Vos obtained on stby.eu
+
+* Marie is operational manager and design Researcher
+* Marie has responsibility for fieldwork, analysis and delivery
+* Studied cognitive psychology at Maastricht University
+* Has a MSc. in mediatechnology with the focus on ‘creative research', obtained at Leiden University.
+* She was a intern for 4 months at STBY before graduating
+* Marie Became a full time research assistant until 2012
+* Marie is a full time design researcher since 2012
+
+
 ## Het Interview (NL)
 
 *Probeer, altijd het interview op te nemen*
@@ -27,6 +42,11 @@ Begin met jezelf voor te stellen:
 * Wie ben je?
 * Waarom bel je?
 * Wat is het doel van het interview?
+
+> *We willen inzicht geven in wat service design is en waarom het relevant is.*
+
+> *Dit willen we doen door jou te interviewen over wat zij denkt dat Marie doet, wat haar goed maakt in wat ze doet en of je voorbeelden hebt van service designe die Marie heeft geimplementeerd in jullie leven.*
+
 * Zeg dat je het gesprek op neemt en waarom.
 
 Vervolg met small talk, bijvoorbeeld:
@@ -34,7 +54,7 @@ Vervolg met small talk, bijvoorbeeld:
 * Vraag wat hij/zij voor werk doet.
 * Vertel een beetje meer over content.supply.
 
-### Vragen 
+### Vragen
 
 1. Wat deed ze toen jullie net een relatie hadden?
 
@@ -46,9 +66,9 @@ Vervolg met small talk, bijvoorbeeld:
 
 * Wat maakt haar goed in wat zij doet?
 
-* Hoe vertel je aan vrienden wat je partner voor werk doet?
+* Hoe vertel je aan vrienden wat Marie voor werk doet?
 
-* Kan je zelf nog beter uitleggen wat je partner doet?
+* Kan je zelf nog beter uitleggen wat Marie doet?
 
 * Weet je wat voor dienst standby levert?
 
@@ -69,6 +89,10 @@ Start introducing yourself:
 * Who are you?
 * Why are you calling?
 * What is the goal of the interview?
+> *We want to give insight in what service design is and why it is relevant.*
+
+> *We want to do this by interviewing you about what you think Marie does at STBY, what makes her good at what she does and if you know of any examples of service design that she has implemented in you lives.*
+
 * Explain that you're recording the interview and why.
 
 Follow with small talk, for example:
@@ -76,7 +100,7 @@ Follow with small talk, for example:
 * What does she he do for a living?
 * Tell about content.supply.
 
-### Questions 
+### Questions
 
 1. What kind of work had she when you both were at the start of your relationship?
 
@@ -88,9 +112,9 @@ Follow with small talk, for example:
 
 * What makes her good in what she does?
 
-* How do you tell your friends what your partner does for a living?
+* How do you tell your friends what Marie does for a living?
 
-* Can you describe even better what your partner does?
+* Can you describe even better what Marie does?
 
 * Do you know what service standby provides?
 
