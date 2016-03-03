@@ -18,8 +18,7 @@ Outcome
 
 For this pitch we interview Thijs de Boer, the partner of Marie de Vos.
 ### Information about Thijs de Boer
-We have no information about Thijs de Boer.
-
+Nothing found yet of the right Thijs de Boer. Difficult to find...
 
 ### Information about Marie de Vos obtained on stby.eu
 
