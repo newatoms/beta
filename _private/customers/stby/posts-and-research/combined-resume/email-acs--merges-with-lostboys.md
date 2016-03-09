@@ -6,7 +6,10 @@ List-Id: Nederlandstalige Nettime mailinglist <nettime-nl.nettime.org>
 Sender: nettime-nl-admin {AT} nettime.org
 From: ACS-i media research & projects <mail {AT} acsi.nl>
 
+# ACS-i sluit zich aan bij Lost Boys
+
 Aan alle klanten, relaties en vrienden van ACS-i,
+
 
 Met veel genoegen willen we u als een van de eersten op de hoogte
 brengen van een belangrijke stap in de ontwikkeling van ons bedrijf:
