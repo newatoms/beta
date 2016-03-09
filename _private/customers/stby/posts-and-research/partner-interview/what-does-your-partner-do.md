@@ -18,4 +18,12 @@ That last part couldn't be more different than me. I'm more practical and finish
 
 ## What did you learn from her?
 
-apart from the organising and perfectionistic part she knows how to tackle and solve a problem. I admire her for that. Together with others she knows how to solve problems and find creative solutions. I try to adopt those skills in my own work.   
+Apart from the organising and perfectionistic part she knows how to tackle and solve a problem. I admire her for that. Together with others she knows how to solve problems and find creative solutions. I try to adopt those skills in my own work. Stby talks a lot with the users of the service they are researching. That is a huge part of their research. I work at quite a large company save in an office.    
+
+## How do you explain what Marie does for a living to friends in a pub?
+
+I always start at a high level by saying that she's a researcher. Then I narrow it down by telling that she's not a typical market-researcher, but that she researches how services of companies are being used. Detecting potential opportunities. I also always tell them that the result of the research is not a dusty boring report of sixty pages. The results are always visual presented in video or infographics, something creative which will translate the research to their customers who will make a the physical product.
+
+Service design is a very abstract term for most people I always stay away from that one.
+
+The projects they do are very versatile and different from one another. But what they have in common are that they always sole problems creatively and   
