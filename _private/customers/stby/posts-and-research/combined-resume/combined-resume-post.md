@@ -5,7 +5,7 @@
 
 ### Astrid Lubsen
 
-in 2006 Astrid Lubsen did an internship as a industrial design student at	Care & Health Applications group in Philips Research. From 2009 until 2010 she was a user researcher in	CitiLaband, and in 2011 she became the head of the Open Design Lab and Concept developer at the Waag Society, until 2015 when she joined STBY as a	Design Researcher.
+In 2006 Astrid Lubsen did an internship as a industrial design student at	the Care & Health Applications research group at Philips. From 2009 until 2010 she was a user researcher in	CitiLaband, and in 2011 she became the head of the Open Design Lab and Concept developer at the Waag Society, until 2015 when she joined STBY as a	Design Researcher.
 
 ### Ingrid Wendel
 
