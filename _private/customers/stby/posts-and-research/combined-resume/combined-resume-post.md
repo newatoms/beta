@@ -1,6 +1,6 @@
 # Combined Resume Post
 
-## Work experience Geke van Dijk en Bas Raaimakers
+## What Geke van Dijk en Bas Raaijmakers did before STBY
 On January 1993 Bas Raaimakers started ACS-i media research & projects with Geke van Dijk as director. ACS-i was  mainly focused on content management and usability research. They were very involved with the emerging internet industry and conducted many research and consultancy projects.
 
 During their time at ACS-I they did consumer research and copy consultancy for among others: Philips, KLM, KPN, Ericsson, Oce, Grolsch, FBTO, Sociale Verzekeringsbank, VSNU, Nuffic, Vitae, Aids Fonds, Scripta, Postbank, ING Bank, Intel, Libertel, MSD, Unisource, Foxy Fashion, Autolease Holland, Edon, GAK and Rijkswaterstaat.
