@@ -6,7 +6,7 @@ How do you tell your friends what your partner does? Is this always a coherent s
 
 I always start at a high level by saying that she's a researcher. Then I narrow it down by telling that she's not a typical market-researcher, but that she researches how services of companies are being used. Detecting potential opportunities. I also always tell them that the result of the research is not a dusty boring report of sixty pages. The results are always presented visually in videos or infographics, something creative that will translate the research to their customers in an understandable product.
 
-Service design is a very abstract term for most people I always stay away from that one. The projects they do are very versatile and different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services.  
+Service design is a very abstract term for most people, I always stay away from that one. The projects they do are very versatile and different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services.  
 
 ## How did you guys meet?
 
