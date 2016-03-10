@@ -1,8 +1,8 @@
-# Internationaal inspirerende innovaties
+# Inspirerende innovaties
 
 ## Goal
 
-Door te laten zien dat docenten een drijvende kracht zijn achter innovatie in het onderwijs
+Door te laten zien dat deelnemende docenten een drijvende kracht zijn achter innovatie in het onderwijs
 
 ## Action
 
