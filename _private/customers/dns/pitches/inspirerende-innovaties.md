@@ -6,12 +6,7 @@ Door te laten zien dat deelnemende docenten een drijvende kracht zijn achter inn
 
 ## Action
 
-Beschrijven wij baanbrekende en inspirerende innovaties door docenten van over de hele wereld, geselecteerd door deelnemende docenten
-
-## What we need from you
-
-* Inspiratie van deelnemende docenten
-* Evt. contact informatie
+Interviewen wij deelnemende docenten die met eigen of overgenomen innovatieve ideeën invloed hebben op hun werkveld en daadwerkelijk een positivie verandering hebben teweeg gebracht. Hoe kleuren zij buiten de gebaande paden? Hebben zij anderen mee gekregen in de manier van lesgeven? Wat zou je van de daken willen schreeuwen om het onderwijs te veranderen hoe klein of groot de innovatieve ontwikkeling ook is?     
 
 ## Outcome
 
