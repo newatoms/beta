@@ -4,8 +4,8 @@ Participating teachers, dNS organisation and partner schools.
 
 source: http://www.denederlandseschool.nl/wie-zijn-wij/
 
-| Category      | Name                       | Occupation (docent)                           | More info                                                                    |
-|---------------|----------------------------|-----------------------------------------------|------------------------------------------------------------------------------|
+| Category      | Name                           | Occupation (docent)                           | More info   |
+|---------------|--------------------------------|-----------------------------------------------|-------------|
 | Deelnemer     | Ahmad al Dweib             |  Geschiedenis en ANW                          | [link](http://www.denederlandseschool.nl/people/ahmad-al-dweib/)             |
 | Deelnemer     | Anjo Roos                  |  Geschiedenis                                 | [link](http://www.denederlandseschool.nl/people/anjo-roos/)                  |
 | Deelnemer     | Anniek de Vreede           |  Biologie en Chemics                          | [link](http://www.denederlandseschool.nl/people/anniek-de-vreede/)           |
