@@ -1,7 +1,7 @@
 # Web scraper
 
 This scraper can extract information (experience and school history) from multiple targeted linkedIn profiles.
-Want to know how to use it and how it works? Go to the [Web Scraping guide](../../../../../../tree/gh-pages/guides/web-scraping/).
+Want to know how to use it and how it works? Go to the [Web Scraping guide](https://github.com/newatoms/guides/tree/ready/web-scraping).
 
 ```javascript
 var profiles = [
