@@ -13,11 +13,11 @@ After two years as being the usability directors at Lost Boys Geke and Bas start
 
 ### Astrid Lubsen
 
-In 2006 Astrid Lubsen did an internship as a industrial design student at	the Care & Health Applications research group at Philips. From 2009 until 2010 she was a user researcher in	CitiLaband, and in 2011 she became the head of the Open Design Lab and Concept developer at the Waag Society, until 2015 when she joined STBY as a	Design Researcher.
+In 2006 Astrid Lubsen did an internship as a industrial design student at	the Care & Health Applications research group at Philips. From 2009 until 2010 she was a user researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment. In 2011 she became the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency". They develop tools to access knowledge and we open up the means of production, for better distribution and Create community platforms for sharing, for improved collaboration.". In 2015 she joined STBY as a	Design Researcher.
 
 ### Ingrid Wendel
 
-Ingrid  Wendel was ergonomic designer at	the dutch Hoogovens	from 1990 until 1993. In 1994 she became a  Consultant at	Arboned, a company focused on improving labour conditions of employees in Holland,	until late 2000. From	2001 until  2008  Ingrid became Account manager at the	KLM Health Services. While she was at KLM she also was a Service designer and insights specialist	at Mrs. Slocombe. She did this until 2013 when she joined STBY as a research and service designer	at STBY.
+Ingrid  Wendel was ergonomic designer at	the dutch Hoogovens	from 1990 until 1993. In 1994 she became a  Consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland. From	2001 until  2008  Ingrid became Account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy." While she was at KLM she also was a Service designer and insights specialist	at Mrs. Slocombe. She did this until 2013 when she joined STBY as a research and service designer	at STBY.
 
 ### Yannis  Toubakaris
 
