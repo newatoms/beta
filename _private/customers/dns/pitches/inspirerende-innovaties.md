@@ -10,7 +10,7 @@ Interviewen wij deelnemende docenten die met eigen of overgenomen innovatieve id
 
 ## Outcome
 
-* Aandacht op een specifiek onderwerp vestigen
+* Laten zien wat er gebeurt op deelnemende scholen
 
 Feedback from Vera:
 
