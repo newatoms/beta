@@ -30,4 +30,4 @@ Apart from the organising and perfectionistic part she knows how to tackle and s
 
 Marie is very organised. She has lists of everything, luckily there are no coloured post-its yet to write it on. You can safely assume that our holidays are well planned!   
 
-From a user-research perspective she has this thing that when she's on the train, stranger tell their live stories to her very easily. All kinds of drama, I mean incurable illnesses, really personal stuff. That's why I think she's good in what she does.   
+From a user-research perspective she has this thing that when she's on the train, strangers tell their live stories to her very easily. All kinds of drama, I mean incurable illnesses, really personal stuff. That's why I think she's good in what she does.   
