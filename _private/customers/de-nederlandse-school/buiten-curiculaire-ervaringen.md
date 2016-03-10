@@ -20,7 +20,7 @@ Aandacht op een specifiek onderwerp vestigen
 
 Een voorbeeld van een blogpost dat hier uit voort zou kunnen komen is een voorbeeld van één van ons. Dit is bedoeld als een kortbondig voorbeeld.
 
-Tijdens zijn studie op de Koninklijke Akademie voor de Beeldende Kunsten kreeg Matthijs Mentink les van Bert Rorije, destijds docent communicatie. "Naast dat hij mij leerde hoe ik een duidelijk doel voor mijn fotografie kon formuleren merkte hij ook op dat ik veel meer waarde hechte aan dat wat ik denk dat er van mij verwacht werd, dan dat waarvan ik denk dat nodig was". 
+Tijdens zijn studie op de Koninklijke Akademie voor de Beeldende Kunsten kreeg Matthijs Mentink les van Bert Rorije, destijds docent communicatie. "Naast dat hij mij leerde een duidelijk doel voor mijn fotografie te formuleren, merkte hij ook op dat ik veel meer waarde hechtte aan de verwachting van anderen, dan dat ik deed wat ik zelf dacht dat nodig was." 
 
 Door Mathijs hier herhaaldelijk op te wijzen, en hem gedurende een half jaar elke keer te vragen of dat wat hij deed wel zelf wilde, of dat hij iets deed vanuit de verwachting van anderen heeft Bert Matthijs hier overheen weten te helpen. 
 
