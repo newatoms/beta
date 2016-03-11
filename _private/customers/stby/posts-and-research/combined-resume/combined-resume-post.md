@@ -10,19 +10,17 @@ After 7 years, on 12 September 2000, ACS-i merged with Lost Boys, a renown adver
 
 After two years as being the usability directors at Lost Boys Geke and Bas started SBTY, a service design company.
 
-## a small history of STBY and it's employees
-
 ### Astrid Lubsen
 
-In 2006 Astrid Lubsen did an internship as a industrial design student at	the Care & Health Applications research group at Philips. From 2009 until 2010 she was a user researcher in	CitiLaband, and in 2011 she became the head of the Open Design Lab and Concept developer at the Waag Society, until 2015 when she joined STBY as a	Design Researcher.
+In 2006 Astrid Lubsen did an internship as a industrial design student at	the Care & Health Applications research group at Philips. From 2009 until 2010 she was a user researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment. In 2011 she became the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency". In 2015 she joined STBY as a	Design Researcher.
 
 ### Ingrid Wendel
 
-Ingrid  Wendel was ergonomic designer at	the dutch Hoogovens	from 1990 until 1993. In 1994 she became a  Consultant at	Arboned	until late 2000. From	2001 until  2008  Ingrid became Account manager at the	KLM Health Services. While she was at KLM she also was a Service designer and insights specialist	at Mrs. Slocombe. She did this until 2013 when she joined STBY as a research and service designer	at STBY.
+Ingrid  Wendel was ergonomic designer at	the dutch Hoogovens	from 1990 until 1993. In 1994 she became a  Consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland. From	2001 until  2008  Ingrid became Account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy. While she was at KLM she also started her own company as Service designer and insights specialist called Mrs. Slocombe. "I am fascinated by the customer and user needs and how we can take those into account". She did this until 2013 when she joined STBY as a full time research and service designer.
 
 ### Yannis  Toubakaris
 
-Yannis  Toubakaris has been a Freelance Designer from 2009 until 2010. In 2013 he became 	Marketing Collateral Designer	for the movie: EPIC. In the 2015 he joined STBY as a Design Researcher.
+Yannis  Toubakaris has been a Freelance Designer from 2009 until 2010. In 2013 he designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user. In the 2015 he joined STBY as a Design Researcher.
 
 ### Marie de Vos
 
