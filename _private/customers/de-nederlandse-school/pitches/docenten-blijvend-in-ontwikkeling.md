@@ -1,17 +1,17 @@
-# Docenten blijvend in ontwikkeling
+# Docenten blijven in ontwikkeling
 
 ## Goal
 
-Om te laten zien dat het belangrijk is dat docenten zich blijven ontwikkelen   
+Hoe individuele deelnemende docenten zich blijven ontwikkelen buiten schooltijd
 
 ## Action
 
-interviewen we deelnemende docenten over waar zij hun inspiratie vandaan halen op het gebied van zelfeducatie.
+interviewen we deelnemende docenten over waar zij hun inspiratie vandaan halen om een betere docent te worden.
 
-Waarom is het belangrijk om je skills te verbeteren? Hoeveel tijd besteden zij aan zelfontwikkeling?
+## Mogelijke vragen
 
-Waar halen zij hun informatie vandaan? Kijken ze TED talks? Luisteren ze bepaalde podcasts? Lezen ze blogs of zijn ze fan van innovatieve voorlopers in het onderwijs? Gaan ze wel eens naar congressen?   
+Waarom is het belangrijk om je skills te verbeteren? Hoeveel tijd besteden zij aan zelfontwikkeling? Waar halen zij hun informatie vandaan? Hoe vaak hebben ze het over lesgeven met mensen buiten het onderwijs (partner, familie etc.)? Gaan ze wel eens naar workshops?
 
 ## Outcome
 
-* Aandacht op een specifiek onderwerp vestigen
+Laten zien wat er gebeurt op deelnemende scholen m.b.t het doel van dNS.
