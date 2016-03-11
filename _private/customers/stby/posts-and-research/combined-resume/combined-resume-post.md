@@ -17,11 +17,11 @@ In 2006 Astrid Lubsen did an internship as a industrial design student at	the Ca
 
 ### Ingrid Wendel
 
-Ingrid  Wendel was ergonomic designer at	the dutch Hoogovens	from 1990 until 1993. In 1994 she became a  Consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland. From	2001 until  2008  Ingrid became Account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy. While she was at KLM she also started her own company as Service designer and insights specialist called Mrs. Slocombe. "I am fascinated by the customer and user needs and how we can take those into account". She did this until 2013 when she joined STBY as a full time research and service designer	at STBY.
+Ingrid  Wendel was ergonomic designer at	the dutch Hoogovens	from 1990 until 1993. In 1994 she became a  Consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland. From	2001 until  2008  Ingrid became Account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy. While she was at KLM she also started her own company as Service designer and insights specialist called Mrs. Slocombe. "I am fascinated by the customer and user needs and how we can take those into account". She did this until 2013 when she joined STBY as a full time research and service designer.
 
 ### Yannis  Toubakaris
 
-Yannis  Toubakaris has been a Freelance Designer from 2009 until 2010. In 2013 he designed prited materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user. In the 2015 he joined STBY as a Design Researcher.
+Yannis  Toubakaris has been a Freelance Designer from 2009 until 2010. In 2013 he designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user. In the 2015 he joined STBY as a Design Researcher.
 
 ### Marie de Vos
 
