@@ -14,7 +14,7 @@ During the first four years of STBY both Bas and Geke went back to university. B
 
 ### Astrid Lubsen
 
-In 2006 Astrid Lubsen did an internship as a industrial design student at	the Care & Health Applications research group at Philips. From 2009 until 2010 she was a user researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment. In 2011 she became the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency". In 2015 she joined STBY as a	Design Researcher.
+In 2006 Astrid Lubsen did an internship as a industrial design student at	the Care & Health Applications research group at Philips after which she recieved her Master of Science in industrial and product design. From 2009 until 2010 she was a user researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment. In 2011 she became the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency". In 2015 she joined STBY as a	Design Researcher.
 
 ### Ingrid Wendel
 
