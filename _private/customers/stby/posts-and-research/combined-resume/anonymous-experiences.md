@@ -8,6 +8,6 @@ An example in varied experiences? Someone has had a job as a Choreographer for t
 
 ## Different studies
 
-At standby we improve the services of our customers by doing, among others, user research. This means that we talk a lot with the actual user of the service that we try to improve. Studies that help us to better understand the science behind human behaviour consisting of Psychology, Sociology, Cultural studies, Interaction design and Ethnography, where the latter is a systematic study and the exploring of cultural phenomena.
+At standby we improve the services of our customers by doing, among others things, user research. This means that we talk a lot with the actual user of the service that we try to improve. Studies that help us to better understand the science behind human behaviour consisting of Psychology, Sociology, Cultural studies, Interaction design and Ethnography, where the latter is a systematic study and the exploring of cultural phenomena.
 
 It's getting more technical towards our Media and Technology, Industrial design and Ergonomics background. In designing improvement for services we need all these specialties.
