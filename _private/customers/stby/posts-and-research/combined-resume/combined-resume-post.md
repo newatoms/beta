@@ -2,7 +2,7 @@
 
 ## What Geke van Dijk en Bas Raaijmakers did before STBY
 
-On January 1993, three years after receiving his master degree in cultural studies Bas Raaijmakers started ACS-i media research & projects with Geke van Dijk as director. ACS-i was  mainly focused on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction). They were very involved with the emerging internet industry and conducted many research and consultancy projects.
+On January 1993, three years after receiving his master degree in cultural studies, Bas Raaijmakers started ACS-i media research & projects with Geke van Dijk as director. ACS-i was  mainly focused on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction). They were very involved with the emerging internet industry and conducted many research and consultancy projects.
 
 During their time at ACS-I they did consumer research, where they investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Ericsson, Oce, Grolsch, FBTO, Sociale Verzekeringsbank, VSNU, Nuffic, Vitae, Aids Fonds, Scripta, Postbank, ING Bank, Intel, Libertel, MSD, Unisource, Foxy Fashion, Autolease Holland, Edon, GAK and Rijkswaterstaat.
 
@@ -10,7 +10,7 @@ After 7 years, on 12 September 2000, ACS-i merged with Lost Boys, a renown adver
 
 After two years as being the usability directors at Lost Boys Geke and Bas started SBTY, a service design company.
 
-During the first four years of STBY both Bas and Geke went back to university. Bas recieved his PhD in Design Interactions at the Royal Collage of art and Geke studied Marketing and communication at the renown Nyenrode Business University and reciebed her PhD in bussiness oriented Computing Sciences from the Open University.
+During the first four years of STBY both Bas and Geke went back to university. Bas received his PhD in Design Interactions at the Royal Collage of art and Geke studied Marketing and communication at the renown Nyenrode Business University and received her PhD in computing sciences from the Open University.
 
 ### Astrid Lubsen
 
@@ -18,7 +18,7 @@ In 2006 Astrid Lubsen did an internship as a industrial design student at	the Ca
 
 ### Ingrid Wendel
 
-After studying postdoctoral design of consumer products and industrial design at TU Delft, Ingrid  Wendel was ergonomic designer at	the dutch Hoogovens	from 1990 until 1993. In 1994 she became a  Consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland. From	2001 until  2008  Ingrid became Account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy. While she was at KLM she also started her own company as Service designer and insights specialist called Mrs. Slocombe. "I am fascinated by the customer and user needs and how we can take those into account". She did this until 2013 when she joined STBY as a full time research and service designer.
+After finishing her postdoctoral design study of consumer products and industrial design at TU Delft, Ingrid  Wendel was ergonomic designer at	the dutch Hoogovens	from 1990 until 1993. In 1994 she became a  Consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland. From	2001 until  2008  Ingrid became Account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy. While she was at KLM she also started her own company as Service designer and insights specialist called Mrs. Slocombe. "I am fascinated by the customer and user needs and how we can take those into account". She did this until 2013 when she joined STBY as a full time research and service designer.
 
 ### Yannis  Toubakaris
 
