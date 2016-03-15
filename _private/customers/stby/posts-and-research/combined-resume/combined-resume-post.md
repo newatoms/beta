@@ -6,11 +6,17 @@ On January 1993, three years after receiving his master degree in cultural studi
 
 During their time at ACS-I they did consumer research, where they investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Ericsson, Oce, Grolsch, FBTO, Sociale Verzekeringsbank, VSNU, Nuffic, Vitae, Aids Fonds, Scripta, Postbank, ING Bank, Intel, Libertel, MSD, Unisource, Foxy Fashion, Autolease Holland, Edon, GAK and Rijkswaterstaat.
 
+By being very involved in the coming to existence of the internet businesses, Geke and Bas have created a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
+
 After 7 years, on 12 September 2000, ACS-i merged with Lost Boys, a renown advertising agency with offices all over the globe. Geke and Bas became usability directors and took the responsibility for the development and execution of all consumer research and copy consultancy. In the [e-mail](email-acs-merges-with-Lostboys.md) they send to all their contacts they said the following; "our experience with being the frontrunner of new media projects is a valuable addition to Lost Boys. Both usability and content are becoming more and more important for the success of e-bussinesses (bussinesses that exist mainly trough online services). ACS-i will expand these disciplines internationally for Lost Boys.
 
 After two years as being the usability directors at Lost Boys Geke and Bas started SBTY, a service design company.
 
+At Lost Boys Geke and Bas had the ability to implement the early stages of service design towards commercial goals and experienced a very distinct and measurable way to implement conclusions drawn from knowledge behavior
+
 During the first four years of STBY both Bas and Geke went back to university. Bas received his PhD in Design Interactions at the Royal Collage of art and Geke studied Marketing and communication at the renown Nyenrode Business University and received her PhD in computing sciences from the Open University.
+
+These studies enabled Geke and Bas to more fully understand the ways they can use their knowledge of user behavior and made them independent from the commercial goals of Lost Boys (increasing sales by using user behaviour). 
 
 ### Astrid Lubsen
 
