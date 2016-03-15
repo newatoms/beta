@@ -1,4 +1,4 @@
-# What does my boyfriend think I do? A interview with the partner of a service designer.
+# What does my boyfriend think I do? An interview with the partner of a service designer.
 
 It is sometimes hard to explain what we do, especially to those who are not familiar with our field of work. Which is sad because what we do is relevant for pretty much every one. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us. In this article we interview Thijs de Boer, front-end developer at marktplaats.nl about his girlfriend Marie de Vos, design researcher at Stby Amsterdam. Your can see her Stby profile [here](http://www.stby.eu/2010/02/22/marie-de-vos/).  
 
