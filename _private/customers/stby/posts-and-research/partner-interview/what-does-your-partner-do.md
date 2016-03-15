@@ -1,8 +1,8 @@
-# What does your partner do? About Stby employee: Marie de Vos
+# What does my boyfriend think I do? A interview with the partner of a service designer.
 
 It is sometimes hard to explain what we do, especially to those who are not familiar with our field of work. Which is sad because what we do is relevant for pretty much every one. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us. In this article we interview Thijs de Boer, front-end developer at marktplaats.nl about his girlfriend Marie de Vos, design researcher at Stby Amsterdam. Your can see her Stby profile [here](http://www.stby.eu/2010/02/22/marie-de-vos/).  
 
-## How do you explain what Marie does for a living to friends in a pub?
+## How do you explain what Marie does to friends in a pub?
 
 I always start at a high level by saying that she's a researcher. Then I narrow it down by telling that she's not a typical market-researcher, but that she researches how services of companies are being used. Detecting potential opportunities. I also always tell them that the result of the research is not a dusty boring report of sixty pages. The results are always presented visually in videos or infographics, something creative that will translate the research to their customers in an understandable product.
 
