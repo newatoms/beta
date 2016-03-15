@@ -30,8 +30,8 @@ During the first four years of STBY both Bas and Geke went back to university. B
 
 ## The employees of STBY
 
-An internship as a industrial design student at	the Care & Health Applications research group at Philips. user researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
-Head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency".
+We an internship as a industrial design student at	the Care & Health Applications research group at Philips. We where a user researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
+We also have been the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency".
 
 
 ### Ingrid Wendel
