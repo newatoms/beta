@@ -1,6 +1,6 @@
 # What does your partner do? About Stby employee: Marie de Vos
 
-How do you tell your friends what your partner does? Is this always a coherent story? Service design, design research, user experience, you probably won't get away with dropping these terms. In this article we interview Thijs de Boer, front-end developer at marktplaats.nl who's the partner of Marie de Vos, design researcher at Stby Amsterdam. See her Stby profile [here](http://www.stby.eu/2010/02/22/marie-de-vos/).  
+It is sometimes hard to explain what we do, especially to those who are not familiar with our field of work. Which is sad because what we do, advising people how to tailor there products and services so that it incorporates the behavior of the users, is relevant for pretty much every one. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us. In this article we interview Thijs de Boer, front-end developer at marktplaats.nl about his girlfriend Marie de Vos, design researcher at Stby Amsterdam. Your can see her Stby profile [here](http://www.stby.eu/2010/02/22/marie-de-vos/).  
 
 ## How do you explain what Marie does for a living to friends in a pub?
 
