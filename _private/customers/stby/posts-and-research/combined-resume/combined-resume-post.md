@@ -28,9 +28,13 @@ Ingrid's early work experience greatly revolved around improving the labour cond
 
 Yannis  Toubakaris has been a Freelance Designer from 2009 until 2010. In 2013 he designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user. In the 2015 he joined STBY as a Design Researcher.
 
+
+
 ### Marie de Vos
 
-Marie de Vos studied Psychology at the University of Maastricht	and received her bachelor with honours in 2008. In 2010 she received her master of science in media-technology at the university of Leiden while she did an internship at STBY. After receiving her master of science she joined STBY full time as a Design Researcher
+Marie de Vos studied Psychology at the University of Maastricht	and received her bachelor with honours in 2008. In 2010 she received her master of science in media-technology at the university of Leiden while she did an internship at STBY. At the University of Leiden she got encouraged to answer questions formulated from own curiosity and experiences by creating products. This was based on the belief that by doing and creating, new scientific insights into the underlying question are encountered. After receiving her master of science she joined STBY full time as a Design Researcher
+
+Marie's psychology background has given her insight in to user behavior and her media-technology master has given her insight in the design process.
 
 ### Samantha Miller
 
