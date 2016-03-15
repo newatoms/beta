@@ -16,11 +16,11 @@ It's getting more technical towards our Media and Technology, Industrial design,
 
 Someone has had a job as a Choreographer for the Musical Hair and another was an ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
 
-## What Geke van Dijk en Bas Raaijmakers did before STBY
+## The beginning of STBY
 
 On January 1993, three years after receiving his master degree in cultural studies, Bas Raaijmakers started ACS-i media research & projects with Geke van Dijk as director. ACS-i was  mainly focused on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction). They were very involved with the emerging internet industry and conducted many research and consultancy projects.
 
-During their time at ACS-I they did consumer research, where they investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Aids Fonds, Grolsch, Rijkswaterstaat etc. 
+During their time at ACS-I they did consumer research, where they investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Aids Fonds, Grolsch, Rijkswaterstaat etc.
 
 After 7 years, on 12 September 2000, ACS-i merged with Lost Boys, a renown advertising agency with offices all over the globe. Geke and Bas became usability directors and took the responsibility for the development and execution of all consumer research and copy consultancy. In the [e-mail](email-acs-merges-with-Lostboys.md) they send to all their contacts they said the following; "our experience with being the frontrunner of new media projects is a valuable addition to Lost Boys. Both usability and content are becoming more and more important for the success of e-bussinesses (bussinesses that exist mainly trough online services). ACS-i will expand these disciplines internationally for Lost Boys.
 
@@ -28,7 +28,7 @@ After two years as being the usability directors at Lost Boys Geke and Bas start
 
 During the first four years of STBY both Bas and Geke went back to university. Bas received his PhD in Design Interactions at the Royal Collage of art and Geke studied Marketing and communication at the renown Nyenrode Business University and received her PhD in computing sciences from the Open University.
 
-## Employees
+## The employees of STBY
 
 An internship as a industrial design student at	the Care & Health Applications research group at Philips. user researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
 Head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency".
