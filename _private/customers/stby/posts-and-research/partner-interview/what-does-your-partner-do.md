@@ -1,24 +1,18 @@
-# What does your partner do? About Stby employee: Marie de Vos
 
-How do you tell your friends what your partner does? Is this always a coherent story? Service design, design research, user experience, you probably won't get away with dropping these terms. In this article we interview Thijs de Boer, front-end developer at marktplaats.nl who's the partner of Marie de Vos, design researcher at Stby Amsterdam. See her Stby profile [here](http://www.stby.eu/2010/02/22/marie-de-vos/).  
 
-## How do you explain what Marie does for a living to friends in a pub?
+It is sometimes hard to explain what we do, especially to those who are not familiar with our field of work. Which is sad because what we do, advising people how to tailor there products and services so that it incorporates the behavior of the users, is relevant for pretty much every one. To figure out how we would go about explaining what we do, we asked the people closest to us to explain what they think we do.
 
-I always start at a high level by saying that she's a researcher. Then I narrow it down by telling that she's not a typical market-researcher, but that she researches how services of companies are being used. Detecting potential opportunities. I also always tell them that the result of the research is not a dusty boring report of sixty pages. The results are always presented visually in videos or infographics, something creative that will translate the research to their customers in an understandable product.
+In this article we interview Thijs de Boer, front-end developer at marktplaats.nl who's the partner of Marie de Vos, design researcher at Stby Amsterdam. You can see her Stby profile here [here](http://www.stby.eu/2010/02/22/marie-de-vos/).  
+
+When my friends ask what Marie does I always start at a high level by saying that she's a researcher. Then I narrow it down by telling that she's not a typical market-researcher, but that she researches how services of companies are being used. Detecting potential opportunities. I also always tell them that the result of the research is not a dusty boring report of sixty pages, but that always presented visually in videos or infographics, something creative that will translate the research to their customers in an understandable product.
 
 Service design is a very abstract term for most people, I always stay away from that one. The projects they do are very versatile and different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services.  
 
-## How did you guys meet?
-
-We both did a media technology master in Leiden. We both came from a very different background. Marie had here psychology bachelor and I studied multi-media and design. We were taking the same classes and it was in Leiden where we fell in love.
-
-## So, Marie took a more social road and you planned a more technical future?
+Marie and I met and fell in love during our technology master at the university of Leiden where we were taking the same classes. We both came from a very different background. Marie had here psychology bachelor and I studied multi-media and design. 
 
 The idea behind the master was that it didn't matter what kind of background you had. You could add and use your own expertise in all the classes. We learned a lot about creative ways to do research and at the same time, our technological abilities got updated. There was something there for everyone.
 
-## What is the difference between the two of you when it comes to doing research?
-
-Because of her psychological background she has way more experience in doing research than me. Where she is very precise and more scientifically based, I'm more practical. Analysing human behaviour really is a strong skill she has. She's also really good in taking ownership of a project and deliver a very high quality. She's really persistent and thrives for perfection.
+Because of her psychological background Marie has way more experience in doing research than me. Where she is very precise and more scientifically based, I'm more practical. Analysing human behaviour really is a strong skill she has. She's also really good in taking ownership of a project and deliver a very high quality. She's really persistent and thrives for perfection.
 
 That last part couldn't be more different than me. I'm more practical and finish things in a quicker fashion. I'm very quick in saying: this is it, it's good enough, next! She could learn from me as well. Sometimes she wants things to be almost too perfect. It's hard to pinpoint what she could learn, but yes that would be it. Sometimes you have to kill your darlings and go on or say: now it's good enough.
 
