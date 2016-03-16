@@ -2,14 +2,14 @@
 
 ## Goal
 
-To explain what sercice design is and to show its capabilities of influencing people.
+To explain what sercice design is and to show its capabilities of influencing people and to show the stand STBY takes on this.
 
 ## Action
 
 We write an article that discusses the ethical implications conversion oriented uses of service design give.
 
 ## Example
-We could talk about the way advertising agencies use service design. We can discuss how fastfood chains try to create an atmosphere in which people don't want to stick around after finishing their food. We can discuss how supermarket place there products to increase the chances of selling them. And so on.
+We could talk about the way advertising agencies use service design. We can discuss how fastfood chains try to create an atmosphere in which people don't want to stick around after finishing their food. We can discuss how supermarket place there products to increase the chances of selling them. The goal is not to paint a negative picture of service design, but show the way that STBY thinks about these uses of service design, and that STBY handles the power of service design with great responsibilty.
 
 ## Outcome
 
