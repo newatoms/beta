@@ -6,27 +6,41 @@ On January 1993, three years after receiving his master degree in cultural studi
 
 During their time at ACS-I they did consumer research, where they investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Ericsson, Oce, Grolsch, FBTO, Sociale Verzekeringsbank, VSNU, Nuffic, Vitae, Aids Fonds, Scripta, Postbank, ING Bank, Intel, Libertel, MSD, Unisource, Foxy Fashion, Autolease Holland, Edon, GAK and Rijkswaterstaat.
 
+By being very involved in the coming of age of the internet businesses, Geke and Bas have created a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
+
 After 7 years, on 12 September 2000, ACS-i merged with Lost Boys, a renown advertising agency with offices all over the globe. Geke and Bas became usability directors and took the responsibility for the development and execution of all consumer research and copy consultancy. In the [e-mail](email-acs-merges-with-Lostboys.md) they send to all their contacts they said the following; "our experience with being the frontrunner of new media projects is a valuable addition to Lost Boys. Both usability and content are becoming more and more important for the success of e-bussinesses (bussinesses that exist mainly trough online services). ACS-i will expand these disciplines internationally for Lost Boys.
 
 After two years as being the usability directors at Lost Boys Geke and Bas started SBTY, a service design company.
 
+At Lost Boys Geke and Bas had the ability to implement the early stages of service design towards commercial goals and experienced a very distinct and measurable way to implement conclusions drawn from their knowledge of  user behavior
+
 During the first four years of STBY both Bas and Geke went back to university. Bas received his PhD in Design Interactions at the Royal Collage of art and Geke studied Marketing and communication at the renown Nyenrode Business University and received her PhD in computing sciences from the Open University.
+
+These studies enabled Geke and Bas to more fully understand the ways they can use their knowledge of service design by giving them insight within the design processes, and not just only understanding the user.  It enabled them to be independent from the commercial goals of Lost Boys (increasing sales by using user behaviour) and function more towards improving services by understand both the design process as the user behavior.
 
 ### Astrid Lubsen
 
 In 2006 Astrid Lubsen did an internship as an industrial design student at the Care & Health Applications research group at Philips after which she recieved her Master of Science in industrial and product design. From 2009 until 2010 she was a user researcher in	CityLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment. During her time there she wrote the [Citylab little handbook on people centered design](https://issuu.com/astridlubsen/docs/2010_06_06_citilab_little_handbook_versi_n_digital) where she aims to explain the importance of involving citizens in innovation and how Citylab tries to achieve that. In 2011 she became the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency". In 2015 she joined STBY as a	Design Researcher.
 
+The majority of Astrid her work experience has been focused on enabling citizens to innovate. This has greatly enhanced her abilities to stand in someone else's shoes, something that also played a important role in her industrial design education, where the emphasis lies strongly on the interaction between the product and the end user.
+
 ### Ingrid Wendel
 
 After finishing her postdoctoral design study of consumer products and industrial design at TU Delft, Ingrid  Wendel was ergonomic designer at	the dutch Hoogovens, a dutch steel company now called "Tata"	from 1990 until 1993. In 1994 she became a  Consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland. At ArboNed she had the responsibility of formulating, selling and implementing of new services and custom solution on basis of the need of the costumers regarding labour conditions and health. She worked with a large range of customers from small one man operations to multinationals. From	2001 until  2008  Ingrid became Account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy. While she was at KLM she also started her own company as Service designer and insights specialist called Mrs. Slocombe. "I am fascinated by the customer and user needs and how we can take those into account". She did this until 2013 when she joined STBY as a full time research and service designer.
+
+Ingrid's early work experience greatly revolved around improving the labour condition and health of employees of various companies by looking at the tools used and environment they are in.  This has given her a lot of insight the damage a wrongly designed product or service can do, an how you can solve those problems.
 
 ### Yannis  Toubakaris
 
 Yannis  Toubakaris has been a Freelance Designer from 2009 until 2010. In 2013 he designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user. In the 2015 he joined STBY as a Design Researcher.
 
+
+
 ### Marie de Vos
 
-Marie de Vos studied Psychology at the University of Maastricht	and received her bachelor with honours in 2008. In 2010 she received her master of science in media-technology at the university of Leiden while she did an internship at STBY. After receiving her master of science she joined STBY full time as a Design Researcher
+Marie de Vos studied Psychology at the University of Maastricht	and received her bachelor with honours in 2008. In 2010 she received her master of science in media-technology at the university of Leiden while she did an internship at STBY. At the University of Leiden she got encouraged to answer questions formulated from own curiosity and experiences by creating products. This was based on the belief that by doing and creating, new scientific insights into the underlying question are encountered. After receiving her master of science she joined STBY full time as a Design Researcher
+
+Marie's psychology background has given her insight in to user behavior and her media-technology master has given her insight in the design process.
 
 ### Samantha Miller
 
