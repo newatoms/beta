@@ -12,8 +12,9 @@ It's getting more technical towards our Media and Technology, Industrial design,
 
 ## A look at a working history
 
-Someone has had a job as a Choreographer for the Musical Hair and another was an ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
+We had a job as a Choreographer for the Musical Hair and another was an ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
 
+We were a student assistant product design and marketing communication at the TU Delft.
 We worked at ACS-i where our main focus was on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction). We were usability directors and took the responsibility for the development and execution of all consumer research and copy consultancy.
 
 We investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Aids Fonds, Grolsch, Rijkswaterstaat etc.
@@ -30,4 +31,4 @@ We were a Consultant at	ArboNed, a company focused on improving labour condition
 
 Freelance Designer from 2009 until 2010. In 2013 we designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user.
 
-Apart from working at businesses we we started our own three times.
+Apart from working at businesses we started our own three times.
