@@ -14,6 +14,8 @@ It's getting more technical towards our Media and Technology, Industrial design,
 
 Someone has had a job as a Choreographer for the Musical Hair and another was an ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
 
+We worked at ACS-i where our main focus was on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction). We were usability directors and took the responsibility for the development and execution of all consumer research and copy consultancy.
+
 We investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Aids Fonds, Grolsch, Rijkswaterstaat etc.
 
 We did an internship as a industrial design student at	the Care & Health Applications research group at Philips. We where a user researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
