@@ -10,15 +10,19 @@ At standby we improve the services of our customers by doing, among others thing
 
 It's getting more technical towards our Media and Technology, Industrial design, designing printed materials and Ergonomics background. Consumer products and industrial design at TU Delft. In designing improvement for services we need all these specialties.
 
+One conclusion we can draw is that our psychology background has given us insight in to user behavior and our media-technology master has given us insight in the design process.
+
 ##A look at a working history
 
-We had a job as a Choreographer for the Musical Hair and another was an ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
+We had a job as a Choreographer for the Musical Hair.
+
+We have been ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
 
 We were a student assistant product design and marketing communication at the TU Delft.
 
 We founded ACS-i where our main focus was on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction).
 
-We got bought up and became usability directors at a renown advertising agency and took the responsibility for the development and execution of all consumer research and copy consultancy.
+We became usability directors at a renown advertising agency and took the responsibility for the development and execution of all consumer research and copy consultancy.
 
 By working for a advertising agency we have had the ability to implement the service design towards commercial goals and experienced a very distinct and measurable way to implement conclusions drawn from their knowledge of user behavior
 
@@ -32,8 +36,6 @@ We where a user researcher in	CitiLab, a public laboratory that is a mix between
 
 We also have been the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency".
 
-We were usability directors and took the responsibility for the development and execution of consumer research and copy consultancy.
-
 We did an internship as a industrial design student at the Care & Health Applications research group at Philips. We were a User researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
 
 We became a head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency".
@@ -43,8 +45,6 @@ We were a Consultant at	ArboNed, a company focused on improving labour condition
 We have been account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy. We started our own company as Service designer and insights specialist called Mrs. Slocombe.
 
 We have been a Freelance Designer from and designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user.
-
-our psychology background has given us insight in to user behavior and our media-technology master has given us insight in the design process.
 
 The work experience that focused on enabling citizens to innovate. This has greatly enhanced our abilities to stand in someone else's shoes, something that also played a important role in our industrial design education, where the emphasis lies strongly on the interaction between the product and the end user.
 
