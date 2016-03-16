@@ -29,6 +29,6 @@ We did an internship as a industrial design student at the Care & Health Applica
 
 We were a Consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland. Account manager in at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy. We started our own company as Service designer and insights specialist called Mrs. Slocombe.
 
-Freelance Designer from 2009 until 2010. In 2013 we designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user.
+We have been a Freelance Designer from and designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user.
 
 Apart from working at businesses we started our own three times.
