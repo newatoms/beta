@@ -2,7 +2,7 @@
 
 ## Goal
 
-To explain what sercice design is and to show its capabilities of influencing user behaviour.
+To explain what service design is and to show its capabilities of influencing user behaviour.
 
 ## Action
 
