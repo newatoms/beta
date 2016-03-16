@@ -10,7 +10,7 @@ we show where Bas and Geke worked and did before starting stby. It's interesting
 
 ## What do we need from you
 
-* It would be fun to have a short interview with Bas or Geke of about 20 minutes
+* It would be fun but ot nessecary to have a short interview with Bas or Geke of about 20 minutes
 
 ## Outcome
 
