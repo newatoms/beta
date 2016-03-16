@@ -2,7 +2,7 @@
 
 The history of our highway to knowledge thought us a lot. Our employees all took different paths to get to where they are now. When combining a team it's important to bring different people with diverse skills together to form a creative whole. From our early studies, post doctorates and PhD's to working experience.
 
-Apart from our associates, at stby we've tried to get a diverse set of people to the team of eight. With different backgrounds, interests and talents. We'd not only studied and worked in the Netherlands and England but have broken out of our comfort zone collecting different experiences abroad in France, Scotland, Spain and United States. Insights in the people behind a business can give a good representation of what a company is capable of.
+Apart from our associates, at stby we've tried to get a diverse set of people to the team of eight. With different backgrounds, interests and talents. We'd not only studied and worked in the Netherlands and England but have broken out of our comfort zone by collecting different experiences abroad in France, Scotland, Spain and United States. Insights in the people behind a business can give a good representation of what a company is capable of.
 
 ## Studies that benefit our companies today
 
