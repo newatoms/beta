@@ -1,8 +1,8 @@
-# What is it about Bas and Geke that made STBY so awesome.
+# What is it about Bas and Geke that made STBY so good.
 
 ## Goal
 
-To know what is the driving force behind stby and how it became as awesome as it is now
+To know what is the driving force behind stby and how it became as good as it is now
 
 ## Action
 
