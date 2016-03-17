@@ -6,10 +6,11 @@ To know what is the driving force behind stby and how it became as awesome as it
 
 ## Action
 
-We show where Bas and Geke worked and did before starting stby, what we think they learned from ther eprevious experiences, and how their combined experiences made them unique.  
+We show where Bas and Geke worked and did before starting stby, what we think they learned from ther previous experiences, and how their combined experiences made them unique.  
 
 ## Things we could talk about
- That ACS-i media research & projects merged with Lost Boys, that they both were the usability directors at Lost Boys, what they learned from using service design to increase conversion and that they went back to university to get their PhD's to help them run their own service design company.
+
+That ACS-i media research & projects merged with Lost Boys, that they both were the usability directors at Lost Boys, what they learned from using service design to increase conversion and that they went back to university to get their PhD's to help them run their own service design company.
 
 ## What do we need from you
 
