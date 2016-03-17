@@ -1,6 +1,10 @@
-# Innovatieve docenten gezocht!
+# Mail (oproep) naar innovatieve docenten
 
-Voor een blogpost op ons blog zijn we opzoek naar docenten die hun ervaringen willen delen.
+Subject line: De Nederlandse School zoekt innovatieve docenten!
+
+Beste docent,
+
+Voor een artikel op ons blog zijn we opzoek naar docenten die hun ervaringen willen delen.
 
 Om te laten zien dat docenten een drijvende kracht zijn achter innovatie in het onderwijs, willen wij docenten interviewen die eigen of overgenomen innovatieve ideeën hebben uitgeprobeerd op hun klas.
 
@@ -16,3 +20,9 @@ Mogelijke vragen:
 * Hebben zij het met andere docenten over de resultaten van de test? (bijvoorbeeld online op een blog of gewoon in de docentenkamer?)
 
 Het interview zal telefonisch worden afgenomen.
+
+Hopelijke to snel!
+
+Met vriendelijke groet,
+
+Thomas de Beus
