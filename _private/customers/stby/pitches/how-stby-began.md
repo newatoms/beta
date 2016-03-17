@@ -6,7 +6,7 @@ To know what is the driving force behind stby and how it became as awesome as it
 
 ## Action
 
-We show where Bas and Geke worked and did before starting stby, what we think they learned from ther previous experiences, and how their combined experiences made them unique.  
+We show where Bas and Geke worked and did before starting stby, what we think they learned from their previous experiences, and how their combined experiences made them unique.  
 
 ## Things we could talk about
 
