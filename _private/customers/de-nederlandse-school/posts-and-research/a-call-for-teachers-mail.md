@@ -1,5 +1,14 @@
 # Mail (oproep) naar innovatieve docenten
 
+**Possible contacts:** 
+
+daandictus@gmail.com
+bhartmankok@thomasakempis.nl
+c.corderopuebla@raayland.nl
+e.bouman@gymnasiumleiden.nl
+e.stevens@rietveldlyceum.nl
+
+
 Subject line: De Nederlandse School zoekt innovatieve docenten!
 
 Beste docent,
