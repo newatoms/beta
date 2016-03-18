@@ -2,7 +2,7 @@
 
 > An interview with the partner of one of our service designers.
 
-It is sometimes hard to explain what we do--especially to those who are not familiar with our field of work--which is sad because what we do can have a big impact on everyday life. At times this is visible, at times invisible. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us. 
+It is sometimes hard to explain what we do--especially to those who are not familiar with our field of work--which is sad because what we do can have a big impact on everyday life. At times this is visible, at times invisible. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us.
 
 In this article we interview Thijs de Boer, front-end developer at marktplaats.nl about his girlfriend Marie de Vos, design researcher at Stby Amsterdam.  
 
@@ -28,7 +28,9 @@ That last part couldn't be more different than me. I'm more practical and finish
 
 ## What have you learned from her?
 
-Apart from the organising and perfectionistic part, she knows how to tackle and solve a problem. I admire her for that. Together with others she knows how to solve problems and find creative solutions. I try to adopt those skills in my own work. Stby talks a lot with the users of the service they are researching. That is a huge part of their research. 
+Apart from the organising and perfectionistic part, she knows how to tackle and solve a problem. I admire her for that.
+
+Together with others she knows how to solve problems and find creative solutions. I try to adopt those skills in my own work. Stby talks a lot with the users of the service they are researching. That is a huge part of their research. 
 
 I work at quite a large company, cozy and save in an office. Marie goes out there to talk to users without any pre-assumptions. They find stories and with that they will work out solutions for certain stories. This is also something what I would want to do more and which I admire.      
 
@@ -36,6 +38,6 @@ I work at quite a large company, cozy and save in an office. Marie goes out ther
 
 Marie is very organised. She has lists of everything. Luckily there are no coloured Post-its yet to write it on. You can safely assume that our holidays are well planned!   
 
-From a user-research perspective she has this thing that when she's on the train, strangers tell their life stories to her very easily. All kinds of drama--I mean incurable illnesses, really personal stuff. That's why I think she's good in what she does. 
+From a user-research perspective she has this thing that when she's on the train, strangers tell their life stories to her very easily. All kinds of drama--I mean incurable illnesses, really personal stuff. That's why I think she's good in what she does.
 
 See Marie's Stby profile [here](http://www.stby.eu/2010/02/22/marie-de-vos/).
