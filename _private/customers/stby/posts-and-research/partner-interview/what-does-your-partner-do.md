@@ -20,7 +20,7 @@ The idea behind the Master was that it didn't matter what kind of background you
 
 ## What is the difference between the two of you when it comes to doing research?
 
-Because of her psychological background, she has way more experience in doing research than me. Where she is very precise and more scientifically-based, I'm more practical. Analysing human behaviour really is a strong skill she has. She's also really good in taking ownership of a project and deliver a very high quality. She's really persistent and thrives for perfection.
+Because of her psychological background, she has way more experience in doing research than me. Where she is very precise and more scientifically-based, I'm more practical. Analysing human behaviour really is a strong skill she has. She's also really good in taking ownership of a project and delivering a very high quality. She's really persistent and thrives for perfection.
 
 That last part couldn't be more different than me. I'm more practical and finish things in a quicker fashion. I'm very quick in saying: this is it, it's good enough, next! She could learn from me as well. Sometimes she wants things to be almost too perfect. It's hard to pinpoint what she could learn, but yes that would be it. Sometimes you have to kill your darlings and go on or say: now it's good enough.
 
