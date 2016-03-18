@@ -30,6 +30,6 @@ Apart from the organising and perfectionistic part, she knows how to tackle and 
 
 ## Is there something you can point out in her daily live that she does at work?
 
-Marie is very organised. She has lists of everything, luckily there are no coloured post-its yet to write it on. You can safely assume that our holidays are well planned!   
+Marie is very organised. She has lists of everything. Luckily there are no coloured post-its yet to write it on. You can safely assume that our holidays are well planned!   
 
 From a user-research perspective she has this thing that when she's on the train, strangers tell their life stories to her very easily. All kinds of drama, I mean incurable illnesses, really personal stuff. That's why I think she's good in what she does.   
