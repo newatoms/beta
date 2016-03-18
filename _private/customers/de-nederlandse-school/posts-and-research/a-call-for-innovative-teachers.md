@@ -2,7 +2,7 @@
 
 Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij ons zelf afgevraagd in hoeverre deze docenten vanuit eigen initiatief handelden en of ze zich er van bewust zijn hoe belangrijk ze zijn geweest in ons leven.  
 
-Wij zouden zo graag inzicht willen krijgen in de gedachtegang van docenten die proberen te innoveren in het onderwijs. Wat vinden ze belangrijk in het onderwijs. voldoet het huidige onderwijssysteem aan hun verlangens, wat doen ze zelf om hun studenten te helpen ontwikkelen en waar halen ze hun inspiratie vandaan?
+Wij zouden zo graag inzicht willen krijgen in de gedachtegang van docenten die proberen te innoveren in het onderwijs. Wat vinden ze belangrijk in het onderwijs, voldoet het huidige onderwijssysteem aan hun verlangens, wat doen ze zelf om hun studenten te helpen ontwikkelen en waar halen ze hun inspiratie vandaan?
 
 We zijn benieuwd met wie ze over het onderwijs praten, of ze dat alleen met mede docenten doen, hun vrienden en Familie of misschien wel hun studenten.
 
