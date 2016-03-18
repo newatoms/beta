@@ -2,7 +2,7 @@
 
 The collective heatmap of our team members has taught us a lot. We all took varying roads through different landscapes that converge here. Our diverse experiences, from education to work history to inherent talent, form a complimentary and dynamic yet cohesive whole.
 
-At STBY we've gathered a heterogeneous set of people to build our core team of eight. Together, we are competent, capable and accomplished. We've not only studied and worked in the Netherlands and England but have departed our comfort zone by amassing different experiences in France, Scotland, Spain and the United States. We'd like to offer an insight into the combined experience that makes STBY what it is and what makes all our endeavours possible.
+At STBY we've gathered a heterogeneous set of people to build our core team of eight. As individuals, our experiences are unique and specific. Together, we are comprehensively competent, capable and accomplished. We've not only studied and worked in the Netherlands and England but have departed our comfort zone by amassing different experiences in France, Scotland, Spain and the United States. We'd like to offer an insight into the combined experience that makes STBY what it is and what makes all our endeavours possible.
 
 ## Studies that benefit our companies today
 
@@ -12,7 +12,7 @@ It's getting more technical towards our Media and Technology, Industrial design,
 
 One conclusion we can draw is that our psychology background has given us insight in to user behavior and our media-technology master has given us insight in the design process.
 
-##A look at a working history
+## A look at a working history
 
 We had a job as a Choreographer for the Musical Hair.
 
