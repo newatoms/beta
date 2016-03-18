@@ -2,7 +2,7 @@
 
 > An interview with the partner of one of our service designers.
 
-It is sometimes hard to explain what we do, especially to those who are not familiar with our field of work. Which is sad because what we do can have a big impact on everyday live. Sometimes visible, sometimes invisible. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us. In this article we interview Thijs de Boer, front-end developer at marktplaats.nl about his girlfriend Marie de Vos, design researcher at Stby Amsterdam. You can see her Stby profile [here](http://www.stby.eu/2010/02/22/marie-de-vos/).  
+It is sometimes hard to explain what we do, especially to those who are not familiar with our field of work. Which is sad because what we do can have a big impact on everyday live. Sometimes visible, sometimes invisible. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us. In this article we interview Thijs de Boer, front-end developer at marktplaats.nl about his girlfriend Marie de Vos, design researcher at Stby Amsterdam. 
 
 ## How do you explain what Marie does to friends in a pub?
 
@@ -33,3 +33,5 @@ Apart from the organising and perfectionistic part she knows how to tackle and s
 Marie is very organised. She has lists of everything, luckily there are no coloured post-its yet to write it on. You can safely assume that our holidays are well planned!   
 
 From a user-research perspective she has this thing that when she's on the train, strangers tell their life stories to her very easily. All kinds of drama, I mean incurable illnesses, really personal stuff. That's why I think she's good in what she does.   
+
+You can see Marie's Stby profile [here](http://www.stby.eu/2010/02/22/marie-de-vos/).  
