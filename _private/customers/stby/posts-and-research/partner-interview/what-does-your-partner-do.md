@@ -16,7 +16,7 @@ We both did a media technology Master in Leiden. We both came from a very differ
 
 ## So, Marie took a more social road and you planned a more technical future?
 
-The idea behind the master was that it didn't matter what kind of background you had. You could add and use your own expertise in all the classes. We learned a lot about creative ways to do research and at the same time, our technological abilities got updated. There was something there for everyone.
+The idea behind the Master was that it didn't matter what kind of background you had. You could add and use your own expertise in all the classes. We learned a lot about creative ways to do research and at the same time, our technological abilities got updated. There was something there for everyone.
 
 ## What is the difference between the two of you when it comes to doing research?
 
