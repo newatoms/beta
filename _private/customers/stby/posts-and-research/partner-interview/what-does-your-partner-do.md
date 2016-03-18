@@ -24,7 +24,7 @@ Because of her psychological background, she has way more experience in doing re
 
 That last part couldn't be more different than me. I'm more practical and finish things in a quicker fashion. I'm very quick in saying: this is it, it's good enough, next! She could learn from me as well. Sometimes she wants things to be almost too perfect. It's hard to pinpoint what she could learn, but yes that would be it. Sometimes you have to kill your darlings and go on or say: now it's good enough.
 
-## What did you learn from her?
+## What have you learned from her?
 
 Apart from the organising and perfectionistic part, she knows how to tackle and solve a problem. I admire her for that. Together with others she knows how to solve problems and find creative solutions. I try to adopt those skills in my own work. Stby talks a lot with the users of the service they are researching. That is a huge part of their research. I work at quite a large company, cozy and save in an office. Marie goes out there to talk to users without any pre-assumptions. They find stories and with that they will work out solutions for certain stories. This is also something what I would want to do more and which I admire.      
 
