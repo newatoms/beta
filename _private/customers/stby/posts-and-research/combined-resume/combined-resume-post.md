@@ -1,12 +1,12 @@
 # Combined Resume STBY
 
-The history of our highway to knowledge thought us a lot. Our employees all took different paths to get to where they are now. When combining a team it's important to bring different people with diverse skills together to form a creative whole. From our early studies, post doctorates and PhD's to working experience.
+The collective heatmap of our team members has taught us a lot. We all took varying roads through different landscapes that converge here. Our diverse experiences, from education to work history to inherent talent, form a complimentary and dynamic yet cohesive whole.
 
-Apart from our associates, at stby we've tried to get a diverse set of people to the team of eight. With different backgrounds, interests and talents. We'd not only studied and worked in the Netherlands and England but have broken out of our comfort zone by collecting different experiences abroad in France, Scotland, Spain and United States. Insights in the people behind a business can give a good representation of what a company is capable of.
+At STBY we've gathered a heterogeneous set of people to build our core team of eight. Together, we are competent, capable and accomplished. We've not only studied and worked in the Netherlands and England but have departed our comfort zone by amassing different experiences in France, Scotland, Spain and the United States. We'd like to offer an insight into the combined experience that makes STBY what it is and what makes all our endeavours possible.
 
 ## Studies that benefit our companies today
 
-At standby we improve the services of our customers by doing, among others things, user research. This means that we talk a lot with the actual user of the service that we try to improve. Studies that help us to better understand the science behind human behaviour consisting of Psychology, Sociology, Cultural studies, Interaction design and research, Marketing and Communication, Computing Sciences and Ethnography, where the latter is a systematic study and the exploring of cultural phenomena.
+At standby we improve the services of our customers by doing, among other things, user research. This means that we talk a lot with the actual user of the service that we try to improve. Studies that help us to better understand the science behind human behaviour consisting of Psychology, Sociology, Cultural studies, Interaction design and research, Marketing and Communication, Computing Sciences and Ethnography, where the latter is a systematic study and the exploring of cultural phenomena.
 
 It's getting more technical towards our Media and Technology, Industrial design, designing printed materials and Ergonomics background. Consumer products and industrial design at TU Delft. In designing improvement for services we need all these specialties.
 
