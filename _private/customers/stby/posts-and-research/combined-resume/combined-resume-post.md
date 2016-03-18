@@ -4,13 +4,23 @@ The collective heatmap of our team members has taught us a lot. We all took vary
 
 At STBY we've gathered a heterogeneous set of people to build our core team of eight. As individuals, our experiences are unique and specific. Together, we are comprehensively competent, capable and accomplished. We've not only studied and worked in the Netherlands and England but have departed our comfort zone by amassing different experiences in France, Scotland, Spain and the United States. We'd like to offer an insight into the combined experience that makes STBY what it is and what makes all our endeavours possible.
 
-## Studies that benefit our companies today
+## Education
 
-At standby we improve the services of our customers by doing, among other things, user research. This means that we talk a lot with the actual user of the service that we try to improve. Studies that help us to better understand the science behind human behaviour consisting of Psychology, Sociology, Cultural studies, Interaction design and research, Marketing and Communication, Computing Sciences and Ethnography, where the latter is a systematic study and the exploring of cultural phenomena.
+At STBY we improve the services of our customers by engaging in user research, among other things. Practically, this means that we spend a lot of time in dialogue with the actual user of the service that we want to improve. Translating these conversations into useful information requires a certain understanding of the way people think and act and why. The studies that help us to better understand the science behind human behaviour consist of:
+- Psychology
+- Sociology
+- Cultural studies
+- Interaction design and research
+- Marketing and Communication
+- Computing Sciences and Ethnography (where the latter is a systematic study and the exploring of cultural phenomena)
 
-It's getting more technical towards our Media and Technology, Industrial design, designing printed materials and Ergonomics background. Consumer products and industrial design at TU Delft. In designing improvement for services we need all these specialties.
+Designing improved services requires certain specialties in media and technology. We've studied:
+- Industrial design,
+- Printed Materials Design
+- Ergonomics
+- Consumer Product Design
 
-One conclusion we can draw is that our psychology background has given us insight in to user behavior and our media-technology master has given us insight in the design process.
+One conclusion we can draw is that our background in psychology has given us insight in to user behavior and our mastery of media-technology has given us insight into the the design process.
 
 ## A look at a working history
 
