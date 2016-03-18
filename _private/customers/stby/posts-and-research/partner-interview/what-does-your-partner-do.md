@@ -26,7 +26,9 @@ That last part couldn't be more different than me. I'm more practical and finish
 
 ## What did you learn from her?
 
-Apart from the organising and perfectionistic part she knows how to tackle and solve a problem. I admire her for that. Together with others she knows how to solve problems and find creative solutions. I try to adopt those skills in my own work. Stby talks a lot with the users of the service they are researching. That is a huge part of their research. I work at quite a large company, cosy and save in an office. Marie goes out there to talk to users without any pre-assumptions, they find stories and with that they will work out solutions for certain stories. This is also something what I would want to do more and which I admire.      
+Apart from the organising and perfectionistic part she knows how to tackle and solve a problem. I admire her for that.
+
+Together with others she knows how to solve problems and find creative solutions. I try to adopt those skills in my own work. Stby talks a lot with the users of the service they are researching. That is a huge part of their research. I work at quite a large company, cosy and save in an office. Marie goes out there to talk to users without any pre-assumptions, they find stories and with that they will work out solutions for certain stories. This is also something what I would want to do more and which I admire.      
 
 ## Is there something you can point out in her daily live that she does at work?
 
