@@ -12,7 +12,7 @@ Service design is a very abstract term for most people. I always stay away from 
 
 ## How did you guys meet?
 
-We both did a media technology master in Leiden. We both came from a very different background. Marie had here psychology bachelor and I studied multi-media and design. We were taking the same classes and it was in Leiden where we fell in love.
+We both did a media technology Master in Leiden. We both came from a very different background. Marie had here psychology bachelor and I studied multi-media and design. We were taking the same classes and it was in Leiden where we fell in love.
 
 ## So, Marie took a more social road and you planned a more technical future?
 
