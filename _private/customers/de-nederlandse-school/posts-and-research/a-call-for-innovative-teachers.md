@@ -1,6 +1,6 @@
 # Innovatieve docenten.
 
-Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij ons zelf afgevraagd in hoeverre deze docenten vanuit eigen goeddunken handelden en of ze zich er van bewust zijn geweest hoe belangrijk ze waren in ons leven.  
+Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij onszelf afgevraagd in hoeverre deze docenten vanuit eigen goeddunken handelden en of ze zich er van bewust zijn geweest hoe belangrijk ze waren in ons leven.  
 
 Wij inzicht willen krijgen in de gedachtegang van docenten die proberen te innoveren in het onderwijs. Wat vinden ze belangrijk in het onderwijs, voldoet het huidige onderwijssysteem aan hun verlangens, wat doen ze zelf om hun studenten te helpen ontwikkelen en waar halen ze hun inspiratie vandaan?
 
