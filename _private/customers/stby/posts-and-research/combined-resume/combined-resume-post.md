@@ -26,55 +26,53 @@ Designing improved services requires certain specialties in media and technology
 
 
 ### Conlusions
-Our education, in addition to growing our knowledge base, has enabled us to more fully understand the ways we can use our knowledge in order to realize effective service design. It has given us insight within the design process, and not solely in understanding the user. It has also enabled us to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
+Our education, in addition to growing our knowledge base, has enabled us to more fully understand the ways we can *use* our knowledge in order to realize effective service design. It has given us insight within the design process, and not solely in understanding the user. It has also enabled us to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
 
 
 ## A look at our working history
-We believe that everything we've done contributes to what we do presently, regardless of how idiosyncratic.
+Though most of our work experience is highly relevant, we believe that everything we've done contributes to what we do presently, regardless of how idiosyncratic.
 
 ### Marketing
-By working for a advertising agency we have had the ability to implement the service design towards commercial goals and experienced a very distinct and measurable way to implement conclusions drawn from their knowledge of user behavior
+By working for prominent advertising agency Lost Boys, we have had the ability to implement service design towards commercial goals and have experienced a very distinct and measurable way to implement conclusions drawn from knowledge of user behavior
 
 
 ### Artistic
-We had a job as a Choreographer for the Musical Hair.
+We've had a job as a Choreographer for the musical *Hair*.
 
 
 ### Consultancy
-We investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Aids Fonds, Grolsch, Rijkswaterstaat etc.
+We've investigated the needs and user patterns of costumers and consulted [copy](https://en.wikipedia.org/wiki/Copywriting) for  Philips, KLM, KPN, Aids Fonds, Grolsch, and Rijkswaterstaat, among others.
 
 
 ### Society
-We have been a Freelance Designer from and designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user.
-We were a consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland.
+We have been a Freelance Designer and Printed Materials Designer for EPIC (Ethnographic Praxis in Industry), a company that works to improve industry by looking from the perspective of the user. We were also a consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland.
 
 
 ### Enabling people
-The work experience that focused on enabling citizens to innovate. This has greatly enhanced our abilities to stand in someone else's shoes, something that also played a important role in our industrial design education, where the emphasis lies strongly on the interaction between the product and the end user.
+Experience that focused on enabling citizens to innovate has greatly enhanced our ability to stand in someone else's shoes. This is something that has also played an important role in our industrial design education, where the emphasis lies strongly on the interaction between the product and the end user.
 
-We have been account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy.
+We have been Account Manager at	KLM Health Services, where we focussed on keeping private individuals and employees of organisations fit and healthy.
 
-We also have been the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency".
+We have also been the head of the Open Design Lab and a Concept Developer at the Waag Society, whose mission is "to empower people to make and understand products and processes for more transparency".
 
-We did an internship as an industrial design student at the Care & Health Applications research group at Philips.
-We were a User researcher in CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
+We did an internship as an industrial design student at the Care & Health Applications research group at Philips and
+we were a User-Researcher in CitiLab, a public laboratory that is a simultaneous training center, research center and incubator for business and social initiatives with the belief that everyone can be creative and innovative as long as they have a conducive environment.
 
 ### User behavior
-We have been ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
+We have been an ergonomist at Dutch steel producer Hoogovens, where we studied humans' physical interaction with their surroundings.
 
-We became usability directors at a renown advertising agency and took the responsibility for the development and execution of all consumer research and copy consultancy.
+We became Usability Directors at a renowned advertising agency and took responsibility for the development and execution of all consumer research and copy consultancy.
 
 We founded ACS-i where our main focus was on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction).
 
 ### Use of tools
-The work we did that revolved around improving the labour condition and health of employees of various companies by looking at the tools used and environment they are in. This has given us a lot of insight into the damage a wrongly designed product or service can do, an how we can solve those problems.
+We've done work that revolved around improving the labour condition and health of employees of various companies by looking at the tools they use and the environment in which they work. This has given us a lot of insight into the damage a wrongly designed product or service can do, an how we can solve those problems.
 
 ### Business
-Apart from working at businesses we started our own three times.
-We started our own company as Service designer and insights specialist called Mrs. Slocombe.
+Apart from working at a multiplicity of businesses, we've started our own three times.
 
 ### Internet
-By having been involved in the coming of age of the internet businesses enabling us to created a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
+Having been involved in the coming of age of the internet-centric business enables us to create a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
 
 ### Conlusions
-Our work experience has taught us to identify and solve problems in complex situations, understand and influence human behavior and how businesses function.
+Our work experience, in its vastness, has taught us to identify and solve problems in complex situations, understand and influence human behavior, and comprehend how businesses function. All of these experiences have laid the sound foundation upon which STBY has been built.
