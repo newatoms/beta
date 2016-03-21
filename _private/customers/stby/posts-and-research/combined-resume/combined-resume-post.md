@@ -4,7 +4,7 @@ The history of our highway to knowledge thought us a lot. Our employees all took
 
 Apart from our associates, at stby we've tried to get a diverse set of people to the team of eight. With different backgrounds, interests and talents. We'd not only studied and worked in the Netherlands and England but have broken out of our comfort zone by collecting different experiences abroad in France, Scotland, Spain and United States. Insights in the people behind a business can give a good representation of what a company is capable of.
 
-## Studies that benefit our companies today
+## A look at our education
 
 ### Human behavior
 At standby we improve the services of our customers by doing, among others things, user research. This means that we talk a lot with the actual user of the service that we try to improve. Studies that help us to better understand the science behind human behaviour consisting of Psychology, Sociology, Cultural studies, Interaction design and  research, Marketing and Communication, Computing Sciences and Ethnography, where the latter is a systematic study and the exploring of cultural phenomena.
@@ -21,7 +21,7 @@ During the first four years of STBY we went back to university. We received our 
 These studies enabled us to more fully understand the ways we can use our knowledge of service design by giving us insight within the design processes, and not just only understanding the user.  It enables us to be independent from the commercial goals of Lost Boys (increasing sales by using user behaviour) and function more towards improving services by understand both the design process as the user behavior.
 
 
-## A look at a working history
+## A look at our working history
 
 ### Marketing
 By working for a advertising agency we have had the ability to implement the service design towards commercial goals and experienced a very distinct and measurable way to implement conclusions drawn from their knowledge of user behavior
