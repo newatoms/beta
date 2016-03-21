@@ -20,11 +20,11 @@ Designing improved services requires certain specialties in media and technology
 - Ergonomics
 - Consumer Product Design
 
-One conclusion we can draw is that our background in psychology has given us insight in to user behavior and our mastery of media-technology has given us insight into the the design process.
+Our background in psychology has given us insight in to user behavior and our mastery of media-technology has given us insight into the the design process.
 
-## A look at a working history
+## A look at our working history
 
-We had a job as a Choreographer for the Musical Hair.
+We believe that everything we've done contributes to what we do presently, regardless of how idiosyncratic. We had a job as a Choreographer for the Musical Hair, for example.
 
 We have been ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
 
