@@ -1,19 +1,25 @@
-# How and why did stby begin?
+# What is it about Bas and Geke that made STBY so good.
 
 ## Goal
 
-To know why and how stby began as a service design/design research company
+To know what is the driving force behind stby and how it became as good as it is now
 
 ## Action
 
-we show where Bas and Geke worked and did before starting stby. It's interesting to see what Geke and Bas did before they started stby. That ACS-i media research & projects merged with Lost Boys, that they both were the usability directors at Lost Boys and that they went back to university to get their PhD's to help them run their own service design company.
+We show where Bas and Geke worked and did before starting stby, what we think they learned from their previous experiences, and how their personal relationship, combined experiences and personalities make them unique.  
+
+## Things we could talk about
+
+How did you guys meet and how much of a role did your relationship play in the formation of your companies? Were there moments that one of you wanted to quit, and how did the other encourage you to hang in there? Was it your experience at Lost Boys that set you on the trajectory from consumer research toward service design? When ACS-i media research & projects merged with Lost Boys (they both were the usability directors at Lost Boys) what they learned from using service design to increase conversion. What was your experience going back to university as accomplished businesspeople and how did it prepare you to create stby?
 
 ## What do we need from you
 
-* It would be fun (not nessecary) to have a short interview with Bas or Geke of about 20 minutes
+* A short interview with Bas and/or Geke of about 20-30 minutes
 
 ## Outcome
 
 * Improve relationship with existing audience
 * Improve perception of the organisation
 * Create insights within the organisation
+* Create new audience
+* Show how good the organisation is
