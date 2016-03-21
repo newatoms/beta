@@ -1,20 +1,13 @@
-# Innovatieve docenten gezocht!
+# Innovatieve docenten.
 
-Voor een blogpost op ons blog zijn we op zoek naar docenten die hun ervaringen willen delen.
+Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij onszelf afgevraagd in hoeverre deze docenten vanuit eigen goeddunken handelden en of ze zich er van bewust zijn geweest hoe belangrijk ze waren in ons leven.  
 
-Om te laten zien dat docenten een drijvende kracht zijn achter innovatie in het onderwijs, willen wij docenten interviewen die eigen of overgenomen innovatieve ideeën hebben uitgeprobeerd op hun klas.
+Wij willen graag meer inzicht krijgen in de gedachtegang van docenten die proberen te innoveren in het onderwijs. Wat vinden ze belangrijk in het onderwijs, voldoet het huidige onderwijssysteem aan hun verlangens, wat doen ze zelf om hun studenten te helpen ontwikkelen en waar halen ze hun inspiratie vandaan?
 
-Wij zouden het heel leuk vinden om te praten met docenten die dan wel succesvolle of wel gestopte tests hebben uitgeprobeerd, hoe groot of hoe klein ook. Ook uit kleine veranderingen kunnen grote resultaten voortkomen.
+We zijn benieuwd met wie ze over het onderwijs praten. Doen ze dat alleen met mededocenten, of ook met hun vrienden en familie. Praten ze hier ook met hun leerlingen over?
 
-Mogelijke vragen:
+We zouden willen weten hoe ze hun ideeën en inzichten testen voor de klas, hoe ze erachter komen wat de gevolgen zijn en hoe ze besluiten wat de volgende stappen zijn.
 
-* Welke innovatie (verbetering of aanvulling) heb je uitgeprobeerd?
-* Waar haal je inspiratie vandaan voor mogelijke innovaties?
-* Hoe beslis je welke innovatie je wil testen?
-* Hoe test je die in de klas?
-* Is daar vanuit de school en in het verplichte lesprogramma ruimte voor?
-* Hoe en wanneer beslis je om te stoppen met de test?
-* Hoe bepaal je of een innovatie succesvol was of niet?
-* Heb je het met andere docenten over de resultaten van de test? (bijvoorbeeld online op een blog, of gewoon in de docentenkamer?)
+We zijn benieuwd naar de reacties van hun studenten, hebben ze het idee dat ze hun methodes waarderen en uberhaubt doorhebben hoeveel moeite er wordt gestopt in hun ontwikkeling? Hoe gaan mededocenten om met hun ondernemingen en hoe staat hun school tegenover hun visie? Moeten ze anderen overtuigen van hun idealen of hebben ze allemaal het zelfde doel?
 
-Het interview zal telefoonisch worden afgenomen.
+Als we deze dingen zouden weten zouden we inzicht kunnen geven in het proces van docenten zodat andere docenten geïnspireerd zouden kunnen worden, leerlingen beter begrijpen waar hun docenten mee bezig zijn en hun ouders snappen waarom er bepaalde dingen in de klas gebeuren. Hopelijk creëren we zo meer ruimte voor innovatie in het onderwijs, en meer waardevolle ervaringen vanuit het onderwijs voor toekomstige generaties.
