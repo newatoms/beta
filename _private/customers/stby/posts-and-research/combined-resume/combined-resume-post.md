@@ -9,7 +9,6 @@ Apart from our associates, at stby we've tried to get a diverse set of people to
 ### Human behavior
 At standby we improve the services of our customers by doing, among others things, user research. This means that we talk a lot with the actual user of the service that we try to improve. Studies that help us to better understand the science behind human behaviour consisting of Psychology, Sociology, Cultural studies, Interaction design and  research, Marketing and Communication, Computing Sciences and Ethnography, where the latter is a systematic study and the exploring of cultural phenomena.
 
-
 ### Technology
 It's getting more technical towards our Media and Technology, Industrial design, designing printed materials and Ergonomics background. Consumer products and industrial design at TU Delft. In designing improvement for services we need all these specialties.
 
@@ -33,7 +32,6 @@ We had a job as a Choreographer for the Musical Hair.
 
 
 ### Consultancy
-
 We investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Aids Fonds, Grolsch, Rijkswaterstaat etc.
 
 
@@ -49,7 +47,6 @@ We have been account manager at the	KLM Health Services, where they focus on kee
 
 We also have been the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency".
 
-
 We did an internship as an industrial design student at the Care & Health Applications research group at Philips.
 We were a User researcher in CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
 
@@ -62,12 +59,11 @@ We became usability directors at a renown advertising agency and took the respon
 We founded ACS-i where our main focus was on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction).
 
 ### Use of tools
-The work we did that revolved around improving the labour condition and health of employees of various companies by looking at the tools used and environment they are in. This has given us a lot of insight the damage a wrongly designed product or service can do, an how we can solve those problems.
+The work we did that revolved around improving the labour condition and health of employees of various companies by looking at the tools used and environment they are in. This has given us a lot of insight into the damage a wrongly designed product or service can do, an how we can solve those problems.
 
 ### Business
 Apart from working at businesses we started our own three times.
 We started our own company as Service designer and insights specialist called Mrs. Slocombe.
-
 
 ### Internet
 By having been involved in the coming of age of the internet businesses enabling us to created a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
