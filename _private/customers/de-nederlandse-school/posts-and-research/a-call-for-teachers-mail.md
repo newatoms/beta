@@ -30,8 +30,12 @@ Mogelijke vragen:
 
 Het interview zal telefonisch worden afgenomen.
 
-Hopelijke to snel!
+Als je het leuk vindt om geïnterviewd te worden horen we graag van je!
 
 Met vriendelijke groet,
 
 Thomas de Beus
+
+mail: thomas@newatoms.com 
+tel: 06 837 93 937
+
