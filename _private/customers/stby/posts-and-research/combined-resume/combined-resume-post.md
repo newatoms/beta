@@ -16,7 +16,7 @@ It's getting more technical towards our Media and Technology, Industrial design,
 ### Conlusions
 One conclusion we can draw is that our psychology background has given us insight in to user behavior and our media-technology master has given us insight in the design process.
 
-During the first four years of STBY we went back to university. We received our PhD in Design Interactions at the Royal Collage of art, studied Marketing and communication at the renown Nyenrode Business University and received our PhD in computing sciences from the Open University.
+During the first four years of STBY we went back to university. We received our PhD in Design Interactions at the Royal College of art, studied Marketing and communication at the renown Nyenrode Business University and received our PhD in computing sciences from the Open University.
 
 These studies enabled us to more fully understand the ways we can use our knowledge of service design by giving us insight within the design processes, and not just only understanding the user.  It enables us to be independent from the commercial goals of Lost Boys (increasing sales by using user behaviour) and function more towards improving services by understand both the design process as the user behavior.
 
@@ -50,7 +50,6 @@ We also have been the head of the Open Design Lab and Concept developer at the W
 We did an internship as an industrial design student at the Care & Health Applications research group at Philips.
 We were a User researcher in CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
 
-
 ### User behavior
 We have been ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
 
@@ -67,3 +66,6 @@ We started our own company as Service designer and insights specialist called Mr
 
 ### Internet
 By having been involved in the coming of age of the internet businesses enabling us to created a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
+
+### Conlusions
+Our work experience has taught us to identify and solve problems in complex situations, understand and influence human behavior and how businesses function.
