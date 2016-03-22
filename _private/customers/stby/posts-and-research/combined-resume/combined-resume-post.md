@@ -68,7 +68,7 @@ We founded ACS-i where our main focus was on content management (the developing 
 We've done work that revolved around improving the labour condition and health of employees of various companies by looking at the tools they use and the environment in which they work. This has given us a lot of insight into the damage a wrongly designed product or service can do, and how we can solve those problems.
 
 ### Business
-Apart from working at a multiplicity of businesses, we've started our own three times.
+Apart from working at multiple businesses, we've started our own three times.
 
 ### Internet
 Having been involved in the coming of age of the internet-centric business enables us to create a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
