@@ -1,6 +1,6 @@
 # Combined Resume STBY
 
-The collective education and work history of our team members has taught us a lot. We all took varying roads through different landscapes that will come together in this article. Our diverse experiences, from education to work history to inherent talent, form a complimentary and dynamic yet cohesive whole.
+The collective history of our team members has taught us a lot. We all took varying roads through different landscapes that will come together in this article. Our diverse experiences, from education to work history to inherent talent, form a complimentary and dynamic yet cohesive whole.
 
 At STBY we've gathered a heterogeneous set of people to build our core team of eight. As individuals, our experiences are unique and specific. Together, we are competent, capable and accomplished. In both domains, we are committed to the continual expansion of our talents. We've not only studied and worked in the Netherlands and England but have departed our comfort zone by amassing different experiences in France, Scotland, Spain and the United States. Here, we'd like to offer an insight into the combined experience that makes STBY what it is and what makes all our endeavours possible.
 
