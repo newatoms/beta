@@ -1,6 +1,10 @@
 # Combined Resume STBY
 
+<<<<<<< HEAD
 At STBY we believe that all our strengths come for the combination of skills and experiences of our team members. No one is as good alone as they are together. To show you (and ourselves) how awesome our combined experiences are we will use this article to describe STBY as a person. We will do this because we believe that we are dependent on each other, but also to create a context in witch it becomes clear how amazing it is that all these experiences, skills an traits come together as a whole.
+=======
+The collective history of our team members has taught us a lot. We all took varying roads through different landscapes that will come together in this article. Our diverse experiences, from education to work history to inherent talent, form a complimentary and dynamic yet cohesive whole.
+>>>>>>> ready
 
 To explain to you who I am and what I am capable of I think it is suitable to show you how I have gotten to where I am now. My whole life I have been caught between two interests. Human behavior and design. To feed these interests I have done quite a lot of studies worked a lot of differnt places. To get a better understanding of workings of the mind of a individual I have studied Psychology, to place this in the context of society I have followed courses in  Sociology and Cultural studies. To give myself insight in the process of creation I have studied Interaction design, Industrial design, Ergonomics and Consumer Product Design. I have also studied Computing Sciences, Ethnography, photography and Choreography, studies that both view the process of creation form the perspective of the creator and the user, this gave me quite some handles to bring these two interests together and to start working in my field of interest.
 
@@ -19,6 +23,59 @@ I have been a Freelance Designer and created Printed Materials Designer for EPIC
 
 Even tho now I had accumulated quite some knowledge and experience, I did not feel quite equipped to start my own company that brought my main interests fully together. In an attempt to gain the capabilities to implement my finings i studied Marketing and Communication and went to a business school and in the final two years I started STBY.
 
+<<<<<<< HEAD
 My educations and work experiences, has enabled me to more fully understand the ways I can *use* my knowledge in order to realize effective service design. It has given me insight within the design process, and not solely in understanding the user. It has also enabled me to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
 
 Our shared work experience and knowledge, in its vastness, has taught us to identify and solve problems in complex situations, understand, take into account and influence human behavior, and comprehend how businesses function. All of these experiences have laid the sound foundation upon which STBY has been built.
+=======
+### Conclusions
+Our education, in addition to growing our knowledge base, has enabled us to more fully understand the ways we can *use* our knowledge in order to realize effective service design. It has given us insight within the design process, and not solely in understanding the user. It has also enabled us to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
+
+
+## A look at our working history
+Though most of our work experience is highly relevant, we believe that everything we've done contributes to what we do presently, regardless of how idiosyncratic.
+
+### Marketing
+By working for prominent advertising agency Lost Boys, we have had the ability to implement service design towards commercial goals and have experienced a very distinct and measurable way to implement conclusions drawn from knowledge of user behavior
+
+
+### Artistic
+We've had a job as a Choreographer for the musical *Hair*.
+
+
+### Consultancy
+We've investigated the needs and user patterns of costumers and consulted [copy](https://en.wikipedia.org/wiki/Copywriting) for  Philips, KLM, KPN, Aids Fonds, Grolsch, and Rijkswaterstaat, among others.
+
+
+### Society
+We have been a Freelance Designer and Printed Materials Designer for EPIC (Ethnographic Praxis in Industry), a company that works to improve industry by looking from the perspective of the user. We were also a consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland.
+
+
+### Enabling people
+Experience that focused on enabling citizens to innovate has greatly enhanced our ability to stand in someone else's shoes. This is something that has also played an important role in our industrial design education, where the emphasis lies strongly on the interaction between the product and the end user.
+
+We have been Account Manager at	KLM Health Services, where we focussed on keeping private individuals and employees of organisations fit and healthy.
+
+We have also been the head of the Open Design Lab and a Concept Developer at the Waag Society, whose mission is "to empower people to make and understand products and processes for more transparency".
+
+We did an internship as an industrial design student at the Care & Health Applications research group at Philips and we were a User-Researcher in CitiLab, a public laboratory that is a simultaneous training center, research center and incubator for business and social initiatives with the belief that everyone can be creative and innovative as long as they're in the right environment.
+
+### User behavior
+We have been an ergonomist at Dutch steel producer Hoogovens, where we studied humans' physical interaction with their surroundings.
+
+We became Usability Directors at a renowned advertising agency and took responsibility for the development and execution of all consumer research and copy consultancy.
+
+We founded ACS-i where our main focus was on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction).
+
+### Use of tools
+We've done work that revolved around improving the labour condition and health of employees of various companies by looking at the tools they use and the environment in which they work. This has given us a lot of insight into the damage a wrongly designed product or service can do, and how we can solve those problems.
+
+### Business
+Apart from working at multiple businesses, we've started our own three times.
+
+### Internet
+Having been involved in the coming of age of the internet-centric business enables us to create a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
+
+### Conlusions
+Our work experience, in its vastness, has taught us to identify and solve problems in complex situations, understand and influence human behavior, and comprehend how businesses function. All of these experiences have laid the sound foundation upon which STBY has been built.
+>>>>>>> ready
