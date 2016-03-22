@@ -25,7 +25,7 @@ Designing improved services requires certain specialties in media and technology
 - Consumer Product Design
 
 
-### Conlusions
+### Conclusions
 Our education, in addition to growing our knowledge base, has enabled us to more fully understand the ways we can *use* our knowledge in order to realize effective service design. It has given us insight within the design process, and not solely in understanding the user. It has also enabled us to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
 
 
