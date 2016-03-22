@@ -1,6 +1,6 @@
 # Combined Resume STBY
 
-The collective heatmap of our team members has taught us a lot. We all took varying roads through different landscapes that converge here. Our diverse experiences, from education to work history to inherent talent, form a complimentary and dynamic yet cohesive whole.
+The collective history of our team members has taught us a lot. We all took varying roads through different landscapes that will come together in this article. Our diverse experiences, from education to work history to inherent talent, form a complimentary and dynamic yet cohesive whole.
 
 At STBY we've gathered a heterogeneous set of people to build our core team of eight. As individuals, our experiences are unique and specific. Together, we are competent, capable and accomplished. In both domains, we are committed to the continual expansion of our talents. We've not only studied and worked in the Netherlands and England but have departed our comfort zone by amassing different experiences in France, Scotland, Spain and the United States. Here, we'd like to offer an insight into the combined experience that makes STBY what it is and what makes all our endeavours possible.
 
@@ -25,7 +25,7 @@ Designing improved services requires certain specialties in media and technology
 - Consumer Product Design
 
 
-### Conlusions
+### Conclusions
 Our education, in addition to growing our knowledge base, has enabled us to more fully understand the ways we can *use* our knowledge in order to realize effective service design. It has given us insight within the design process, and not solely in understanding the user. It has also enabled us to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
 
 
@@ -55,8 +55,7 @@ We have been Account Manager at	KLM Health Services, where we focussed on keepin
 
 We have also been the head of the Open Design Lab and a Concept Developer at the Waag Society, whose mission is "to empower people to make and understand products and processes for more transparency".
 
-We did an internship as an industrial design student at the Care & Health Applications research group at Philips and
-we were a User-Researcher in CitiLab, a public laboratory that is a simultaneous training center, research center and incubator for business and social initiatives with the belief that everyone can be creative and innovative as long as they have a conducive environment.
+We did an internship as an industrial design student at the Care & Health Applications research group at Philips and we were a User-Researcher in CitiLab, a public laboratory that is a simultaneous training center, research center and incubator for business and social initiatives with the belief that everyone can be creative and innovative as long as they're in the right environment.
 
 ### User behavior
 We have been an ergonomist at Dutch steel producer Hoogovens, where we studied humans' physical interaction with their surroundings.
@@ -66,10 +65,10 @@ We became Usability Directors at a renowned advertising agency and took responsi
 We founded ACS-i where our main focus was on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction).
 
 ### Use of tools
-We've done work that revolved around improving the labour condition and health of employees of various companies by looking at the tools they use and the environment in which they work. This has given us a lot of insight into the damage a wrongly designed product or service can do, an how we can solve those problems.
+We've done work that revolved around improving the labour condition and health of employees of various companies by looking at the tools they use and the environment in which they work. This has given us a lot of insight into the damage a wrongly designed product or service can do, and how we can solve those problems.
 
 ### Business
-Apart from working at a multiplicity of businesses, we've started our own three times.
+Apart from working at multiple businesses, we've started our own three times.
 
 ### Internet
 Having been involved in the coming of age of the internet-centric business enables us to create a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
