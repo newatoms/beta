@@ -65,7 +65,7 @@ We became Usability Directors at a renowned advertising agency and took responsi
 We founded ACS-i where our main focus was on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction).
 
 ### Use of tools
-We've done work that revolved around improving the labour condition and health of employees of various companies by looking at the tools they use and the environment in which they work. This has given us a lot of insight into the damage a wrongly designed product or service can do, an how we can solve those problems.
+We've done work that revolved around improving the labour condition and health of employees of various companies by looking at the tools they use and the environment in which they work. This has given us a lot of insight into the damage a wrongly designed product or service can do, and how we can solve those problems.
 
 ### Business
 Apart from working at a multiplicity of businesses, we've started our own three times.
