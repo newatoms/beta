@@ -55,8 +55,7 @@ We have been Account Manager at	KLM Health Services, where we focussed on keepin
 
 We have also been the head of the Open Design Lab and a Concept Developer at the Waag Society, whose mission is "to empower people to make and understand products and processes for more transparency".
 
-We did an internship as an industrial design student at the Care & Health Applications research group at Philips and
-we were a User-Researcher in CitiLab, a public laboratory that is a simultaneous training center, research center and incubator for business and social initiatives with the belief that everyone can be creative and innovative as long as they have a conducive environment.
+We did an internship as an industrial design student at the Care & Health Applications research group at Philips and we were a User-Researcher in CitiLab, a public laboratory that is a simultaneous training center, research center and incubator for business and social initiatives with the belief that everyone can be creative and innovative as long as they're in the right environment.
 
 ### User behavior
 We have been an ergonomist at Dutch steel producer Hoogovens, where we studied humans' physical interaction with their surroundings.
