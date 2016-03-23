@@ -6,9 +6,9 @@ Om inzicht te creëren in de ervaringen van de deelnemers voor zowel intern als 
 
 ## Action
 
-Interviewen we een deelnemer over zijn/haar ervaringen met de workshops. We proberen inzicht te creeren in wat er beter kan, in plaats van te focussen op wat er al goed is. We verbeteringen zullen altijd algemeen zijn en nooit over een individu gaan. (We zullen bijvoorbeeld niet zeggen dat Mark te veel praat tijdens de workshop, maar dat het tijdens de workshops soms rumoerig is)
+Interviewen we een deelnemer over zijn/haar ervaringen met de workshops. We proberen inzicht te creeren in wat er beter kan, in plaats van te focussen op wat er al goed is. Verbeteringen zullen altijd algemeen zijn en nooit over een individu gaan. (We zullen bijvoorbeeld niet zeggen dat Mark te veel praat tijdens de workshop, maar dat het tijdens de workshops soms rumoerig is)
 
-## voorbeeld vragen
+## Voorbeeld vragen
 
 * Naar hoeveel workshops ben je geweest?
 * Waren ze allemaal het zelfde in qualiteit?
@@ -25,6 +25,6 @@ Door deelnemers te vragen over wat zij denken dat er verbeterd kan worden aan de
 ## Outcome
 
 * Inzicht creëren binnen de organisatie
-* De wereld laten zien dat jullie je kwetsbaar durven opstellen
+* De wereld laten zien dat jullie je kwetsbaar durven op te stellen
 * De relatie met je doelgroep verbeteren
 * Een nieuw publiek aanboren.
