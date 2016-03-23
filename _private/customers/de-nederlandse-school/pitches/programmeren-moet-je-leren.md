@@ -6,13 +6,13 @@ Om te laten zien hoe deelnemende scholen nadenken over de snel veranderende tech
 
 ## Action
 
-interviewen we directeuren en/of decanen van deelnemende scholen. Een discussie over hoe zij denken over het huidige curriculum en wat zij zouden willen veranderen als zij in Den Haag het voor het zeggen hadden. 
+interviewen we directeuren en/of decanen van deelnemende scholen. Een discussie over hoe zij denken over het huidige curriculum en wat zij zouden willen veranderen als zij in Den Haag het voor het zeggen hadden.
 
 **Voorbeeld**
 
-* Hoe zorgt het huidige curriculum ervoor dat leerlingen interesses ontwikkelen voor technologie, waar de huidige arbeidsmarkt zo naarstig naar op zoek is?
-
 * Hoe je als school flexibel kan meebewegen met een veranderende wereld terwijl je wel binnen de regels van het systeem moet blijven.
+
+* Hoe zorgt het huidige curriculum ervoor dat leerlingen interesses ontwikkelen voor technologie, waar de huidige arbeidsmarkt zo naarstig naar op zoek is?
 
 * Informatica lijkt zo goed als verdwenen op veel middelbare scholen. Hoe denken deelnemende scholen hierover?
 
