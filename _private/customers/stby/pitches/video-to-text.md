@@ -3,11 +3,14 @@
 
 ## Goal
 
-To give a professional and exsessible explenation of what STBY is, does and what you can expect as a end result of hiring STBY.
+To give a professional and accessible explanation of what STBY is, does and what you can expect as a end result of hiring STBY.
 
 ## Action
 
-We write an article explaining what STBY does, why you should hire them and what you can expect by hiring STBY without it being too much of a "hire us" article. We will use examples of cases and opinion pieces we can find on the website.
+We will write a article of the processes, thoughts and methods STBY works by using examples of the introduction video, cases and opinion pieces we can find on the website.
+
+**Why we think this is awesome**
+Currently what STBY does is pretty complicated to understand for outsiders like ourself. Though the video explains quite well what you do it is a tad bit long and not super enticing to finish. Creating this article we could shed new light on what you do and why this is relevant without repeating what your already said in the video. By using examples from the website we make it more tangible and create the opportunity to link to other blogposts.
 
 
 ## Outcome
