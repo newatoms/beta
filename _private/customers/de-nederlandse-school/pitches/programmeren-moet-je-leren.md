@@ -2,11 +2,11 @@
 
 ## Goal
 
-Om te laten zien hoe deelnemende scholen nadenken over de snel veranderende technologische wereld en wat voor implementaties zij voor ogen hebben in het onderwijs
+Om te laten zien hoe deelnemende scholen nadenken over de snel veranderende technologische wereld in relatie tot het onderwijs
 
 ## Action
 
-interviewen we directeuren en/of decanen van deelnemende scholen. Een discussie over hoe zij denken over het huidige curriculum en wat zij zouden willen veranderen als zij in Den Haag het voor het zeggen hadden.
+interviewen we directeuren en/of decanen van deelnemende scholen. Een gesprek over hoe zij denken over het huidige curriculum en wat zij zouden willen veranderen als zij in Den Haag het voor het zeggen hadden.
 
 **Voorbeeld vragen**
 
