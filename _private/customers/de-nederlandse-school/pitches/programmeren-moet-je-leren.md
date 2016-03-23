@@ -1,8 +1,8 @@
-# Programmeren moet je leren
+# Onderwijs in een snel veranderende wereld
 
 ## Goal
 
-Om te laten zien hoe deelnemende scholen nadenken over de snel veranderende technologische wereld
+Om te laten zien hoe deelnemende scholen nadenken over de snel veranderende technologische wereld en wat voor implementaties zij voor ogen hebben in het onderwijs
 
 ## Action
 
