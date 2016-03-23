@@ -1,5 +1,5 @@
 
-# What is STBY and what do we do
+# What is STBY and what are they doing
 
 ## Goal
 
