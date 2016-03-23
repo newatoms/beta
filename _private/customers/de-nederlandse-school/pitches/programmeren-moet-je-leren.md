@@ -20,5 +20,5 @@ interviewen we directeuren en/of decanen van deelnemende scholen. Een gesprek ov
 
 ## Outcome
 
-* Awareness of a specific topic: partnerscholen, ontwerpen van onderwijsontwikkeling. 
+* Awareness of a specific topic: ontwerpen van onderwijsontwikkeling. 
 * laten zien wat er gebeurt op deelnemende scholen m.b.t het doel van dNS.
