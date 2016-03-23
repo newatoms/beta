@@ -10,7 +10,7 @@ De campagne van content.supply zal beginnen in Nederland. In Amsterdam om precie
 
 ## Marktaandeel
 
-[Recent markt onderzoek door o.a. Content.corp](https://github.com/newatoms/contentsupply/blob/feature/_private/marketing-research-nl/_private/market-research/content-onderzoek-nl.pdf) nam een interessante enquete af over o.a. *content marketing*, 1223 respondenten zijn ondervraagd. Deze werken allemaal in marketing, reclame of PR. De enquete is in mei 2015 afgenomen.   
+[Recent markt onderzoek door o.a. Content.corp](/_private/market-research/content-onderzoek-nl.pdf) nam een interessante enquete af over o.a. *content marketing*, 1223 respondenten zijn ondervraagd. Deze werken allemaal in marketing, reclame of PR. De enquete is in mei 2015 afgenomen.   
 
 Wij hebben de meest relevante informatie eruit gehaald.
 
