@@ -1,5 +1,5 @@
 
-# What is STBY and what are they doing
+# Explaining what STBY does in tangible and existing examples
 
 ## Goal
 
