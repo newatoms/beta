@@ -1,4 +1,4 @@
-# Onderwijs in een snel veranderende wereld
+# Onderwijs in een snel veranderende en technologie afhankelijke wereld
 
 ## Goal
 
@@ -6,13 +6,17 @@ Om te laten zien hoe deelnemende scholen nadenken over de snel veranderende tech
 
 ## Action
 
-interviewen we directeuren of decanen van deelnemende scholen. We zullen proberen om een discussie te starten over hoe zij denken over het huidige curriculum en wat zij zouden willen veranderen als zij in Den Haag het voor het zeggen hadden. Of, hoe zorgt het huidige curriculum ervoor dat leerlingen interesses ontwikkelen voor technologie, waar de huidige arbeidsmarkt zo naarstig naar op zoek is?
+interviewen we directeuren en/of decanen van deelnemende scholen. Een discussie over hoe zij denken over het huidige curriculum en wat zij zouden willen veranderen als zij in Den Haag het voor het zeggen hadden. 
 
 **Voorbeeld**
 
-Wiskunde is voor veel kinderen te abstract, programmeren maakt dit veel tastbaarder. Informatica lijkt zo goed als verdwenen op veel middelbare scholen. Hoe denken deelnemende scholen hierover?
+* Hoe zorgt het huidige curriculum ervoor dat leerlingen interesses ontwikkelen voor technologie, waar de huidige arbeidsmarkt zo naarstig naar op zoek is?
 
-De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programeren?
+* Hoe je als school flexibel kan meebewegen met een veranderende wereld terwijl je wel binnen de regels van het systeem moet blijven.
+
+* Informatica lijkt zo goed als verdwenen op veel middelbare scholen. Hoe denken deelnemende scholen hierover?
+
+* De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programeren?
 
 ## Outcome
 
