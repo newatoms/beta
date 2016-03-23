@@ -9,7 +9,7 @@ I have been consultant at a company that focused on improving labour conditions 
 
 In another time and place I tried to empower citizens to create and understand products and processes for more transparency, with the belief that everyone can be creative and innovative as long as they have a conducive environment. I wanted to give citizens the means to contribute to the world they live in.  I have done this as a User-Researcher in a public laboratory and as head of an open design lab.  My Experience with enabling citizens to innovate has greatly enhanced my ability to stand in someone else's shoes and given me a great deal of insight in the thought process of users.
 
-During this time a also was a  Choreographer for the musical *Hair* and i designed Printed Materials Designer for EPIC (Ethnographic Praxis in Industry), a congress that focuses on the perspective of the user.  
+During this time a also was a Choreographer for the musical *Hair* and i designed Printed Materials Designer for EPIC (Ethnographic Praxis in Industry), a congress that focuses on the perspective of the user.  
 
 At some point i founded a company where my main focus was on the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms and usability the research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction.
 Her i have investigated the needs and user patterns of costumers and consulted in [copy](https://en.wikipedia.org/wiki/Copywriting) for among others: Philips, KLM, KPN, Aids Fonds, Grolsch, and Rijkswaterstaat. The company got bought up by a advertising agency and I became their
