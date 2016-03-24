@@ -8,9 +8,9 @@ In this article we interviewed Thijs de Boer about his girlfriend Marie de Vos, 
 
 # How do you explain to your friends in the pub what Marie does?
 
-When Thijs tries to explain to his friends in the pub what his girlfriend exactly does, he usually starts by telling them she is a researcher at STBY. "She's not a typical market-researcher, but she researches how services of companies are being used". Because it is hard to understand what service design actually is he usually tells his friends that she uses the insights on how these services are being used to figure out how they can be improved by incorporating the behavior of the users.
+When Thijs tries to explain to his friends in the pub what his girlfriend exactly does, he usually starts by telling them she is a researcher at STBY. "She's not a typical market-researcher, but she researches how services of companies are being used". Because it is difficult to understand what service design actually is, he usually tells his friends that she tries to figure out how services can be improved by investigating the behavior of the users.
 
-Thijs often tells his friends that "the research is not a boring report of sixty pages." but that the results are always presented visually in videos or infographics "something creative that will translate the research to their customers in an understandable product". There is not a set way to do service design, which makes it hard to pinpoint down what it is. "The projects they do are very different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services."
+Thijs often tells his friends that "the research is not a boring report of sixty pages." but that the results are always presented visually in videos or infographics "something creative that will translate the research to their customers in an understandable product". There is not a set way to do service design, which makes it hard to pinpoint down what it is. "The projects they do are very different from one another, but alwys get solved by STBY in the same way; by creatively finding ways to improve services."
 
 ## How did you guys meet?
 
@@ -26,6 +26,6 @@ The Media Technology master is a place where students get encouraged to create p
 
 ## What makes Marie good at what she does?
 
-"Analyzing human behavior really is a strong skill she has." From a user-research perspective she has a great personal talent of reassuring the people and giving them the freedom to open up. "When she's on the train, strangers tell their life stories to her very easily. All kinds of drama– I mean incurable illnesses, really personal stuff. That is why i think Marie is great at what she does." The ability to connect with the needs of a user on a personal level is very important if you want to figure out what a user actually needs. Quite often people say things to fulfill the expectations of others, instead of finding out what it is that they need. Marie's capability to make the people she talks to feel save and heard enables them to let go of their expectations and truly speak from their own needs. 
+"Analyzing human behavior really is a strong skill she has." From a user-research perspective she has a great personal talent for reassuring the people and giving them the freedom to open up. "When she's on the train, strangers tell their life stories to her very easily, really personal stuff". The ability to connect with people on a personal level is very important for service design in order to figure out what a user actually needs. This is what makes marie such a great service designer, and the "organising and perfectionistic part" of course.
 
-Read Marie's [Stby profile](http://www.stby.eu/2010/02/22/marie-de-vos/).
+If you want to read more about Marie you can find her [personal profile here](http://www.stby.eu/2010/02/22/marie-de-vos/).
