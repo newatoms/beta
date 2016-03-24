@@ -31,5 +31,3 @@ We zijn benieuwd naar de reacties van hun studenten, hebben ze het idee dat ze h
 > "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
 
 Stevens moet de opdracht nog evalueren met haar leerlingen. "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt. Deze evaluaties zijn belangrijk om vervolgens te bepalen of we de pilot een terugkerend onderdeel maken.
-
-Als we deze dingen zouden weten zouden we inzicht kunnen geven in het proces van docenten zodat andere docenten geïnspireerd zouden kunnen worden, leerlingen beter begrijpen waar hun docenten mee bezig zijn en hun ouders snappen waarom er bepaalde dingen in de klas gebeuren. Hopelijk creëren we zo meer ruimte voor innovatie in het onderwijs, en meer waardevolle ervaringen vanuit het onderwijs voor toekomstige generaties.
