@@ -7,17 +7,16 @@ It is sometimes hard to explain what we do –especially to those who are not fa
 In this article we interviewed Thijs de Boer, about his girlfriend Marie de Vos, design researcher at Stby Amsterdam.  
 
 # How do you explain to your friends in the pub what Marie does?
-When Thijs try's to explain to his friends in the pub what his girlfriend exactly does, he usually starts by telling them she is a market researcher. "she's not a typical market-researcher, but she researches how services of companies are being used" From here he explains that she than uses the insights how these services are being used to figure out if there is any way in which the can improve it by incorporating the behavior of the users.
+When Thijs try's to explain to his friends in the pub what his girlfriend exactly does, he usually starts by telling them she is a market researcher. "she's not a typical market-researcher, but she researches how services of companies are being used" From here he explains that she uses the insights on how these services are being used to figure out how they can be improved by incorporating the behavior of the users.
 
-Thijs usually has a hard time explaining to his friends that "the research is not a dusty, boring report of sixty pages." but that the results are always presented visually in videos or infographics "something creative that will translate the research to their customers in an understandable product". There is not a set way to do service design, wich makes it hard to pinpoint down what it is. "The projects they do are very versatile and different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services."
+Thijs usually has a hard time explaining to his friends that "the research is not a dusty, boring report of sixty pages." but that the results are always presented visually in videos or infographics "something creative that will translate the research to their customers in an understandable product". There is not a set way to do service design, which makes it hard to pinpoint down what it is. "The projects they do are very versatile and different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services."
 
 ## How did you guys meet?
+Thijs en Marie met while both following a media technology Master in Leiden. They both came from a very different backgrounds, Marie had her psychology Bachelor and thijs studied multi-media and design. "We were taking the same classes and it was in Leiden where we fell in love."
 
-We both did a media technology Master in Leiden. We both came from a very different background. Marie had her psychology Bachelor and I studied multi-media and design. We were taking the same classes and it was in Leiden where we fell in love.
+## The Media Technology master
 
-## So, Marie took a more social road and you planned a more technical future?
-
-The idea behind the Master was that it didn't matter what kind of background you had. You could add and use your own expertise in all the classes. We learned a lot about creative ways to do research and at the same time, our technological abilities got updated. There was something there for everyone.
+The Media Technology master is a place where students get encouraged to create products inspired on there own personal needs and experiences from the belief that by doing and creating, new scientific insights into the underlying question are encountered. "We learned a lot about creative ways to do research and at the same time, our technological abilities got updated." This master contributed greatly towards Marie's ability to understand both the designer and the enduser, something that is crucial for being a service designer.
 
 ## What is the difference between the two of you when it comes to doing research?
 
