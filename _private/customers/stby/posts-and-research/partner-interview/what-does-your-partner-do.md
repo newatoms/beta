@@ -1,42 +1,31 @@
-# What does my boyfriend think I do?
+# Marie de Vos’ boyfriend explains what she does at STBY
 
 > An interview with the partner of one of our service designers.
 
-It is sometimes hard to explain what we do –especially to those who are not familiar with our field of work– which is sad because what we do can have a big impact on everyday life. At times this is visible, at times invisible. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us.
+It is sometimes hard to explain what we do –especially to those who are not familiar with our field of work– which is sad because what we do can have a big impact on everyday life. At times this is visible, other times it's not. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us.
 
-In this article we interview Thijs de Boer, front-end developer at marktplaats.nl about his girlfriend Marie de Vos, design researcher at Stby Amsterdam.  
+In this article we interviewed Thijs de Boer about his girlfriend Marie de Vos, design researcher at Stby Amsterdam.  
 
-## How do you explain what Marie does to friends in a pub?
+## How do you explain to your friends in the pub what Marie does?
 
-I always start at a high level by saying that she's a researcher. Then I narrow it down by telling that she's not a typical market-researcher, but that she researches how services of companies are being used, then detecting potential opportunities. I also always tell them that the result of the research is not a dusty, boring report of sixty pages. The results are always presented visually in videos or infographics –something creative that will translate the research to their customers in an understandable product.
+When Thijs tries to explain to his friends in the pub what his girlfriend exactly does, he usually starts by telling them she is a researcher at STBY. "She's not a typical market-researcher, but she researches how services of companies are being used". Because it is difficult to understand what service design actually is, he usually tells his friends that she tries to figure out how services can be improved by investigating the behavior of the users.
 
-Service design is a very abstract term for most people, I always stay away from that one. The projects they do are very versatile and different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services.  
+Thijs tells his friends that "the research is not a boring report of sixty pages." but that the results are always presented visually in videos or infographics "something creative that will translate the research to their customers in an understandable product". There is not a set way to do service design, which makes it hard to pinpoint down what it is. "The projects they do are very different from one another, but always get solved by STBY in the same way; by creatively finding ways to improve services."
 
 ## How did you guys meet?
 
-We both did a media technology Master in Leiden. We both came from a very different background. Marie had her psychology Bachelor and I studied multi-media and design. We were taking the same classes and it was in Leiden where we fell in love.
+Thijs en Marie met while both following a media technology Master in Leiden. They both came from a very different backgrounds, but followed the same classes. Marie had just recieved her psychology Bachelor and Thijs had studied multi-media and design.
 
-## So, Marie took a more social road and you planned a more technical future?
+The Media Technology master is a place where students get encouraged to create products inspired by their own personal needs and experiences. The idea behind this learning process is the belief that new scientific insights are encountered by doing and creating. "We learned a lot of creative ways to do research while improving our technological abilities." This master contributed greatly towards Marie's ability to understand both the designer and the enduser, something which is crucial for being a good service designer.
 
-The idea behind the Master was that it didn't matter what kind of background you had. You could add and use your own expertise in all the classes. We learned a lot about creative ways to do research and at the same time, our technological abilities got updated. There was something there for everyone.
+## What is the difference between you two in research?
 
-## What is the difference between the two of you when it comes to doing research?
+"Because of her psychological background, she has way more experience in doing research. She is very precise and scientifically-based, I'm more practical. This has a lot to with perfectionism and her capability to take ownership of a project and how she strives for perfection", something that Thijs greatly admires. "This couldn't be more different than me, I'm more practical and finish things in a quicker fashion." Even though Thijs would love to be as dedicated as Marie, he also sees a problem in her perfectionism. "She wants things to be almost too perfect, Sometimes you have to kill your darlings and go on or say: now it's good enough."
 
-Because of her psychological background, she has way more experience in doing research than me. Where she is very precise and more scientifically-based, I'm more practical. Analysing human behaviour really is a strong skill she has. She's also really good in taking ownership of a project and delivering a very high quality. She's really persistent and thrives for perfection.
+"Apart from the organising and perfectionistic part, she knows how to tackle and solve a problem, I admire her for that." Together with the others [other STBY employees] Marie knows how to solve problems and find creative solutions. Thijs tries to adopt those skills into his own work. "I work at quite a large company, cosy and save in an office. Marie goes out there to talk to users without any pre-assumptions. They find stories and with those they will work out solutions for certain problems. This is also something what I would want to do more and which I admire."
 
-That last part couldn't be more different than me. I'm more practical and finish things in a quicker fashion. I'm very quick in saying: this is it, it's good enough, next! She could learn from me as well. Sometimes she wants things to be almost too perfect. It's hard to pinpoint what she could learn, but yes that would be it. Sometimes you have to kill your darlings and go on or say: now it's good enough.
+## What makes Marie good at what she does?
 
-## What have you learned from her?
+"Analyzing human behavior really is a strong skill she has." From a user-research perspective she has a great personal talent for reassuring the people and giving them the freedom to open up. "When she's on the train, strangers tell their life stories to her very easily, really personal stuff". The ability to connect with people on a personal level is very important for service design in order to figure out what a user actually needs. This is what makes Marie such a great service designer, and the "organising and perfectionistic part" of course.
 
-Apart from the organising and perfectionistic part, she knows how to tackle and solve a problem. I admire her for that.
-
-Together with others she knows how to solve problems and find creative solutions. I try to adopt those skills in my own work. Stby talks a lot with the users of the service they are researching. That is a huge part of their research.
-
-I work at quite a large company, cosy and save in an office. Marie goes out there to talk to users without any pre-assumptions. They find stories and with that they will work out solutions for certain stories. This is also something what I would want to do more and which I admire.      
-## Is there something you can point out in her daily life that she does at work?  
-
-Marie is very organised. She has lists of everything. Luckily there are no coloured Post-its yet to write it on. You can safely assume that our holidays are well planned!   
-
-From a user-research perspective she has this thing that when she's on the train, strangers tell their life stories to her very easily. All kinds of drama– I mean incurable illnesses, really personal stuff. That's why I think she's good in what she does.  
-
-You can see Marie's Stby profile [here](http://www.stby.eu/2010/02/22/marie-de-vos/).
+If you want to read more about Marie you can find her [personal profile here](http://www.stby.eu/2010/02/22/marie-de-vos/).
