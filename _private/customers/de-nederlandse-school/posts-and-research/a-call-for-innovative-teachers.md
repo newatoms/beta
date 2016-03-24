@@ -10,9 +10,9 @@ Ellis Stevens is docent maatschappijleer op het Reitveld Lyceum in Doetinchem. Z
 
 > "We willen dit nieuwe vak waarschijnlijk **Grote vragen** noemen"
 
-"Een onderdeel die wij zelf bedacht hebben is dat we een nieuw vak gaan introduceren. Dat vak willen we waarschijnlijk *Grote vragen* noemen. Daarin gaan maatschappijleer en CKV sowieso samen en daar willen we andere vakken bijaan laten sluiten. Op het Rietveld Lyceum is daar alle ruimte voor om dat daadwerkelijk te gaan starten."   
+"Een onderdeel die wij zelf bedacht hebben is dat we een nieuw vak gaan introduceren. Dat vak willen we waarschijnlijk *Grote vragen* noemen. Daarin gaan maatschappijleer en CKV sowieso samen en daar willen we andere vakken bij aan laten sluiten. Op het Rietveld Lyceum is daar alle ruimte voor om deze experimetnen daadwerkelijk te gaan starten."   
 
-We zijn benieuwd met wie ze over het onderwijs praten. Doen ze dat alleen met mededocenten, of ook met hun vrienden en familie. Praten ze hier ook met hun leerlingen over?
+We zijn benieuwd met wie docenten over het onderwijs praten. Doen ze dat alleen met mededocenten, of ook met hun vrienden en familie. Praten ze hier ook met hun leerlingen over?
 
 We zouden willen weten hoe ze hun ideeën en inzichten testen voor de klas, hoe ze erachter komen wat de gevolgen zijn en hoe ze besluiten wat de volgende stappen zijn.
 
@@ -22,7 +22,7 @@ Stevens heeft een pilot getest op haar klassen waar op een andere manier de less
 
 "Ik heb de leerlingen op pad gestuurd. Ieder groepje had een misdrijf die zij moesten oplossen. Leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. Leerlingen belden uiteindelijk heel stoer en zelfstandig op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politie agent."
 
-"Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken. Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden sommigen niet door dat interviewen alleen niet genoeg was, maar dat het filmpje ook gemonteerd en af moest zijn."
+"Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken. Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden sommigen niet door dat interviewen alleen niet genoeg was, maar dat het filmpje ook af moest zijn gemonteerd en wel."
 
 ## Wanneer beslis je of je dit vaker gaat doen?
 
