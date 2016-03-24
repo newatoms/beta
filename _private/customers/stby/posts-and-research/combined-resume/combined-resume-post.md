@@ -1,6 +1,7 @@
 # Who are we at STBY
 
-A little while back I became the research partner of the “What Design Can Do Challenge” where I tried to create briefs that inspire and empower designers to come up with daring and innovative ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnection between the creator and the user. This can be between rules of a city and the refugees that try to find a save haven, between students and the education system or a car driver and the manufacturer. Over the past few decades I have, for the most part un knowingly, educated myself to solve problems this way. 
+A little while back I became the research partner of the “What Design Can Do Challenge” where we tried to create briefs that inspire and empower designers to come up with ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnection between the creator and the user. This can be between rules of a city and the refugees that try to find a save haven, between students and the education system or a car driver and the manufacturer. Over the past few decades I have, for the most part unknowingly, educated myself view problems from both perspectives.
+In order to give you an idea how enabled myself to do this I will try to describe the road i have taken to get here, and the lessons i learned along the way.
 
 ## My Studies
 
