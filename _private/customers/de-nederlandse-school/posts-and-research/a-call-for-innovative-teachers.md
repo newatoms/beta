@@ -20,7 +20,7 @@ We zouden willen weten hoe ze hun ideeën en inzichten testen voor de klas, hoe 
 
 Stevens heeft een pilot getest op haar klassen waar op een andere manier de lesstof wordt geleerd dan uit een boek.
 
-"Ik heb de leerlingen op pad gestuurd. Ieder groepje had een misdrijf die zij moesten oplossen. Leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. Leerlingen belden uiteindelijk heel stoer en zelfstandig op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politie agent."
+"Ik heb de leerlingen op pad gestuurd. Ieder groepje had een misdrijf dat ze moesten oplossen. Leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. Leerlingen belden uiteindelijk heel stoer en zelfstandig op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politie agent."
 
 "Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken. Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden sommigen niet door dat interviewen alleen niet genoeg was, maar dat het filmpje ook af moest zijn gemonteerd en wel."
 
