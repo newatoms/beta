@@ -22,10 +22,6 @@ Stevens heeft een pilot getest op haar klassen waar de lesstof op een andere man
 
 "Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken. Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden sommigen niet door dat interviewen alleen niet genoeg was, maar dat het filmpje ook af moest zijn gemonteerd en wel."
 
-## Wanneer beslis je of je dit vaker gaat doen?
-
-We zijn benieuwd naar de reacties van hun studenten, hebben ze het idee dat ze hun methodes waarderen en uberhaubt doorhebben hoeveel moeite er wordt gestopt in hun ontwikkeling? Moeten ze anderen overtuigen van hun idealen of hebben ze allemaal het zelfde doel?
-
 > "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
 
 Stevens moet de opdracht nog evalueren met haar leerlingen. "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt. Deze evaluaties zijn belangrijk om vervolgens te bepalen of we de pilot een terugkerend onderdeel maken.
