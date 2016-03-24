@@ -10,7 +10,7 @@ Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Z
 
 > "We willen dit nieuwe vak waarschijnlijk **Grote vragen** noemen"
 
-"Een onderdeel die wij zelf bedacht hebben is dat we een nieuw vak gaan introduceren. Dat vak willen we waarschijnlijk *Grote vragen* noemen. Daarin gaan maatschappijleer en CKV sowieso samen en daar willen we andere vakken bij aan laten sluiten. Op het Rietveld Lyceum is daar alle ruimte voor om deze experimetnen daadwerkelijk te gaan starten."   
+"Een onderdeel dat wij zelf bedacht hebben is dat we een nieuw vak gaan introduceren. Dat vak willen we waarschijnlijk *Grote vragen* noemen. Daarin gaan maatschappijleer en CKV sowieso samen en daar willen we andere vakken bij aan laten sluiten. Op het Rietveld Lyceum is daar alle ruimte voor om deze experimetnen daadwerkelijk te gaan starten."   
 
 We zijn benieuwd met wie docenten over het onderwijs praten. Doen ze dat alleen met mededocenten, of ook met hun vrienden en familie. Praten ze hier ook met hun leerlingen over?
 
