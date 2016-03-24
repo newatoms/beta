@@ -16,7 +16,7 @@ Thijs often tells his friends that "the research is not a boring report of sixty
 
 Thijs en Marie met while both following a media technology Master in Leiden. They both came from a very different backgrounds, but followed the same classes. Marie had just recieved her psychology Bachelor and Thijs had studied multi-media and design.
 
-The Media Technology master is a place where students get encouraged to create products inspired by their own personal needs and experiences. The idea behind this learning process is the belief that new scientific insights are encountered by doing and creating. "We learned a lot about creative ways to do research and at the same time, our technological abilities got updated." This master contributed greatly towards Marie's ability to understand both the designer and the enduser, something that is crucial for being a good service designer.
+The Media Technology master is a place where students get encouraged to create products inspired by their own personal needs and experiences. The idea behind this learning process is the belief that new scientific insights are encountered by doing and creating. "We learned a lot of creative ways to do research while improving our technological abilities." This master contributed greatly towards Marie's ability to understand both the designer and the enduser, something that is crucial for being a good service designer.
 
 ## What is the difference between you two in research?
 
