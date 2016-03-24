@@ -28,7 +28,7 @@ Nu zijn we met een Pilot bezig. Ik heb de leerlingen op pad gestuurd. Ieder groe
 
 ### Wat heb ik geleerd van de pilot?
 
-Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken wel moet ik de pilot nog evalueren met de leerlingen. Zelf heb ik al gemerkt dat het belangrijk is dat je veel structuur in de lesstof bijbrengt. Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden was niet voor iedereen duidelijk dat er ook gefilmd en gemonteerd had moeten worden. Hiervan heb ik geleerd dat ik duidelijker moet zijn in de opdracht en dat ik meer structuur moet aanbrengen.
+Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken, wel moet ik de pilot nog evalueren met de leerlingen. Zelf heb ik al gemerkt dat het belangrijk is dat je veel structuur in de lesstof bijbrengt. Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden was niet voor iedereen duidelijk dat er ook gefilmd en gemonteerd had moeten worden. Hiervan heb ik geleerd dat ik duidelijker moet zijn in de opdracht en dat ik meer structuur moet aanbrengen.
 
 ### Verschil tussen geschiedenis en maatschappijleer
 
