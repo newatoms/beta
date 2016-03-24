@@ -23,7 +23,7 @@ I have investigated the needs and user patterns of costumers and did [copy](http
 
 # The next step
 
-Even though now I have accumulated quite some knowledge and experience, I did not feel quite equipped yet to start my own company that brought my main interests fully together. In an attempt to gain the capabilities to implement my findings I studied Marketing and Communication and went to a business school. In the final two years of my studies I started STBY, my save haven.
+Even though now I have accumulated quite some knowledge and experience, I did not feel quite equipped yet to start my own company that brought my main interests fully together. In an attempt to gain the capabilities to implement my findings I studied Marketing and Communication and went to a business school. In the final two years of my studies I started the transition to becoming who i am now. 
 
 
 # Conclusion
