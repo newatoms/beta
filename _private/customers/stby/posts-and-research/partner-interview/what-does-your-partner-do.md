@@ -1,4 +1,4 @@
-# What does my boyfriend think I do?
+# Marie de Vos’ boyfriend explains what she does at STBY
 
 > An interview with the partner of one of our service designers.
 
