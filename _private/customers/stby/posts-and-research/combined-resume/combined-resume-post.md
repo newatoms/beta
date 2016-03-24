@@ -9,7 +9,7 @@ My whole life I have been caught between two interests. Human behavior and desig
 
 To understand different design processes I have studied Interaction design, Industrial design, Ergonomics and Consumer Product Design. I have also studied Computing Sciences, Ethnography, photography and Choreography, studies that both view the process of creation form the perspective of the creator and the user. These educations enabled me to get jobs in my field of interest.
 
-# My Work experiences
+## My Work experiences
 
 To develop my skills after my education I have worked in several positions for a lot of different companies. I have been an ergonomist at a Dutch steel producer, where I focused on improving the labour conditions of the employees. I have been an account manager at an aviation company, where I focussed on keeping private individuals and employees fit and healthy, and I have been consultant at a company that focused on improving labour conditions of employees in the whole of Holland. By trying to improve the health and labour condition of employees I often had to look at the tools they use and the environment in which they worked. This has given me a lot of insight how these tools where intended, how they were used and the damage a misunderstanding between the designer and the user of a product or service can do. It also taught me a lot about how I could solve these problems.
 
@@ -17,16 +17,16 @@ In another time and place I tried to empower citizens to create and understand p
 
 During this time I also was a Choreographer for the musical *Hair* and I designed Printed Materials for EPIC (Ethnographic Praxis in Industry), a congress that focuses on the perspective of the user.  
 
-# The company I founded
+## The company I founded
 
 At some point I founded a company where my main focus was on the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms and I researched the use of products and service with the goal to draw conclusions that can increase the effectiveness and costumer satisfaction.
 I have investigated the needs and user patterns of costumers and did [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for, among others: Philips, KLM, KPN, Aids Fonds, Grolsch, and Rijkswaterstaat. At some point the company I founded got bought up by an advertising agency and I became their usability director. I took responsibility for the development and execution of all consumer research and copy consultancy. Here I had the ability to implement the knowledge I had from both perspectives towards a commercial goals and have experienced a very distinct and measurable way to implement conclusions drawn from knowledge of user behavior. During this time, I have been greatly involved in the coming of age of the internet-centric business enabling me to create a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
 
-# The next step
+## The next step
 
 Even though I had accumulated quite some knowledge and experience, I did not feel quite equipped yet to start my own company that brought my main interests fully together. In an attempt to gain the capabilities to implement my findings I studied Marketing and Communication and went to a business school. 
 
-# Conclusion
+## Conclusion
 
 My educations and work experiences have enabled me to more fully understand the ways I can *use* my knowledge in order to produce effective service design. It has given me insight within the design process, and not solely in understanding the user. It has also enabled me to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
 
