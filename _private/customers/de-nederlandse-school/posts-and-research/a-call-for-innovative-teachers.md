@@ -4,6 +4,9 @@ Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invl
 
 Wij willen graag meer inzicht krijgen in de gedachtegang van docenten die proberen te innoveren in het onderwijs. Wat vinden ze belangrijk in het onderwijs, voldoet het huidige onderwijssysteem aan hun verlangens, wat doen ze zelf om hun studenten te helpen ontwikkelen en waar halen ze hun inspiratie vandaan?
 
+Ellis Stevens is docent maatschappijleer op het Reitveld Lyceum in Doetinchem. Zij volgt samen met de docenten van natuurkunde en CKV workshops aan, en doen opdrachten voor de Nederlandse School. "Een onderdeel die wij zelf bedacht hebben is dat we een nieuw vak gaan introduceren. Dat vak willen we *Grote vragen* gaan noemen. Daarin gaan maatschappijleer en CKV sowieso samen en daar willen we andere vakken bijaan laten sluiten. Op het Rietveld Lyceum is daar alle ruimte voor om dat daadwerkelijk te gaan starten.   
+
+
 We zijn benieuwd met wie ze over het onderwijs praten. Doen ze dat alleen met mededocenten, of ook met hun vrienden en familie. Praten ze hier ook met hun leerlingen over?
 
 We zouden willen weten hoe ze hun ideeën en inzichten testen voor de klas, hoe ze erachter komen wat de gevolgen zijn en hoe ze besluiten wat de volgende stappen zijn.
