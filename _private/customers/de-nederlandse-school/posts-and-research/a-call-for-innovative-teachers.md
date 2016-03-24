@@ -6,7 +6,7 @@ Wij willen graag meer inzicht krijgen in de gedachtegang van docenten die prober
 
 ## Op deze school is er alle ruimte om een geheel nieuw vak te introduceren
 
-Ellis Stevens is docent maatschappijleer op het Reitveld Lyceum in Doetinchem. Zij volgt samen met de docenten van natuurkunde en CKV workshops aan, en doen opdrachten voor de Nederlandse School.
+Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Zij volgt samen met de docenten van natuurkunde en CKV workshops aan, en doen opdrachten voor de Nederlandse School.
 
 > "We willen dit nieuwe vak waarschijnlijk **Grote vragen** noemen"
 
