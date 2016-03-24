@@ -18,7 +18,7 @@ We zouden willen weten hoe ze hun ideeën en inzichten testen voor de klas, hoe 
 
 ## Leren hoe de maatschapij werkt door een 'misdrijf' op te lossen
 
-Stevens heeft een pilot getest op haar klassen waar op een andere manier de lesstof wordt geleerd dan uit een boek.
+Stevens heeft een pilot getest op haar klassen waar de lesstof op een andere manier wordt geleerd dan uit een boek.
 
 "Ik heb de leerlingen op pad gestuurd. Ieder groepje had een misdrijf dat ze moesten oplossen. Leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. Leerlingen belden uiteindelijk heel stoer en zelfstandig op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politie agent."
 
