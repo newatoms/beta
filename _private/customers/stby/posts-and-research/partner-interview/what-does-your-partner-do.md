@@ -6,7 +6,7 @@ It is sometimes hard to explain what we do –especially to those who are not fa
 
 In this article we interviewed Thijs de Boer about his girlfriend Marie de Vos, design researcher at Stby Amsterdam.  
 
-# How do you explain to your friends in the pub what Marie does?
+## How do you explain to your friends in the pub what Marie does?
 
 When Thijs tries to explain to his friends in the pub what his girlfriend exactly does, he usually starts by telling them she is a researcher at STBY. "She's not a typical market-researcher, but she researches how services of companies are being used". Because it is difficult to understand what service design actually is, he usually tells his friends that she tries to figure out how services can be improved by investigating the behavior of the users.
 
