@@ -14,7 +14,7 @@ Thijs often tells his friends that "the research is not a boring report of sixty
 
 ## How did you guys meet?
 
-Thijs en Marie met while both following a media technology Master in Leiden. They both came from a very different backgrounds, but followed the same classes. Marie had just recieved her psychology Bachelor and Thijs had studied multi-media and design. "We were taking the same classes and it was in Leiden where we fell in love."
+Thijs en Marie met while both following a media technology Master in Leiden. They both came from a very different backgrounds, but followed the same classes. Marie had just recieved her psychology Bachelor and Thijs had studied multi-media and design.
 
 The Media Technology master is a place where students get encouraged to create products inspired on there own personal needs and experiences from the belief that by doing and creating, new scientific insights into the underlying question are encountered. "We learned a lot about creative ways to do research and at the same time, our technological abilities got updated." This master contributed greatly towards Marie's ability to understand both the designer and the enduser, something that is crucial for being a good service designer.
 
