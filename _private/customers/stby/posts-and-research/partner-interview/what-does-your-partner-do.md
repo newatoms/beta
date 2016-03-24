@@ -4,11 +4,11 @@
 
 It is sometimes hard to explain what we do –especially to those who are not familiar with our field of work– which is sad because what we do can have a big impact on everyday life. At times this is visible, at times invisible. To figure out how we would go about explaining what we do, we asked the people closest to us how they see us.
 
-In this article we interview Thijs de Boer, front-end developer at marktplaats.nl about his girlfriend Marie de Vos, design researcher at Stby Amsterdam.  
+In this article we interviewed Thijs de Boer, about his girlfriend Marie de Vos, design researcher at Stby Amsterdam.  
 
-## How do you explain what Marie does to friends in a pub?
+When Thijs try's to explain to his friends in the pub what his girlfiend exactly does he usualy starts by telling them she is a researcher. "she's not a typical market-researcher, but she researches how services of companies are being used" From here he explains that she than uses the insights how these services are being used to figure out if there is anny way in which the can improve it by incorporating the behaviour of the users. Usualy there is.
 
-I always start at a high level by saying that she's a researcher. Then I narrow it down by telling that she's not a typical market-researcher, but that she researches how services of companies are being used, then detecting potential opportunities. I also always tell them that the result of the research is not a dusty, boring report of sixty pages. The results are always presented visually in videos or infographics –something creative that will translate the research to their customers in an understandable product.
+Becouse it is quite hard to understand what it actualy is what marie gives to her clients he explains that  "the research is not a dusty, boring report of sixty pages." but that the results are always presented visually in videos or infographics "something creative that will translate the research to their customers in an understandable product".
 
 Service design is a very abstract term for most people, I always stay away from that one. The projects they do are very versatile and different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services.  
 
