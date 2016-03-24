@@ -5,9 +5,9 @@ In order to give you an idea how I enabled myself to do this, I will try to desc
 
 ## My Studies
 
-My whole life I have been caught between two interests. Human behavior and design. To feed these interests I have done quite a lot of studies and worked in a lot of different places. To get a better understanding of the workings of the mind of an individual I have studied Psychology, and to place that knowledge in to the context of society I have followed courses in Sociology and Cultural studies.
+My whole life I have been caught between two interests. Human behavior and design. To feed these interests I have done quite a lot of studies and worked in a lot of different places. To get a better understanding of the workings of the mind of an individual I have studied Psychology, and to place that knowledge into the context of society I have followed courses in Sociology and Cultural studies.
 
-To give myself insight in the process of creation I have studied Interaction design, Industrial design, Ergonomics and Consumer Product Design. I have also studied Computing Sciences, Ethnography, photography and Choreography, studies that both view the process of creation form the perspective of the creator and the user. These educations enabled me to get jobs in my field of interest.
+To understand different design processes I have studied Interaction design, Industrial design, Ergonomics and Consumer Product Design. I have also studied Computing Sciences, Ethnography, photography and Choreography, studies that both view the process of creation form the perspective of the creator and the user. These educations enabled me to get jobs in my field of interest.
 
 # My Work experiences
 
