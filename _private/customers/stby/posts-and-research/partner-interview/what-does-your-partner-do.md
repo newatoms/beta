@@ -6,11 +6,10 @@ It is sometimes hard to explain what we do –especially to those who are not fa
 
 In this article we interviewed Thijs de Boer, about his girlfriend Marie de Vos, design researcher at Stby Amsterdam.  
 
-When Thijs try's to explain to his friends in the pub what his girlfiend exactly does he usualy starts by telling them she is a researcher. "she's not a typical market-researcher, but she researches how services of companies are being used" From here he explains that she than uses the insights how these services are being used to figure out if there is anny way in which the can improve it by incorporating the behaviour of the users. Usualy there is.
+# How do you explain to your friends in the pub what Marie does?
+When Thijs try's to explain to his friends in the pub what his girlfriend exactly does, he usually starts by telling them she is a market researcher. "she's not a typical market-researcher, but she researches how services of companies are being used" From here he explains that she than uses the insights how these services are being used to figure out if there is any way in which the can improve it by incorporating the behavior of the users.
 
-Becouse it is quite hard to understand what it actualy is what marie gives to her clients he explains that  "the research is not a dusty, boring report of sixty pages." but that the results are always presented visually in videos or infographics "something creative that will translate the research to their customers in an understandable product".
-
-Service design is a very abstract term for most people, I always stay away from that one. The projects they do are very versatile and different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services.  
+Thijs usually has a hard time explaining to his friends that "the research is not a dusty, boring report of sixty pages." but that the results are always presented visually in videos or infographics "something creative that will translate the research to their customers in an understandable product". There is not a set way to do service design, wich makes it hard to pinpoint down what it is. "The projects they do are very versatile and different from one another. But what they have in common are that they always solve problems creatively and find ways to improve services."
 
 ## How did you guys meet?
 
