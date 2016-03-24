@@ -16,6 +16,7 @@ To develop my skills after my education I have worked in several positions for a
 In another time and place I tried to empower citizens to create and understand products and processes, with the belief that everyone can be creative and innovative as long as they have a conducive environment. I wanted to give citizens the means to contribute to the world they live in.  I have done this as a User-Researcher in a public laboratory and as head of an open design lab.  My Experience with enabling citizens to innovate has greatly enhanced my ability to stand in someone else's shoes and given me a great deal of insight in the thought process of users.
 
 During this time I also was a Choreographer for the musical *Hair* and I designed Printed Materials for EPIC (Ethnographic Praxis in Industry), a congress that focuses on the perspective of the user.  
+
 # The company I founded
 
 At some point I founded a company where my main focus was on the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms and i researched the use of products and service with the goal to draw conclusions that can increase the effectiveness and costumer satisfaction.
@@ -23,8 +24,7 @@ I have investigated the needs and user patterns of costumers and did [copy](http
 
 # The next step
 
-Even though now I have accumulated quite some knowledge and experience, I did not feel quite equipped yet to start my own company that brought my main interests fully together. In an attempt to gain the capabilities to implement my findings I studied Marketing and Communication and went to a business school. In the final two years of my studies I started the transition to becoming who i am now. 
-
+Even though now I have accumulated quite some knowledge and experience, I did not feel quite equipped yet to start my own company that brought my main interests fully together. In an attempt to gain the capabilities to implement my findings I studied Marketing and Communication and went to a business school. In the final two years of my studies I started the transition to becoming who i am now.
 
 # Conclusion
 
