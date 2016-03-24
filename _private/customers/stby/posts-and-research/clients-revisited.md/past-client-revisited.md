@@ -6,5 +6,5 @@ We want to look at what kind of impact STBY has had on a past client. What have 
 * How and why did you decide to work with STBY?
 * How did you experience the process?
 * Can you point out some important lessons learned that helped with the improvement of your product or service?
-* Do you still notice the effects of what STBY did?
+* Do you still benefit from what STBY did?
     
