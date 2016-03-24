@@ -3,10 +3,6 @@
 At STBY we believe that all our strengths come for the combination of skills and experiences of our team members. To show you (and ourselves) how awesome our combined experiences are we will use this article to describe STBY as a person. This enables us to create a context in wich we can truly apriciate the combination of skills and experiences as a whole.
 
 
-## I am STBY.
-
-I am not a person nor am i a group. I am a collection of people and experiences in different times and places. My whole life i have been searching for a place where i belong and roughly 12 years ago i found and created it. I look at things people use, how they use them and how the creator can improve those things with the knowledge how it is used in the following story i will try to explain how i came to be able to do this.  
-
 ## My Studies
 
 My whole life I have been caught between two interests. Human behavior and design. To feed these interests I have done quite a lot of studies and worked in a lot of different places. To get a better understanding of the workings of the mind of an individual I have studied Psychology, and to place that knowledge in to the context of society I have followed courses in Sociology and Cultural studies.
@@ -29,8 +25,9 @@ I have investigated the needs and user patterns of costumers and did [copy](http
 
 Even though now I have accumulated quite some knowledge and experience, I did not feel quite equipped yet to start my own company that brought my main interests fully together. In an attempt to gain the capabilities to implement my findings I studied Marketing and Communication and went to a business school. In the final two years of my studies I started STBY, my save haven.
 
+
 # Conclusion
 
 My educations and work experiences have enabled me to more fully understand the ways I can *use* my knowledge in order to realize effective service design. It has given me insight within the design process, and not solely in understanding the user. It has also enabled me to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
 
-Our shared work experience and knowledge, in it's vastness, has taught us to identify and solve problems in complex situations, to understand and influence human behavior, and to comprehend how businesses function. All of these experiences have laid the sound foundation upon which STBY has been built.
+I am not a person nor am i a group. I am a collection of people and experiences in different times and places. My whole life i have been searching for a place where i belong and roughly 12 years ago i found and created it. All my experience and knowledge, in it's vastness, has taught me to identify and solve problems in complex situations, to understand and influence human behavior, and to comprehend how businesses function. I am STBY.
