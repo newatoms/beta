@@ -16,15 +16,11 @@ Thijs often tells his friends that "the research is not a dusty, boring report o
 
 Thijs en Marie met while both following a media technology Master in Leiden. They both came from a very different backgrounds, but followed the same classes. Marie had just recieved her psychology Bachelor and Thijs had studied multi-media and design. "We were taking the same classes and it was in Leiden where we fell in love."
 
-## The Media Technology master
-
 The Media Technology master is a place where students get encouraged to create products inspired on there own personal needs and experiences from the belief that by doing and creating, new scientific insights into the underlying question are encountered. "We learned a lot about creative ways to do research and at the same time, our technological abilities got updated." This master contributed greatly towards Marie's ability to understand both the designer and the enduser, something that is crucial for being a good service designer.
 
 ## What is the difference between you two in research?
 
 "Because of her psychological background, she has way more experience in doing research, she is very precise and scientifically-based, I'm more practical." This has a lot to with perfectionism and her capability to take ownership of a project and how she strives for perfection, something that Thijs greatly admires. "That couldn't be more different than me. I'm more practical and finish things in a quicker fashion." Even tough Thijs would love to be as dedicated as Marie, he also sees a problem in her perfectionism. "She wants things to be almost too perfect, Sometimes you have to kill your darlings and go on or say: now it's good enough."
-
-## What have you learned from her?
 
 "Apart from the organising and perfectionistic part, she knows how to tackle and solve a problem. I admire her for that." Together with others Marie knows how to solve problems and find creative solutions. Thijs try's to adopt those skills in his own work. "I work at quite a large company, cosy and save in an office. Marie goes out there to talk to users without any pre-assumptions. They find stories and with that they will work out solutions for certain problems. This is also something what I would want to do more and which I admire."
 
