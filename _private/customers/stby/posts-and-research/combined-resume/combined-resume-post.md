@@ -1,7 +1,6 @@
 # Who are we at STBY
 
-At STBY we believe that all our strengths come for the combination of skills and experiences of our team members. To show you (and ourselves) how awesome our combined experiences are we will use this article to describe STBY as a person. This enables us to create a context in wich we can truly apriciate the combination of skills and experiences as a whole.
-
+A little while back I became the research partner of the “What Design Can Do Challenge” where I tried to create briefs that inspire and empower designers to come up with daring and innovative ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnection between the creator and the user. This can be between rules of a city and the refugees that try to find a save haven, between students and the education system or a car driver and the manufacturer. Over the past few decades I have, for the most part un knowingly, educated myself to solve problems this way. 
 
 ## My Studies
 
