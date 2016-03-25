@@ -15,7 +15,7 @@ To develop my skills after my education I have worked in several positions for a
 
 In another time and place I tried to empower citizens to create and understand products and processes, with the belief that everyone can be creative and innovative as long as they have a conducive environment. I wanted to give citizens the means to contribute to the world they live in.  I have done this as a User-Researcher in a public laboratory and as head of an open design lab.  My experience with enabling citizens to innovate has greatly enhanced my ability to stand in someone else's shoes and given me a great deal of insight in the thought process of users.
 
-During this time I also was a Choreographer for the musical *Hair* and I designed Printed Materials for EPIC (Ethnographic Praxis in Industry), a congress that focuses on the perspective of the user.  
+During this time I also was a Choreographer for the musical *Hair* and I designed Printed Materials for EPIC (Ethnographic Praxis in Industry), a conference that focuses on the perspective of the user.  
 
 ## The company I founded
 
