@@ -1,6 +1,7 @@
 # Police officers in amsterdam with fully automatic weapons
 
 ## Goal
+
 Show that service design is everywhere
 
 ## Method
@@ -9,7 +10,7 @@ We write an article discussing both the reasoning and effects of police carrying
 
 ## Argument
 
-Anti terrorism is a heated subject where people take very active statements, often without the required knowledge and insights. Even though people feel the need to increase security, the arming of police officers feels like overkill for a lot of people. We think it is important and interesting to give insights in the reasoning behind this action from the perspective of service design.
+Anti terrorism is a heated subject where people take very active statements, often without the required knowledge and insights. Even though people feel the need to increase security, the arming of police officers feels like too big of a change for a lot of people. We think it is important and interesting to give insights in the reasoning behind this action by looking at both the intended and un-intende influence it has on the behaviour of the end users (the citizens).
 
 ## Benefits
 
