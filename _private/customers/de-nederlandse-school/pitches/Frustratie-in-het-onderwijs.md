@@ -7,7 +7,7 @@ Om geïnspireerd te worden om te innoveren in het onderwijs.
 
 ## Action
 
-Interviewen we docenten over wat hun het meeste dwars zit in het onderwijs. We vragen aan iedereen om duidelijk te beargumenteren waarom ze dat vinden en wat een oplossing zou kunnen zijn, zodat het niet een klaagzang wordt maar vooral dient als inspiratie voor scholen, docenten en leerlingen. Het gaat over het onderwijs in het algemeen en niet over een specefieke shcool, om te voorkomen dat we negatief praten over partnerscholen. We zullen proberen in het artikel zoveel mogelijk oplossingen te formuleren om de toon licht te houden, maar het is de bedoeling dat de problemen open blijven en inspiratie bieden voor anderen om over na te denken.
+Interviewen we docenten over wat hun het meeste dwars zit in het onderwijs. We vragen aan iedereen om duidelijk te beargumenteren waarom ze dat vinden en wat een oplossing zou kunnen zijn, zodat het niet een klaagzang wordt maar vooral dient als inspiratie voor scholen, docenten en leerlingen. Het gaat over het onderwijs in het algemeen en niet over een specefieke school, om te voorkomen dat we negatief praten over partnerscholen. We zullen proberen in het artikel zoveel mogelijk oplossingen te formuleren om de toon licht te houden, maar het is de bedoeling dat de problemen open blijven en inspiratie bieden voor anderen om over na te denken.
 
 ## Mogelijke vragen
 
@@ -18,7 +18,7 @@ Interviewen we docenten over wat hun het meeste dwars zit in het onderwijs. We v
 
 
 ## argumentatie
-Vaak is iets wat voor jouw een onoverkoombaar probleem lijkt, voor een anderen een bron aan inspiratie. Door inzicht te geven in de problemen van docenten zouden we andere docenten kunnen inspireren om uit te vogelen of ze met dezelfde problemen zitten en hoe ze deze zouden kunnen oplossen. Om een heel plat voorbeeld te geven, de druk in mijn dousche is altijd laag geweest en ik ga er van uit dat het door het huis waar ik in woon kom, iemand die dit ook heeft mee gemaakt zou mij kunnen vertellen dat ik een pomp tussen de dousche kop en de kraan kan instaleren die de druk verhoogd. Door mij dit te vertellen heb ik mijn probleem opgelost, maar sluit ik ook andere oplosisngen uit. Het is daarom belangrijk dat het niet als een lijst met problemen of oplossingen wordt gezien maar als een zoektocht naar hoe we het beste kunnen innoveren in het onderwijs.
+Vaak is iets wat voor jouw een onoverkoombaar probleem lijkt, voor een anderen een bron van inspiratie. Door inzicht te geven in de problemen van docenten zouden we andere docenten kunnen inspireren om uit te vogelen of zij met dezelfde problemen zitten en hoe ze deze zouden kunnen oplossen. Om een heel plat voorbeeld te geven, de druk in mijn douche is altijd laag geweest en ik ga er van uit dat het door het huis waar ik in woon komt, iemand die dit ook heeft mee gemaakt zou mij kunnen vertellen dat ik een pomp tussen de douche kop en de kraan kan instaleren die de druk verhoogd. Door mij dit te vertellen heb ik mijn probleem opgelost, maar sluit ik ook andere oplosisngen uit. Het is daarom belangrijk dat het niet als een lijst met problemen of oplossingen wordt gezien maar als een zoektocht naar hoe we het beste kunnen innoveren in het onderwijs.
 
 ## Outcome
 
