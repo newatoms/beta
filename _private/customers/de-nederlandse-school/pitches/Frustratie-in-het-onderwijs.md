@@ -6,7 +6,7 @@ Om geïnspireerd te worden om te innoveren in het onderwijs.
 
 ## Action
 
-Interviewen we docenten over wat hun het meeste dwars zit in het onderwijs. We vragen aan iedereen om duidelijk te beargumenteren waarom ze dat vinden en wat een oplossing zou kunnen zijn, zodat het niet een klaagzang wordt maar vooral dient als inspiratie voor scholen, docenten en leerlingen. Het gaat over het onderwijs in het algemeen en niet over een specifieke school.
+Interviewen we docenten over wat hun het meeste dwars zit in het onderwijs. We vragen aan iedereen om duidelijk te beargumenteren waarom zij dat vinden en wat een oplossing zou kunnen zijn, zodat het niet een klaagzang wordt maar vooral dient als inspiratie voor scholen en docenten. Het gaat over het onderwijs in het algemeen en niet over een specifieke school.
 
 ## Mogelijke vragen
 
