@@ -6,14 +6,14 @@ Om geïnspireerd te worden om te innoveren in het onderwijs.
 
 ## Action
 
-Interviewen we docenten over wat hun het meeste dwars zit in het onderwijs. We vragen aan iedereen om duidelijk te beargumenteren waarom zij dat vinden en wat een oplossing zou kunnen zijn, zodat het niet een klaagzang wordt maar vooral dient als inspiratie voor scholen en docenten. Het gaat over het onderwijs in het algemeen en niet over een specifieke school.
+Interviewen we docenten over wat hen het meeste dwars zit wat betreft het onderwijs. We vragen aan iedereen om duidelijk te beargumenteren waarom zij dat vinden en wat een oplossing zou kunnen zijn, zodat het niet een klaagzang wordt maar vooral dient als inspiratie voor scholen en docenten. Het gaat over het onderwijs in het algemeen en niet over een specifieke school.
 
 ## Mogelijke vragen
 
 * Zijn er wel eens situaties in het onderwijs waar je s’ nachts wakker van ligt?
-* Is er iets wat je probeert te veranderen, maar je het keer op keer niet voor elkaar krijgt?
+* Is er iets wat je probeert te veranderen, maar dat je keer op keer niet voor elkaar krijgt?
 * Wat zijn je grootste obstakels?
-* Zijn er dingen waar je tegen op ziet?
+* Zijn er dingen waar je tegenop ziet?
 
 
 ## Argumentatie
@@ -22,4 +22,4 @@ Vaak is iets wat voor jou een onoverkoombaar probleem lijkt, voor een anderen ee
 ## Outcome
 
 * De lezer inspireren om te innoveren in het onderwijs
-* Inzicht in de behoeften van docente binnen dNS creëren
+* Inzicht in de behoeften van docenten binnen dNS creëren
