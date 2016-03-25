@@ -15,11 +15,10 @@ Interviewen we docenten over wat hun het meeste dwars zit in het onderwijs. We v
 * Is er iets wat je probeert te veranderen, maar je het keer op keer niet voor elkaar krijgt?
 * Wat zijn je grootste obstakels?
 * Zijn er dingen waar je tegen op ziet?
-* Heb je soms geen zin meer om les te geven, en weet je waar dat dan door komt?
 
 
 ## argumentatie
-Vaak is iets wat voor jouw een onoverkoombaar probleem lijkt, voor een anderen een bron aan inspiratie. Door inzicht te geven in de problemen van docenten zouden we andere docenten kunnen inspireren om uit te vogelen of ze met dezelfde problemen zitten en hoe ze deze zouden kunnen oplossen. Het is daarom ook belangrijk dat het niet als een lijst met problemen of oplossingen wordt gezien maar als een zoektocht naar hoe we het beste kunnen innoveren in het onderwijs.
+Vaak is iets wat voor jouw een onoverkoombaar probleem lijkt, voor een anderen een bron aan inspiratie. Door inzicht te geven in de problemen van docenten zouden we andere docenten kunnen inspireren om uit te vogelen of ze met dezelfde problemen zitten en hoe ze deze zouden kunnen oplossen. Om een heel plat voorbeeld te geven, de druk in mijn doush is altijd laag geweest en ik ga er van uit dat het door het huis waar ik in woon kom, iemand die dit ook heeft mee gemaakt zou mij kunnen vertellen dat ik een pomp tussen de doush kop en de kran kan instaleren die de druk verhoogd. Door mij dit te vertellen heb ik mijn probleem opgelost, maar sluit ik ook andere oplosisngen uit. Het is daarom belangrijk dat het niet als een lijst met problemen of oplossingen wordt gezien maar als een zoektocht naar hoe we het beste kunnen innoveren in het onderwijs.
 
 ## Outcome
 
