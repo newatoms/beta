@@ -9,7 +9,7 @@ We write an article discussing both the reasoning and effects of police carrying
 
 ## Argument
 
-Anti terrorisms is a heated subject where people take very active statements, often without the required knowledge and insights. Even tho people feel the need to increase security, the arming of police officers feels like overkill for a lot of people. We think it is important and interesting to give insights in the reasoning behind this action from the perspective of service design.
+Anti terrorism is a heated subject where people take very active statements, often without the required knowledge and insights. Even though people feel the need to increase security, the arming of police officers feels like overkill for a lot of people. We think it is important and interesting to give insights in the reasoning behind this action from the perspective of service design.
 
 ## Benefits
 
