@@ -28,4 +28,4 @@ My educations and work experiences have enabled me to more fully understand the 
 
 ## "I am not a person nor am I a group"
 
-I am a collection of people and experiences in different times and places. My whole life I have been searching for a place where I belong and roughly 12 years ago I materialized. All my experience and knowledge, in it's vastness, has taught me to identify and solve problems in complex situations, to understand and influence human behavior, and to comprehend how businesses function. I am STBY.
+I am a collection of people and experiences in different times and places. My whole life I have been searching for a place where I belong and roughly 12 years ago I materialized. All my experience and knowledge, in it's vastness, has taught me to identify and solve problems in complex situations, to understand and influence human behavior, and to comprehend how businesses function. I am [STBY](http://www.stby.eu/meet-the-team/).
