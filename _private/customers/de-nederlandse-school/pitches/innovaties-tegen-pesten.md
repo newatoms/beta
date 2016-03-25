@@ -4,7 +4,7 @@
 Om docenten, studenten en leerlingen te inspireren om beter om te gaan met pesten op de middelbare school
 
 ## Method
-Interviewen we leerlingen van partner scholen over hun ervaringen met pesten, met het doel inzicht te creëren in de werking van pesten en mogenlijke oplossingen te ontdekken vanuit het perspectief van de leerlingen
+Interviewen we leerlingen van partner scholen over hun ervaringen met pesten, met het doel inzicht te creëren in de werking van pesten en mogelijke oplossingen te ontdekken vanuit het perspectief van de leerlingen
 
 **Voorbeeld**
 We praten over of ze gepest zijn, of ze ooit gepest hebben en hoe daar mee om werd gegaan. We proberen hun ervaringen met pesten in kaart te brengen en samen met de leerlingen oplossingen te formuleren.
@@ -15,5 +15,5 @@ Alhoewel pesten een dood gegooid onderwerp is blijft het altijd relevant. Wij he
 ## Benefit
 * Laten zien dat dNS actief bezig is met het zoeken naar inspiratie m.b.t innovatie in het onderwijs
 * Aandacht op pesten vestigen
-* Docenten en leerlingen inspireren om beter omtegaan met pesten
+* Docenten en leerlingen inspireren om beter om te gaan met pesten
 * De lezer laten ervaren dat dNS continu bezig is met het stimuleren van innovatie in het onderwijs.
