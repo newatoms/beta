@@ -19,7 +19,7 @@ Interviewen we docenten en Leerlingen anoniem over wat hun het meeste dwars zit 
 
 
 ## argumentatie
-Vaak is iets wat voor jouw een onoverkoombaar probleem lijkt, voor een anderen een bron aan inspiratie. Door inzicht te geven in de problemen van docenten zouden we andere docenten kunnen inspireren om uit te vogelen of ze met de zelfde problemen zitten en hoe ze deze zouden kunnen oplossen. Het is daarom ook belangrijk dat het niet als een lijst met problemen of oplossingen wordt gezien maar als een zoektocht naar hoe we het beste kunnen innoveren in het onderwijs.
+Vaak is iets wat voor jouw een onoverkoombaar probleem lijkt, voor een anderen een bron aan inspiratie. Door inzicht te geven in de problemen van docenten zouden we andere docenten kunnen inspireren om uit te vogelen of ze met dezelfde problemen zitten en hoe ze deze zouden kunnen oplossen. Het is daarom ook belangrijk dat het niet als een lijst met problemen of oplossingen wordt gezien maar als een zoektocht naar hoe we het beste kunnen innoveren in het onderwijs.
 
 ## Outcome
 
