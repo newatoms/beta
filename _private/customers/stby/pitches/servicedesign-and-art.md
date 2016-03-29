@@ -1,4 +1,4 @@
-# How service design is used in the presentation of art
+# To show that service design influences how one perceives art
 
 ## Goal
 
