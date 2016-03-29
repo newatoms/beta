@@ -5,7 +5,7 @@ Om de betrokkenheid van de workshopsprekers te laten zien, en de deelnemende doc
 
 ## Action
 
-Interviewen we sprekers die nog een workshop moeten geven over hun kijk op onderwijsinnovatie.
+Interviewen we sprekers die nog een workshop moeten geven.
 We zullen met ze praten over wat zij denken dat de staat van het onderwijssysteem nu is, hoe zij dat nu zien in relatie tot hun eigen ervaringen met onderwijs, wat ze graag anders zouden willen zien en hoe zij daar aan bij proberen te dragen met hun workshop.
 
 ## Assitance
