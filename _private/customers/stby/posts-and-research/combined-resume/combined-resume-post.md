@@ -1,7 +1,9 @@
 # I am STBY.
 
 
-A little while back I became the research partner of the *What Design Can Do* Challenge. In the last edition of the challenge we worked to create briefs that inspire and empower designers to come up with ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnect between the creator and the user. This can be between government and the refugees that try to find a safe haven, between the education system and its students, or a car manufacturer and a driver. Over the past few decades I have, for the most part unknowingly, educated myself to view problems from both the perspective of the user and the creator. In order to give you an idea of how I enabled myself to do this, I will try to describe the road I have taken to get here, and the lessons I learned along the way.
+A little while back I became the research partner of the *What Design Can Do* Challenge. In the last edition of the challenge we worked to create briefs that inspire and empower designers to come up with ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnect between the creator and the user. This can be between government and the refugees that try to find a safe haven, between the education system and its students, or a car manufacturer and a driver.
+
+ Over the past few decades I have, for the most part unknowingly, educated myself to view problems from both the perspective of the user and the creator. In order to give you an idea of how I enabled myself to do this, I will try to describe the road I have taken to get here, and the lessons I learned along the way.
 
 
 ## “My whole life I have been caught between two interests: human behavior and design.”
@@ -14,8 +16,9 @@ To understand different design processes I have studied Interaction design, Indu
 
 To develop my skills after my education, I have worked in several positions for a lot of different companies. I have been an ergonomist at a Dutch steel producer, an account manager at an aviation company, and a consultant at a large labour force-oriented firm. Every time my goal was the same: to improve the labour conditions and health of employees, sometimes within the company and other times for other firms. In order to do this, I often had to look at the tools employees used and the environment in which they worked. I found it heartbreaking to see how much damage a misunderstanding between the designer and the user of a product or service can do.
 
-Later, I tried to empower citizens to create and understand products and processes with the belief that everyone can be creative and innovative as long as they have a conducive environment. I wanted to give citizens the means to contribute to the world in which they live. Trying to help people undertake things that were usually outside of their reach was an amazing
- and sometimes frustrating experience. It is so easy to forget how much we take our everyday activities for granted, even though they may seem unobtainable to others. This joy and frustration greatly reignited my appreciation for what I was attempting to do and gave me a great deal of insight into the thought processes of the people I was trying to help. I have done this as a User-Researcher in a public laboratory and as head of an open design lab.  
+Later, I tried to empower citizens to create and understand products and processes with the belief that everyone can be creative and innovative as long as they have a conducive environment. I wanted to give citizens the means to contribute to the world in which they live. It is so easy to forget how much we take our everyday activities for granted, even though they may seem unobtainable to others. Trying to help people undertake things that are usually outside their reach was an amazing and sometimes frustrating experience.  
+
+ This joy and frustration greatly reignited my appreciation for what I was attempting to do and gave me a great deal of insight into the thought processes of the people I was trying to help. I have done this as a User-Researcher in a public laboratory and as head of an open design lab.  
 
 During this time I was also a Choreographer for the musical *Hair*, and I designed some printed materials for EPIC 2013, a congress that focuses on the perspective of the user.  
 
