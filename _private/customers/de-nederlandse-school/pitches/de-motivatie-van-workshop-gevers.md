@@ -1,17 +1,16 @@
-# De motivatie van awesome workshop-gevers laten zien
+# De motivatie van sprekers laten zien
 
 ## Goal
-Om de betrokkenheid van de workshop-gevers te laten zien, en de deelnemende docenten enthousiast te maken over de workshops die ze gaan volgen
+Om de betrokkenheid van de workshopsprekers te laten zien, en de deelnemende docenten enthousiast te maken over de aankomende workshops 
 
 ## Action
 
-Interviewen we workshop-gevers die nog een workshop moeten geven over hun kijk op onderwijs innovatie.
-We zullen met ze praten over wat zij denken dat de staat van het onderwijs systeem nu is, hoe ze dat nu zien in relatie tot hun eigen ervaringen met onderwijs, wat ze graag anders zouden willen zien en hoe ze daar aan bij proberen te dragen met hun workshop.
-
+Interviewen we sprekers die nog een workshop moeten geven over hun kijk op onderwijsinnovatie.
+We zullen met ze praten over wat zij denken dat de staat van het onderwijssysteem nu is, hoe zij dat nu zien in relatie tot hun eigen ervaringen met onderwijs, wat ze graag anders zouden willen zien en hoe zij daar aan bij proberen te dragen met hun workshop.
 
 ## Outcome
 * Deelnemende docenten enthousiastmeren over de workshops
-* Workshop-gevers betrekken bij dNS
+* Workshopsprekers betrekken bij dNS
 * Laten zien wat voor een fantastische workshop-gevers dNS heeft uitgekozen
 * Docenten en scholen enthousiasmeren om zich aan te sluiten bij dNS
 
