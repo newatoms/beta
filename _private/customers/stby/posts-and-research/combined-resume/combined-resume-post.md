@@ -1,8 +1,7 @@
 # I am STBY.
 
 
-A little while back, I became the research partner of the *What Design Can Do* Challenge. In 2016, I worked to create briefs that inspire and empower designers to imagine ideas that would help refugees and cities adapt to one another. I truly believe that, just like this problem, many problems in our society come from a disconnect between the creator and the user. This can be between refugees trying to find a safe haven and governments, between students and the education system or a car driver and the manufacturer. Over the past few decades I have, for the most part unknowingly, educated myself to view problems from both the perspective of the user and the creator.
-In order to give you an idea of how I enabled myself to do this, I will try to describe the road I have taken to get here and the lessons I learned along the way.
+A little while back I became the research partner of the *What Design Can Do* Challenge. In the last edition of the challenge we worked to create briefs that inspire and empower designers to come up with ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnect between the creator and the user. This can be between government and the refugees that try to find a safe haven, between the education system and its students, or a car manufacturer and a driver. Over the past few decades I have, for the most part unknowingly, educated myself to view problems from both the perspective of the user and the creator. In order to give you an idea of how I enabled myself to do this, I will try to describe the road I have taken to get here, and the lessons I learned along the way.
 
 
 ## “My whole life I have been caught between two interests: human behavior and design.”
