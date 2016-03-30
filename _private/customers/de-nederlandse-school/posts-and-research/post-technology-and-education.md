@@ -4,9 +4,9 @@
 
 Een groeiend aantal supermarkten wordt tegenwoordig gerund door een handje vol mensen. De Albert Heijn op het Weteringscircuit in Amsterdam is er zo één. De supermarkt wordt geëxploiteerd zonder lopende banden en zonder kassa-medewerkers zoals we die kennen. Slechts vier functies zijn niet geautomatiseerd. Er is nog één iemand die verward kijkende mensen (en dat zijn er veel) bij het *zelfscannen* helpt, één balie-medewerker, een manager en nog een paar vakkenvullers.
 
-De interactie met de wereld om ons heen en hoe wij deze begrijpen is de laatste decennia enorm veranderd. Technologie helpt ons om taken makkelijker te maken. Alleen dit betekent niet dat de wereld om ons heen ook makkelijker te begrijpen is.
+De interactie met de wereld om ons heen en hoe wij deze begrijpen is de laatste decennia enorm veranderd. Technologie helpt ons om taken makkelijker te maken. Dit betekent echter niet dat de wereld om ons heen ook makkelijker te begrijpen is.
 
-Bij de Nederlandse School begrijpen we dat we in een veranderende wereld docenten hierin mee moeten nemen. Buiten de gebaande paden en kaders denken helpt het onderwijs te innoveren, te verniewen en helpt leerlingen voor te bereiden op de toekomst. Wij willen graag weten hoe de leiding van scholen nadenkt over de snel veranderende en technologie afhankelijke wereld.
+Buiten de gebaande paden en kaders denken helpt het onderwijs te innoveren, te verniewen en helpt leerlingen voor te bereiden op de toekomst. Bij de Nederlandse School begrijpen we dat we in een veranderende wereld docenten hierin mee moeten nemen. Wij willen graag weten hoe de leiding van scholen nadenkt over de snel veranderende en technologie afhankelijke wereld.
 
 * Is het belangrijk dat leerlingen interesses ontwikkelen voor technologie? Zo ja, zorgt de huidige lesstof hier voldoende voor?
 
