@@ -22,6 +22,6 @@ Hopelijk tot snel!
 Met vriendelijke groeten,
 
 Thomas de Beus
-content.supply
 
-06 837 93 937
+* content.supply
+* 06 837 93 937
