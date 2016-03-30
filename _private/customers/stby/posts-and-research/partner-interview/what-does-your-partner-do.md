@@ -26,6 +26,6 @@ The media technology Master environment is a place where students are encouraged
 
 ## What makes Marie good at what she does?
 
-"Analyzing human behavior really is a strong skill she has." From a user-research perspective she has a great personal talent for reassuring the people and giving them the freedom to open up. "When she's on the train, strangers tell their life stories to her very easily, really personal stuff". The ability to connect with people on a personal level is very important for service design in order to figure out what a user actually needs. This is what makes Marie such a great service designer, and the "organising and perfectionistic part" of course.
+"Analyzing human behavior really is a strong skill she has." From a user-research perspective she has a great personal talent for reassuring people and giving them the freedom to open up. "When she's on the train, strangers tell their life stories to her very easily, really personal stuff". The ability to connect with people on a personal level is very important for service design in order to figure out what a user actually needs. This is what makes Marie such a great service designer, and the "organising and perfectionistic part" of course.
 
 If you want to read more about Marie you can find her [personal profile here](http://www.stby.eu/2010/02/22/marie-de-vos/).
