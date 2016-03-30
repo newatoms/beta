@@ -12,7 +12,7 @@ Het interview zal telefonisch worden afgenomen en bedraagt ongeveer 20 minuten.
 
 **Mogelijke** vragen, maar pint u zich hier niet op vast:
 
-* Hoe zorgt de huidige lesstof ervoor dat leerlingen interesses ontwikkelen voor technologie, waar de huidige arbeidsmarkt zo naarstig naar op zoek is?
+* Hoe zorgt de huidige lesstof ervoor dat leerlingen interesses ontwikkelen voor technologie?
 
 * Hoe kan een school flexibel meebewegen met een veranderende wereld terwijl hij wel binnen de regels van het systeem moet blijven?
 
@@ -20,7 +20,7 @@ Het interview zal telefonisch worden afgenomen en bedraagt ongeveer 20 minuten.
 
 * De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programeren?
 
-Wij zouden het super leuk vinden om u hier over te interviewen. Laat u het weten als u geïnteresserd bent?  
+Wij zijn zeer geïnteresseerd naar uw mening omtrent technologie en het onderwijs. Wilt u het ons laten weten als deze interesse wederzijds is?
 
 Met vriendelijke groeten,
 
