@@ -6,7 +6,7 @@ Een groeiend aantal supermarkten wordt tegenwoordig gerund door een handje vol m
 
 De interactie met de wereld om ons heen en hoe wij deze begrijpen is de laatste decennia enorm veranderd. Technologie helpt ons om taken makkelijker te maken. Dit betekent echter niet dat de wereld om ons heen ook makkelijker te begrijpen is.
 
-Buiten de gebaande paden en kaders denken helpt het onderwijs te innoveren, te verniewen en helpt leerlingen voor te bereiden op de toekomst. Bij de Nederlandse School begrijpen we dat we in een veranderende wereld docenten hierin mee moeten nemen. Wij willen graag weten hoe de leiding van scholen nadenkt over de snel veranderende en technologie afhankelijke wereld.
+Buiten de gebaande paden en kaders denken helpt het onderwijs te innoveren, te vernieuwen en helpt leerlingen zich voor te bereiden op de toekomst. Bij de Nederlandse School begrijpen we dat we in een veranderende wereld docenten hierin mee moeten nemen. Wij willen graag weten hoe de leiding van scholen nadenkt over de snel veranderende en technologie afhankelijke wereld.
 
 * Is het belangrijk dat leerlingen interesses ontwikkelen voor technologie? Zo ja, zorgt de huidige lesstof hier voldoende voor?
 
