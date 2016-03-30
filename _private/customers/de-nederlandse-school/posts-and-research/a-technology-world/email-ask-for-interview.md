@@ -12,15 +12,17 @@ Het interview zal telefonisch worden afgenomen en bedraagt ongeveer 20 minuten.
 
 **Mogelijke** vragen, maar pint u zich hier niet op vast:
 
-* Is het belangrijk dat leerlingen interesses ontwikkelen voor technologie? Zorgt de huidige lesstof hier voldoende voor?
+* Is het belangrijk dat leerlingen interesses ontwikkelen voor technologie? Zo ja, zorgt de huidige lesstof hier voldoende voor?
 
 * Hoe kan een school flexibel meebewegen met een veranderende wereld terwijl hij wel binnen de regels van het systeem moet blijven?
 
-* Informatica lijkt zo goed als verdwenen op veel middelbare scholen. Hoe denkt directie van scholen hierover?
+* Waarom is informatica nooit een belangrijker vak geworden?
 
 * De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programeren?
 
 Wij zijn zeer geïnteresseerd naar uw mening omtrent technologie en het onderwijs. Wilt u het ons laten weten als deze interesse wederzijds is?
+
+Hopelijk tot snel!
 
 Met vriendelijke groeten,
 
