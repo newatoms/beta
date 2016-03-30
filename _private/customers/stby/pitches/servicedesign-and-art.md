@@ -1,18 +1,18 @@
-# To show that service design influences how one perceives art
+# How service design is used in the presentation of art
 
 ## Goal
 
-To explain what service design is and how it plays a roll in everything we do
+To highlight that every interaction we have with the outside work is influenced by service design (good or bad)
 
 ## Method
 
-We look at how service design is and can be used to influence the behavior and experience of art viewers in museums and art galleries.
-We will look at the influence the direct context in which the art is presented has on the viewer, and the ways a gallery or museum as a whole influences how we look at the presented art. We will not look at a specific art gallery, but do collect, combine existing theories on art presentations draw conclusions and connect those to service design.
+we look at how service design can be used to influence how people experience art in museums and art galleries.
+We will look at the effects of service design on both a micro, the color of the wall, as a macro level, the prestige of the museum. We will not look at a specific art gallery, but discuss existing theories on art presentation.
 
 
 ## Argument
 
-Art and the way the creator intended it to be viewed greatly influences the behavior of the viewer and has, in our opinion, a lot to do with service design. This article could shed some light on what service design in a completely different context than they would expect to read about service design.
+Service design in museums can have a profound effect on experiencing a piece of art. It can for example try to display the piece the way the artist intended it to be displayed, but it can also change it by adding sound, place it next to a very different piece of art or place it in a gallery which tells a story. This article will shed some light on what service design is by highlighting it's effects in an area where most people won't expect it.
 
 ## Benefit
 
