@@ -12,7 +12,7 @@ Bij de Nederlandse School begrijpen we dat we in een veranderende wereld docente
 
 * Hoe kan een school flexibel meebewegen met een veranderende wereld terwijl hij wel binnen de regels van het systeem moet blijven?
 
-* Waarom is informatica nooit een belangrijker vak geworden?
+* Waarom is informatica nooit een belangrijk vak geworden?
 
 * De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programmeren?
 
