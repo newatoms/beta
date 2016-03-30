@@ -8,7 +8,7 @@ De komende maanden schrijven wij voor de website van [de Nederlandse School](htt
 
 Wij willen graag laten zien hoe de directie van innovatieve scholen nadenkt over de snel veranderende technologische wereld in relatie tot het onderwijs. Een gesprek over hoe u nadenkt over de huidige lesstof en wat u zou willen veranderen als u het in Den Haag voor het zeggen had.
 
-Het interview zal telefonisch worden afgenomen en bedraagt ongv. 20 minuten.
+Het interview zal telefonisch worden afgenomen en bedraagt ongeveer 20 minuten.
 
 **Mogelijke** vragen, maar pint u zich hier niet op vast:
 
