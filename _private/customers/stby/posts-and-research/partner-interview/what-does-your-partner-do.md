@@ -8,7 +8,7 @@ For this article we interviewed Thijs de Boer about his girlfriend Marie de Vos,
 
 ## How do you explain to your friends in the pub what Marie does?
 
-When Thijs tries to explain to his friends what his girlfriend exactly does, he usually starts by telling them she is a researcher at STBY. "She's not a typical market-researcher, but she researches how services of companies are being used". Because it is difficult to understand what service design actually is, he usually tells his friends that she tries to figure out how services can be improved by investigating the behavior of the users.
+When Thijs tries to explain to his friends exactly what his girlfriend does, he usually starts by telling them she is a researcher at STBY. "She's not a typical market-researcher, but she researches how services of companies are being used". Because it is difficult to understand what service design actually is, he usually tells his friends that she tries to figure out how services can be improved by investigating the behavior of the users.
 
 Thijs tells his friends that "the research is not a boring report of sixty pages." but that the results are always presented visually in videos or infographics "something creative that will translate the research to their customers in an understandable product". There is not a set way to do service design, which makes it hard to pinpoint down what it is. "The projects they do are very different from one another, but always get solved by STBY in the same way; by creatively finding ways to improve services."
 
