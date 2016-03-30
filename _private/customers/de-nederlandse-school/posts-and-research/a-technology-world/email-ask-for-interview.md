@@ -12,7 +12,7 @@ Het interview zal telefonisch worden afgenomen en bedraagt ongeveer 20 minuten.
 
 **Mogelijke** vragen, maar pint u zich hier niet op vast:
 
-* Hoe zorgt de huidige lesstof ervoor dat leerlingen interesses ontwikkelen voor technologie?
+* Is het belangrijk dat leerlingen interesses ontwikkelen voor technologie? Zorgt de huidige lesstof hier voldoende voor?
 
 * Hoe kan een school flexibel meebewegen met een veranderende wereld terwijl hij wel binnen de regels van het systeem moet blijven?
 
