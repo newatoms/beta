@@ -2,7 +2,7 @@
 
 > Een oproep
 
-Een groeiend aantal supermarkten wordt tegenwoordig gerund door een handje vol mensen. De AlbertHeijn op het Weteringscircuit in Amsterdam is er zo één. De supermarkt wordt geëxploiteerd zonder lopende banden en zonder kassa-medewerkers zoals we die kennen. Op vier functies na zijn ze allemaal geautomatiseerd. Er is nog één iemand die verward kijkende mensen (en dat zijn er veel) bij het *zelfscannen* helpt, één balie-medewerker, een manager en nog een paar vakkenvullers.
+Een groeiend aantal supermarkten wordt tegenwoordig gerund door een handje vol mensen. De AlbertHeijn op het Weteringscircuit in Amsterdam is er zo één. De supermarkt wordt geëxploiteerd zonder lopende banden en zonder kassa-medewerkers zoals we die kennen. Slechts vier functies zijn niet geautomatiseerd. Er is nog één iemand die verward kijkende mensen (en dat zijn er veel) bij het *zelfscannen* helpt, één balie-medewerker, een manager en nog een paar vakkenvullers.
 
 De interactie met de wereld om ons heen en hoe wij deze begrijpen is de laatste decennia enorm veranderd. Technologie helpt ons om taken makkelijker te maken. Alleen dit betekent niet dat de wereld om ons heen ook makkelijker te begrijpen is.
 
