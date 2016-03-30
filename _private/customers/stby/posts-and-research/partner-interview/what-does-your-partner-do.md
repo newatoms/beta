@@ -14,7 +14,7 @@ When Thijs tries to explain to his friends exactly what his girlfriend does, he 
 
 Thijs tells his friends that "the research is not a boring report of sixty pages," but that the results are always presented visually in videos or infographics: "something creative that will translate the research to their customers in an understandable product." There is not a set way to do service design, which makes it hard to pinpoint what it is. "The projects they do are very different from one another, but always get solved by STBY in the same way: by creatively finding ways to improve services."
 
-## When did you first meet?
+## How did you first meet?
 
 Thijs en Marie met while both following a media technology Master in Leiden. They both came from very different backgrounds but followed the same classes. Marie had just recieved her psychology Bachelor and Thijs had studied multi-media and design.
 
