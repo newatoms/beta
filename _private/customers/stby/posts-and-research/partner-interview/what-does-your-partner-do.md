@@ -1,3 +1,5 @@
+![partner interview header image](partner-interview-header-image.jpeg)
+
 # Marie de Vos’ boyfriend explains what she does at STBY
 
 > An interview with the partner of one of our service designers.
