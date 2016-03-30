@@ -14,7 +14,7 @@ Het interview zal telefonisch worden afgenomen en bedraagt ongeveer 20 minuten.
 
 * Hoe zorgt de huidige lesstof ervoor dat leerlingen interesses ontwikkelen voor technologie, waar de huidige arbeidsmarkt zo naarstig naar op zoek is?
 
-* Hoe kan je als school flexibel meebewegen met een veranderende wereld terwijl je wel binnen de regels van het systeem moet blijven?
+* Hoe kan een school flexibel meebewegen met een veranderende wereld terwijl hij wel binnen de regels van het systeem moet blijven?
 
 * Informatica lijkt zo goed als verdwenen op veel middelbare scholen. Hoe denkt directie van scholen hierover?
 
