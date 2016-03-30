@@ -1,5 +1,3 @@
-![combined talents starter image](combined-resumes-starter-image.gif)
-
 # I am STBY.
 
 
