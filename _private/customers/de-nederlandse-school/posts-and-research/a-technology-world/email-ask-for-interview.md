@@ -4,7 +4,7 @@
 
 Beste ...
 
-De komende maanden schrijven wij voor de website van [de Nederlandse School](http://www.denederlandseschool.nl/) artikelen om inzichtelijk te maken voor anderen wat het programma van de Nederlandse School teweegbrengt, maar ook over andere onderwerpen die spelen in het onderwijs.
+De komende maanden schrijven wij artikelen voor de website van [de Nederlandse School](http://www.denederlandseschool.nl/). Deze artikelen laten zien wat het programma van de Nederlandse School teweegbrengt en bieden een podium voor de meningen en ervaringen van docenten en scholen.
 
 Wij willen graag laten zien hoe de directie van innovatieve scholen nadenkt over de snel veranderende technologische wereld in relatie tot het onderwijs. Hiervoor zouden we graag een gesprek met u hebben over hoe u nadenkt over de huidige lesstof en wat u zou willen veranderen als u het in Den Haag voor het zeggen had.
 
