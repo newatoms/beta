@@ -9,7 +9,7 @@ Over the past few decades I have, for the most part unknowingly, educated myself
 
 ## “My whole life I have been caught between two interests: human behavior and design.”
 
-![combined talents starter image](http://i.imgur.com/42UFEOt.png)
+![combined talents starter image](http://i.imgur.com/CSqEf4a.png)
 
 
 To feed these interests, I have done quite a variety of studies and worked in a lot of different places. To get a better understanding of the workings of the mind of an individual I have studied Psychology, and to place that knowledge into the context of society I have followed courses in Sociology and Cultural studies.
@@ -38,7 +38,7 @@ Even though I greatly enjoyed working at the advertising agency, I did not feel 
 
 ## “I am not a person nor am I a group.”
 
-![combined talents starter image](http://imgur.com/80mtCmu.png)
+![combined talents starter image](http://i.imgur.com/vqCHsIQ.png)
 
 My education and work experiences have enabled me to more fully understand the ways I can *use* my knowledge in order to produce effective service design. It has given me insight within the design process, and not solely in understanding the user. It has also enabled me to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
 
