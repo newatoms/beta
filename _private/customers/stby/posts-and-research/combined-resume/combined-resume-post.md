@@ -30,7 +30,7 @@ During this time I was also a Choreographer for the musical *Hair*, and I design
 
 ## “The first company I founded mainly focused on copy consultancy and user-research.”
 
-![combined talents starter image](http://i.imgur.com/DONH5gn.png)
+![combined talents starter image](http://www.catfeather.com/sitebuilder/images/long_splice_illustration.gif)
 
 I researched the use of products and service in an attempt to draw conclusions that could increase their effectiveness and make the users happier. I did this for Philips, KLM, KPN, Aids Fonds, Grolsch, and Rijkswaterstaat, among others. At some point, the company was bought by an advertising agency and I became their usability director. Here, I continued to do the same thing I had before, but the big difference was that the goal was much more commercial, making it much easier to measure the effects of products and services.
 
