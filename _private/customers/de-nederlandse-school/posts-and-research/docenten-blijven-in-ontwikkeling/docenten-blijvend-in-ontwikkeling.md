@@ -4,7 +4,7 @@ We leven in een tijd waar alles zo snel verandert, dat je je soms zou kunnen afv
 
 Docenten zijn degenen die in direct contact staan met hun leerlingen en als eerste zullen merken of de lesstof die zij geven aansluit bij het leven en behoeften van hun leerlingen. Hoe zorg je als docent dat je je lessen zodanig in kan richten dat ze relevant zijn voor de tijd waarin hun leerlingen leven, en tegelijkertijd nog steeds relevant zijn als ze je school verlaten?
 
-Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf te blijven ontwikkelen zodat je je leerlingen de kans kan geven op een positieve toekomst is nog veel complexer. Om hier meer over te leren zijn wij op zoek naar docenten die het belang van zelfontwikkeling met ons zouden willen delen, en inzicht kunnen geven in hoe ze dat zelf doen. We zijn benieuwd naar hun ervaringen, ideeeën en behoeftes. Het gaat hierbij om een kort telefonisch interview van ongeveer 20 minuten waar de volgende vragen aan bod zouden kunnen komen:
+Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf te blijven ontwikkelen zodat je je leerlingen de kans kan geven op een positieve toekomst is nog veel complexer. Wij zijn op zoek naar docenten die het belang van zelfontwikkeling met ons zouden willen delen, en inzicht kunnen geven in hoe ze dat zelf doen. We zijn benieuwd naar hun ervaringen, ideeeën en behoeftes. Het gaat hierbij om een kort telefonisch interview van ongeveer 20 minuten waar de volgende vragen aan bod zouden kunnen komen:
 
 * Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
 * Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
