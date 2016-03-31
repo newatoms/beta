@@ -23,5 +23,4 @@ Met vriendelijke groeten,
 
 Thomas de Beus
 
-* content.supply
 * 06 837 93 937
