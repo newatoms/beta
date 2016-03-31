@@ -2,11 +2,11 @@
 
 ## Goal
 
-Show that service design is everywhere
+To attract new readers --who are not necessarily familiar with service design-- a unique perspective on a heated discussion in today's society
 
 ## Method
 
-We write an article discussing both the reasoning and effects of police carrying full automatic weapons in Amsterdam since 26th of January 2016. The intention of the article will not be to disapprove of the arming of police officers, but to clearly give insights in the thought process behind it and the effects that it has.
+we write an article discussing both the reasoning and effects of police carrying full automatic weapons in Amsterdam since 26th of January 2016. The intention of the article will not be to disapprove of the arming of police officers, but to clearly give insights in the thought process behind it and the effects that it has.
 
 ## Argument
 
