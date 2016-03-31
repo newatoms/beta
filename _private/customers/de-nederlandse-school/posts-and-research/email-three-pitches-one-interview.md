@@ -2,7 +2,7 @@
 
 Beste...
 
-De komende maanden schrijven wij (content.supply) artikelen voor het blog van [de Nederlandse School](http://www.denederlandseschool.nl/). Deze artikelen hebben als doel:
+De komende maanden schrijven wij artikelen voor het blog van [de Nederlandse School](http://www.denederlandseschool.nl/). Deze artikelen hebben als doel:
 
 * Een podium bieden voor de meningen en ervaringen van docenten en scholen.
 * Laten zien wat het programma van de Nederlandse School inhoudt en teweegbrengt.
