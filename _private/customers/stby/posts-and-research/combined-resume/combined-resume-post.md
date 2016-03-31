@@ -1,4 +1,4 @@
-![combined talents starter image](http://imgur.com/F0DmPx5)
+![combined talents starter image](http://i.imgur.com/F0DmPx5.png)
 
 # I am STBY.
 
