@@ -1,7 +1,6 @@
-![combined talents starter image](http://i.imgur.com/F0DmPx5.png)
-
 # I am STBY.
 
+![combined talents starter image](http://i.imgur.com/F0DmPx5.png)
 
 A little while back I became the research partner of the *What Design Can Do* Challenge. In the last edition of the challenge we worked to create briefs that inspire and empower designers to come up with ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnect between the creator and the user. This can be between government and the refugees that try to find a safe haven, between the education system and its students, or a car manufacturer and a driver.
 
@@ -9,6 +8,8 @@ A little while back I became the research partner of the *What Design Can Do* Ch
 
 
 ## “My whole life I have been caught between two interests: human behavior and design.”
+
+![combined talents starter image](http://i.imgur.com/DONH5gn.png)
 
 To feed these interests, I have done quite a variety of studies and worked in a lot of different places. To get a better understanding of the workings of the mind of an individual I have studied Psychology, and to place that knowledge into the context of society I have followed courses in Sociology and Cultural studies.
 
