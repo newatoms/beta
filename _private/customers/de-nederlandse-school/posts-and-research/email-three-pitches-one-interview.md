@@ -9,7 +9,7 @@ De komende maanden schrijven wij (content.supply) artikelen voor het blog van [d
 
 De eerste artikelen gaan over:
 
-* **Inspirerende innovaties van docenten**: we willen laten zien dat deelnemende docenten een drijvende kracht zijn achter innovatie in het onderwijs en hiermee anderen inspireren.
+* **Inspirerende innovaties van docenten**: we willen laten zien dat deelnemende docenten een drijvende kracht zijn achter innovatie in het onderwijs, en door dit te laten zien willen we anderen docenten inspireren.
 * **Docenten blijven in ontwikkeling**: we willen laten zien dat docenten zich blijven ontwikkelen buiten schooltijd. Waar halen docenten hun inspiratie vandaan om een betere docent te worden.
 * **Waarin kan de Nederlandse School zich verbeteren**: inzicht creëren in wat er beter kan, in plaats van focussen op wat er al goed is (**mag anoniem**).
 
