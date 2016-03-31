@@ -1,6 +1,8 @@
 # Wat kan de Nederlandse School beter doen?
 
-Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om docenten en scholen te inspireren en te stimuleren om te innoveren in het onderwijs. We zoeken daarvoor naar inspiratie uit allerlei verschillende hoeken om een frisse blik te kunnen bieden aan docenten om ze zo anders naar hun omgeving te laten kijken. Het idee is dat je hierdoor problemen en oplossingen ziet die je voorheen niet zag omdat je er te dicht op zat. De laatste tijd realizeren we ons dat ook wij misschien wel te dicht op onze eigen stof zitten om in te kunnen zien wat er beter kan. Om ons verder te kunnen blijven ontwikkelen zouden we graag van jullie willen weten hoe jullie ons hebben ervaren en wat er beter kan. We willen graag praten over dat wat ons tegen werkt om jullie te inspireren.
+Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om docenten en scholen te inspireren en te stimuleren om te innoveren in het onderwijs. We zoeken daarvoor naar inspiratie uit allerlei verschillende hoeken om een frisse blik te kunnen bieden aan docenten, om ze zo anders naar hun omgeving te laten kijken. Het idee is dat je hierdoor problemen en oplossingen ziet die je voorheen niet zag omdat je er te dicht op zat.
+
+De laatste tijd realizeren we ons dat ook wij misschien wel te dicht op onze eigen stof zitten om in te kunnen zien wat er beter kan. Om ons verder te kunnen blijven ontwikkelen zouden we graag willen weten hoe jullie ons hebben ervaren en wat er beter kan. Wat werkt ons tegen om jullie te inspireren?
 
 Om ons zelf verder te kunnen blijven ontwikkelen zouden we graag met jullie in gesprek gaan. Dit zouden we het liefst in een kort telefonisch interview van ongeveer 20 minuten doen, maar feedback per mail is ook van harte welkom. Het lijkt ons interessant om onder andere de volgende vragen te bespreken.
 
@@ -14,6 +16,7 @@ Om ons zelf verder te kunnen blijven ontwikkelen zouden we graag met jullie in g
 * Hoe vind je de presentatie van de workshops
 * Blijft de stof hangen of zou opvolging op de workshops helpen.
 * Is er iets wat je dwars zit m.b.t de Nederlandse School?
+
 
 <!-- > PITCH
 ## Wat kan de Nederlandse School beter doen?
