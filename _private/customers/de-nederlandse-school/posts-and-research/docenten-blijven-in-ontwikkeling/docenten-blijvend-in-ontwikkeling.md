@@ -14,6 +14,6 @@ Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf 
 * Hoe vaak heb je het over lesgeven met mensen buiten het onderwijs (partner, familie etc.)?
 * Hoe denken zij hierover, en hoe schaart dat met je eigen opvattingen?
 * Hoe kijkt de school waar je lesgeeft hier tegenaan, heb je daar wel eens discussies over?
-* Kunnen je leerlingen invloed met op hun leven uitoefenen met de lesstof die je ze geeft, hebben jullie het daar wel eens over?
+* Kunnen je leerlingen invloed op hun leven uitoefenen met de lesstof die je ze geeft, hebben jullie het daar wel eens over?
 * In hoeverre heb je inzicht in het leven van de studenten, en heeft dat invloed op hoe je les geeft?
 * Ga je wel eens naar workshops buiten de Nederlands School?
