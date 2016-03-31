@@ -6,7 +6,7 @@ Docenten zijn degenen die in direct contact staan met hun leerlingen en als eers
 
 Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf te blijven ontwikkelen zodat je je leerlingen de kans kan geven op een positieve toekomst is nog veel complexer. Om hier meer over te leren zijn wij op zoek naar docenten die het belang van zelfontwikkeling met ons zouden willen delen, en inzicht kunnen geven in hoe ze dat zelf doen. We zijn benieuwd naar hun ervaringen, ideeeën en behoeftes. Het gaat hierbij om een kort telefonisch interview van ongeveer 20 minuten waar de volgende vragen aan bod zouden kunnen komen:
 
-* Hoe heeft jouw opleiding je voorbereid op de lessen die je nu geeft
+* Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
 * Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
 * Waar haal je je kennis en inspiratie vandaan om te weten waar je leerlingen behoefte aan hebben?
 * Waarom is het belangrijk om je skills te verbeteren?
