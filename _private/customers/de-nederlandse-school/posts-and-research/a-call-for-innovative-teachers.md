@@ -1,4 +1,4 @@
-# Innovatie in de klas
+# Misdrijven oplossen in de klas
 
 Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij onszelf afgevraagd in hoeverre deze docenten vanuit eigen goeddunken handelden en of zij zich er van bewust zijn geweest hoe belangrijk ze waren in ons leven.  
 
