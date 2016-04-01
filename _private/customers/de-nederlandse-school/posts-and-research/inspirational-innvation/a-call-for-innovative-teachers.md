@@ -12,7 +12,14 @@ Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Z
 
 "Een onderdeel dat wij zelf bedacht hebben is dat we een nieuw vak gaan introduceren. Dat vak willen we waarschijnlijk *Grote vragen* noemen. Daarin gaan maatschappijleer en CKV sowieso samen en daar willen we andere vakken bij aan laten sluiten. Op het Rietveld Lyceum is daar alle ruimte voor om deze experimenten daadwerkelijk te gaan starten."   
 
-We zouden willen weten hoe ze hun ideeën en inzichten testen voor de klas, hoe ze erachter komen wat de gevolgen zijn en hoe ze besluiten wat de volgende stappen zijn.
+Bij "Grote vragen" proberen Ellis en haar collega's de lesstof van meerdere vakken samen te voegen om zo leuker en efficienter les te kunnen geven. Door vakken te combineren en toe te passen op relevante en actuele vragen creeer je een context voor de leerlingen waarin dat wat ze leren direct toepasbaar en relevant is.
+
+Ellis is docente Maatschappijleer geworden om dat de manier van lesgeven haar erg aansprak. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebasseerd is.”
+Voor veel leerlingen is het lastig om de relevantie van de lessen die ze krijgen in te zien als het geen directe betrekking tot hun leven heeft. “Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Daarom probeert Ellis haar lesstof direct op haar leerlingen te betrekken “Mijn lessen gaan ook heel erg over wat voor vragen leerlingen zelf hebben.”
+
+Met "Grote vragen" proberen Ellis en haar collegas op de zelfde manier de lesstof tastbaarderte maken voor hun leerlingen door ze op pad te sturen om met de lessen die ze geleerd hebben grote vragen op te lossen.
+
+De eerste opdracht was het oplossen van een fictieve misdrijf. De leerlingen kregen de opdracht om op pad te gaan en op zoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo een spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collegas de leerlingen te enthousiastmeren en het belang van de lessen in te laten zien. 
 
 ## Leren hoe de maatschapij werkt door een 'misdrijf' op te lossen
 
