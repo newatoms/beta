@@ -1,6 +1,8 @@
 # Wat kan de Nederlandse School beter doen?
 
-Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om docenten en scholen te inspireren en te stimuleren om te innoveren in het onderwijs. We zoeken daarvoor naar inspiratie uit allerlei verschillende hoeken om een frisse blik te kunnen bieden aan docenten, om ze zo anders naar hun omgeving te laten kijken. Het idee is dat je hierdoor problemen en oplossingen ziet die je voorheen niet zag omdat je er te dicht op zat.
+Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om docenten en scholen te inspireren en te stimuleren om te innoveren in het onderwijs. We zoeken daarvoor naar inspiratie uit allerlei verschillende hoeken om een frisse blik te kunnen bieden aan docenten en ze zo anders naar hun omgeving te laten kijken. 
+
+Maar ook wij hebben soms een vrisse blik nodig.
 
 Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen wilen wij een blogpost schrijven waarin we jullie feedback over de workshops - en de Nederlandse School in het algemeen - verwerken. Hier voor zouden we graag willen weten hoe jullie - de deelnemers van de workshops - ons hebben ervaren, wat er beter kan en of er dingen zijn die ons tegen werken om jullie te inspireren.
 
