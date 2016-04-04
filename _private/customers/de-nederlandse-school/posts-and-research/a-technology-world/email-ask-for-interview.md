@@ -18,7 +18,7 @@ Wij zijn zeer geïnteresseerd naar uw mening omtrent technologie in het onderwij
 
 * Waarom is informatica nooit een belangrijker vak geworden?
 
-* De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programeren?
+* De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programmeren?
 
 Als u geïnteresseerd bent kunt u contact met ons opnemen.
 
