@@ -22,11 +22,12 @@ Hieronder een aantal linkjes naar websites die hier over gaan.
 
 * Groene hart school laat hun leerlingen misdaden via een [app](http://www.groenehartscholen.nl/rijnwoude/2014/11/06/historische-misdaden-oplossen-met-ipad-3/) oplossen
 * [Een vergelijkbaar moordspel voor particulieren](http://socialmediadna.nl/digitaal-moordspel-crime-scene/)
+* Met deze [app](http://www.mediawijzer.net/historische-misdaden-oplossen-met-een-smartphone/) kan je proberen historishe misdaden op te lossen.
 
 De politie heeft zelf een spelletje ontworpen dat burgers in staad steld actief bij te dragen aan het oplossen van lopende zaken.
 
 
-,,Je moet je voorstellen dat we in zo’n spel elementen aanbrengen die te maken hebben met lopende onderzoeken in de realiteit. Dat kan op diverse manieren. De spelers van het spel krijgen scenario’s voorgeschoteld en moeten daar conclusies uit trekken. Of zelf scenario’s ontwikkelen op basis van omstandigheden op een plaats delict. Achterhalen waar de jutezak vandaan komt waarin delen van een lichaam zijn aangetroffen. Of wat de meest waarschijnlijke route is geweest van een dader van A naar B. Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers. Het kan ons aan inzichten en informatie helpen, waar we anders van verstoken waren gebleven. Het hoeft trouwens niet alleen te gaan om het zoeken naar daders. Je kunt spelers ook mee laten denken over alternatieve scenario’s voor bijvoorbeeld de aanpak van drugszaken.”
+,,Je moet je voorstellen dat we in zo’n spel elementen aanbrengen die te maken hebben met lopende onderzoeken in de realiteit. Dat kan op diverse manieren. De spelers van het spel krijgen scenario’s voorgeschoteld en moeten daar conclusies uit trekken. Of zelf scenario’s ontwikkelen op basis van omstandigheden op een plaats delict. Achterhalen waar de jutezak vandaan komt waarin delen van een lichaam zijn aangetroffen. Of wat de meest waarschijnlijke route is geweest van een dader van A naar B. **Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.** Het kan ons aan inzichten en informatie helpen, waar we anders van verstoken waren gebleven. Het hoeft trouwens niet alleen te gaan om het zoeken naar daders. Je kunt spelers ook mee laten denken over alternatieve scenario’s voor bijvoorbeeld de aanpak van drugszaken.”
 
 Lees het volledig artikel [hier](http://socialmediadna.nl/recherche-game/
 )
