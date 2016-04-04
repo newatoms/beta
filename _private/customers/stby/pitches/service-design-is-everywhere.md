@@ -15,4 +15,8 @@ That we are often unaware of the thoughtful design behind our everyday existence
 
 ## Outcome
 
-Show how good the organisation is Show how good the product/service is Create new audience Improve perception of the organisation Show the organisation's impact on the future
+* Show how good the organisation is 
+* Show how good the product/service is 
+* Create new audience 
+* Improve perception of the organisation 
+* Show the organisation's impact on the future
