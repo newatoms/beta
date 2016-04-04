@@ -2,11 +2,11 @@
 
 ## Goal
 
-To show the competence and understanding of STBY towards user behaviour.
+To show the competence and understanding of STBY towards user behaviour and show an example of this competence.
 
 ## Action
 
-To show that STBY understands the behaviour of users and what influences their behaviour, we will write an article using the emotional and psychological effects of color and how it can influence our actions as an example, citing specific instances from STBY's past projects.
+We will write an article using the emotional and psychological effects of color and how it can influence our actions as an example, citing specific instances from STBY's past projects.
 
 ## What we need from you
 
