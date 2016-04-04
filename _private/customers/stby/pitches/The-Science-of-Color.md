@@ -14,7 +14,8 @@ Possibly some salient examples, questions answered and insights offered via e-ma
 
 ## Pitch is based on these assumptions
 
-That readers would be interested in things that subconsciously affect out behaviour and how STBY uses them to improve service
+* That readers would be interested in things that subconsciously affect out behaviour
+* That STBY actually does use these things to improve service
 
 ## Outcome
 * Show how good the organisation is
