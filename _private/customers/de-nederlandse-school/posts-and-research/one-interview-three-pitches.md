@@ -9,13 +9,13 @@ Zie de pitches in de ['In Production'](https://interface-ready.firebaseapp.com/p
 
 ## Docenten die zich hebben aangemeld voor een interviewden
 
-**Gerdien Ort**
+**Gerdien Ort** Docent Nederlands
 
 * 06-24744114 of 0343-531145
 * Geeft aan dat je haar altijd kan bellen, als ze niet opneemt dan geeft ze les*
 * Profiel pagina: http://www.denederlandseschool.nl/people/gerdien-ort/
 
-**Elise Bouwman** Docent Nederlands
+**Elise Bouwman** Docent Frans
 
 * 071-5220548
 * *Geeft aan woensdag(niet aanstaande)- en donderdagavond na 20:00 uur beschikbaar te zijn.*
@@ -29,7 +29,7 @@ Zie de pitches in de ['In Production'](https://interface-ready.firebaseapp.com/p
 
 ### Docenten blijven in ontwikkeling
 
-1. Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
+1. Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft?
 * Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
 * Waar haal je je kennis en inspiratie vandaan om te weten waar je leerlingen behoefte aan hebben?
 * Waarom is het belangrijk om je skills te verbeteren?
@@ -43,7 +43,7 @@ Zie de pitches in de ['In Production'](https://interface-ready.firebaseapp.com/p
 
 ### Inspirerende innovaties van deelnemers
 
-* Wat vinden je het allerbelangrijkste in het onderwijs
+1. Wat vinden je het allerbelangrijkste in het onderwijs
 * Voldoet het huidige onderwijssysteem aan je verlangens?
 * Praat je hier ook over met je leerlingen?
 * Test je wel eens een nieuwe manier van lesgeve op de klas?
@@ -54,3 +54,19 @@ Zie de pitches in de ['In Production'](https://interface-ready.firebaseapp.com/p
 * Hoe gaan mededocenten om met hun ondernemingen en hoe staat hun school tegenover hun visie?
 * Moeten je anderen (bijvorbeeld schoolleiding) overtuigen van je idealen of hebben jullie allemaal het zelfde doel?
 * Geeft jouw school veel ruimte voor het experimenteren van lesmethodes?
+
+## Wat kan de Nederlandse School beter doen?
+
+Omdat de Nederlandse School wil blijven ontwikkelen en anderen aan wil moedigen ons hierbij te helpen wilen wij een blogpost schrijven waarin we jullie feedback over de workshops –en de Nederlandse School in het algemeen– verwerken. Hier voor zouden we graag willen weten hoe jullie ons hebben ervaren, wat er beter kan en of er dingen zijn die ons tegenwerken om jullie te inspireren.
+
+1. Naar hoeveel workshops ben je geweest?
+* Waren ze allemaal hetzelfde in kwaliteit?
+* Was er één minder goed dan anderen en hoe kwam dat?
+* Hoe is de sfeer tijdens de workshops, en hoe zou deze nog beter kunnen worden?
+* Voldoen de workshops aan je verwachtingen?
+* Hoe zouden we duidelijkere verwachtingen kunnen scheppen?
+* Vind je het geloofwaardig wat we vertellen
+* Hoe vind je de presentatie van de workshops
+* Blijft de stof hangen of zou opvolging op de workshops helpen.
+* Is er iets wat je dwars zit m.b.t de Nederlandse School?
+* als er één ding zou zijn wat je zou willen verbeteren, wat zou dat dan zijn?
