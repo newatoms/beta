@@ -6,7 +6,7 @@ To know what the driving force behind STBY is and how it became as good as it is
 
 ## Action
 
-We show where Bas and Geke worked and did before starting stby, what we think they learned from their previous experiences, and how their personal relationship, combined experiences and personalities make them unique.  
+We show where Bas and Geke worked and what they did before starting stby, what we think they learned from their previous experiences, and how their personal relationship, combined experiences and personalities make them unique.  
 
 ## Things we could talk about
 
