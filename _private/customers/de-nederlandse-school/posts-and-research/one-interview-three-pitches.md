@@ -3,7 +3,7 @@
 In dit interview proberen we de mening te geven over drie onderwerpen.
 Zie de pitches in de ['In Production'](https://interface-ready.firebaseapp.com/product:-KBmpFP_krBpZZbQKc8M/productionStage:production) phase.
 
-* Inspirerende innovaties van deelnemers (Ookal hebben we hier al een interview over, het artikel wordt sterker met meerdere docenten. Ook kan het zelfs een serie worden)
+* Inspirerende innovaties van deelnemers (Ookal hebben we hier al een interview over, het artikel wordt sterker met meerdere docenten. Ook kan het zelfs een serie worden van meerdere posts)
 * Docenten blijven in ontwikkeling
 * Wat kan de Nederlandse School beter doen?
 
@@ -43,17 +43,19 @@ Zie de pitches in de ['In Production'](https://interface-ready.firebaseapp.com/p
 
 ### Inspirerende innovaties van deelnemers
 
-1. Wat vinden je het allerbelangrijkste in het onderwijs
+1. Wat vinden je het allerbelangrijkste in het onderwijs?
 * Voldoet het huidige onderwijssysteem aan je verlangens?
 * Praat je hier ook over met je leerlingen?
-* Test je wel eens een nieuwe manier van lesgeve op de klas?
+* Test je wel eens een nieuwe manier van lesgeven op de klas?
 * Hoe test je ideeën of pilots op de klas?
 * Hoe kom je erachter wat de gevolgen zijn en hoe besluit je wat de volgende stappen zijn?
 * Wat waren de reacties van de leerlingen?
-* Hebben je het idee dat de leerlingen jouw methodes waarderen?
-* Hoe gaan mededocenten om met hun ondernemingen en hoe staat hun school tegenover hun visie?
+* Heb je het idee dat de leerlingen jouw methodes waarderen?
+* Wat voor ideeën die in eerste instantie goed leken zijn in jouw ogen mislukt?
+* Hoe gaan mededocenten om met je ondernemingen en hoe staat hun school tegenover hun visie?
 * Moeten je anderen (bijvorbeeld schoolleiding) overtuigen van je idealen of hebben jullie allemaal het zelfde doel?
 * Geeft jouw school veel ruimte voor het experimenteren van lesmethodes?
+
 
 ## Wat kan de Nederlandse School beter doen?
 
