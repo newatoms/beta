@@ -11,8 +11,21 @@ Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Z
 > "We willen dit nieuwe vak waarschijnlijk **Grote vragen** noemen"
 
 Bij de Nederlandse School is het de bedoeling dat je een opdracht krijgt die je gaat uitvoeren binnen je eigen school. Ellis doet samen met de natuurkunde en CKV docenten opdrachten. Een onderdeel die zij zelf bedacht hebben is dat ze een nieuw vak gaan introduceren; *Grote vragen* (de naam is nog niet zeker). Daarin gaan ze maatschappijleer en CKV samenvoegen en willen ze andere vakken bij-aan laten sluiten. En daar zitten hun drie vakgebieden in (natuurkunde, CKV en maatschappijleer). En de school van Ellis is daar alle ruimte voor om dat te gaan starten.   
-
 Nu zijn ze met een Pilot bezig. “Ik heb de leerlingen op pad gestuurd“ Ieder groepje had een misdrijf die zij moesten oplossen, leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. “Kinderen belden uiteindelijk heel stoer op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politieagent.”
+
+## Het oplossen van een misdaad
+
+De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een onbekend idee. Er zijn verschillende apps die door particulieren en scholen worden gebruikt om leerlingen virtuele misdaden op te laten lossen.
+
+Hieronder een aantal linkjes naar websites die hier over gaan.
+
+* Groene hart school laat hun leerlingen misdaden via een [app](http://www.groenehartscholen.nl/rijnwoude/2014/11/06/historische-misdaden-oplossen-met-ipad-3/) oplossen
+* [Een vergelijkbaar moordspel voor particulieren](http://socialmediadna.nl/digitaal-moordspel-crime-scene/)
+* Met deze [app](http://www.mediawijzer.net/historische-misdaden-oplossen-met-een-smartphone/) kan je proberen historishe misdaden op te lossen.
+
+De politie heeft zelf een spelletje ontworpen dat burgers in staat stelt actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.” - Elma Bos in [de Stentor](http://socialmediadna.nl/recherche-game/)
+
+Het oplossen van een misdaad is in feite een grote puzzel, door leerlingen hier aan te laten werken stimuleer je hen actief buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn. Daarnaast is natuurlijk de spanning en opwinding van het oplossen van een misdaad een grote bron van inspiratie en motivatie voor de leerlingen.
 
 > "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
 
