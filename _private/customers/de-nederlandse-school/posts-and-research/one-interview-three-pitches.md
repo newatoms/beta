@@ -7,7 +7,7 @@ Zie de pitches in de ['In Production'](https://interface-ready.firebaseapp.com/p
 * Docenten blijven in ontwikkeling
 * Wat kan de Nederlandse School beter doen?
 
-## Docenten die zich hebben aangemeld voor een interviewden
+## Docenten die zich hebben aangemeld voor een interview
 
 **Gerdien Ort** Docent Nederlands
 
