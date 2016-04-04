@@ -31,6 +31,12 @@ Het oplossen van een misdaad is in feite een grote puzzel, door leerlingen hier 
 
 Alhoewel Ellis de pilot nog uitgebreid wilt gaan evalueren was het nu al een zeer waardevolle ervaring. "Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken."
 
-Ook heeft Ellis gemerkt hoe belangrijk het is dat je veel structuur in de lesstof bijbrengt. “Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden was het niet voor iedereen duidelijk dat er ook gemonteerd had moeten worden.”
+Door het enthousiasme van de leerlingen was niet alles altijd even duidelijk, ze hadden er bijvoorbeeld niet bij stilgestaan dat alle losse interviews ook gemonteerd moesten worden tot een logisch geheel.
 
-Volgens Ellis zijn deze evaluaties belangrijk om vervolgens te bepalen of ze van de pilot een terugkerend onderdeel zal maken.
+Hierdoor heeft Ellis wel meteen gemerkt hoe belangrijk het is dat je veel structuur in de lesstof aanbrengt. “Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden was het niet voor iedereen duidelijk dat er ook gemonteerd had moeten worden.”
+
+Door de leerlingen de opdracht te geven om de interviews te filmen en te monteren ontstaat er veel ruimte voor zelfreflectie, en wordt het belang van voorruitplannen extra duidelijk. Pas op het moment dat de verschillende elementen samenkomen zie je wat er ontbreekt, en leer je waar je de volgend keer op zou kunnen letten. Dit geldt natuurlijk niet alleen voor film.
+
+Daarnaast krijgen ze door het interviewen, filmen en monteren inzicht in de werking van media. Zo zouden ze bijvoorbeeld kunnen ontdekken dat de volgorde waarin je geïnterviewden aan het woord laat zeer bepalend is voor de boodschap die het filmpje overbrengt.
+
+De realisatie dat film geen directe weergave is van de realiteit en door de maker wordt gevormd, is van fundamenteel belang om "als –jonge– burger te kunnen deelnemen aan de van media doordrenkte maatschappij" - Raad voor Cultuur, 2005.
