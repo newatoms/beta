@@ -6,7 +6,7 @@ To gain a personal insight into the driving forces behind STBY – it's originat
 
 ## Action
 
-We show where Bas and Geke worked and what they did before starting STBY, what we think they learned from their previous experiences, and how their personal relationship, combined experiences and personalities make them unique.  
+We write a blog post about Bas and Geke that mirrors STBY's commitment to it's participant's stories by telling their own narrative. We show where Bas and Geke worked and what they did before starting STBY, what we think they learned from their previous experiences, and how their personal relationship, combined experiences and personalities make them unique and equipped to do what they do.  
 
 ## Things we could talk about
 
