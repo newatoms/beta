@@ -15,7 +15,7 @@ Nu zijn ze met een Pilot bezig. “Ik heb de leerlingen op pad gestuurd“ Ieder
 
 ## Het oplossen van een misdaad
 
-De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een onbekend idee. Er zijn verschillende applicaties die door particulieren en scholen worden gebruikt om leerlingen virtuele misdaden op te laten lossen.
+De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een onbekend idee. Er zijn verschillende apps die door particulieren en scholen worden gebruikt om leerlingen virtuele misdaden op te laten lossen.
 
 Hieronder een aantal linkjes naar websites die hier over gaan.
 
@@ -25,7 +25,7 @@ Hieronder een aantal linkjes naar websites die hier over gaan.
 
 De politie heeft zelf een spelletje ontworpen dat burgers in staat stelt actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.” - Elma Bos in [de Stentor](http://socialmediadna.nl/recherche-game/)
 
-Het oplossen van een misdaad is in feite een grote puzzel, door leerlingen hier aan te laten werken stimuleer je ze actief om buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn. Daarnaast is natuurlijk de spanning en opwinding van het oplossen van een misdaad een grote bron van inspiratie en motivatie voor de leerlingen.
+Het oplossen van een misdaad is in feite een grote puzzel, door leerlingen hier aan te laten werken stimuleer je hen actief buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn. Daarnaast is natuurlijk de spanning en opwinding van het oplossen van een misdaad een grote bron van inspiratie en motivatie voor de leerlingen.
 
 > "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
 
