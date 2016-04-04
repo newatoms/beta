@@ -1,4 +1,4 @@
-# What is it about Bas and Geke that made STBY so good.
+# What it is about Bas and Geke that made STBY so good.
 
 ## Goal
 
