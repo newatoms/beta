@@ -18,7 +18,7 @@ Zie de pitches in de ['In Production'](https://interface-ready.firebaseapp.com/p
 **Elise Bouwman** Docent Frans
 
 * 071-5220548
-* *Geeft aan woensdag(niet aanstaande)- en donderdagavond na 20:00 uur beschikbaar te zijn.*
+* Geeft aan woensdag(niet aanstaande)- en donderdagavond na 20:00 uur beschikbaar te zijn.
 * Profiel pagina: http://www.denederlandseschool.nl/people/elise-bouman/
 
 ## Het interview
