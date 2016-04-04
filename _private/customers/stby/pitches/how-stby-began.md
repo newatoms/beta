@@ -2,7 +2,7 @@
 
 ## Goal
 
-To know what the driving force behind STBY is and how it became as good as it is now
+To gain a personal insight into the driving forces behind STBY – it's originators, Bas and Geke – and how their experiences have made STBY as good as it is now
 
 ## Action
 
