@@ -25,13 +25,9 @@ Hieronder een aantal linkjes naar websites die hier over gaan.
 
 De politie heeft zelf een spelletje ontworpen dat burgers in staat stelt actief bij te dragen aan het oplossen van lopende zaken.
 
-,,Je moet je voorstellen dat we in zo’n spel elementen aanbrengen die te maken hebben met lopende onderzoeken in de realiteit. Dat kan op diverse manieren. De spelers van het spel krijgen scenario’s voorgeschoteld en moeten daar conclusies uit trekken. Of zelf scenario’s ontwikkelen op basis van omstandigheden op een plaats delict. Achterhalen waar de jutezak vandaan komt waarin delen van een lichaam zijn aangetroffen. Of wat de meest waarschijnlijke route is geweest van een dader van A naar B. **Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.** Het kan ons aan inzichten en informatie helpen, waar we anders van verstoken waren gebleven. Het hoeft trouwens niet alleen te gaan om het zoeken naar daders. Je kunt spelers ook mee laten denken over alternatieve scenario’s voor bijvoorbeeld de aanpak van drugszaken.” - Elma Bos , divisiechef recherche van de politie Noord-Oost Gelderland, in [de Stentor](http://socialmediadna.nl/recherche-game/)  vrijdag 12 november 2010.
+“**Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.** ” - Elma Bos , divisiechef recherche van de politie Noord-Oost Gelderland, in [de Stentor](http://socialmediadna.nl/recherche-game/)  vrijdag 12 november 2010.
 
 Het oplossen van een misdaad is in feite een grote puzzel, door leerlingen hier aan te laten werken stimuleer je ze actief om buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn. Daarnaast is natuurlijk de spanning en opwinding van het oplossen van een misdaad een grote bron van inspiratie en motivatie voor de leerlingen.
-
-
-
-
 
 > "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
 
