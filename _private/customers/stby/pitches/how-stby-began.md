@@ -2,7 +2,7 @@
 
 ## Goal
 
-To know what is the driving force behind stby and how it became as good as it is now
+To know what the driving force behind STBY is and how it became as good as it is now
 
 ## Action
 
