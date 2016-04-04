@@ -52,6 +52,7 @@ De realisatie dat film geen directe weergave is van de realiteit en door de make
 Alhoewel Ellis de pilot nog uitgebreid wilt gaan evalueren was het nu al een zeer waardevolle ervaring. "Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken."
 
 > "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
+
 Door het enthousiasme van de leerlingen was niet alles altijd even duidelijk. “Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden was het niet voor iedereen duidelijk dat er ook gemonteerd had moeten worden.”
 
 Hierdoor heeft Ellis wel meteen gemerkt hoe belangrijk het is dat je veel structuur in de lesstof aanbrengt.
