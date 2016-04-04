@@ -2,7 +2,7 @@
 
 ## Goal
 
-To attract new readers --who are not necessarily familiar with service design-- a unique perspective on a heated discussion in today's society
+To attract new readers --who are not necessarily familiar with service design-- we offer a unique perspective on a heated discussion in today's society
 
 ## Method
 
