@@ -23,9 +23,7 @@ Hieronder een aantal linkjes naar websites die hier over gaan.
 * [Een vergelijkbaar moordspel voor particulieren](http://socialmediadna.nl/digitaal-moordspel-crime-scene/)
 * Met deze [app](http://www.mediawijzer.net/historische-misdaden-oplossen-met-een-smartphone/) kan je proberen historishe misdaden op te lossen.
 
-De politie heeft zelf een spelletje ontworpen dat burgers in staat stelt actief bij te dragen aan het oplossen van lopende zaken.
-
-“**Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.** ” - Elma Bos , divisiechef recherche van de politie Noord-Oost Gelderland, in [de Stentor](http://socialmediadna.nl/recherche-game/)  vrijdag 12 november 2010.
+De politie heeft zelf een spelletje ontworpen dat burgers in staat stelt actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.” - Elma Bos in [de Stentor](http://socialmediadna.nl/recherche-game/)
 
 Het oplossen van een misdaad is in feite een grote puzzel, door leerlingen hier aan te laten werken stimuleer je ze actief om buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn. Daarnaast is natuurlijk de spanning en opwinding van het oplossen van een misdaad een grote bron van inspiratie en motivatie voor de leerlingen.
 
