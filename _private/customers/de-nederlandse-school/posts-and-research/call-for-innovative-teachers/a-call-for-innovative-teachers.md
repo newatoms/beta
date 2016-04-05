@@ -27,17 +27,17 @@ De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een o
 
 Zo laat de Groene hart school hun leerlingen misdaden via een [app](http://www.groenehartscholen.nl/rijnwoude/2014/11/06/historische-misdaden-oplossen-met-ipad-3/) oplossen. "Leerlingen zijn op deze manier bezig met digital storytelling, waarbij ze hun misdaad stukje voor stukje ontrafelen".
 
-Ook de politie heeft zelf een spelletje ontworpen dat burgers in staat stelt om via social actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.” - Elma Bos in [de Stentor](http://socialmediadna.nl/recherche-game/).
+Ook de politie heeft zelf een spelletje ontworpen dat burgers in staat stelt om via social media actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.” - Elma Bos in [de Stentor](http://socialmediadna.nl/recherche-game/).
 
 Het oplossen van een misdaad is in feite een grote puzzel, door leerlingen hier aan te laten werken stimuleer je hen actief buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn.
 
-Ellis en haar collegas maken geen begruik van apps of computerspelletes, maar sturen hun leerlingen met twee oprachten op pad; Interview mensen die je kunnen helpen in het oplossen van een misdaad en monteerd dit tot een mooi kloppend filmpje.
+Ellis en haar collega's maken geen gebruik van app’s of computerspelletjes, maar sturen hun leerlingen met twee opdrachten op pad; Interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend filmpje.
 
 Alhoewel Ellis en haar collegas net zoals de Groene hart school de spanning en opwinding van het oplossen van een misdaad gebruiken om de leerlingen te motiveren en insperen hebben ze er toch voor gekozen om het niet via een app te doen.  
 
-Het oplossen van een "misdaad" simuleert creatieviteid en probleem oplossings gericht denken, maar via een spelletje blijven de zoektochten geheel binnen de kaders van de app.
+Het oplossen van een "misdaad" simuleert creativiteit en probleem oplossing gericht denken, maar via een spelletje blijven de zoektochten geheel binnen de kaders van de app.
 
-Door de Leerlingen een duidleijk opdracht in de buitenwereld te geven dat ze een "misdaad" moeten oplossen door mensen te interviewen hebben de leerlingen veel meer vrijheid om te handelen. Deze vrijheid leert het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app, en je krijgt de mognelijkheid om elementen toe te voegen zoals film.
+Door de Leerlingen een duidelijk opdracht in de buitenwereld te geven dat ze een "misdaad" moeten oplossen door mensen te interviewen hebben de leerlingen veel meer vrijheid om te handelen. Deze vrijheid leert het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app, en je krijgt de mogelijkheid om elementen toe te voegen zoals film.
 
 ## Leren door te filmen
 
