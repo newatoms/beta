@@ -13,6 +13,7 @@ Design research is "research into people's behaviours and motives that is integr
 * Explores an entirely new area, as opposed to *qualitative marketing research* which is mostly used to test people’s response to already designed products or services
 
 * Aims to make a meaningful, valuable difference in people's lives
+
 * Steps into the shoes of its research participants
 
 * Integrates the people who will use future products and services in the creation of these products and services
@@ -29,13 +30,13 @@ Design research is "research into people's behaviours and motives that is integr
 
 * Remains open to unexpected answers
 
-* Uses tangible artifacts like maps, labels and diaries
+* Uses tangible artefacts like maps, labels and diaries in the process of gathering research
 
 * Uses video to communicate people's stories and see the untold
 
 * Aims to create an overview of existing behaviour around a certain topic
 
-* Connects organisations with the lives and experiences of their customers
+* Connects organisations (their clients) with the lives and experiences of these organizations' customers (their "participants")
 
 ## Examples of *service design* engaged in by STBY
 
