@@ -29,9 +29,9 @@ Zo laat de Groene hart school hun leerlingen misdaden via een [app](http://www.g
 
 Ook de politie heeft zelf een spelletje ontworpen dat burgers in staat stelt om via social media actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.” - Elma Bos in [de Stentor](http://socialmediadna.nl/recherche-game/).
 
-Het oplossen van een misdaad is in feite een grote puzzel, door leerlingen hier aan te laten werken stimuleer je hen actief buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn.
+Het oplossen van een misdaad is in feite een grote puzzel. Door leerlingen hieraan te laten werken stimuleer je hun actief buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn.
 
-Ellis en haar collega's maken geen gebruik van app’s of computerspelletjes, maar sturen hun leerlingen met twee opdrachten op pad; Interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend filmpje.
+Ellis en haar collega's maken geen gebruik van app’s of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend filmpje.
 
 Alhoewel Ellis en haar collegas net zoals de Groene hart school de spanning en opwinding van het oplossen van een misdaad gebruiken om de leerlingen te motiveren en insperen hebben ze er toch voor gekozen om het niet via een app te doen.  
 
