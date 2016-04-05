@@ -10,7 +10,7 @@ Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Z
 
 > "We willen dit nieuwe vak waarschijnlijk **Grote vragen** noemen"
 
-Bij de Nederlandse School wordt je tijdens de workshop geinspireerd en gestimuleerd om dat wat je in de workshops leert toe te passen binnen je eigen klas of school. Een onderdeel die Ellis en haar natuurkunde en CKV collega's bedacht hebben is dat ze een nieuw vak gaan introduceren; *Grote vragen* (de naam is nog niet zeker), daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
+Bij de Nederlandse School wordt je tijdens de workshop geinspireerd en gestimuleerd om dat wat je in de workshops leert toe te passen binnen je eigen klas of school. Een onderdeel dat Ellis en haar natuurkunde en CKV collega's bedacht hebben is dat ze een nieuw vak gaan introduceren; *Grote vragen* (de naam is nog niet zeker), daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
 
 Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aansprak. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
 Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft. “Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken “Mijn lessen gaan ook heel erg over wat voor vragen leerlingen zelf hebben”.
