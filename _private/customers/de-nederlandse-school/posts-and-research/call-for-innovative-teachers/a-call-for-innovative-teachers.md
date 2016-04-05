@@ -33,7 +33,7 @@ Het oplossen van een misdaad is in feite een grote puzzel. Door leerlingen hiera
 
 Ellis en haar collega's maken geen gebruik van app’s of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend filmpje.
 
-Alhoewel Ellis en haar collegas net zoals de Groene hart school de spanning en opwinding van het oplossen van een misdaad gebruiken om de leerlingen te motiveren en insperen hebben ze er toch voor gekozen om het niet via een app te doen.  
+Alhoewel Ellis en haar collegas net zoals de Groene hart school de spanning en opwinding van het oplossen van een misdaad gebruiken om de leerlingen te motiveren en inspireren hebben ze er toch voor gekozen om het niet via een app te doen.  
 
 Het oplossen van een "misdaad" simuleert creativiteit en probleem oplossing gericht denken, maar via een spelletje blijven de zoektochten geheel binnen de kaders van de app.
 
