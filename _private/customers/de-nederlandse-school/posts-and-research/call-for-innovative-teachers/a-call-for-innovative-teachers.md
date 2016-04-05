@@ -1,5 +1,3 @@
-<img src="https://images.unsplash.com/photo-1445539962947-a7199602bd79?crop=entropy&dpr=2&fit=crop&fm=jpg&h=750&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1450" width=100% />
-
 # Misdrijven oplossen in de klas
 
 Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij onszelf afgevraagd in hoeverre deze docenten vanuit eigen goeddunken handelden en of zij zich er van bewust zijn geweest hoe belangrijk ze waren in ons leven.  
@@ -12,7 +10,7 @@ Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Z
 
 > "We willen dit nieuwe vak waarschijnlijk **Grote vragen** noemen"
 
-Bij de Nederlandse School is het de bedoeling dat je een opdracht krijgt die je gaat uitvoeren binnen je eigen school. Ellis doet samen met de natuurkunde en CKV docenten opdrachten. Een onderdeel die zij zelf bedacht hebben is dat ze een nieuw vak gaan introduceren; *Grote vragen* (de naam is nog niet zeker). Daarin gaan ze maatschappijleer en CKV samenvoegen en willen ze later andere vakken bij-aan laten sluiten.
+Bij de Nederlandse School wordt je tijdens de workshop geinspireerd en gestimuleerd om dat wat je in de workshops leert toe te passen binnen je eigen klas of school. Ellis doet samen met de natuurkunde en CKV docenten opdrachten van het Rietveld Lyceum. Een onderdeel die zij zelf bedacht hebben is dat ze een nieuw vak gaan introduceren; *Grote vragen* (de naam is nog niet zeker), daarin gaan ze maatschappijleer en CKV samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
 
 Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aansprak. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
 Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft. “Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken “Mijn lessen gaan ook heel erg over wat voor vragen leerlingen zelf hebben”.
@@ -33,13 +31,7 @@ Ook de politie heeft zelf een spelletje ontworpen dat burgers in staat stelt om 
 
 Het oplossen van een misdaad is in feite een grote puzzel. Door leerlingen hieraan te laten werken stimuleer je hun actief buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn.
 
-Ellis en haar collega's maken geen gebruik van app’s of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend filmpje.
-
-Alhoewel Ellis en haar collegas net zoals de Groene hart school de spanning en opwinding van het oplossen van een misdaad gebruiken om de leerlingen te motiveren en inspireren hebben ze er toch voor gekozen om het niet via een app te doen.  
-
-Het oplossen van een "misdaad" simuleert creativiteit en probleem oplossing gericht denken, maar via een spelletje blijven de zoektochten geheel binnen de kaders van de app.
-
-Door de Leerlingen een duidelijk opdracht in de buitenwereld te geven dat ze een "misdaad" moeten oplossen door mensen te interviewen hebben de leerlingen veel meer vrijheid om te handelen. Deze vrijheid leert het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app, en je krijgt de mogelijkheid om elementen toe te voegen zoals film.
+Ellis en haar collega's maken geen gebruik van app’s of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend geheel. Op deze manier maken ze net zoals bij de digitale variant gebruik van de spanning en opwinding die komt kijken bij het oplossen van een misdaad, maar geven ze de leerlingen meer ruimte om hun eigen invulling te geven aan de opdracht. Alhoewel het natuurlijk heerlijk is voor de leerlingen om zelf te bepalen wat ze met de opdracht doen, verijst en leert het hun ook veel over het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app. En je krijgt natuurlijk de mogelijkheid om elementen toe te voegen zoals film.
 
 ## Leren door te filmen
 
