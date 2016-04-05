@@ -30,7 +30,7 @@ Design research is "research into people's behaviours and motives that is integr
 
 * Remains open to unexpected answers
 
-* Uses tangible artefacts like maps, labels and diaries in the process of gathering research
+* Uses tangible artefacts like maps, labels and diaries that help to map certain activities, objects or devices in the home, for instance, in the process of gathering research
 
 * Uses video to communicate people's stories and see the untold
 
