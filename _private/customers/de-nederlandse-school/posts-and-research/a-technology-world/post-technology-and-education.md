@@ -1,3 +1,5 @@
+<img src="https://kidskonnect.com/assets/uploads/2015/01/industrial-revolution.jpg" width=100% />
+
 # Onderwijs in een snel veranderende en technologie afhankelijke wereld
 
 > Een oproep
