@@ -36,7 +36,7 @@ Design research is "research into people's behaviours and motives that is integr
 
 * Aims to create an overview of existing behaviour around a certain topic
 
-* Connects organisations (their clients) with the lives and experiences of these organizations' customers (their "participants")
+* Connects organisations (STBY's clients) with the lives and experiences of these organisations' customers (STBY's 'research participants')
 
 ## Examples of *service design* engaged in by STBY
 
