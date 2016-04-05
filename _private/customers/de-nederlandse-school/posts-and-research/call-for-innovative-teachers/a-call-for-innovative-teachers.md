@@ -17,7 +17,7 @@ Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op scho
 
 Met "Grote vragen" proberen Ellis en haar collega's op dezelfde manier de lesstof tastbaarder te maken voor hun leerlingen door ze op pad te sturen om met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
 
-De eerste opdracht was het oplossen van een fictieve misdrijf. De leerlingen kregen de opdracht om opzoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo een spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
+De eerste opdracht was het oplossen van een fictief misdrijf. De leerlingen kregen de opdracht om opzoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo een spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
 
 Nu zijn ze met een Pilot bezig. “Ik heb de leerlingen op pad gestuurd“ Ieder groepje had een misdrijf die zij moesten oplossen, leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. “Kinderen belden uiteindelijk heel stoer op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politieagent.”
 
