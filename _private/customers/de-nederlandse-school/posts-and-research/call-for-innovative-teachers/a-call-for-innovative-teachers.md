@@ -43,7 +43,7 @@ Door de Leerlingen een duidelijk opdracht in de buitenwereld te geven dat ze een
 
 Door de leerlingen de opdracht te geven om de interviews te filmen en te monteren ontstaat er veel ruimte voor zelfreflectie, en wordt het belang van voorruitplannen extra duidelijk. Pas op het moment dat de verschillende elementen samenkomen zie je wat er ontbreekt, en leer je waar je de volgend keer op zou kunnen letten. Dit geldt natuurlijk niet alleen voor film.
 
-Door zelf te interviewen, filmen en monteren krijgen de leerlingen inzicht in de werking van media en leren ze onderanderen dat de volgorde waarin je geïnterviewden aan het woord laat zeer bepalend is voor de boodschap die het filmpje overbrengt.
+Door zelf te interviewen, filmen en monteren krijgen de leerlingen inzicht in de werking van media en leren ze onder andere dat de volgorde waarin je geïnterviewden aan het woord laat zeer bepalend is voor de boodschap die het filmpje overbrengt.
 
 De realisatie dat film geen directe weergave is van de realiteit en door de maker wordt gevormd, is van fundamenteel belang om "als –jonge– burger te kunnen deelnemen aan de van media doordrenkte maatschappij" - Raad voor Cultuur, 2005.
 
