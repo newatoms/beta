@@ -6,7 +6,7 @@ To show the competence in, and understanding of STBY's science based testing of 
 
 ## Action
 
-We will provide an overview of the process testing participants will undergo and why STBY uses this process.
+We will provide an overview of the process participants will undergo and why STBY uses this process.
 We will for example discuss how participants are selected, how they are introduced to the testing topic and how their feedback is processed.
 
 ## What we need from you
