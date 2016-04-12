@@ -2,7 +2,7 @@
 
 ## Goal
 
-To show the competence, in and understanding of STBY's science based testing of services with _research participants_
+To show the competence in, and understanding of STBY's science based testing of services with _research participants_
 
 ## Action
 
