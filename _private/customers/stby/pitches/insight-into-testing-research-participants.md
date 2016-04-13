@@ -2,12 +2,12 @@
 
 ## Goal
 
-To show the competence in, and understanding of STBY's science based testing of services with _research participants_
+To make the research process accessible for people unfamiliar to service design
 
 ## Action
 
-We will provide an overview of the process participants will undergo and why STBY uses this process.
-We will for example discuss how participants are selected, how they are introduced to the testing topic and how their feedback is processed.
+we will explain STBY's science based testing of services.
+Possible topics of paragraphs: how _research participants_ are selected, how they are introduced to the testing topic and how their feedback is processed.
 
 ## What we need from you
 
