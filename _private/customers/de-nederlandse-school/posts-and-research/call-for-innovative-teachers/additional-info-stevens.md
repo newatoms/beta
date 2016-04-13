@@ -12,7 +12,7 @@ We zijn nog op zoek naar een aantal antwoorden om het artikel completer te maken
 
 * Waren de leerlingen al bedreven in het filmen of editen? Is er iets opgevallen tijdens het filmen?
 
-Je zou ons enorm helpen de antwoorden naar ons te mailen. Als je nog vragen of commentaar voor ons hebt, haast je niet deze te stellen.
+Je zou ons enorm helpen de antwoorden naar ons te mailen. Als je liever hebt dat wij jou bellen is dat ook geen probleem. Als je nog vragen of commentaar voor ons hebt, haast je niet deze te stellen.
 
 Alvast reuze bedankt voor je medewerking!
 
