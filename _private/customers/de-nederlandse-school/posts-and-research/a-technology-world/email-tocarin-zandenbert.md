@@ -8,7 +8,7 @@ In de schoolgids van 2014 - 2015 heeft u het over het thema "Leren Navigeren" wa
 
 Wij zouden het graag hebben over uw persoonlijke visie, de visie van het Mill-Hillcollege en hoe jullie leerlingen opleiden om volwaardige leden van de maatschappij te kunnen zijn in deze snel veranderende technologische tijden. Hiervoor zouden we graag een kort telefonisch interview met u afleggen van ongeveer 20 minuten.
 
-Wij horen graag of ons hierbij zou willen helpen, en wanneer dat voor u het beste uit komt!
+Wij horen graag of u ons hierbij zou willen helpen, en wanneer dat voor u het beste uit komt!
 
 We kijken uit naar uw reactie.
 
