@@ -18,5 +18,8 @@ Het is interesant om te kijken naar hoe scholen zich in het algemeen kunnen bewe
 
 Daarnaast is het interessant om te kijken naar de rol van informatica heeft in het huidige lessysteem, en hoe deze is veranderd over de afgelopen jaren. Leren we kinderen nog de basis van het gebruiken van een computer, of is dat iets wat natuurlijk voor ze komt.
 
-De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programmeren?
+De wereld waar we aan deelnemen bestaat steeds meer op het web. Hoe belangrijk is het dat kinderen van jongs af aan begrijpen hoe programmas tot stand komen en werken? Moeten ze begrip krijgen voor de werking van het internet, programeren en software ontwikkeling?
+
+Al deze vragen zijn van groot belang zijn voor de ontwikkeling van de hedendaagse leerling, maar waren totaal onbekend in de tijd dat de meeste huidige docenten zijn opgeleid. Hoe kan je als docent voldoen aan de behoeftes van je leerlingen en een generatie onafhankelijke mensen opleiden die een waardevolle bijdragen kunnen leven aan de hedendaagse en toekomstige maatschappij?
+
 Ben jij iemand die met ons in gesprek wilt gaan om er samen achter te komen hoe we huidige leerlingen kunnen voorbereiden op een toekomst vol technologie? Neem dan [contact](helpdesk@newatoms.com) met ons op voor een telefonisch interview.
