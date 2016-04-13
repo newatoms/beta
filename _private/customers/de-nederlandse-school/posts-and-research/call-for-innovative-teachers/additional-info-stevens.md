@@ -2,7 +2,7 @@
 
 Wij willen je het artikel dat we tot nu toe hebben geschreven graag laten lezen.  Buiten jouw interview vonden we het interessant om het oplossen van een misdrijf in de klas als lesmethode verder te onderzoeken. Bij deze bieden we je graag de gelegenheid om commentaar te geven. Zo hopen we misverstanden en/of misinterpretaties te verkomen.
 
-Een paar dingen willen we nog van je weten omdat het volgende nog niet duidelijk genoeg naar voren kwam in het interview.  
+We zijn nog op zoek naar een aantal antwoorden om het artikel completer te maken.
 
 * Waarom heb je er eigenlijk voor gekozen om de leerlingen een misdrijf te laten oplossen?
 
