@@ -6,7 +6,7 @@ Om andere scholen, docenten en leerlingen te inspireren over de mogelijkheden di
 
 In de schoolgids van 2014 - 2015 heeft u het over het thema "Leren Navigeren" waarbij u nadruk legt op het belang van vaardigheden zoals creativiteit, probleemoplossend vermogen en ICT-geletterdheid om te kunnen functioneren in de 21e eeuw. Wij zijn benieuwd hoe "Leren navigeren" tot nu toe is gegaan en hoe jullie vanuit de ervaringen van het afgelopen jaar naar de toekomst van het onderwijs in de 21e eeuw kijkt.
 
-Wij zouden het graag hebben over uw persoonlijke visie, de visie van het Mill-Hillcollege en hoe jullie de leerling opleiden om een volwaardig lid van de maatschappij te kunnen zijn in deze snelveranderende technologische tijden. Hiervoor zouden we graag een kort telefonisch interview met u afleggen van ongeveer 20 minuten.
+Wij zouden het graag hebben over uw persoonlijke visie, de visie van het Mill-Hillcollege en hoe jullie de leerling opleiden om een volwaardig lid van de maatschappij te kunnen zijn in deze snel veranderende technologische tijden. Hiervoor zouden we graag een kort telefonisch interview met u afleggen van ongeveer 20 minuten.
 
 Wij horen graag of ons hierbij zou willen helpen, en wanneer dat voor u het beste uit komt!
 
