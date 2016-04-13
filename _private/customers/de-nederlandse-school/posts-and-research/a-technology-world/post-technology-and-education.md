@@ -12,13 +12,12 @@ We zijn rond 1750 door een soortgelijk process heen gegaan, waarbij tijdens de i
 
 Het in onze ogen waanzinnig interesante en belangrijk om na te denken over de mogelijkheden en gevaren die deze veranderingen met zich mee brengen. Hoe kunnen we vanuit het onderwijs toekomstige generaties zo opleiden dat ze een waardevolle bijdragen kunnen leveren aan de maatschappij zonde afhankelijk te zijn van specefieke ambachtelijke vaardigheden.
 
+Om dit voor elkaar te krijgen zou je jezelf kunnen afvragen hoe belangrijk het is dat leerlingen interesses ontwikkelen voor technologie, en hoe kunnen we dat voor elkaar zouden krijgen vanuit het huidige lessysteem.
 
-* Is het belangrijk dat leerlingen interesses ontwikkelen voor technologie? Zo ja, zorgt de huidige lesstof hier voldoende voor?
+Het is interesant om te kijken naar hoe scholen zich in het algemeen kunnen bewegen in het huidige lessysteem. Kunnen ze mee komen met de tijd, of hinderd het systeem hun flexibelytijd en vermogen om te innoveren? Zijn er manieren om dit te voorkomen?
 
-* Hoe kan een school flexibel meebewegen met een veranderende wereld terwijl hij wel binnen de regels van het systeem moet blijven?
+Daarnaast is het interesant om te kijken naar de rol van informatica heeft in het huidige lessysteem, en hoe deze is veranderd over de afgelopen jaren. Leren we kinderen nog de basis van het gebruiken van een computer, of is dat iets wat natuurlijk voor ze komt.
 
-* Waarom is informatica nooit een belangrijk vak geworden?
-
-* De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programmeren?
+De wereld waar we aan deelnemen bestaat steeds meer op het web. Zou er meer ruimte moeten komen voor praktisch technische vakken, zoals programmeren? 
 
 Ben jij iemand die met ons in gesprek wilt gaan om er samen achter te komen hoe we huidige leerlingen kunnen voorbereiden op een toekomst vol technologie? Neem dan [contact](helpdesk@newatoms.com) met ons op voor een telefonisch interview.
