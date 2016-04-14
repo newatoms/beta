@@ -7,17 +7,19 @@ Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invl
 
 Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aanspreekt. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
 
-Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft.
+## Ellis probeert altijd haar lessen op haar leerlingen te betrekken.
 
-Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
+Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
-“Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Daarom zijn de lessen van Ellis vaak gefocused op de vragen die de leerlingen zelf hebben.
+“Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” De lessen van Ellis zijn daarom vaak gefocused op de vragen die de leerlingen zelf hebben.
 
-Ellis volgt samen met twee collega workshops aan de Nederlandse waar ze worden aangemoedigd om met de inspiratie die ze opdoen in de workshops nieuwe innovaties implementeren in hun klas. Een van hun ideeën is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
+Ellis volgt samen met twee collega workshops aan de Nederlandse School waar ze worden aangemoedigd om de inspiratie die ze opdoen in de workshops toe te plassen in de klas. Een van hun toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
 
 Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te maken voor hun leerlingen door ze op pad te sturen om met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
 
-De eerste opdracht was het oplossen van een fictief misdrijf. De leerlingen kregen de opdracht om opzoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo een spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
+## De eerste opdracht was het oplossen van een fictief misdrijf.
+
+De leerlingen kregen de opdracht om opzoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo een spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
 
 Nu zijn ze met een Pilot bezig. “Ik heb de leerlingen op pad gestuurd“ Ieder groepje had een misdrijf die zij moesten oplossen, leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. “Kinderen belden uiteindelijk heel stoer op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politieagent.”
 
@@ -45,6 +47,6 @@ De realisatie dat film geen directe weergave is van de realiteit en door de make
 
 Alhoewel Ellis de pilot nog uitgebreid wilt gaan evalueren was het nu al een zeer waardevolle ervaring. "Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken."
 
-> "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
+>"Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
 
 Door het enthousiasme van de leerlingen was niet alles altijd even duidelijk. “Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden was het niet voor iedereen duidelijk dat er ook gemonteerd had moeten worden.”
