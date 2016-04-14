@@ -1,6 +1,8 @@
+<img src="http://static6.depositphotos.com/1055089/664/v/950/depositphotos_6644519-Vector-vintage-background-made-from-speech-bubbles.jpg" width=100% />
+
 # Wat kan de Nederlandse School beter doen?
 
-Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om docenten en scholen te inspireren en te stimuleren om te innoveren in het onderwijs. We zoeken daarvoor naar inspiratie uit allerlei verschillende hoeken om een frisse blik te kunnen bieden aan docenten en ze zo anders naar hun omgeving te laten kijken. 
+Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om docenten en scholen te inspireren en te stimuleren om te innoveren in het onderwijs. We zoeken daarvoor naar inspiratie uit allerlei verschillende hoeken om een frisse blik te kunnen bieden aan docenten en ze zo anders naar hun omgeving te laten kijken.
 
 Maar ook wij hebben soms een frisse blik nodig.
 
