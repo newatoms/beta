@@ -1,4 +1,4 @@
-<img src="https://www.exchangewire.com/wp-content/uploads/2015/02/Evolution.jpg" width=100% />
+<img src="https://qph.is.quoracdn.net/main-qimg-0449a355ca5977420fedd97a4d1a3fbb?convert_to_webp=true" width=100% />
 
 # Docenten blijven in ontwikkeling
 
