@@ -1,6 +1,8 @@
+<img src="https://www.exchangewire.com/wp-content/uploads/2015/02/Evolution.jpg" width=100% />
+
 # Docenten blijven in ontwikkeling
 
-We leven in een tijd waar alles zo snel verandert, dat je je soms zou kunnen afvragen of de arbeidsmarkt nog dezelfde behoefte heeft na het behalen van je diploma. Daarom is het waanzinnig belangrijk om als onderwijsinstelling je studenten het vermogen te geven om met de tijd mee te komen, ongeacht de nieuwe onbekende dingen die op hun pad komen. Het grootste gedeelte van deze last komt terecht op de schouders van de docenten, zonder dat deze er altijd op zijn voorbereid. 
+We leven in een tijd waar alles zo snel verandert, dat je je soms zou kunnen afvragen of de arbeidsmarkt nog dezelfde behoefte heeft na het behalen van je diploma. Daarom is het waanzinnig belangrijk om als onderwijsinstelling je studenten het vermogen te geven om met de tijd mee te komen, ongeacht de nieuwe onbekende dingen die op hun pad komen. Het grootste gedeelte van deze last komt terecht op de schouders van de docenten, zonder dat deze er altijd op zijn voorbereid.
 
 Docenten zijn degenen die in direct contact staan met hun leerlingen en als eerste zullen merken of de lesstof die zij geven aansluit bij het leven en behoeften van hun leerlingen. Hoe zorg je als docent dat je je lessen zodanig in kan richten dat ze relevant zijn voor de tijd waarin hun leerlingen leven, en tegelijkertijd nog steeds relevant zijn als ze je school verlaten?
 
