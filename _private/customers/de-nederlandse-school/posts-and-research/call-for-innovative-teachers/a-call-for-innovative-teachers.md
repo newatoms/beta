@@ -5,15 +5,15 @@
 
 Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij onszelf afgevraagd in hoeverre deze docenten vanuit eigen goeddunken handelden en of zij zich er van bewust zijn geweest hoe belangrijk ze waren in ons leven.  Een van deze docenten is Ellis Stevens,  docent maatschappijleer op het Rietveld Lyceum in Doetinchem.
 
-Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aansprak. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
+Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aanspreekt. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
 
 Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft.
 
-Daarom porbeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
+Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
 “Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Daarom zijn de lessen van Ellis vaak gefocused op de vragen die de leerlingen zelf hebben.
 
-Ellis volgt samen met twee collega workshops aan de Nederlandse waar ze worden aangemoedigd om met de inspiratie die ze opdoen in de workshops nieuwe innovaties implimenteren in hun klas. Een van hun ideeen is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
+Ellis volgt samen met twee collega workshops aan de Nederlandse waar ze worden aangemoedigd om met de inspiratie die ze opdoen in de workshops nieuwe innovaties implementeren in hun klas. Een van hun ideeën is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
 
 Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te maken voor hun leerlingen door ze op pad te sturen om met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
 
