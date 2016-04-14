@@ -15,7 +15,7 @@ Daarom porbeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te 
 
 Ellis volgt samen met twee collega workshops aan de Nederlandse waar ze worden aangemoedigd om met de inspiratie die ze opdoen in de workshops nieuwe innovaties implimenteren in hun klas. Een van hun ideeen is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
 
-Met "Grote vragen" proberen Ellis en haar collega's op dezelfde manier de lesstof tastbaarder te maken voor hun leerlingen door ze op pad te sturen om met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
+Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te maken voor hun leerlingen door ze op pad te sturen om met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
 
 De eerste opdracht was het oplossen van een fictief misdrijf. De leerlingen kregen de opdracht om opzoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo een spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
 
