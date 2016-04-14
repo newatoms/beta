@@ -5,9 +5,7 @@
 
 Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij onszelf afgevraagd in hoeverre deze docenten vanuit eigen goeddunken handelden en of zij zich er van bewust zijn geweest hoe belangrijk ze waren in ons leven.  Een van deze docenten is Ellis Stevens,  docent maatschappijleer op het Rietveld Lyceum in Doetinchem.
 
-Wij willen graag meer inzicht krijgen in de gedachtegang van docenten die proberen te innoveren in het onderwijs. Wat vinden ze belangrijk in het onderwijs, voldoet het huidige onderwijssysteem aan hun verlangens, wat doen ze zelf om hun studenten te helpen ontwikkelen en waar halen ze hun inspiratie vandaan? Hoe gaan mededocenten om met hun projecten en toevoegingen op het lesprogramma en hoe staat hun school tegenover hun visie?
-
-## Op deze school is er alle ruimte om een geheel nieuw vak te introduceren
+Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aansprak. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
 
 Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Zij volgt samen met de docenten van natuurkunde en CKV workshops aan, en doen opdrachten voor de Nederlandse School.
 
