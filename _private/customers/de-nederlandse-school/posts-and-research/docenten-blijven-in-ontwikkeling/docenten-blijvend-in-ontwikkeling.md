@@ -1,4 +1,4 @@
-<img src="http://www.aboundlessworld.com/wp-content/uploads/2015/11/plant_growth.jpg" width=100% />
+<img src="https://www.syndicateroom.com/media/110932/5050538_l%20Hand%20with%20lamp%20and%20plant%20isolated%20on%20white%20background%20-%20edited%20to%20remove%20blank%20top.jpg" width=100% />
 
 # Docenten blijven in ontwikkeling
 
