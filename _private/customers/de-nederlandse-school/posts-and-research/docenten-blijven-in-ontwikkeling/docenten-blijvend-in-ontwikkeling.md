@@ -1,4 +1,4 @@
-<img src="https://www.syndicateroom.com/media/110932/5050538_l%20Hand%20with%20lamp%20and%20plant%20isolated%20on%20white%20background%20-%20edited%20to%20remove%20blank%20top.jpg" width=100% />
+<img src="http://cache3.asset-cache.net/gc/879213-001-evolution-of-candle-to-light-bulb-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=TbrAVmsvC5SpZa9IBlL2TIsUQt02HQX5q%2F70J36YGSW1Y%2BhpYyj1CrajjtmYh2Uz" width=100% />
 
 # Docenten blijven in ontwikkeling
 
