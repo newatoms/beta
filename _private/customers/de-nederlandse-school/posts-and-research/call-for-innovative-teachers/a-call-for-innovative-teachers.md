@@ -7,14 +7,13 @@ Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invl
 
 Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aansprak. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
 
-Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Zij volgt samen met de docenten van natuurkunde en CKV workshops aan, en doen opdrachten voor de Nederlandse School.
+Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft.
 
-> "We willen dit nieuwe vak waarschijnlijk **Grote vragen** noemen"
+Daarom porbeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
-Bij de Nederlandse School wordt je tijdens de workshop geinspireerd en gestimuleerd om dat wat je in de workshops leert toe te passen binnen je eigen klas of school. Een onderdeel dat Ellis en haar natuurkunde en CKV collega's bedacht hebben is dat ze een nieuw vak gaan introduceren: *Grote vragen* (de naam is nog niet zeker), daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
+“Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Daarom zijn de lessen van Ellis vaak gefocused op de vragen die de leerlingen zelf hebben.
 
-Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aansprak. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
-Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft. “Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken “Mijn lessen gaan ook heel erg over wat voor vragen leerlingen zelf hebben”.
+Ellis volgt samen met twee collega workshops aan de Nederlandse waar ze worden aangemoedigd om met de inspiratie die ze opdoen in de workshops nieuwe innovaties implimenteren in hun klas. Een van hun ideeen is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
 
 Met "Grote vragen" proberen Ellis en haar collega's op dezelfde manier de lesstof tastbaarder te maken voor hun leerlingen door ze op pad te sturen om met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
 
