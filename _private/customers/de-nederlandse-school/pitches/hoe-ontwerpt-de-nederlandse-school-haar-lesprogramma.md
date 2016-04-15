@@ -18,7 +18,7 @@ interviewen we iemand van de organisatie over hoe er keuzes worden gemaakt in he
 
 ## Assumptions
 
-Als dNS een bepaalde instelling en visie verwacht van toekomstige docenten is het waardevol voor potentieële nieuwkomers te zien hoe dNS te werk gaat.  
+Als dNS een bepaalde instelling en visie verwacht van toekomstige docenten is het waardevol voor potentiële nieuwkomers te zien hoe dNS te werk gaat.  
 
 ## Outcome
 
