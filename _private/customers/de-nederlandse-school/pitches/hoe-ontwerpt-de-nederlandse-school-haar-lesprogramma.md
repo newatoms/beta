@@ -16,6 +16,10 @@ interviewen we iemand van de organisatie over hoe er keuzes worden gemaakt in he
 * Wat voor discussies komen vaak voor als het gaat om het ontwerpen van het lesprogramma?
 * Kunnen docenten ook ideeën aandragen voor workshops?
 
+## Assistance
+
+Mogelijk iemand van de organisatie aandragen die hierover zou willen praten. We kunnen zelf ook een mailtje rondsturen.
+
 ## Assumptions
 
 Als dNS een bepaalde instelling en visie verwacht van toekomstige docenten is het waardevol voor potentiële nieuwkomers te zien hoe dNS te werk gaat.  
