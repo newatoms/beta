@@ -18,7 +18,7 @@ interviewen we iemand van de organisatie over hoe er keuzes worden gemaakt in he
 
 ## Assistance
 
-Mogelijk iemand van de organisatie aandragen die hierover zou willen praten. We kunnen zelf ook een mailtje rondsturen.
+Mogelijk iemand van de organisatie aandragen die hierover zou willen praten. 
 
 ## Assumptions
 
