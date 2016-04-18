@@ -6,7 +6,7 @@ Een groeiend aantal supermarkten wordt tegenwoordig gerund door een handje vol m
 
 De interactie met de wereld om ons heen en hoe wij deze begrijpen is de laatste decennia enorm veranderd. Alhoewel technologie ons helpt om taken makkelijker te maken, betekent dit niet dat het leven voor iedereen makkelijker wordt.
 
-Net zoals het automatiseren van de Albert Heijn in Nederland, worden er steeds wereldwijd steeds meer banen overgenomen door computerprogramma's en machines.
+Net zoals het automatiseren van de Albert Heijn in Nederland, worden er wereldwijd steeds meer banen overgenomen door computerprogramma's en machines.
 
 We zijn rond 1750 door een soortgelijk process heen gegaan, waarbij tijdens de industriele revolutie waanzinnig veel ambachtelijke taken werden overgenomen door machines. Alhoewel de werkomstandigheden van toen ondraaglijk waren, was die periode de grondslag voor de tijd waar wij nu in leven.
 
