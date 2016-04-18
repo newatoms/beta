@@ -20,6 +20,6 @@ Daarnaast is het interessant om te kijken naar wat voor rol informatica heeft in
 
 De wereld waar we aan deelnemen bestaat steeds meer op het web. Hoe belangrijk is het dat kinderen van jongs af aan begrijpen hoe programma’s tot stand komen en werken? Moeten zij begrip krijgen voor de werking van het internet, programmeren en software ontwikkeling?
 
-Al deze vragen zijn van groot belang zijn voor de ontwikkeling van de hedendaagse leerling, maar waren totaal onbekend in de tijd dat de meeste huidige docenten zijn opgeleid. Hoe kan je als docent voldoen aan de behoeftes van je leerlingen en een generatie onafhankelijke mensen opleiden die een waardevolle bijdragen kunnen leven aan de hedendaagse en toekomstige maatschappij?
+Al deze vragen zijn van groot belang voor de ontwikkeling van de hedendaagse leerling, maar waren totaal onbekend in de tijd dat de meeste huidige docenten zijn opgeleid. Hoe kan je als docent voldoen aan de behoeftes van je leerlingen en een generatie onafhankelijke mensen opleiden die een waardevolle bijdragen kunnen leven aan de hedendaagse en toekomstige maatschappij?
 
 Ben jij iemand die met ons in gesprek wilt gaan om er samen achter te komen hoe we huidige leerlingen kunnen voorbereiden op een toekomst vol technologie? Neem dan [contact](helpdesk@newatoms.com) met ons op voor een telefonisch interview.
