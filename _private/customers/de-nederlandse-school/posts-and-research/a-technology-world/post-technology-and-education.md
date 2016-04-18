@@ -8,7 +8,7 @@ De interactie met de wereld om ons heen en hoe wij deze begrijpen is de laatste 
 
 Net zoals het automatiseren van de Albert Heijn in Nederland, worden er wereldwijd steeds meer banen overgenomen door computerprogramma's en machines.
 
-We zijn rond 1750 door een soortgelijk process heen gegaan, waarbij tijdens de industriele revolutie waanzinnig veel ambachtelijke taken werden overgenomen door machines. Alhoewel de werkomstandigheden van toen ondraaglijk waren, was die periode de grondslag voor de tijd waar wij nu in leven.
+We zijn rond 1750 door een soortgelijk process heen gegaan, waarbij tijdens de industriële revolutie waanzinnig veel ambachtelijke taken werden overgenomen door machines. Alhoewel de werkomstandigheden van toen ondraaglijk waren, was die periode de grondslag voor de tijd waar wij nu in leven.
 
 Het in onze ogen waanzinnig interesante en belangrijk om na te denken over de mogelijkheden en gevaren die deze veranderingen met zich mee brengen. Hoe kunnen we vanuit het onderwijs toekomstige generaties zo opleiden dat ze een waardevolle bijdragen kunnen leveren aan de maatschappij zonde afhankelijk te zijn van specifieke ambachtelijke vaardigheden.
 
