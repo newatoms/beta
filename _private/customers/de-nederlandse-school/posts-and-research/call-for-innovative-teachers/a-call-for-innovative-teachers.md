@@ -3,7 +3,7 @@
 
 # Misdrijven oplossen in de klas
 
-Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij onszelf afgevraagd in hoeverre deze docenten vanuit eigen goeddunken handelden en of zij zich er van bewust zijn geweest hoe belangrijk ze waren in ons leven.  Een van deze docenten is Ellis Stevens,  docent maatschappijleer op het Rietveld Lyceum in Doetinchem.
+Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invloed op ons leven hebben gehad. Vaak hebben wij onszelf afgevraagd in hoeverre deze docenten vanuit eigen goeddunken handelden en of zij zich er van bewust zijn geweest hoe belangrijk ze waren in ons leven.  Voor sommigen is dit Ellis Stevens,  docent maatschappijleer op het Rietveld Lyceum in Doetinchem.
 
 Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aanspreekt. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
 
