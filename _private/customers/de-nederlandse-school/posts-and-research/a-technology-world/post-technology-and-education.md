@@ -14,7 +14,7 @@ Het in onze ogen waanzinnig interessant en belangrijk om na te denken over de mo
 
 Om dit voor elkaar te krijgen zou je jezelf kunnen afvragen hoe belangrijk het is dat leerlingen interesses ontwikkelen voor technologie, en hoe kunnen we dat voor elkaar krijgen vanuit het huidige lessysteem.
 
-Het is interresant om te kijken naar hoe scholen zich in het algemeen kunnen bewegen in het huidige lessysteem. Kunnen ze mee komen met de tijd, of hinderd het systeem hun flexibiliteit en vermogen om te innoveren? Zijn er manieren om dit te voorkomen?
+Het is interessant om te kijken naar hoe scholen zich in het algemeen kunnen bewegen in het huidige lessysteem. Kunnen ze mee komen met de tijd, of hindert het systeem hun flexibiliteit en vermogen om te innoveren? Zijn er manieren om dit te voorkomen?
 
 Daarnaast is het interessant om te kijken naar de rol van informatica heeft in het huidige lessysteem, en hoe deze is veranderd over de afgelopen jaren. Leren we kinderen nog de basis van het gebruiken van een computer, of is dat iets wat natuurlijk voor ze komt.
 
