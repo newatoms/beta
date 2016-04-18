@@ -11,7 +11,7 @@ Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg
 
 Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
-“Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Alhoewel er altijd standaard stof is die de leerlingen moeten leren focust Ellis haar lessen zo veel mogenlijk op de vragen die de leerlingen zelf hebben.
+“Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Alhoewel er altijd standaard stof is die de leerlingen moeten leren focust Ellis haar lessen zoveel mogenlijk op de vragen die de leerlingen zelf hebben.
 
 Ellis volgt samen met twee collega workshops aan de Nederlandse School waar ze worden aangemoedigd om de inspiratie die ze opdoen in de workshops toe te plassen in de klas. Een van hun toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
 
