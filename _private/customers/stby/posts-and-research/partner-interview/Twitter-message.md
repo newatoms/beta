@@ -1,1 +1,3 @@
-In order to explain what we do at STBY, we asked the people closest to us how they see us as service designers. http://www.stby.eu/2016/03/21/we-asked-the-people-closest-to-us-how-they-see-us/
+We asked the people close to us how they see us as service designers at STBY. http://bit.ly/1MxlSyi http://i.imgur.com/W9eSIRK.jpg
+
+<img src="http://i.imgur.com/W9eSIRK.jpg" width="100%"/>
