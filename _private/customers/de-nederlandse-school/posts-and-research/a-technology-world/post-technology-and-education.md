@@ -12,7 +12,7 @@ We zijn rond 1750 door een soortgelijk process heen gegaan, waarbij tijdens de i
 
 Het in onze ogen waanzinnig interessant en belangrijk om na te denken over de mogelijkheden en gevaren die deze veranderingen met zich mee brengen. Hoe kunnen we vanuit het onderwijs toekomstige generaties zo opleiden dat ze een waardevolle bijdragen kunnen leveren aan de maatschappij zonder afhankelijk te zijn van specifieke ambachtelijke vaardigheden.
 
-Om dit voor elkaar te krijgen zou je jezelf kunnen afvragen hoe belangrijk het is dat leerlingen interesses ontwikkelen voor technologie, en hoe kunnen we dat voor elkaar zouden krijgen vanuit het huidige lessysteem.
+Om dit voor elkaar te krijgen zou je jezelf kunnen afvragen hoe belangrijk het is dat leerlingen interesses ontwikkelen voor technologie, en hoe kunnen we dat voor elkaar krijgen vanuit het huidige lessysteem.
 
 Het is interresant om te kijken naar hoe scholen zich in het algemeen kunnen bewegen in het huidige lessysteem. Kunnen ze mee komen met de tijd, of hinderd het systeem hun flexibiliteit en vermogen om te innoveren? Zijn er manieren om dit te voorkomen?
 
