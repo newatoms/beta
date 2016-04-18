@@ -1,6 +1,5 @@
 # How Service Design Is Used in the Presentation of Art
 
-## What does art presentation have to do with service design?
 
 Imagine the following scenarios:
 
@@ -16,4 +15,4 @@ This metaphor is now more relevant than ever. Most of our experiences looking at
 
 Our location, company, and what our other senses are simultaneously experiencing all contribute to our experience of a work of art outside of a museum. But these are only the factors over which we have control. Berger argues that "reproduction of works of art can be used by anybody for their own purposes." Manipulation—cropping, panning, overlying music, placement among text or other images—all transform the narrative of an artwork.
 
-Manipulation and transformation are not inherently negative. Works of art can enhance the everyday experiences of commuting, leafing through a magazine, occupying an office space...       Visiting a museum is a luxury. It regulates the environment to place the visitor into ideal art viewing circumstances. This is service design. Out in the world, context is shaping our behaviour and perceptions. The context of an artwork, or rather the reproduction thereof—think Google Images, Pinterest, advertising—is equally as designed for a specific effect. 
+Manipulation and transformation are not inherently negative. Works of art can enhance the everyday experiences of commuting, leafing through a magazine, occupying an office space...       Visiting a museum is a luxury. It regulates the environment to place the visitor into ideal art viewing circumstances. This is service design. Out in the world, context is shaping our behaviour and perceptions. The context of an artwork, or rather the reproduction thereof—think Google Images, Pinterest, advertising—is equally as designed for a specific effect.
