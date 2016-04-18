@@ -16,7 +16,7 @@ Om dit voor elkaar te krijgen zou je jezelf kunnen afvragen hoe belangrijk het i
 
 Het is interessant om te kijken naar hoe scholen zich in het algemeen kunnen bewegen in het huidige lessysteem. Kunnen ze mee komen met de tijd, of hindert het systeem hun flexibiliteit en vermogen om te innoveren? Zijn er manieren om dit te voorkomen?
 
-Daarnaast is het interessant om te kijken naar wat voor rol informatica heeft in het huidige lessysteem, en hoe deze is veranderd over de afgelopen jaren. Leren we kinderen nog de basis van het gebruiken van een computer, of is dat iets wat natuurlijk voor ze komt.
+Daarnaast is het interessant om te kijken naar wat voor rol informatica heeft in het huidige lessysteem, en hoe deze is veranderd over de afgelopen jaren. Leren we kinderen nog de basis van het gebruiken van een computer, of is dat iets wat natuurlijk voor ze komt?
 
 De wereld waar we aan deelnemen bestaat steeds meer op het web. Hoe belangrijk is het dat kinderen van jongs af aan begrijpen hoe programmas tot stand komen en werken? Moeten ze begrip krijgen voor de werking van het internet, programeren en software ontwikkeling?
 
