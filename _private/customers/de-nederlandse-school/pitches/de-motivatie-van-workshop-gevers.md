@@ -17,7 +17,7 @@ Als we weten wie we gaan interviewen zullen we de vragen verder aanscherpen.
 
 ## Assistance
 
-* Toekomstige workshops (over minimaal een maand) met namen van sprekers met evt. contactgegevens.
+Contactgegevens van (een) spreker(s) over wie de Nederlandse School dit interview wil laten gaan.
 
 ## Outcome
 * Deelnemende docenten enthousiasmeren over de workshops
