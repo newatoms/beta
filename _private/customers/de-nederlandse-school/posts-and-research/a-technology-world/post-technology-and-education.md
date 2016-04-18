@@ -10,7 +10,7 @@ Net zoals het automatiseren van de Albert Heijn in Nederland, worden er wereldwi
 
 We zijn rond 1750 door een soortgelijk process heen gegaan, waarbij tijdens de industriële revolutie waanzinnig veel ambachtelijke taken werden overgenomen door machines. Alhoewel de werkomstandigheden van toen ondraaglijk waren, was die periode de grondslag voor de tijd waar wij nu in leven.
 
-Het in onze ogen waanzinnig interesante en belangrijk om na te denken over de mogelijkheden en gevaren die deze veranderingen met zich mee brengen. Hoe kunnen we vanuit het onderwijs toekomstige generaties zo opleiden dat ze een waardevolle bijdragen kunnen leveren aan de maatschappij zonde afhankelijk te zijn van specifieke ambachtelijke vaardigheden.
+Het in onze ogen waanzinnig interresant en belangrijk om na te denken over de mogelijkheden en gevaren die deze veranderingen met zich mee brengen. Hoe kunnen we vanuit het onderwijs toekomstige generaties zo opleiden dat ze een waardevolle bijdragen kunnen leveren aan de maatschappij zonde afhankelijk te zijn van specifieke ambachtelijke vaardigheden.
 
 Om dit voor elkaar te krijgen zou je jezelf kunnen afvragen hoe belangrijk het is dat leerlingen interesses ontwikkelen voor technologie, en hoe kunnen we dat voor elkaar zouden krijgen vanuit het huidige lessysteem.
 
