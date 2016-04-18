@@ -2,7 +2,7 @@
 
 # Onderwijs in een snel veranderende en technologie afhankelijke wereld
 
-Een groeiend aantal supermarkten wordt tegenwoordig gerund door een handje vol mensen. De Albert Heijn op het Weteringscircuit in Amsterdam is er zo één. De supermarkt wordt geëxploiteerd zonder lopende banden en zonder kassa-medewerkers zoals we die kennen. Slechts vier functies zijn niet geautomatiseerd. Er is nog één iemand die verward kijkende mensen (en dat zijn er veel) bij het *zelfscannen* helpt, één balie-medewerker, een manager en nog een paar vakkenvullers.
+Een groeiend aantal supermarkten wordt tegenwoordig gerund door een handje vol mensen. De Albert Heijn op het Weteringscircuit in Amsterdam is er zo één. De supermarkt wordt geëxploiteerd zonder lopende banden en zonder kassa-medewerkers zoals we die kennen. Slechts vier functies zijn niet geautomatiseerd. Er is één iemand die verward kijkende mensen (en dat zijn er veel) bij het *zelfscannen* helpt, één balie-medewerker, een manager en nog een paar vakkenvullers.
 
 De interactie met de wereld om ons heen en hoe wij deze begrijpen is de laatste decennia enorm veranderd. Alhoewel technologie ons helpt om taken makkelijker te maken, betekent dit niet dat het leven voor iedereen makkelijker wordt.
 
