@@ -2,7 +2,7 @@ Beste Carin Zandenberg,
 
 De komende maanden schrijven wij artikelen voor de website van [de Nederlandse School](http://www.denederlandseschool.nl/). Met deze artikelen willen we laten zien wat het programma van de Nederlandse School teweegbrengt en bieden we een podium voor de meningen en ervaringen van docenten en scholen.
 
-Een van deze artikelen heeft het doel om scholen, docenten en leerlingen te inspireren om te kunnen omgaan met de snel veranderende technologische wereld.
+Een van deze artikelen heeft het doel om scholen, docenten en leerlingen te inspireren hoe ze vanuit het onderwijs om zouden kunnen gaan met de snel veranderende technologische wereld.
 
 Hiervoor zouden we het Mil-Hillcollege willen gebruiken als voorbeeld om te laten zien hoe je als school om kan gaan met de technologhishe behoeftes van de maatschappij, en de leerlingen kan opleiden om een waardevolle bijdragen te leven aan onze samenleving.
 
