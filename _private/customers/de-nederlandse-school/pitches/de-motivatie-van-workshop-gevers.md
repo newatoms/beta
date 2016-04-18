@@ -1,7 +1,7 @@
 # De motivatie van sprekers laten zien
 
 ## Goal
-Om de betrokkenheid van de workshopsprekers te laten zien, en de deelnemende docenten enthousiast te maken over de aankomende workshops 
+Om de betrokkenheid van de workshopsprekers te laten zien, en om deelnemende docenten nog meer verdieping (evaluatie, reflectie) aan te bieden
 
 ## Action
 
