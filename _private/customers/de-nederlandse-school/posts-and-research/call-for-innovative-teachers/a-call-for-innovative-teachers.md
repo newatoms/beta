@@ -28,15 +28,15 @@ De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een o
 
 Zo laat de Groene hart school hun leerlingen misdaden via een [app](http://www.groenehartscholen.nl/rijnwoude/2014/11/06/historische-misdaden-oplossen-met-ipad-3/) oplossen. "Leerlingen zijn op deze manier bezig met digital storytelling, waarbij ze hun misdaad stukje voor stukje ontrafelen".
 
-Ook de politie heeft zelf een spelletje ontworpen dat burgers in staat stelt om via social media actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.” - Elma Bos in [de Stentor](http://socialmediadna.nl/recherche-game/).
+Ook de politie heeft zelf een game ontworpen dat burgers in staat stelt om via social media actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.” - Elma Bos in [de Stentor](http://socialmediadna.nl/recherche-game/).
 
-Het oplossen van een misdaad is in feite een grote puzzel. Door leerlingen hieraan te laten werken stimuleer je hun actief buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn.
+Het oplossen van een misdaad is in feite een grote puzzel. Door leerlingen hieraan te laten werken stimuleer je hun actief buiten de lijntjes te denken, kritisch te zijn en oplossingsgericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn.
 
 Ellis en haar collega's maken geen gebruik van apps of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend geheel. Op deze manier maken ze net zoals bij de digitale variant gebruik van de spanning en opwinding die komt kijken bij het oplossen van een misdaad, maar geven ze de leerlingen meer ruimte om hun eigen invulling te geven aan de opdracht. Alhoewel het natuurlijk heerlijk is voor de leerlingen om zelf te bepalen wat ze met de opdracht doen, verijst en leert het hun ook veel over het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app. En je krijgt natuurlijk de mogelijkheid om elementen toe te voegen zoals film.
 
 ## Leren door te filmen
 
-Door de leerlingen de opdracht te geven om de interviews te filmen en te monteren ontstaat er veel ruimte voor zelfreflectie, en wordt het belang van voorruitplannen extra duidelijk. Pas op het moment dat de verschillende elementen samenkomen zie je wat er ontbreekt, en leer je waar je de volgende keer op zou kunnen letten. Dit geldt natuurlijk niet alleen voor film.
+Door de leerlingen de opdracht te geven om de interviews te filmen en te monteren ontstaat er veel ruimte voor zelfreflectie, en wordt het belang van vooruitplannen extra duidelijk. Pas op het moment dat de verschillende elementen samenkomen zie je wat er ontbreekt, en leer je waar je de volgende keer op zou kunnen letten. Dit geldt natuurlijk niet alleen voor film.
 
 Daarnaast krijgen ze door het interviewen, filmen en monteren inzicht in de werking van media en leren ze onder andere dat de volgorde waarin je geïnterviewden aan het woord laat zeer bepalend is voor de boodschap die het filmpje overbrengt.
 
