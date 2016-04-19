@@ -22,7 +22,7 @@ De eerste opdracht was het oplossen van een fictief misdrijf. De leerlingen kreg
 
 Nu zijn ze met een Pilot bezig. “Ik heb de leerlingen op pad gestuurd.“ Ieder groepje had een misdrijf die zij moesten oplossen, leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. “Kinderen belden uiteindelijk heel stoer op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politieagent.”
 
-## Het oplossen van een misdaad
+## Op meer scholen zijn leerlingen bezig met *digital storytelling*
 
 De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een onbekend idee. Er zijn verschillende apps die door particulieren en scholen worden gebruikt om leerlingen virtuele misdaden op te laten lossen.
 
