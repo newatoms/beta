@@ -6,17 +6,17 @@ Een groeiend aantal supermarkten wordt tegenwoordig gerund door een handje vol m
 
 De interactie met de wereld om ons heen en hoe wij deze begrijpen is de laatste decennia enorm veranderd. Alhoewel technologie ons helpt om taken makkelijker te maken, betekent dit niet dat het leven voor iedereen makkelijker wordt.
 
-Net zoals het automatiseren van de Albert Heijn in Nederland, worden er wereldwijd steeds meer banen overgenomen door computerprogramma's en machines.
+Net zoals het automatiseren de kassa's van de Albert Heijn in Nederland, worden er wereldwijd steeds meer banen overgenomen door computers.
 
-We zijn rond 1750 door een soortgelijk process heen gegaan, waarbij tijdens de industriële revolutie waanzinnig veel ambachtelijke taken werden overgenomen door machines. Alhoewel de werkomstandigheden van toen ondraaglijk waren, was die periode de grondslag voor de tijd waar wij nu in leven.
+We zijn tussen 1750 en 1850 door een soortgelijk proces heen gegaan, waarbij tijdens de industriële revolutie waanzinnig veel ambachtelijke taken werden overgenomen door machines. Alhoewel de werkomstandigheden van toen ondraaglijk waren, was die periode de grondslag voor de tijd waar wij nu in leven.
 
-Het in onze ogen waanzinnig interessant en belangrijk om na te denken over de mogelijkheden en gevaren die deze veranderingen met zich mee brengen. Hoe kunnen we vanuit het onderwijs toekomstige generaties zo opleiden dat ze een waardevolle bijdragen kunnen leveren aan de maatschappij zonder afhankelijk te zijn van specifieke ambachtelijke vaardigheden.
+Het in onze ogen belangrijk om na te denken over de mogelijkheden en gevaren die deze veranderingen met zich meebrengen. Hoe kunnen we vanuit het onderwijs toekomstige generaties zo opleiden dat ze een waardevolle bijdrage kunnen leveren aan de maatschappij zonder afhankelijk te zijn van specifieke ambachtelijke en technishe vaardigheden.
 
-Om dit voor elkaar te krijgen zou je jezelf kunnen afvragen hoe belangrijk het is dat leerlingen interesses ontwikkelen voor technologie, en hoe kunnen we dat voor elkaar krijgen vanuit het huidige lessysteem.
+Om dit voor elkaar te krijgen zou je jezelf kunnen afvragen hoe belangrijk het is dat leerlingen interesses ontwikkelen voor technologie en hoe kunnen we dat voor elkaar krijgen vanuit het huidige lessysteem.
 
-Het is interessant om te kijken naar hoe scholen zich in het algemeen kunnen bewegen in het huidige lessysteem. Kunnen ze mee komen met de tijd, of hindert het systeem hun flexibiliteit en vermogen om te innoveren? Zijn er manieren om dit te voorkomen?
+Het is interessant om te kijken naar hoe scholen zich in het algemeen kunnen bewegen in het huidige lessysteem. Kunnen ze meekomen met de tijd, of hindert het systeem hun flexibiliteit en vermogen om te innoveren? Zijn er manieren om dit te voorkomen?
 
-Daarnaast is het interessant om te kijken naar wat voor rol informatica heeft in het huidige lessysteem, en hoe deze is veranderd over de afgelopen jaren. Leren we kinderen nog de basis van het gebruiken van een computer, of is dat iets wat natuurlijk voor ze komt?
+Daarnaast is belangrijk om te kijken naar wat voor rol informatica heeft in het huidige lessysteem, hoe deze is veranderd over de afgelopen jaren en of het vak zich mee heeft kunnen ontwikkelen met de tijd. Leren we kinderen nog de basis van het gebruiken van een computer, of is dat iets wat natuurlijk voor ze komt?
 
 De wereld waar we aan deelnemen bestaat steeds meer op het web. Hoe belangrijk is het dat kinderen van jongs af aan begrijpen hoe programma’s tot stand komen en werken? Moeten zij begrip krijgen voor de werking van het internet, programmeren en software ontwikkeling?
 
