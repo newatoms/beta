@@ -1,4 +1,4 @@
-<img src="http://cache3.asset-cache.net/gc/879213-001-evolution-of-candle-to-light-bulb-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=TbrAVmsvC5SpZa9IBlL2TIsUQt02HQX5q%2F70J36YGSW1Y%2BhpYyj1CrajjtmYh2Uz" width=100% />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Obama_greets_students_from_Waiting_for_Superman.jpg" width=100% />
 
 # Docenten blijven in ontwikkeling
 
