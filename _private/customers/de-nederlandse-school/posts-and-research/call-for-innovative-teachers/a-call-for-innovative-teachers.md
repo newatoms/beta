@@ -36,7 +36,7 @@ Ellis en haar collega's maken geen gebruik van apps of computerspelletjes maar s
 
 ## De evaluatie
 
-Alhoewel Ellis de pilot nog uitgebreid wilt gaan evalueren was het nu al een zeer waardevolle ervaring. "Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken."
+Alhoewel Ellis de pilot nog wilt gaan evalueren was het nu al een zeer waardevolle ervaring. "Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken."
 
 > "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
 
