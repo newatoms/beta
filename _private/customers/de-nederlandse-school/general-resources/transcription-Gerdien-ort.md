@@ -12,13 +12,13 @@
 
 > Ik heb een vrij traditionele weg gevolgd. Ik heb mijn universiteit afgerond en heb een postdoctorale lerarenopleiding gedaan en ben in het onderwijs terecht gekomen. Ik ben daar wel altijd heel creatief in geweest en stond open voor veranderingen. Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is  dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit op gaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie. Zo hebben we in onze sectie, Niet helemaal door de Nederlandse school, maar hebben we wel besloten om de voorbeeld in vwo 5 een lesmethode af te schaffen en daar ben ik bijvoorbeeld een heel groot voorstander van in de bovenbouw van HAVO VWO…
 
-# De lesmethode is dat wat je standaard krijgt in boeken bijvoorbeeld?*
+# De lesmethode is dat wat je standaard krijgt in boeken bijvoorbeeld?
 
 > Ja dat is gewoon een lesboek dan moet je denken aan uitgeverijen als Malmberg Noordhoff geef een bepaalde lesmethodes uit basis kunde Geschiedenis Nederlands als vaksectie kiezen en methode Wij hebben gezegd we gaan voor vwo 5 dat eruit gooien we willen dat dit jaar gaan doen Nou en dat is mij uitstekend bevallen het is wel meer werk want je zal op zoek moeten gaan naar teksten. Je zal wel je materiaal moeten vinden maar dat is uitstekend bevallen.
 
-# Ja dus dan kan je je eigen les ook vormgeven,  en haal je die kennis en inspiratie alleen bij de Nederlandse school vandaan of heb je ook nog externe bronnen waar je je informatie vandaan haalt?*
+# Ja dus dan kan je je eigen les ook vormgeven,  en haal je die kennis en inspiratie alleen bij de Nederlandse school vandaan of heb je ook nog externe bronnen waar je je informatie vandaan haalt?
 
-> Ja ik heb juist ook heel veel externe bronnen, maar die zijn vooral ontstaan door de Nederlandse School.  Maar die externe bronnen dat zijn mensen buiten de Nederlandse school. Wij kregen een opdracht op zoek te gaan naar bijvoorbeeld een deskundige die buiten het onderwijs zou kunnen helpen, iemand die niet in het onderwijs werkzaam zou zijn, die is hier bijvoorbeeld geweest. Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden van ja dit en dit zou ook zo mooi zijn als dat op school zou gebeuren kan dat?* Dan gaan we het er over hebben gaan we nadenken en er over sparren.
+> Ja ik heb juist ook heel veel externe bronnen, maar die zijn vooral ontstaan door de Nederlandse School.  Maar die externe bronnen dat zijn mensen buiten de Nederlandse school. Wij kregen een opdracht op zoek te gaan naar bijvoorbeeld een deskundige die buiten het onderwijs zou kunnen helpen, iemand die niet in het onderwijs werkzaam zou zijn, die is hier bijvoorbeeld geweest. Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden van ja dit en dit zou ook zo mooi zijn als dat op school zou gebeuren kan dat? Dan gaan we het er over hebben gaan we nadenken en er over sparren.
 
 > Ik werk ook met oud leerlingen.  Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.
 
@@ -30,11 +30,11 @@
 
 > Waar ik zelf een beetje ambivalent in ben,  die discussie rondom aan de ene kant die enorme discussie aan digitale methodes bijvoorbeeld het gebruik van de iPad in de klas en aan de andere kant hoe behoud je het mensenwerk daarin.  Ik was aanvankelijk laaiend enthousiast over de iPads in de klas en heb daar ook veel mee gewerkt.  En dan kom je erachter dat er dan ook nog heel veel mensen werk in zit.  Alleen maar zeggen doe deze opdracht daar wordt niemand koud of warm van. Er zit een geheel omheen.
 
-# Wat bedoel je precies met mensen werk?*
+# Wat bedoel je precies met mensen werk?
 
 > Nou dat als de leerlingen samenwerken of bezig zijn met bepaalde opdrachten dat dat ze het niet alleen achter hun laptop maken of schrijven. Dat ze dus die laptop of iPad dat ze die gebruiken meer als lesmateriaal dan dat het alleen maar de oplossing is voor beter onderwijs.
 
-# Je hebt dus alsnog een docent nodig die de lesstof geeft?*
+# Je hebt dus alsnog een docent nodig die de lesstof geeft?
 
 > Ja en ik wordt daarin bevestigd. Je moet je even voorstellen, het is het eind van het schooljaar en een docent heeft functioneringsgesprekken met zijn schoolleider dat is dan in de meeste gevallen een conrector die corrector vraagt dan aan jou wil je bepaalde enquetes houden onder klassen of mentoraat groepen die je dan hebt.  Als ik dan de enquetes bekijk die ik heb afgenomen onder mijn leerlingen  dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan.  Iemand zei ik heb nog nooit zoveel geleerd bij Nederlands maar dat komt door wat we doen in de lessen.
 
@@ -42,7 +42,7 @@
 
 > Ja maar snap je, Ik kan niet altijd hard maken wat ik doe maar wel anders dan wat ik deed.
 
-# Heb je het vaak met collegas over je lesmethodes?*
+# Heb je het vaak met collegas over je lesmethodes?
 
 > Ik praat in eerste instantie met de sectie Nederlands, met mijn vak collega's op school.
 
@@ -50,7 +50,7 @@
 
 > Euhm, 10. Ze weten allemaal dat ik deze opleiding doe aan de Nederlandse school 7 die weten heel veel van wat ik doe en een stuk of vier weten bijna alles wat ik doe op de Nederlandse school.
 
-> Ik ben ook met docenten economie in gesprek en dat heeft te maken met het talige van het vak. Zij hebben ergens gehoord dat ik een bijzondere opleiding toe. “Gerdien wat doet jouw opleiding in het bijzonder en wat kunnen wij voor elkaar betekenen met onze vakken?*”  Nou die waren nooit op mij afgekomen als ik geïsoleerd alleen maar mijn vak had gegeven. De derde tak heb ik met de collega's die ook de Nederlandse school doen zoals je weet is het idee achter de Nederlandse school dat je niet als enkeling naar die opleiding gaat maar dat je er zeker twee en het liefst 3 mensen van jouw school naar de DNS gaat.
+> Ik ben ook met docenten economie in gesprek en dat heeft te maken met het talige van het vak. Zij hebben ergens gehoord dat ik een bijzondere opleiding toe. “Gerdien wat doet jouw opleiding in het bijzonder en wat kunnen wij voor elkaar betekenen met onze vakken?”  Nou die waren nooit op mij afgekomen als ik geïsoleerd alleen maar mijn vak had gegeven. De derde tak heb ik met de collega's die ook de Nederlandse school doen zoals je weet is het idee achter de Nederlandse school dat je niet als enkeling naar die opleiding gaat maar dat je er zeker twee en het liefst 3 mensen van jouw school naar de DNS gaat.
 
 > Met die twee dat is dus een m&o (management en organisatie) docent en een biologie docent, Ja daar hebben we dus ook heel intensief overleg mee.  Plus ik heb dan ook nog de schoolleiding die bezig is een nieuwe schoolkran te schrijven. Die zeggen lees dit eens en wat is jouw inzicht daarin vanuit de Nederlandse school filosofie. Wat zie je daar in terugkomen en dat is natuurlijk dan wel heel erg leuk.
 
@@ -58,7 +58,7 @@
 
 > ja je moet je wel realiseren dat het onderwijs Bel inlogsysteem is.  Onderwijzend personeel is wel,  zeker als ze langer in het onderwijs werken, zitten sommige mensen wel heel vast aan vaste patronen. "We doen het nou eenmaal zo, we doen het al jaren zo is verandering nou wel zo nodig”.  Laat ik het zo zeggen ik ben een enthousiast iemand,  dus ik heb nu geleerd dat als ik maar niet te enthousiast, dat ik ze wel weer warm krijg het is iets totaal anders dan met leerlingen.  leerlingen doen alles voor mij maar docenten die moet je op een andere manier daarbij bertrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je een goeie wegen voor vinden.
 
-# Zitten de conservatievere docenten, zo noem ik hen dan even, houden die meer vast aan de traditionele lesmethodes en hoe neem je die met je mee?*
+# Zitten de conservatievere docenten, zo noem ik hen dan even, houden die meer vast aan de traditionele lesmethodes en hoe neem je die met je mee?
 
 > Nou die hebben sowieso de gedachte: “Ik kan niet teveel afwijken want ik heb mijn planning ik heb mijn toetsen Ja dat is het en ik heb ook nog een leven buitenschool.” Nou daar hebben ze alle recht toe. Ik kan natuurlijk niet in mijn eendje 150 docenten op een opleiding veranderen dat lukt niet in acht maanden, dat heeft iets meer tijd nodig. Maar er is wel duidelijk iets bezig Anonymous leerlingen merk je dat vooral.
 
@@ -83,7 +83,7 @@ Wat ik bijvoorbeeld ook vraag  is wie vinden jullie een goede docent dan hoor ik
 
 > Afgelopen weekend heb ik twee dagen in Groningen gezeten en hebben in leegstaande fabriekspanden gezeten. We zijn bij de ABN AMRO geweest we zijn een flink aantal keren naar Leiden geweest Amersfoort Utrecht. De Nederlandse school zit dus eigenlijk overal het is wel zo dat de opleiding bestaat uit drie pijlers uit 3 onderdelen. Intervisie supervisie en coaching. Dat is meer de persoonlijke kant. Daarnaast zijn wel heel veel stafleden van de Nederlandse school gelokaliseerd in Amsterdam.  Dus daar zijn we ook veel geweest. Maar daar is tegelijkertijd ook wel kritiek op gekomen Want als jij een opleiding wil zijn voor heel Nederland dan kun je niet zeggen dat Amsterdam onze maatschappij in het klein is.  Dat is niet zo.  er zijn bijvoorbeeld drie mensen die komen uit Emmen er zijn 3 mensen die komen uit Doorn er zijn mensen die komen uit het zuiden.  je moet wel een open vizier houden.  Ik denk wel dat  Zeeland daar zitten we nog niet.  voor de rest zitten we overal.
 
-# Wat kan  de Nederlandse school volgens beter doen?*  dit willen ze zelf ook graag weten omdat ze zich altijd willen blijven verbeteren je kan dit ook alleen niet doen als je dat zou willen.
+# Wat kan  de Nederlandse school volgens beter doen?  dit willen ze zelf ook graag weten omdat ze zich altijd willen blijven verbeteren je kan dit ook alleen niet doen als je dat zou willen.
 
 > Van mij hoeft dat niet anoniem hoor.
 
