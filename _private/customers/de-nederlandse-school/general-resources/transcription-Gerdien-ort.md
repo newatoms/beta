@@ -60,7 +60,7 @@
 
 # Zitten de conservatievere docenten, zo noem ik hen dan even, houden die meer vast aan de traditionele lesmethodes en hoe neem je die met je mee?
 
-> Nou die hebben sowieso de gedachte: “Ik kan niet teveel afwijken want ik heb mijn planning ik heb mijn toetsen Ja dat is het en ik heb ook nog een leven buitenschool.” Nou daar hebben ze alle recht toe. Ik kan natuurlijk niet in mijn eendje 150 docenten op een opleiding veranderen dat lukt niet in acht maanden, dat heeft iets meer tijd nodig. Maar er is wel duidelijk iets bezig Anonymous leerlingen merk je dat vooral.
+> Nou die hebben sowieso de gedachte: “Ik kan niet teveel afwijken want ik heb mijn planning, ik heb mijn toetsen Ja dat is het en ik heb ook nog een leven buitenschool.” Nou daar hebben ze alle recht toe. Ik kan natuurlijk niet in mijn eentje 150 docenten op een opleiding veranderen dat lukt niet in acht maanden, dat heeft iets meer tijd nodig. Maar er is wel duidelijk iets bezig aan leerlingen merk je dat vooral.
 
 # Met de schoolleiding praatje dus ook regelmatig en die geeft jou dus blijkbaar veel ruimte om te experimenteren. Heb je ook wel eens discussies over de manier waarop je les geeft of heb je daar  vooral een vrijbrief in?
 
