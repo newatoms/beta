@@ -32,15 +32,7 @@ Ook de politie heeft zelf een game ontworpen dat burgers in staat stelt om via s
 
 Het oplossen van een misdaad is in feite een grote puzzel. Door leerlingen hieraan te laten werken stimuleer je hun actief buiten de lijntjes te denken, kritisch te zijn en oplossingsgericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn.
 
-Ellis en haar collega's maken geen gebruik van apps of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend geheel. Op deze manier maken ze net zoals bij de digitale variant gebruik van de spanning en opwinding die komt kijken bij het oplossen van een misdaad, maar geven ze de leerlingen meer ruimte om hun eigen invulling te geven aan de opdracht. Alhoewel het natuurlijk heerlijk is voor de leerlingen om zelf te bepalen wat ze met de opdracht doen, verijst en leert het hun ook veel over het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app. En je krijgt natuurlijk de mogelijkheid om elementen toe te voegen zoals film.
-
-## Leren door te filmen
-
-Door de leerlingen de opdracht te geven om de interviews te filmen en te monteren ontstaat er veel ruimte voor zelfreflectie, en wordt het belang van vooruitplannen extra duidelijk. Pas op het moment dat de verschillende elementen samenkomen zie je wat er ontbreekt, en leer je waar je de volgende keer op zou kunnen letten. Dit geldt natuurlijk niet alleen voor film.
-
-Daarnaast krijgen ze door het interviewen, filmen en monteren inzicht in de werking van media en leren ze onder andere dat de volgorde waarin je geïnterviewden aan het woord laat zeer bepalend is voor de boodschap die het filmpje overbrengt.
-
-De realisatie dat film geen directe weergave is van de realiteit en door de maker wordt gevormd, is van fundamenteel belang om "als –jonge– burger te kunnen deelnemen aan de van media doordrenkte maatschappij" - Raad voor Cultuur, 2005.
+Ellis en haar collega's maken geen gebruik van apps of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend geheel. Op deze manier maken ze net zoals bij de digitale variant gebruik van de spanning en opwinding die komt kijken bij het oplossen van een misdaad, maar geven ze de leerlingen meer ruimte om hun eigen invulling te geven aan de opdracht. Alhoewel het natuurlijk heerlijk is voor de leerlingen om zelf te bepalen wat ze met de opdracht doen, verijst en leert het hun ook veel over het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app. 
 
 ## De evaluatie
 
