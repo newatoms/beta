@@ -40,4 +40,4 @@ Alhoewel Ellis de pilot nog wilt gaan evalueren was het nu al een zeer waardevol
 
 > "Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
 
-Door het enthousiasme van de leerlingen was niet alles altijd even duidelijk. “Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden was het niet voor iedereen duidelijk dat er ook gemonteerd had moeten worden.”
+Door het enthousiasme van de leerlingen was niet alles altijd even duidelijk. “Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn was het niet voor iedereen duidelijk dat er ook gemonteerd had moeten worden.”
