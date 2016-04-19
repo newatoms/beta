@@ -10,7 +10,7 @@ Net zoals het automatiseren de kassa's van de Albert Heijn in Nederland, worden 
 
 We zijn tussen 1750 en 1850 door een soortgelijk proces heen gegaan, waarbij tijdens de industriële revolutie waanzinnig veel ambachtelijke taken werden overgenomen door machines. Alhoewel de werkomstandigheden van toen ondraaglijk waren, was die periode de grondslag voor de tijd waar wij nu in leven.
 
-Het in onze ogen belangrijk om na te denken over de mogelijkheden en gevaren die deze veranderingen met zich meebrengen. Hoe kunnen we vanuit het onderwijs toekomstige generaties zo opleiden dat ze een waardevolle bijdrage kunnen leveren aan de maatschappij zonder afhankelijk te zijn van specifieke ambachtelijke en technishe vaardigheden.
+Het in onze ogen belangrijk om na te denken over de mogelijkheden en gevaren die deze veranderingen met zich meebrengen. Hoe kunnen we vanuit het onderwijs toekomstige generaties zo opleiden dat ze een waardevolle bijdrage kunnen leveren aan de maatschappij zonder afhankelijk te zijn van specifieke ambachtelijke en technische vaardigheden.
 
 Om dit voor elkaar te krijgen zou je jezelf kunnen afvragen hoe belangrijk het is dat leerlingen interesses ontwikkelen voor technologie en hoe kunnen we dat voor elkaar krijgen vanuit het huidige lessysteem.
 
