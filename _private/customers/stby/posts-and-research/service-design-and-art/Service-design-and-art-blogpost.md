@@ -6,4 +6,4 @@ At the same time this glass also influence the way you consume the liquid. A per
 
 The moment you start paying attention to the influence objects have on the way you use them, a whole new world opens up.
 
-In this article we would like to use art as a example of how the way it is presented influences the way you experience it. Just as much as the shape and material of the glass influences the way you drink from it.
+In this article, we would like to use art to show how presentation influences experience, just as much as the shape and material of the glass influences the way you drink from it.
