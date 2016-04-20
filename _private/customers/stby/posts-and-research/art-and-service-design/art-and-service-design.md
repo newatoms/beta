@@ -1,6 +1,6 @@
 # The influence of context on the perception of art
 
-<img src="https://nrc-reader.s3.amazonaws.com/articles/895/assets/3071/cms_retina.full_cover.jpg" width=50% /><img src="http://static.webshopapp.com/shops/042277/files/035407132/airpart-art-collection-nachtwacht-geschetst.jpg" width=50% />
+<img src="http://i.imgur.com/3RzviEO.jpg" width=50% /><img src="http://static.webshopapp.com/shops/042277/files/035407132/airpart-art-collection-nachtwacht-geschetst.jpg" width=50% />
 
 ## Context: The space the art is displayed in
 
