@@ -13,9 +13,9 @@ Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op scho
 
 “Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Alhoewel er altijd standaard stof is die de leerlingen moeten leren focust Ellis haar lessen zoveel mogenlijk op de vragen die de leerlingen zelf hebben.
 
-Ellis volgt samen met twee collega workshops aan de Nederlandse School waar ze worden aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van hun toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
+Ellis volgt samen met twee collega workshops aan de Nederlandse School waar ze worden aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van die toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
 
-Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te maken voor hun leerlingen door ze op pad te sturen om met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
+Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te maken voor de leerlingen door ze op pad te sturen om met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
 
 ## De eerste opdracht was het oplossen van een fictief misdrijf.
 
@@ -49,4 +49,4 @@ Alhoewel Ellis de pilot nog uitgebreid wilt gaan evalueren was het nu al een zee
 
 >"Ik heb wel al gemerkt dat het belangrijk is dat je veel structuur in de lesstof aanbrengt."
 
-Door het enthousiasme van de leerlingen was niet alles altijd even duidelijk. “Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden was het niet voor iedereen duidelijk dat er ook gemonteerd had moeten worden.”
+Door het enthousiasme van de leerlingen was niet alles altijd even duidelijk. “Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn was het niet voor iedereen duidelijk dat er ook gemonteerd had moeten worden.”
