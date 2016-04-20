@@ -20,7 +20,7 @@ Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf 
 * In hoeverre heb je inzicht in het leven van de studenten, en heeft dat invloed op hoe je les geeft?
 * Ga je wel eens naar workshops buiten de Nederlands School?
 
-Op een aantal van deze vragen heeft Gerdien Ort, docente Nederlands, ons wat antwoorden gegeven
+Op een aantal van deze vragen heeft Gerdien Ort, docente Nederlands, ons wat antwoorden gegeven:
 
  “Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
 
