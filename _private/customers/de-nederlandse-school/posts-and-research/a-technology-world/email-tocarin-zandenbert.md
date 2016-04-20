@@ -6,7 +6,7 @@ Even voorstellen: De komende maanden schrijven wij artikelen voor de website van
 
 Een van deze artikelen heeft het doel om scholen, docenten en leerlingen te inspireren hoe ze vanuit het onderwijs om zouden kunnen gaan met de snel veranderende technologische wereld.
 
-Hiervoor zouden we het Mil-Hillcollege willen gebruiken als voorbeeld om te laten zien hoe je als school om kan gaan met de technologische behoeftes van de maatschappij, en de leerlingen kan opleiden om een waardevolle bijdragen te leven aan onze samenleving.
+Hiervoor zouden we het Mil-Hillcollege willen gebruiken als voorbeeld om te laten zien hoe je als school om kan gaan met de technologische behoeftes van de maatschappij, en de leerlingen kan opleiden om een waardevolle bijdrage te leven aan onze samenleving.
 
 Wij zouden het graag hebben over uw persoonlijke visie, de visie van het Mill-Hillcollege en hoe jullie leerlingen opleiden om volwaardige leden van de maatschappij te kunnen zijn in deze snel veranderende technologische tijden. Hiervoor zouden we graag een kort telefonisch interview met u afleggen van ongeveer 25 minuten.
 
