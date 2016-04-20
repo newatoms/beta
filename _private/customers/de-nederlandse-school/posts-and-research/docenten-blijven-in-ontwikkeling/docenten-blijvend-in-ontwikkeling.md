@@ -32,7 +32,7 @@ Op een aantal van deze vragen heeft Gerdien Ort, docente Nederlands, ons wat ant
 
 “Ik werk ook met oud leerlingen.  Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.”
 
-“Als ik dan de enquetes bekijk die ik heb afgenomen onder mijn leerlingen  dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan.”
+“Als ik dan de enquetes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan.”
 
 “Iemand zei ik heb nog nooit zoveel geleerd bij Nederlands maar dat komt door wat we doen in de lessen.”
 
