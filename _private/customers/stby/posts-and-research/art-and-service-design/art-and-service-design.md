@@ -8,7 +8,7 @@ In these two photos we can see the world famous "Nachtwacht" by Dutch painter Re
 
 
 
-<img src="http://media.nu.nl/m/m1mxj8na9p2x_wd640.jpg" width=50% /><img src="https://cvandaag.nl/wp-content/uploads/2015/04/nachtwacht-cvandaag1.jpg" width=50% />
+<img src="http://i.imgur.com/2zU78g0.jpg" width=50% /><img src="https://cvandaag.nl/wp-content/uploads/2015/04/nachtwacht-cvandaag1.jpg" width=50% />
 
 ## Context: The things that happen in the space the art is displayed in.
 
