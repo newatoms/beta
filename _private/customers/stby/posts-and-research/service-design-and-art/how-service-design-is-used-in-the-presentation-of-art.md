@@ -4,9 +4,9 @@ Almost everything we touch and see on a daily basis is created by other people, 
 
 At the same time this glass also influence the way you consume the liquid. A person drinking milk from a expensive crystal glass will drink and experience the milk differently than a person drinking the exact same milk from a bucket. Everyone is aware of the practical side of things, because drinking milk from a glass is much more preferred than drinking it from your cupped hands, but we are much less aware of the influence the choice of glass has on the way we drink our milk.
 
-The exact same thing happens when we look at art, most, if not all, of our attention is focussed on the piece on display, but rarely we will pay the same amount of attention to the display itself. The moment you start understanding the relationship between art and its context, a whole new world opens up.
+The exact same thing happens when we look at art. Most, if not all, of our attention is focussed on the piece on display, but rarely we will pay the same amount of attention to the display itself. The moment you start understanding the relationship between art and its context, a whole new world opens up.
 
-Imagine the following scenarios:
+As an example, try to imagine the following scenarios:
 
 *You are in the Rijksmuseum early in the morning. It's quiet. You are standing alone in front of Rembrandt's* [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg). *While looking at the painting, you're also aware of the surrounding architecture, the quality of light, the smell of the gallery, the feel of the carpet beneath your feet.*
 
