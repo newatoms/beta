@@ -1,14 +1,15 @@
 
 # Transcriptie Elise
 
-
 Zou je wat over jezelf kunnen vertellen?
+
 > 43, moeder 2 kinderen. 13 en 11. Oudste zit bij mij op school -- Nee, ik geef haar niet les. Wij mogen niet in het jaar van onze kinderen eigenlijk ook lesgeven, maar mijn collega Frans die heeft ook een uuhm, dat is een collega die ook Frans geeft, die heeft ook een kind in hetzelfde leerjaar zitten. Dus we geven wel in hetzelfde leerjaar nu les maar niet aan onze eigen kinderen.
-Mijn jongste zit nu in groep 8 en gaat volgend jaar ook naar mij school. Dus het wordt echt een familiebedrijf.
+
+> Mijn jongste zit nu in groep 8 en gaat volgend jaar ook naar mij school. Dus het wordt echt een familiebedrijf.
 
 M: Leuk, ik neem aan dat dat super leuk is.
 
-> Ja dat is leuk ja, ik heb er van tevoren wel uitgebreid met haar over gehad. Wat zijn de consequenties.. Er kan zomaar een boze leerling rondlopen die schreeuwt Bouman is een kutwijf, en dan is het wel je moeder. Heb er dar wel op voorbereid. Uiteindelijk gaat het eigenlijk heel erg goed enuuh, zijn we heel tevreden allebei.
+> Ja dat is leuk ja, ik heb er van tevoren wel uitgebreid met haar over gehad. Wat zijn de consequenties.. Er kan zomaar een boze leerling rondlopen die schreeuwt Bouman is een kutwijf, en dan is het wel je moeder. Heb haar daar wel op voorbereid. Uiteindelijk gaat het eigenlijk heel erg goed enuuh, zijn we heel tevreden allebei.
 
 M: Kan me voorstellen dat het ook wel heftig is opzich, ook als puber
 
@@ -33,17 +34,17 @@ M: Ja.. want er is wel heel veel verandert de afgelopen 13 jaar.
 
 > Ja.. dan bedoel je specifiek in het onderwijs?
 
-M: Ja ... maar uberhaupt zegmaar. Als ik vergelijk met hoe mijn leven 13 jaar geleden en hoe het nu is zegmaar, kwa de economie, techinische ontwikkelingen en uuh.
+M: Ja ... maar uberhaupt zegmaar. Als ik vergelijk met hoe mijn leven 13 jaar geleden en hoe het nu is zegmaar, qua de economie, techinische ontwikkelingen en uuh.
 
-> Ja vooral techinisch hebben we wel veel veranderingen doorgemaakt, door de invoering van digitale schoolborden. Die zijn denk ik een jaar of 8 geleden bij ons ingevoerd. En dat maakt het voor mij als docent Frans mogelijk om Frankrijk de hele dag mijn klas in te halen.
+> Ja vooral technisch hebben we wel veel veranderingen doorgemaakt, door de invoering van digitale schoolborden. Die zijn denk ik een jaar of 8 geleden bij ons ingevoerd. En dat maakt het voor mij als docent Frans mogelijk om Frankrijk de hele dag mijn klas in te halen.
 
 M: oh fantastisch ja.. en dat is fijn?
 
-> Ja .. ja dat is helemaal geweldig. Want ik hoor s'ochtends het nieuws en ik het een uur later in de klas bespreken. Terwijl ik mijn boterhammetjes smeer ... hoor ik het en zoek ik snel fragmenten bij en laat ik het zien in de klas 1 t/m 6 en dat bespreek ik op verschillende niveau's natuurlijk.
+> Ja .. ja dat is helemaal geweldig. Want ik hoor s'ochtends het nieuws en ik kan het een uur later in de klas bespreken. Terwijl ik mijn boterhammetjes smeer ... hoor ik het en zoek ik snel fragmenten bij en laat ik het zien in de klas 1 t/m 6 en dat bespreek ik op verschillende niveau's natuurlijk.
 
 M: Oh ja wat goed... en dan kan je heel makkelijk, letterlijk wat je s'ochtends tegenkomt.. in de klas laten zien. Heb je daar een bepaald systeem voor? of hoe.. ?
 
-> Nou ik spring eigenlijk in op het nieuws wat er is. Als er groot nieuws is, en dat is er de afgelopen jaar helaas wel veel over Frankrijk, dan uuhm ... neem ik daar ook wel eens mijn hele les voor. Ik geef eigenlijk meer les om in het Frans... uhm maar als ik het over actualiteiten heb dan doe dat in de brugklas met hele simpele vragen van wie herken je, wat gebeurt er en wanneer.
+> Nou ik spring eigenlijk in op het nieuws wat er is. Als er groot nieuws is, en dat is er de afgelopen jaar helaas wel veel over Frankrijk, dan uuhm ... neem ik daar ook wel eens mijn hele les voor. Ik geef eigenlijk meer les om in het Frans... uhm maar als ik het over actualiteiten heb dan doe ik dat in de brugklas met hele simpele vragen van: wie herken je, wat gebeurt er en wanneer.
 
 M; Oh wow.. en dat gaat allemaal in het Frans?
 
@@ -51,11 +52,11 @@ M; Oh wow.. en dat gaat allemaal in het Frans?
 
 oh wat goed ja...
 
-> Die zijn wat langzamer en wat meer beeldmateriaal. En bij de bovenbouw gebruik ik meetal het normale nieuws. Of soms ook wat jeugdjournaal fragmenten .. en dan ga ik veel meer in op wat is het nieuws en wat betekent dat voor ons als Nedelander, hebben wij daar gelijk de effecten van? Wat betekent dat voor ons als Europeaan? En dat vooral in de context van ... uuhm ... extreem rechts bijvoorbeeld, radicalisering uuh.. wat betekent dat voor ons, wat betekenen die contacten tussen Wilders en Marie Le Pen, ja.. uuhm hoe staan we daar in; wat zijn die banden? Vooral ook om te laten zien van waarom is het relevant voor ons om te weten hoe die Fransen leven?
+> Die zijn wat langzamer en wat meer beeldmateriaal. En bij de bovenbouw gebruik ik meetal het normale nieuws. Of soms ook wat jeugdjournaal fragmenten .. en dan ga ik veel meer in op wat is het nieuws en wat betekent dat voor ons als Nederlander, hebben wij daar gelijk de effecten van? Wat betekent dat voor ons als Europeaan? En dat vooral in de context van ... uuhm ... extreem rechts bijvoorbeeld, radicalisering uuh.. wat betekent dat voor ons, wat betekenen die contacten tussen Wilders en Marie Le Pen, ja.. uuhm hoe staan we daar in; wat zijn die banden? Vooral ook om te laten zien van waarom is het relevant voor ons om te weten hoe die Fransen leven?
 
-Ja precies, maar wat ontzettend goed dat jij zowel kinderen Frans leert als het hebt ook over de wereld waar we in leven... en dat aan elkaar kan koppelen.
+Ja precies, maar wat ontzettend goed dat jij zowel kinderen Frans leert als het ook hebt over de wereld waar we in leven... en dat aan elkaar kan koppelen.
 
-> Ja,  dat was eigenlijk wel leuk, ik had, afgelopen weekend hadden we een tweedaagse, met de Nederlandse School, in uuh Groningen ... en daar waren we op te gast op de lerarenopleiding; op de universiteit lerarenopleiding. **Daar was Klaas van Veen, die was daar directeur, en die had het over talen als inhoudsloos vak en in de eerste instantie dacht ik --  was ik ietwat beledigd.. hehe. En uhm daarna begon hij dat uit te leggen en toen dacht ik ja dat is precies de rijkdom is van mijn vak. [sam: conclusie/ redenatie] Mijn vak heeft geen inhoud, ik moet die kinderen taal leren en met welke inhoud ik dat ook doe** ... als ze maar Frans leren uiteindelijk. En dat is natuurlijk iets dat we ... we hebben een boek in de onderbouw en in de bovenbouw hebben we eigen materiaal, wat we ook steeds actualiseren. Maar in de onderbouw kan ik ook zeggen ik doe vandaag het boek niet en ik doe iets anders wat veel actueler is maar wel met hetzelfde thema te maken heeft. Waarmee ze uiteindelijk dezelfde woorden leren en ook dat Frans wel ehm, wel kunnen en kennen... en ook nieuwsgieriger worden naar dat land en ... uuh ... kijk, voor die technische verandingen stond ik vooral dat boek te gebruiken en had ik zelf nog wel een video's die ik met veel moeite opnam en kopieerde, en hehehe [lachen], meenam en dan deed de televisie het weer niet of de video recorder of de film uuhm, liep vast ofzo
+> Ja,  dat was eigenlijk wel leuk, ik had, afgelopen weekend hadden we een tweedaagse, met de Nederlandse School, in uuh Groningen ... en daar waren we te gast op de lerarenopleiding; op de universiteit lerarenopleiding. **Daar was Klaas van Veen, die was daar directeur, en die had het over talen als inhoudsloos vak en in de eerste instantie dacht ik --  was ik ietwat beledigd.. hehe. En uhm daarna begon hij dat uit te leggen en toen dacht ik ja dat is precies de rijkdom van mijn vak. [sam: conclusie/ redenatie] Mijn vak heeft geen inhoud, ik moet die kinderen taal leren en met welke inhoud ik dat ook doe** ... als ze maar Frans leren uiteindelijk. En dat is natuurlijk iets dat we ... we hebben een boek in de onderbouw en in de bovenbouw hebben we eigen materiaal, wat we ook steeds actualiseren. Maar in de onderbouw kan ik ook zeggen: ik doe vandaag het boek niet en ik doe iets anders wat veel actueler is maar wel met hetzelfde thema te maken heeft. Waarmee ze uiteindelijk dezelfde woorden leren en ook dat Frans wel ehm, wel kunnen en kennen... en ook nieuwsgieriger worden naar dat land en ... uuh ... kijk, voor die technische veranderingen stond ik vooral dat boek te gebruiken en had ik zelf nog wel video's die ik met veel moeite opnam en kopieerde, en hehehe [lachen], meenam en dan deed de televisie het weer niet of de video recorder of de film uuhm, liep vast ofzo
 
 Precies, daar was je heel erg door belemmert... en dat waren ook alweer technische vooruitgangen, in relatie tot hoe het lang daarvoor was natuurlijk
 
@@ -63,7 +64,7 @@ Precies, daar was je heel erg door belemmert... en dat waren ook alweer technisc
 
 Heeft het te maken dat je uuhm.. vindt je dat zegmaar dat interessant om de kinderen context te geven, of gaat het er meer om dat Frankrijk voor jou, of Frans voor jou, daar ook een zegmaar een bepaalde waarde heeft? Of dat jij daar iets mee hebt met die taal zelf, persoonlijk?
 
-> Ikuh, ik heb uuuh, ja heb zelf als kind uuuhm uuuhm, toen ik met Frans begon te leren .. haalde  ik alleen 3 en 4en. Dus ik uuh heb ook meegemaakt hoe verschrikkelijk de taal is
+> Ikuh, ik heb uuuh, ja heb zelf als kind uuuhm uuuhm, toen ik Frans begon te leren .. haalde  ik alleen 3en 4en. Dus ik uuh heb ook meegemaakt hoe verschrikkelijk de taal is
 
 Ja .. en het was niet op een schaal van 5? [grapje]
 
@@ -75,7 +76,7 @@ Het was niet op een..
 hehehehe
 
 > en ik heb toen via een Frans meisje dat bij ons kwam logeren .. uuh.. Frans geleerd. Uhh... en daarna ja, eigenlijk echt wel ontdekt dat ik het een hele mooie taal vond en het eigenlijk wel kon. Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant uuh toch mensen wel liefde voor het vak bijbrengen. Maar vooral ook, vooral ook tja... **laten zien dat taal een middel is om mensen te ontmoeten**, en met mensen kennis te leren maken. En dat die mensen in hele verschillende contexten leven, dus dat kan Canada zijn, dat kan Vietnam zijn, dat kan Afrika zijn, dat kan Frankrijk zijn. **En tegelijkertijd leerlingen ook laten zien van ja ik haalde ook die 1en en 3en en 4en en het is goed gekomen met me.. hehe .. Dat bediscussieren ze dan als ik dat zeg, want ze vinden dat het goedgekomen is als je docent Frans bent**  hahaha...
-Maar eehm, maar het is gewoon te doen en als je de juiste aanpak vind dan kan je die taal wel leren en dan kan eigenlijk iedereen die taal leren. Dat is een beetje mijn dubbele drive
+Maar eehm, maar het is gewoon te doen en als je de juiste aanpak vind dan kan je die taal wel leren en dan kan eigenlijk iedereen die taal leren. Dat is een beetje mijn dubbele drive.
 
 En ook om vanuit je eigen ervaring, met dat je het dus moeilijk vond... eh, heb je dat uberhaupt meegenomen hoe jij vroeger les hebt gekregen, dat dat blijkbaar niet zo, of in ieder geval Frans niet zoveel invloed op je had..
 
@@ -103,7 +104,7 @@ Wat grappig, oh ja...
 
 maar misschien wel stukje bij beetje met je leerlingen
 
-> Ja ik denk dat je met kleine stapjes het wel naar een ander soort onderwijs kan komen en dat is natuurlijk wat de Nederlandse Shool nu ook wel toevoegt aan mijn gereedschapskist zegmaar.
+> Ja ik denk dat je met kleine stapjes het wel naar een ander soort onderwijs kan komen en dat is natuurlijk wat de Nederlandse School nu ook wel toevoegt aan mijn gereedschapskist zegmaar.
 
 Ja precies, want hoeveel heb je aan de workshops van de Nederlanse School? Geven die inzichten op dezelfde manier als jij dat zelf .. had toen je zelf op de middelbare school had, of ...zijn het meer bevestigingen van wat je al ziet?
 
@@ -113,14 +114,14 @@ Nouja eigenlijk over alles, sorry... een beetje
 
 > over alles...
 
-Over de Nederlandse Shool in het algemeen... hehehe.. hoe helpt dat jou om.. een beter mens te worden hehehehe
+Over de Nederlandse School in het algemeen... hehehe.. hoe helpt dat jou om.. een beter mens te worden hehehehe
 
 > ja hoe helpen ze mij om een beter mens te worden .. heheh uuuhm
 Nou, ik vind dat wel interessant, uuhm... ik vind zelf de masterclasses heel erg verrijkend, dat zijn de bijeenkomsten waarbij mensen van buiten komen vertellen over hun beroep.
 
 Ja en waarom vind je die ... wat is daar.. ?
 
-> **Die vind ik interessant omdat ze, mijn weer een andere kijk op de wereld geven en ik dus juist umm.. dat veranderen van perspectief, nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk** ... die ik niet uhm, in me heb. Maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussieren in het Frans, en dan hebben we het over.
+> **Die vind ik interessant omdat ze, mijn weer een andere kijk op de wereld geven en ik dus juist umm.. dat veranderen van perspectief, nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk** ... die ik niet uhm, in me heb. Maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.
 
 Wauw
 
@@ -130,18 +131,18 @@ Ja precies, en dan heeft het dus ook echt direct invloed op de onderwerpen waaro
 
 > Ja en **ik merk eigenlijk al die masterclasses dat ik in de week dat ik daar geweest ben zelfs nog ergens in mijn les wel kwijt kan. Dat ik dat toch mee kan nemen en ook weer me realiseer oja maar ik heb ook kinderen in de klas die dat gaan doen later. Die gaan naar dit beroep toe. Of die gaan een beroep doen in deze context en dat betekent dat ik die ook moet bedienen binnen mijn vak.** En ik heb dat inhoudsloze vak heheh, dus ik kan die inhoud er gewoon in stoppen, daar waar ik wel en uh, dat uh, dat vind ik heel verrijkend.
 
-Maar ik vind het zo ontzettend bijzonder om te horen dat je studenten, of je leerlingen, kunnen discussieren in het Frans. Ik heb zelf wel mijn Frans gehaald, en ik spreek geen woord Frans
+Maar ik vind het zo ontzettend bijzonder om te horen dat je studenten, of je leerlingen, kunnen discussiëren in het Frans. Ik heb zelf wel mijn Frans gehaald, en ik spreek geen woord Frans
 
 > Nee nee, nou dat is uh, ja dat kunnen ze wel heheh, en **dat heeft ook met uitdagen te maken wel**. En inderdaad prioriteiten
 
-En je daagt die leerlingen dus uit door ze een soort van, ja dus, eigenlijk heel verkeerd natuurlijk, maar door ze lekker te maken met interessante onderwerpen en ze aan te moedigen om daarover te discussieren
+En je daagt die leerlingen dus uit door ze een soort van, ja dus, eigenlijk heel verkeerd natuurlijk, maar door ze lekker te maken met interessante onderwerpen en ze aan te moedigen om daarover te discussiëren
 
 > Ja....
 
 En dat moet dan gebeuren in het Frans, Dat is hoe je ze uitdaagt of heb je heb ook andere manieren om .. ?
 
-> In feite krijgen zij uhm, nou wat wat, je vroeg net van wat is er verandert in het onderwijs uuh, die technische ontwikkeling is een belangrijke maar wat er de afgelopen jaren, een aantaal jaar geleden, ik weet niet echt het jaartal maar, wat een aantal jaar geleden nieuw is ingevoerd is het Europese referentie kader. Dat heet, als je zoekt op ERK.nl. dan kun je er meer informatie over vinden. Dat Europese referentie kader is eigenlijk een uuh, ze hebben binnen Europa bedacht van wij gaan als ministers van onderwijs met elkaar bedenken uh, hoe goed iedereen een taal moet leren, elke Europeaan moet zijn buurtalen kunnen spreken, en dan moeten we samen bepalen wat het minimumniveau is waarop ze dan die.. waarop we dat eisen.
-Maar om dat te kunnen bepalen moet je natuurlijk met elkaar een kader hebben dat iedere leerling doorloopt uuhm, je moet die niveau's vaststellen en dat niveau moet voor Nederland hetzelfde zijn als met Frans, als met Engels, want anders kan je niet zeggen van iedereen moet het leren op niveau 3 ofzo, of niveau 4 .. als je dat niet benoemd hebt. Ze hebben dus die niveau's benoemd en eigenlijk in de vorm van uhm, dat heet can-do statements, dus wat kan een leerling op dat niveau, en uhm, daarbij hebben ze 6 niveau's onderscheiden. Niveau A1, A2, B1, B2, C1, C2, en een gemiddelde scholier in het voortgezet onderwijs die doet eindexamen Frans op B1, ja op het niveau tussen B1 en B2 in.
+> In feite krijgen zij uhm, nou wat wat, je vroeg net van wat is er verandert in het onderwijs uuh, die technische ontwikkeling is een belangrijke maar wat er de afgelopen jaren, een aantal jaar geleden, ik weet niet echt het jaartal maar, wat een aantal jaar geleden nieuw is ingevoerd is het Europese referentie kader. Dat heet, als je zoekt op ERK.nl. dan kun je er meer informatie over vinden. Dat Europese referentie kader is eigenlijk een uuh, ze hebben binnen Europa bedacht van wij gaan als ministers van onderwijs met elkaar bedenken uh, hoe goed iedereen een taal moet leren, elke Europeaan moet zijn buurtalen kunnen spreken, en dan moeten we samen bepalen wat het minimumniveau is waarop ze dan die.. waarop we dat eisen.
+Maar om dat te kunnen bepalen moet je natuurlijk met elkaar een kader hebben dat iedere leerling doorloopt uuhm, je moet die niveau's vaststellen en dat niveau moet voor Nederlands hetzelfde zijn als met Frans, als met Engels, want anders kan je niet zeggen van iedereen moet het leren op niveau 3 ofzo, of niveau 4 .. als je dat niet benoemd hebt. Ze hebben dus die niveau's benoemd en eigenlijk in de vorm van uhm, dat heet can-do statements, dus wat kan een leerling op dat niveau, en uhm, daarbij hebben ze 6 niveau's onderscheiden. Niveau A1, A2, B1, B2, C1, C2, en een gemiddelde scholier in het voortgezet onderwijs die doet eindexamen Frans op B1, ja op het niveau tussen B1 en B2 in.
 
 Ja. en dat houdt dus in dat je een gesprek moet kunnen voeren.
 
@@ -151,7 +152,7 @@ Waanzinnig, sorry hoor ik ga er weer doorheen,... vertel verder... heheh ik ben 
 
 > Verwaarloost,
 
- ja .. verwaarloost, en op het moment dat je kan praten over dingen en kan discussieren en een bepaald begrip hebt van de werking van dingen, ongeacht of je ermee om kan gaan is super waardevol. En als je dat in andere talen kan doen dan is dat waanzinnig.
+ ja .. verwaarloost, en op het moment dat je kan praten over dingen en kan discussiëren en een bepaald begrip hebt van de werking van dingen, ongeacht of je ermee om kan gaan is super waardevol. En als je dat in andere talen kan doen dan is dat waanzinnig.
 
  > **Ja, nee, precies, dat is wel uuh, dat hebben ze niet altijd door hoor want toevallig vandaag zei ik in de 6e van uhm, ik ga jullie volgende week een exit enquete geven en daar doen we ook echt wat mee ...uuuh... we willen weten wat je eraan gehad hebt. Toen zei een meisje dat nota bene een 8 bij haar mondeling had en perfect Frans sprak van uhm, ja, ik kan het alleen nog niet echt spreken. Nou... je kan echt geweldig Frans spreken...je hebt niet door hoe goed je het kan.
 Oh oh oh, zei ze zo, en dat is gek dat we dus ze wel op een heel hoog niveau krijgen maar ze nog niet bewust krijgen van het feit dat ze op een heel hoog niveau zitten want dan moeten ze toch eerst naar Frankrijk of anderen zien op de universiteit om te merken hé ik kan echt wel wat.**
@@ -170,12 +171,12 @@ Oja sorry, ja precies.
 
 > Maar om, zegmaar, in Frankrijk naar een universiteit te kunnen gaan moet je C1 niveau halen.
 
-En dat ze dan op de brugklas daar al in geinteresseerd zijn
+En dat ze dan op de brugklas daar al in geïnteresseerd zijn
 
 > Ja en dan zijn er van die kleintjes die dan zeggen dat wil ik eigenlijk wel, hoe kan ik dat bereiken, hoe kan ik sneller door dat programma heen om uiteindelijk hoger dan B2 uit te komen. En uuh, dat heeft als restultaat gehad dat intussen ook 5 leerlingen hebben gehad die dat gehaald hebben. Die dus 1,5 niveau boven het eindexamen niveau uitkomen.
-En dat Europese referentie kader geeft dus iets van hé, dus ik kan steeds een hoger niveau bereiken en ik kan harden dan mijn lotgenoten zegmaar, ik stijg erboven uit. En dat is leuk. Ik wil uuh, ik wil de beste zijn ofzo, en dat is uuh, voegt echt wat toe.
+En dat Europese referentie kader geeft dus iets van hé, dus ik kan steeds een hoger niveau bereiken en ik kan harder dan mijn lotgenoten zegmaar, ik stijg erboven uit. En dat is leuk. Ik wil uuh, ik wil de beste zijn ofzo, en dat is uuh, voegt echt wat toe.
 
-en ik uuh, ik krijg een beetje het idee, en dat is misschien raar om te zeggen maar ik heb het idee dat jij daar zelf ook heel veel invloed op heeft gehad. Zeg maar als je praat over hoe je je leerlingen les geeft dan, nouja ik weet natuurlijk niet hoe andere docenten lesgeven maar het klinkt heel erg alsof je  ...
+en ik uuh, ik krijg een beetje het idee, en dat is misschien raar om te zeggen maar ik heb het idee dat jij daar zelf ook heel veel invloed op hebt gehad. Zeg maar als je praat over hoe je je leerlingen les geeft dan, nouja ik weet natuurlijk niet hoe andere docenten lesgeven maar het klinkt heel erg alsof je  ...
 
 > Nou ik heb een heel leuk team, moet ik zeggen. Daar ook alle credits aan. Want wij zijn eigenlijk steeds zoekend naar wat is de beste manier om les te geven. We zijn met zijn achten.
 
@@ -191,7 +192,7 @@ Wat goed! Wat vervelend, maar wat fijn.
 
 > **Ja het is heel fijn, want we hebben ook niet een schoolleiding die erboven op zit, van jongens die moet anders of beter. Daar krijgen we veel vrijheid in gelukkig.**
 
-En waar halen jullie dan je inspiratie vandaan? En je theorien en...het idee dat iets beter moet.
+En waar halen jullie dan je inspiratie vandaan? En je theorieën en...het idee dat iets beter moet.
 
 > Nou ehm, nou dat het beter moet is natuurlijk gewoon uhh, dat blijven we gewoon vinden. Onze sectievergadering gaan meestal over hoe kunnen we de werkdruk verlagen.
 
@@ -216,7 +217,7 @@ Wat fantastisch zeg! Dat ze dat doen...
 > Ja daar kan ik weer een week verder zegmaar... Dat is natuurlijk een mega compliment... en dan denk je van ja, kom erbij, je bent welkom.
 Of een leerling die nog eens een keer terugkomt, uuh, op iets wat je vertelt hebt, of uuh, iets wat je gedaan hebt... in de les.
 
-En dat is inderdaad je motivatie, maar ik probeerde ook een beetje te hinten op, nouja zoals je s'ochtends het nieuw kijkt, zijn er zegmaar bronnen, waar je dan over praat, of zijn er dan dinge, gaat dat heel natuurlijk?
+En dat is inderdaad je motivatie, maar ik probeerde ook een beetje te hinten op, nouja zoals je s'ochtends het nieuws kijkt, zijn er zegmaar bronnen, waar je dan over praat, of zijn er dan dingen, gaat dat heel natuurlijk?
 
 > Uhm,
 
@@ -246,23 +247,23 @@ Of ja, dat is echt puur van le Monde?
 
 en hoe uuh...
 
-> Maar dat zijn dan vaak meer apps om woordjes te leren bijvoorbeeld. Om werkwoorden te oefenen. Dus dat zijn meer drill apps.
+> **Maar dat zijn dan vaak meer apps om woordjes te leren bijvoorbeeld. Om werkwoorden te oefenen. Dus dat zijn meer drill apps.**
 
 en helpt dat?
 
-> Ja, dat helpt goed. Zeker voor jongetjes.
+> **Ja, dat helpt goed. Zeker voor jongetjes.**
 
 hehe hoezo, want dat zijn spelletes of.. ?
 
-> Ja het is een soort van spelletje. en uuh.. die zijn dan geligitimeerd mogen ze op de computer of de telefoon. Dat helpt dan vooral in klas 1 en 2 wel.
+> **Ja het is een soort van spelletje. en uuh.. die zijn dan geligitimeerd mogen ze op de computer of de telefoon. Dat helpt dan vooral in klas 1 en 2 wel.**
 
 En ook een beetje het competatieve zit er dan in?
 
-> Ja, ja, daar zit een ranking bij, waarbij ze de best kunnen zijn van de klas. Dus dat zijn mooie apps om je materiaal mee te ondersteunen.
+> **Ja, ja, daar zit een ranking bij, waarbij ze de best kunnen zijn van de klas. Dus dat zijn mooie apps om je materiaal mee te ondersteunen.**
 
-> En dus verder heb ik in de bovenbouw wel apps uuh... van bijvoorbeeld de Franse radio. Waarbij ze... die ik adviseer, zodat ze ook gewoon thuis Franse radio kunnen luisteren, of in de trein, of uh, op school in een tussenuur. Ik merk wel dat er kinderen zijn die dat doen om hun Frans te verbeteren.
+> **En dus verder heb ik in de bovenbouw wel apps uuh... van bijvoorbeeld de Franse radio. Waarbij ze... die ik adviseer, zodat ze ook gewoon thuis Franse radio kunnen luisteren, of in de trein, of uh, op school in een tussenuur. Ik merk wel dat er kinderen zijn die dat doen om hun Frans te verbeteren.**
 
-En jullie krijgen het dus voor elkaar om jullie leerlingen, ja dat is misschien een beetje het gymnasium natuurlijk, maar om jullie leerlingen dan zodanig te inspireren en te motieveren dat ze voorbij gaan aan wat er minimum of wat er moet gebeuren.
+En jullie krijgen het dus voor elkaar om jullie leerlingen, ja dat is misschien een beetje het gymnasium natuurlijk, maar om jullie leerlingen dan zodanig te inspireren en te motiveren dat ze voorbij gaan aan wat er minimum of wat er moet gebeuren.
 
 > Ja, ja,
 
@@ -292,9 +293,9 @@ Dus je zit dan heel erg op het stimuleren en belonen van kwaliteit... En leidt d
 
 > Altijd hé, je hebt natuurlijk, **de strevers in zo'n gymnasium dat leidt toch altijd tot stress ... uuh ... wat we dus dan bewust doen is dat we daarnaast ook een uuh... een niet exilentieprogramma hebben .. heheh .. waarbij we bijvoorbeeld in de 4e klas met iedereen die dat leuk vindt naar Brussel gaan. En daar selecteren we dan juist niet op niveau maar meer op motivatie en creativiteit.** Dus wie heeft de leukste plannen om die Brusselaars hier in Nederland mee te vermaken. Wat is je motivatie om naar Brussel te gaan. Weet je, dan schrijft zo'n kind van ik ga ieder jaar naar Frankrijk en ik wil nog wel een keer naar Frankijk dan denk ik van ja... Brussel ligt niet in Frankrijk, hallo. Maar daar gaat het dus niet om het niveau van Frans
 
-> **Ja nee dus... ik heb zelf ooit dat versnelde programma ingesteld in de onderbouw. En dat ben ik gaan doen omdat ik merkte dat ik een paar jongens had die enorm klierden, omdat ze gewoon te slim waren voor mijn les.** Gewoon puur uit verveling. En ik kwam er niet aan toe om de zwakkere broeders meer training te geven omdat die slimmere eigenlijk te goed waren. En zich dus verveelden. En toen ben ik eigenlijk aan de slag gegaan met een uuh, versneld programma. Juist om die zwakkere weer gerust te kunnen stellen. Dat is eigenlijk altijd, wat mij betrefd mag je nooit excelleren in een klas zonder uh, te remedieren. Je moet juist dat excelleren inzetten om met die zwakkere club te kunnen remedieren.
+> **Ja nee dus... ik heb zelf ooit dat versnelde programma ingesteld in de onderbouw. En dat ben ik gaan doen omdat ik merkte dat ik een paar jongens had die enorm klierden, omdat ze gewoon te slim waren voor mijn les.** Gewoon puur uit verveling. En ik kwam er niet aan toe om de zwakkere broeders meer training te geven omdat die slimmere eigenlijk te goed waren. En zich dus verveelden. En toen ben ik eigenlijk aan de slag gegaan met een uuh, versneld programma. Juist om die zwakkere weer gerust te kunnen stellen. Dat is eigenlijk altijd, wat mij betreft mag je nooit excelleren in een klas zonder uh, te remedieren. Je moet juist dat excelleren inzetten om met die zwakkere club te kunnen remedieren.
 
-Ja precies dus uh, het klinkt, ik vond het grappig dat je het zei dus over, als je het hebt over excellentie en over het stimuleren daarvan, dan denk ik heel snel van oh, daar zag ik een heel ander soort cultuur voor me, dan wat jij beschreef met het enthousiastme van je leerlingen ... maar ik kan me ook heel goed voorstellen dat door dit op zo'n manier te doen dat jullie dus niet, geen oordeel hebben over kwaliteit,
+Ja precies dus uh, het klinkt, ik vond het grappig dat je het zei dus over, als je het hebt over excellentie en over het stimuleren daarvan, dan denk ik heel snel van oh, daar zag ik een heel ander soort cultuur voor me, dan wat jij beschreef met het enthousiasme van je leerlingen ... maar ik kan me ook heel goed voorstellen dat door dit op zo'n manier te doen dat jullie dus niet, geen oordeel hebben over kwaliteit,
 
 > nee, nee
 
@@ -328,7 +329,7 @@ En die secties zijn allemaal puur op taal en op vak?
 
 Dus je zit dan met een team van Franse docenten ... ben je aan het uitvogelen hoe [sam: onverstaanbaar].... en uuh.. is er wel eens een soort van kruisbestuiving tussen verschillende vakken? Want ik kan me heel goed voorstellen dat de manier van hoe jij Frans geeft heel waardevol is voor hoe er wiskunde wordt gegeven.
 
-> Ja nou dat is eigenlijk .. sowieso uuh.. proberen wij .. **kijk om een reis te organiseren dat is niet zo makkelijk want wij hebben hele enthousiaste docenten op school. Dus ik geloof dat zij evenveel buitenschoolse activiteiten als dagen per jaar hebben ofzo. hahah... dus uuh, om uberhaupt kans te maken om iets te mogen buiten het curriculum om, dat is buiten het vaste programma om, moet je eigenlijk al vakoverstijgend gaan werken, want anders ben je niet interessant genoeg als project om goedgekeurd te worden.** Dus bijvoorbeeld onze uitwisseling met Brussel is samen met geschiedenis. En onze mun, dat is dus die Franse verenigde naties .. dat doen we samen met een collega aardrijkskunde en daar is laatst, daar is vorig jaar ook een collega engels meegeweest want die organiseert de mun weer voor engels dus [1/2 woorden onverstaanbaar] bij elkaar te kijken. Dus dat doen we sowieso. ... **Wat ik nu interessant vind is dat we eigenlijk door de Nederlandse school .. uuh.. ook alles wat we daar leren proberen we binnen het team te krijgen. Een belangrijk onderdeel wat wij als docenten van de Nederlandse school in het Stedelijk gymnasium belangrijk vinden, is dat docenten veel meer met elkaar in contact komen en van elkaar leren. En doordat ze iets interessants zien bij mij, of bij een ander, ... in ieder geval de ruimte krijgen om bij elkaar te kijken en daardoor geinspireerd raken om zelf ook weer te veranderen.**
+> Ja nou dat is eigenlijk .. sowieso uuh.. proberen wij .. **kijk om een reis te organiseren dat is niet zo makkelijk want wij hebben hele enthousiaste docenten op school. Dus ik geloof dat zij evenveel buitenschoolse activiteiten als dagen per jaar hebben ofzo. hahah... dus uuh, om uberhaupt kans te maken om iets te mogen buiten het curriculum om, dat is buiten het vaste programma om, moet je eigenlijk al vakoverstijgend gaan werken, want anders ben je niet interessant genoeg als project om goedgekeurd te worden.** Dus bijvoorbeeld onze uitwisseling met Brussel is samen met geschiedenis. En onze mun, dat is dus die Franse verenigde naties .. dat doen we samen met een collega aardrijkskunde en daar is laatst, daar is vorig jaar ook een collega engels meegeweest want die organiseert de mun weer voor engels dus [1/2 woorden onverstaanbaar] bij elkaar te kijken. Dus dat doen we sowieso. ... **Wat ik nu interessant vind is dat we eigenlijk door de Nederlandse school .. uuh.. ook alles wat we daar leren proberen we binnen het team te krijgen. Een belangrijk onderdeel wat wij als docenten van de Nederlandse school in het Stedelijk gymnasium belangrijk vinden, is dat docenten veel meer met elkaar in contact komen en van elkaar leren. En doordat ze iets interessants zien bij mij, of bij een ander, ... in ieder geval de ruimte krijgen om bij elkaar te kijken en daardoor geïnspireerd raken om zelf ook weer te veranderen.**
 
 En dan leer je van elkaar.. dan neem je dingen mee die niet per se gebonden zijn aan je vak maar .... en uum buiten school. In je persoonlijke kringen. Bespreek je daar je werk en haal je daar inspiratie uit?
 
@@ -348,8 +349,8 @@ Ja... gelukkig ...
 
 En dat inspireert je ook weer... ik kan me voorstellen dat je alleen daaruit al .. ja zo'n inhoudsloos vak, je kan over alles praten zolang het de discussie
 
-> **ja je kan over alles praten. Ja.. jaa... zo heb ik ook een oud leerling die erg internationaal bezig is gevraagd of zij ook zo'n, tja zo noemen dat bij de Nederlandse School supernova, ik vind het een beetje een maffe term maar, of zij ook supernova wilde worden en zij is bijvoorbeeld in mij les komen vertellen over het vrijwilligerswerk wat zij doet in uuh, in Griekenland.
-Daar woont ze nu, daar loopt ze nu stage. En daar is ze vrijwilligster in dat vluchtelingenkamp in Idebedi [spelling?]. Wat heel veel in het nieuws is. Ja dat heeft ze in klas 2 en in klas 6 in het Frans over verteld. Zij kan perfect Frans. Ja dat is wel weer heel gaaf om te zien dat jou oud leerling dat daar staat te doen dat het de normaalste zaak van de wereld is. Dus toevallig heb ik vandaag klas 2 ook weer een mailtje van haar voorgelezen, want ze is weer terug want dat kamp gaat nu dicht enzo. Ja dat is wel iets wat die kinderen dan raakt, van hé maar hoe is het nu met Eline,**
+> **ja je kan over alles praten. Ja.. jaa... zo heb ik ook een oud leerling die erg internationaal bezig is gevraagd of zij ook zo'n, tja zo noemen dat bij de Nederlandse School supernova, ik vind het een beetje een maffe term maar, of zij ook supernova wilde worden en zij is bijvoorbeeld in mij les komen vertellen over het vrijwilligerswerk wat zij doet in uuh, in Griekenland.**
+**Daar woont ze nu, daar loopt ze nu stage. En daar is ze vrijwilligster in dat vluchtelingenkamp in Idebedi [spelling?]. Wat heel veel in het nieuws is. Ja dat heeft ze in klas 2 en in klas 6 in het Frans over verteld. Zij kan perfect Frans. Ja dat is wel weer heel gaaf om te zien dat jou oud leerling dat daar staat te doen dat het de normaalste zaak van de wereld is. Dus toevallig heb ik vandaag klas 2 ook weer een mailtje van haar voorgelezen, want ze is weer terug want dat kamp gaat nu dicht enzo. Ja dat is wel iets wat die kinderen dan raakt, van hé maar hoe is het nu met Eline,**
 
 Je haalt echt de buitenwereld naar binnen .. in de klas. Het enige portaal wat je gebruikt is Frans en voor de rest is alles mogelijk.
 
@@ -392,7 +393,7 @@ Is er een manier hoe jij in je klas. Hoe zou jij dit in jou klas oplossen? Want 
 
 Ja dat kan ik me voorstellen. ... want de mensen die minder ervaring hebben die hebben natuurlijk weer iets anders heel erg waardevols.
 
-> Daarom.. Daarom. Dat betekent ... ja dat heb ik ooit van een collega geschiedenis gehoord, **he van je moet altijd een soort gelijkwaardigheid in die expertpositie creeeren. Dus je bent allemaal expert in iets.**
+> Daarom.. Daarom. Dat betekent ... ja dat heb ik ooit van een collega geschiedenis gehoord, **he van je moet altijd een soort gelijkwaardigheid in die expertpositie creëeren. Dus je bent allemaal expert in iets.**
 
 Ja en dat daar ruimte voor is...
 
@@ -426,11 +427,11 @@ Je hebt dus al verteld dat je al heel veel haalt uit die masterclasses. Dat je d
 
 Hoe bedoel je?
 
-> Ja nou, de Nederlandse School is een ontmoeting iedere keer weer met diezelfde docenten die dat programma volgen. En uuh, uit die ontmoetingen en gesprekken met die mensen haal ik ook veel. Die zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe ze die dingen oplossen. Dezlfde dingen waar ik tegenaan loop.
+> Ja nou, de Nederlandse School is een ontmoeting iedere keer weer met diezelfde docenten die dat programma volgen. En uuh, uit die ontmoetingen en gesprekken met die mensen haal ik ook veel. Die zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe ze die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.
 
-Fantastich ja. en dat kunnen met elkaar delen en daar leren jullie dan van
+Fantastisch ja. en dat kunnen met elkaar delen en daar leren jullie dan van
 
-> Ja ... **vandaag nog lettelijk in mijn 6e klas nog een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord en heb dat met mijn leerlingen gedeeld.**
+> Ja ... **vandaag nog letterlijk in mijn 6e klas nog een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord en heb dat met mijn leerlingen gedeeld.**
 
 Ja en het is ook bijzonder want je ontmoet mensen in hetzelfde beroep van verschillende scholen. En dat is super waardevol.
 
