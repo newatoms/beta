@@ -22,7 +22,7 @@ Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf 
 
 Op een aantal van deze vragen heeft Gerdien Ort, docente Nederlands, ons wat antwoorden gegeven:
 
- “Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
+“Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
 
 “Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit op gaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie. Zo hebben we in onze sectie, Niet helemaal door de Nederlandse school, maar hebben we wel besloten om de voorbeeld in vwo 5 een lesmethode af te schaffen en daar ben ik bijvoorbeeld een heel groot voorstander van in de bovenbouw van HAVO VWO…”
 
@@ -30,10 +30,10 @@ Op een aantal van deze vragen heeft Gerdien Ort, docente Nederlands, ons wat ant
 
 “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
 
-“Ik werk ook met oud leerlingen.  Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.”
+“Ik werk ook met oud leerlingen. Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.”
 
 “Als ik dan de enquetes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan.”
 
 “Iemand zei ik heb nog nooit zoveel geleerd bij Nederlands maar dat komt door wat we doen in de lessen.”
 
-“dus ik heb nu geleerd dat als ik maar niet te enthousiast, dat ik ze wel weer warm krijg het is iets totaal anders dan met leerlingen.  leerlingen doen alles voor mij maar docenten die moet je op een andere manier daarbij bertrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je een goeie wegen voor vinden.”
+“...dus ik heb nu geleerd dat als ik maar niet te enthousiast ben, dat ik ze wel weer warm krijg. Het is iets totaal anders dan met leerlingen. leerlingen doen alles voor mij, maar docenten die moet je op een andere manier daarbij bertrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je een goeie wegen voor vinden.”
