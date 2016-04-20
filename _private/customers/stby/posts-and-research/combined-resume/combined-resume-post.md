@@ -1,21 +1,46 @@
-# Combined Resume STBY
 
-At STBY we believe that all our strengths come for the combination of skills and experiences of our team members. To show you (and ourselves) how awesome our combined experiences are we will use this article to describe STBY as a person. This enables us to create a context in which it becomes clear how amazing it is that all these experiences, skills an traits come together as a whole.
 
-To explain to you who I am and what I am capable of I think it is suitable to show you how I have gotten to where I am now. My whole life I have been caught between two interests. Human behavior and design. To feed these interests I have done quite a lot of studies and worked in a lot of different places. To get a better understanding of the workings of the mind of an individual I have studied Psychology. To place this in the context of society I have followed courses in  Sociology and Cultural studies. To give myself insight in the process of creation I have studied Interaction design, Industrial design, Ergonomics and Consumer Product Design. I have also studied Computing Sciences, Ethnography, photography and Choreography, studies that both view the process of creation form the perspective of the creator and the user. This education enabled me to get jobs in my field of interest.
+<img src="http://i.imgur.com/fqbqlEv.png" width=100% />
 
-To develop my skills after my education I have worked in several positions for a lot of different companies. I have been an ergonomist at a Dutch steel producer, where I focused on improving the labour conditions of the employees. I have been an account manager at an aviation company, where I focussed on keeping private individuals and employees fit and healthy.
-I have been consultant at a company that focused on improving labour conditions of employees in the whole of Holland. By trying to improve the health and labour condition of employees I often had to look at the tools they use and the environment in which they worked. This has given me a lot of insight how these tools where intended, how they were used and the damage a misunderstanding between the designer and the user of a product or service can do. It also taught me a lot about how I could solve these problems.
+# I am STBY.
 
-In another time and place I tried to empower citizens to create and understand products and processes for more transparency, with the belief that everyone can be creative and innovative as long as they have a conducive environment. I wanted to give citizens the means to contribute to the world they live in.  I have done this as a User-Researcher in a public laboratory and as head of an open design lab.  My Experience with enabling citizens to innovate has greatly enhanced my ability to stand in someone else's shoes and given me a great deal of insight in the thought process of users.
+> Alone we can do so little, together we can do so much. -- Helen Keller
 
-During this time I also was a Choreographer for the musical *Hair* and I designed Printed Materials for EPIC (Ethnographic Praxis in Industry), a congress that focuses on the perspective of the user.  
+A little while back I became the research partner of the *What Design Can Do* Challenge. In the last edition of the challenge we worked to create briefs that inspire and empower designers to come up with ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnect between the creator and the user. This can be between government and the refugees that try to find a safe haven, between the education system and its students, or a car manufacturer and a driver.
 
-At some point I founded a company where my main focus was on the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms and usability the research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction.
-Here I have investigated the needs and user patterns of costumers and did [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for, among others: Philips, KLM, KPN, Aids Fonds, Grolsch, and Rijkswaterstaat. The company i founded got bought up by an advertising agency. I became their usability director and took responsibility for the development and execution of all consumer research and copy consultancy. Here I had the ability to implement the knowledge I had from both perspectives towards a commercial goals and have experienced a very distinct and measurable way to implement conclusions drawn from knowledge of user behavior. During this time, I have been greatly involved in the coming of age of the internet-centric business enabling me to create a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
+Over the past few decades I have, for the most part unknowingly, educated myself to view problems from both the perspective of the user and the creator. In order to give you an idea of how I enabled myself to do this, I will try to describe the road I have taken to get here, and the lessons I learned along the way.
 
-Even though now I have accumulated quite some knowledge and experience, I did not feel quite equipped yet to start my own company that brought my main interests fully together. In an attempt to gain the capabilities to implement my findings I studied Marketing and Communication and went to a business school. In the final two years of my studies I started STBY.
+<img src="http://i.imgur.com/CSqEf4a.png" width=100% />
 
-My educations and work experiences have enabled me to more fully understand the ways I can *use* my knowledge in order to realize effective service design. It has given me insight within the design process, and not solely in understanding the user. It has also enabled me to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
+## “My whole life I have been caught between two interests: human behavior and design.”
 
-Our shared work experience and knowledge, in it's vastness, has taught us to identify and solve problems in complex situations, to understand and influence human behavior, and to comprehend how businesses function. All of these experiences have laid the sound foundation upon which STBY has been built.
+To feed these interests, I have done quite a variety of studies and worked in a lot of different places. To get a better understanding of the workings of the mind of an individual I have studied Psychology, and to place that knowledge into the context of society I have followed courses in Sociology and Cultural studies.
+
+To understand different design processes I have studied Interaction design, Industrial design, Ergonomics and Consumer Product Design. I have also studied Ethnography, Photography and Choreography, studies that view the process of creation from the perspective of both the creator and the user.
+
+## "I have always operated with the objective of making things better for people.”
+
+
+To develop my skills after my education, I have worked in several positions for a lot of different companies. I have been an ergonomist at a Dutch steel producer, an account manager at an aviation company, and a consultant at a large labour force-oriented firm. Every time my goal was the same: to improve the labour conditions and health of employees, sometimes within the company and other times for other firms. In order to do this, I often had to look at the tools employees used and the environment in which they worked. I found it heartbreaking to see how much damage a misunderstanding between the designer and the user of a product or service can do.
+
+Later, I tried to empower citizens to create and understand products and processes with the belief that everyone can be creative and innovative as long as they have a conducive environment. I wanted to give citizens the means to contribute to the world in which they live. It is so easy to forget how much we take our everyday activities for granted, even though they may seem unobtainable to others. Trying to help people undertake things that are usually outside their reach was an amazing and sometimes frustrating experience.  
+
+This joy and frustration greatly reignited my appreciation for what I was attempting to do and gave me a great deal of insight into the thought processes of the people I was trying to help. I have done this as a User-Researcher in a public laboratory and as head of an open design lab.  
+
+During this time I was also a Choreographer for the musical *Hair*, and I designed some printed materials for EPIC 2013, a congress that focuses on the perspective of the user.  
+
+<img src="http://www.catfeather.com/sitebuilder/images/long_splice_illustration.gif" width=100% />
+
+## “The first company I founded mainly focused on copy consultancy and user-research.”
+
+I researched the use of products and service in an attempt to draw conclusions that could increase their effectiveness and make the users happier. I did this for Philips, KLM, KPN, Aids Fonds, Grolsch, and Rijkswaterstaat, among others. At some point, the company was bought by an advertising agency and I became their usability director. Here, I continued to do the same thing I had before, but the big difference was that the goal was much more commercial, making it much easier to measure the effects of products and services.
+
+Even though I greatly enjoyed working at the advertising agency, I did not feel that I wanted to work there for the rest of my life. I decided that once again I would try to start my own company, but this time it would be something that fully brought my new-found interests and insights together. To enable myself to do this and to more clearly understand the business side of things, I returned to university and studied Marketing, Communication and Computing Sciences. Now I was ready.
+
+<img src="http://i.imgur.com/vqCHsIQ.png" width=100% />
+
+## “I am not a person nor am I a group.”
+
+My education and work experiences have enabled me to more fully understand the ways I can *use* my knowledge in order to produce effective service design. It has given me insight within the design process, and not solely in understanding the user. It has also enabled me to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
+
+I am a collection of people and experiences in different times and places. For my whole life I have been searching for a place where I belong, and roughly 12 years ago I materialized. All the things I've learned have taught me to identify and solve problems in complex situations, to understand and influence human behavior, and to comprehend how businesses function. I am [STBY](http://www.stby.eu/meet-the-team/).
