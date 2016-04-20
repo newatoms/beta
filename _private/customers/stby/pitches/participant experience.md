@@ -1,12 +1,12 @@
-## What was it like to work with STBY?
+## Stories are at the core of what we do
 
 ### Goal
 
-To illuminate a critical part of STBY's design research process and the research participant's importance therein.
+To inspire readers with a research participant's narrative
 
 ### Action
 
-We tell the story of a research participant's experience working with STBY in a way that illustrates the way STBY steps into the shoes of its participants, actively integrating the people who will use future products and services in the creation if these products and services.
+We tell the story of a research participant and their experience working with STBY in a way that illustrates the way STBY steps into the shoes of its participants, actively integrating the people who will use future products and services in the creation if these products and services.
 
 ### What we need from you
 Either information from you about a research participant or an interview of about an hour with a research participant.
