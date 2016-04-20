@@ -1,8 +1,6 @@
 # The influence of context on the perception of art
 
-<img src="https://nrc-reader.s3.amazonaws.com/articles/895/assets/3071/cms_retina.full_cover.jpg
-" width=50% /><img src="http://static.webshopapp.com/shops/042277/files/035407132/airpart-art-collection-nachtwacht-geschetst.jpg
-" width=50% />
+<img src="https://nrc-reader.s3.amazonaws.com/articles/895/assets/3071/cms_retina.full_cover.jpg" width=50% /><img src="http://static.webshopapp.com/shops/042277/files/035407132/airpart-art-collection-nachtwacht-geschetst.jpg" width=50% />
 
 ## Context: The space the art is displayed in
 
@@ -10,8 +8,7 @@ In these two photos we can see the world famous "Nachtwacht" by Dutch painter Re
 
 
 
-<img src="http://media.nu.nl/m/m1mxj8na9p2x_wd640.jpg" width=50% /><img src="https://cvandaag.nl/wp-content/uploads/2015/04/nachtwacht-cvandaag1.jpg
-" width=50% />
+<img src="http://media.nu.nl/m/m1mxj8na9p2x_wd640.jpg" width=50% /> <img src="https://cvandaag.nl/wp-content/uploads/2015/04/nachtwacht-cvandaag1.jpg" width=50% />
 
 ## Context: The things that happen in the space the art is displayed in.
 
