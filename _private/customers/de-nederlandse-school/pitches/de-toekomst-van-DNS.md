@@ -6,7 +6,7 @@ Om scholen/docenten meer te betrekken in de vorming en toekomst van de Nederland
 
 ## Motivation
 
-Dit onderwerp is interessant en inspirerend voor alle deelnemende partijen. Daarnaast maakt het de Nederlandse School meer benaderbaar en motiveert het docenten om een waardevolle bijdrage te leveren aan de toekomst van de Nederlandse School.
+Dit maakt het de Nederlandse School meer benaderbaar en motiveert het docenten om een waardevolle bijdrage te leveren aan de toekomst van de Nederlandse School.
 
 ## Assumption
 
