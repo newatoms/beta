@@ -36,7 +36,7 @@ Elise: “En tegelijkertijd leerlingen laten zien, ik haalde ook die 1en, 3en en
 
 Elise: “nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als Alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
 
-## Om meer inzicht te krijgen in hoe docenten zichzelf blijven ontwikkelen zijn we nog op zoek naar antwoorden op de volgende vragen.
+## We zijn nog op zoek naar antwoorden op de volgende vragen.
 
 * Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
 * Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
