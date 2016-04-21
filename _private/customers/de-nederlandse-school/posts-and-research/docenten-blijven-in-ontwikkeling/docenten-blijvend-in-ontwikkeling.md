@@ -32,7 +32,7 @@ Elise:  “...toen ik Frans begon te leren haalde  ik alleen 3en 4en. Dus ik heb
 
 Elise: “Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant mensen liefde voor het vak bijbrengen, maar vooral ook, laten zien dat taal een middel is om mensen te ontmoeten.
 
-Elise: “En tegelijkertijd leerlingen laten zien, ik haalde ook die 1en, 3en en 4en en het is goed gekomen met me. Dat bediscussiëren ze dan als ik dat zeg, want ze vinden dat het goedgekomen is als je docent Frans bent”
+Elise: “En tegelijkertijd leerlingen laten zien, ik haalde ook die 1en, 3en en 4en en het is goed gekomen met me. Dat bediscussiëren ze dan als ik dat zeg, want ze betwijvelen of het goedgekomen is als je docent Frans bent”
 
 Elise: “...nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als Alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
 
