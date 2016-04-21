@@ -4,7 +4,7 @@
 
 # I am STBY.
 
-> Alone we can do so little, together we can do so much. -- Helen Keller
+> Alone we can do so little, together we can do so much. — Helen Keller (the first deafblind person to earn a Bachelor of Arts degree).
 
 A little while back I became the research partner of the *What Design Can Do* Challenge. In the last edition of the challenge we worked to create briefs that inspire and empower designers to come up with ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnect between the creator and the user. This can be between government and the refugees that try to find a safe haven, between the education system and its students, or a car manufacturer and a driver.
 
