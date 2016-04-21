@@ -6,36 +6,24 @@ Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om 
 
 Maar ook wij hebben soms een frisse blik nodig.
 
-Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen willen wij een blogpost schrijven waarin wij de feedback van docenten over de workshops –en de Nederlandse School in het algemeen– verwerken. Wij denken veel te kunnen leren van antwoorden op de volgende vragen:
+Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen schrijven wij een blogpost over wat docenten vinden wat wij beter kunnen doen.
 
-* Naar hoeveel workshops ben je geweest?
-* Waren ze allemaal hetzelfde in kwaliteit?
-* Was er één minder goed dan anderen en hoe kwam dat?
-* Hoe is de sfeer tijdens de workshops, en hoe zou deze nog beter kunnen worden?
-* Voldoen de workshops aan je verwachtingen?
-* Hoe zouden we duidelijkere verwachtingen kunnen scheppen?
-* Vind je het geloofwaardig wat we vertellen
-* Hoe vind je de presentatie van de workshops
-* Blijft de stof hangen of zou opvolging op de workshops helpen.
-* Is er iets wat je dwars zit m.b.t de Nederlandse School?
-
-
-Een van de docenten:
+Eén van de docenten:
 
 ## Doe meer met het verschil in ervaring tussen docenten
 
 > ...sommige docenten geven net les, die staan nog te overleven in de klas en anderen die staan er al 20 jaar en hadden zin in weer eens een nieuwe drive en nieuwe ontmoetingen.
 
 Wat is het nadeel hiervan?
-> ...ik merk dat je elkaar soms snel niet spreekt. Dat je dan de opdracht samen moet doen en dat ik denk ja maar, dit is een beetje jammer van mij tijd ofzo.
-Je kan voor twee manieren kiezen. Je kan of niveaugroepen maken, of je kan er juist voor kiezen om dit niet te doen en de ervarenere mensen de expert te laten zijn. En ik probeer dat af te wisselen.
+> ...ik merk dat je elkaar soms snel niet spreekt. Dat je dan de [te makkelijke] opdracht samen moet doen ... dit is een beetje jammer van mij tijd.
+Je kan voor twee manieren kiezen [om dit op te lossen]. Je kan of niveaugroepen maken, of je kan er juist voor kiezen om dit niet te doen en de meer ervaren mensen de expert te laten zijn... ik probeer dat af te wisselen.
 
 Wat is het voordeel van de tweede optie?
-> ...ik heb ooit van een collega geschiedenis gehoord: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëeren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer alle nieuwe theorieën en inzichten. En is weer jong en energiek. Heeft weer meer puf voor dingen dan ik of heeft weer mooier materiaal, of meer ict vaardigheden waar ik van kan leren. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de experise moeten zoeken.
+> ...ik heb ooit van een collega geschiedenis gehoord: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëeren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer alle nieuwe theorieën en inzichten. ...[Diegene] heeft weer meer puf voor dingen dan ik of ... mooier materiaal, ...of ict vaardigheden waar ik van kan leren. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de experise moeten zoeken.
 
 Dus de Nederlandse School kan dit dus stimuleren door nadruk te leggen op het feit dat niet iedereen evenveel ervaring heeft, maar dat dat niet betekent dat daardoor de kennis minder waardevol is?
 
-> Ja want zij geven aan ... met elkaar weten we een heleboel... samen kennen we een heleboel mensen [en] kun je interessante mensen uitnodigen. En tegelijkertijd denk ik, ja met elkaar weten we een heleboel, dat kan je ook veel meer inzetten in het ontwerpen van het materiaal. Vandaag nog letterlijk in mijn 6e klas nog een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord en heb dat met mijn leerlingen gedeeld.
+> Ja want zij geven aan ... met elkaar weten we een heleboel... samen kennen we een heleboel mensen [en] kun je interessante mensen uitnodigen. En tegelijkertijd denk ik, ja met elkaar weten we een heleboel, dat kan je ook veel meer inzetten in het ontwerpen van het materiaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord...
 
 Wat kan de Nederlandse school doen om dit meer te stimuleren?
 
