@@ -10,7 +10,7 @@ Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf 
 
 ## Hoe blijven Gerdien en Elise zich ontwikkelen?
 
-We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses be de Nederlandse School en zijn altijd actief bezich met hun eigen ontwikkeling als docent. Hier onder zijn een aantal quotes uit onze gesprekken te lezen.
+We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses be de Nederlandse School en zijn altijd actief bezich met hun eigen ontwikkeling als docent. Hieronder zijn een aantal quotes uit onze gesprekken te lezen.
 
 Gerdien: “Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
 
