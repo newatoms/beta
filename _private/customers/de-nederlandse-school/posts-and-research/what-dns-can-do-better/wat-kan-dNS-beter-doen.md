@@ -6,19 +6,7 @@ Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om 
 
 Maar ook wij hebben soms een frisse blik nodig.
 
-Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen schrijven wij een blogpost  over wat docenten vinden wat wij beter kunnen doen. Wij denken veel te kunnen leren van antwoorden op de volgende vragen:
-
-* Naar hoeveel workshops ben je geweest?
-* Waren ze allemaal hetzelfde in kwaliteit?
-* Was er één minder goed dan anderen en hoe kwam dat?
-* Hoe is de sfeer tijdens de workshops, en hoe zou deze nog beter kunnen worden?
-* Voldoen de workshops aan je verwachtingen?
-* Hoe zouden we duidelijkere verwachtingen kunnen scheppen?
-* Vind je het geloofwaardig wat we vertellen
-* Hoe vind je de presentatie van de workshops
-* Blijft de stof hangen of zou opvolging op de workshops helpen.
-* Is er iets wat je dwars zit m.b.t de Nederlandse School?
-
+Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen schrijven wij een blogpost over wat docenten vinden wat wij beter kunnen doen.
 
 Eén van de docenten:
 
