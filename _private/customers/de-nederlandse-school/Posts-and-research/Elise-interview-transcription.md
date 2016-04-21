@@ -370,7 +370,7 @@ ja sorry
 
 Met de ervaring van de docenten?
 
-> **Ja de ervaring die mensen hebben. Mensen komen soms met veel ervaring binnen en het is misschien leuk om daar mee uit te delen.**
+> **Ja de ervaring die mensen hebben. Mensen komen soms met veel ervaring binnen en het is misschien leuk om daar meer uit te delen.**
 
 en rekening houden ook in de zin van dat het soms te snel kan gaan voor de minder ervaren mensen?
 
