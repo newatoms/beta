@@ -17,7 +17,7 @@ Het zou interessant zijn om de antwoorden van een onervaren met een zeer ervaren
 
 ## Assistance
 
-Meer contactgegevens van docenten. Of, een nieuwe manier van het benaderen van docenten.
+Meer contactgegevens van docenten of hulp bij het benaderen van docenten.
 
 ## Outcome
 * Docenten en scholen enthousiasmeren om zich aan te sluiten bij dNS
