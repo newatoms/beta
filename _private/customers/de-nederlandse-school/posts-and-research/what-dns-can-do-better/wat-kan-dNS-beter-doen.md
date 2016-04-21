@@ -6,7 +6,7 @@ Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om 
 
 Maar ook wij hebben soms een frisse blik nodig.
 
-Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen willen wij een blogpost schrijven waarin wij de feedback van docenten over de workshops –en de Nederlandse School in het algemeen– verwerken. Wij denken veel te kunnen leren van antwoorden op de volgende vragen:
+Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen schrijven wij een blogpost  over wat docenten vinden wat wij beter kunnen doen. Wij denken veel te kunnen leren van antwoorden op de volgende vragen:
 
 * Naar hoeveel workshops ben je geweest?
 * Waren ze allemaal hetzelfde in kwaliteit?
