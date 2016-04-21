@@ -23,7 +23,7 @@ Je kan voor twee manieren kiezen [om dit op te lossen]. Je kan of niveaugroepen 
 
 ### Dus de Nederlandse School kan dit dus stimuleren door nadruk te leggen op het feit dat niet iedereen evenveel ervaring heeft, maar dat dat niet betekent dat daardoor de kennis minder waardevol is?
 
-> Ja want zij geven aan ... met elkaar weten we een heleboel... samen kennen we een heleboel mensen [en] kun je interessante mensen uitnodigen. En tegelijkertijd denk ik, ja met elkaar weten we een heleboel, dat kan je ook veel meer inzetten in het ontwerpen van het materiaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord...
+> Ja want zij geven aan ...  samen kennen we een heleboel mensen [en] kun je interessante mensen uitnodigen. En tegelijkertijd denk ik ... dat kan je ook veel meer inzetten in het ontwerpen van het materiaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord...
 
 ### Wat kan de Nederlandse school doen om dit meer te stimuleren?
 
