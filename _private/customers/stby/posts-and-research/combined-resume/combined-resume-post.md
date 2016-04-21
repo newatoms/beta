@@ -4,7 +4,7 @@
 
 # I am STBY.
 
-> Alone we can do so little, together we can do so much. -- Helen Keller
+> Alone we can do so little, together we can do so much. — Helen Keller (the first deaf-blind person to earn a Bachelor of Arts degree).
 
 A little while back I became the research partner of the *What Design Can Do* Challenge. In the last edition of the challenge we worked to create briefs that inspire and empower designers to come up with ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnect between the creator and the user. This can be between government and the refugees that try to find a safe haven, between the education system and its students, or a car manufacturer and a driver.
 
@@ -12,7 +12,7 @@ Over the past few decades I have, for the most part unknowingly, educated myself
 
 <img src="http://i.imgur.com/CSqEf4a.png" width=100% />
 
-## “My whole life I have been caught between two interests: human behavior and design.”
+## “My whole life I have been caught between two interests: human behaviour and design.”
 
 To feed these interests, I have done quite a variety of studies and worked in a lot of different places. To get a better understanding of the workings of the mind of an individual I have studied Psychology, and to place that knowledge into the context of society I have followed courses in Sociology and Cultural studies.
 
@@ -21,7 +21,7 @@ To understand different design processes I have studied Interaction design, Indu
 ## "I have always operated with the objective of making things better for people.”
 
 
-To develop my skills after my education, I have worked in several positions for a lot of different companies. I have been an ergonomist at a Dutch steel producer, an account manager at an aviation company, and a consultant at a large labour force-oriented firm. Every time my goal was the same: to improve the labour conditions and health of employees, sometimes within the company and other times for other firms. In order to do this, I often had to look at the tools employees used and the environment in which they worked. I found it heartbreaking to see how much damage a misunderstanding between the designer and the user of a product or service can do.
+To develop my skills after my education, I have worked in several positions for a lot of different companies. I have been an ergonomist at a Dutch steel producer, an account manager at an aviation company, and a consultant at a large labour force-oriented firm. Every time my goal was the same: to improve the labour conditions and health of employees, sometimes within the company and other times for other firms. In order to do this, I often had to look at the tools employees used and the environment in which they worked. I found it heart-breaking to see how much damage a misunderstanding between the designer and the user of a product or service can do.
 
 Later, I tried to empower citizens to create and understand products and processes with the belief that everyone can be creative and innovative as long as they have a conducive environment. I wanted to give citizens the means to contribute to the world in which they live. It is so easy to forget how much we take our everyday activities for granted, even though they may seem unobtainable to others. Trying to help people undertake things that are usually outside their reach was an amazing and sometimes frustrating experience.  
 
@@ -41,6 +41,7 @@ Even though I greatly enjoyed working at the advertising agency, I did not feel 
 
 ## “I am not a person nor am I a group.”
 
-My education and work experiences have enabled me to more fully understand the ways I can *use* my knowledge in order to produce effective service design. It has given me insight within the design process, and not solely in understanding the user. It has also enabled me to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behavior.
+My education and work experiences have enabled me to more fully understand the ways I can *use* my knowledge in order to produce effective service design. It has given me insight within the design process, and not solely in understanding the user. It has also enabled me to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behaviour.
 
-I am a collection of people and experiences in different times and places. For my whole life I have been searching for a place where I belong, and roughly 12 years ago I materialized. All the things I've learned have taught me to identify and solve problems in complex situations, to understand and influence human behavior, and to comprehend how businesses function. I am [STBY](http://www.stby.eu/meet-the-team/).
+I am a collection of people and experiences in different times and places. For my whole life I have been searching for a place where I belong, and roughly 12 years ago I materialised. All the things I've learned have taught me to identify and solve problems in complex situations, to understand and influence human behaviour, and to comprehend how businesses function. I am [STBY](http://www.stby.eu/meet-the-team/).
+
