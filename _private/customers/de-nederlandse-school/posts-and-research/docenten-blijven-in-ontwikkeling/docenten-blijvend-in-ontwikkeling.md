@@ -14,7 +14,7 @@ We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Ned
 
 Gerdien: “Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
 
-Gerdien: “Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit op gaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie. Zo hebben we in onze sectie besloten om bijvoorbeeld in vwo 5 een lesmethode af te schaffen en daar ben ik bijvoorbeeld een heel groot voorstander van in de bovenbouw van HAVO VWO…”
+Gerdien: “Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit opgaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie. Zo hebben we in onze sectie besloten om bijvoorbeeld in vwo 5 een lesmethode af te schaffen en daar ben ik bijvoorbeeld een heel groot voorstander van in de bovenbouw van HAVO VWO…”
 
 Gerdien: “Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden van ja dit en dit zou ook zo mooi zijn als dat op school zou gebeuren kan dat? Dan gaan we het er over hebben gaan we nadenken en er over sparren.”
 
