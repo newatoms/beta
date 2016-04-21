@@ -20,7 +20,7 @@ Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te h
 * Is er iets wat je dwars zit m.b.t de Nederlandse School?
 
 
-Een van de docenten:
+Eén van de docenten:
 
 ## Doe meer met het verschil in ervaring tussen docenten
 
