@@ -35,11 +35,4 @@ Het oplossen van een misdaad is in feite een grote puzzel. Door leerlingen hiera
 
 ## Wat Ellis en haar collega's anders doen.
 
-Ellis en haar collega's maken geen gebruik van apps of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend geheel. Op deze manier maken ze net zoals bij de digitale variant gebruik van de spanning en opwinding die komt kijken bij het oplossen van een misdaad, maar geven ze de leerlingen meer ruimte om hun eigen invulling te geven aan de opdracht. Alhoewel het natuurlijk heerlijk is voor de leerlingen om zelf te bepalen wat ze met de opdracht doen, verijst en leert het hun ook veel over het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app. En je krijgt natuurlijk de mogelijkheid om elementen toe te voegen zoals film.
-
-## Wat Ellis hier allemaal van geleerd heeft.
-Alhoewel Ellis de pilot nog wilt gaan evalueren was het nu al een zeer waardevolle ervaring. "Ik heb hiervan geleerd dat leerlingen door dit soort opdrachten enthousiast raken."
-
-Ellis moet de pilot nog uitgebreid evalueren met de leerlingen en haar collega's.
-
-“Zelf heb ik al gemerkt dat het belangrijk is dat je veel structuur in de lesstof bijbrengt. Ze gingen met de eerste opdrachten goed aan de slag, maar toen het filmpje uiteindelijk af moest zijn hadden was niet voor iedereen duidelijk dat er ook gemonteerd had moeten worden. Hiervan heb ik geleerd dat ik duidelijker moet zijn in de opdracht en dat ik meer structuur moet aanbrengen.”
+Ellis en haar collega's maken geen gebruik van apps of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend geheel. Op deze manier maken ze net zoals bij de digitale variant gebruik van de spanning en opwinding die komt kijken bij het oplossen van een misdaad, maar geven ze de leerlingen meer ruimte om hun eigen invulling te geven aan de opdracht. Alhoewel het natuurlijk heerlijk is voor de leerlingen om zelf te bepalen wat ze met de opdracht doen, verijst en leert het hun ook veel over het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app. 
