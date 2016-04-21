@@ -6,7 +6,7 @@ We leven in een tijd waar alles zo snel verandert, dat je je soms zou kunnen afv
 
 Docenten zijn degenen die in direct contact staan met hun leerlingen en als eerste zullen merken of de lesstof die zij geven aansluit bij het leven en behoeften van hun leerlingen. Hoe zorg je als docent dat je je lessen zodanig in kan richten dat ze relevant zijn voor de tijd waarin hun leerlingen leven, en tegelijkertijd nog steeds relevant zijn als ze je school verlaten?
 
-Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf te blijven ontwikkelen zodat je je leerlingen de kans kan geven op een positieve toekomst is nog veel complexer. Wij zijn op zoek naar docenten die het belang van zelfontwikkeling met ons zouden willen delen, en inzicht kunnen geven in hoe ze dat zelf doen. We zijn benieuwd naar hun ervaringen, ideeeën en behoeftes. Het gaat hierbij om een kort telefonisch interview van ongeveer 20 minuten waar de volgende vragen aan bod zouden kunnen komen:
+Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf te blijven ontwikkelen zodat je je leerlingen de kans kan geven op een positieve toekomst is nog veel complexer.
 
 * Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
 * Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
@@ -20,20 +20,32 @@ Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf 
 * In hoeverre heb je inzicht in het leven van de studenten, en heeft dat invloed op hoe je les geeft?
 * Ga je wel eens naar workshops buiten de Nederlands School?
 
-Op een aantal van deze vragen heeft Gerdien Ort, docente Nederlands, ons wat antwoorden gegeven:
+Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands hebben ons antwoord gegeven op een antal van deze vragen.
 
-“Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
+Gerdien: “Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
 
-“Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit op gaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie. Zo hebben we in onze sectie besloten om bijvoorbeeld in vwo 5 een lesmethode af te schaffen en daar ben ik bijvoorbeeld een heel groot voorstander van in de bovenbouw van HAVO VWO…”
+Gerdien: “Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit op gaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie. Zo hebben we in onze sectie besloten om bijvoorbeeld in vwo 5 een lesmethode af te schaffen en daar ben ik bijvoorbeeld een heel groot voorstander van in de bovenbouw van HAVO VWO…”
 
-“Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden van ja dit en dit zou ook zo mooi zijn als dat op school zou gebeuren kan dat? Dan gaan we het er over hebben gaan we nadenken en er over sparren.”
+Gerdien: “Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden van ja dit en dit zou ook zo mooi zijn als dat op school zou gebeuren kan dat? Dan gaan we het er over hebben gaan we nadenken en er over sparren.”
 
-“Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
+Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
 
-“Ik werk ook met oud leerlingen. Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.”
+Gerdien: “Ik werk ook met oud leerlingen. Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.”
 
-“Als ik dan de enquetes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan.”
+Gerdien: “Als ik dan de enquetes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan.”
 
-“Iemand zei ik heb nog nooit zoveel geleerd bij Nederlands maar dat komt door wat we doen in de lessen.”
+Gerdien: “Iemand zei ik heb nog nooit zoveel geleerd bij Nederlands maar dat komt door wat we doen in de lessen.”
 
-“...dus ik heb nu geleerd dat als ik maar niet te enthousiast ben, dat ik ze wel weer warm krijg. Het is iets totaal anders dan met leerlingen. leerlingen doen alles voor mij, maar docenten die moet je op een andere manier daarbij bertrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je een goeie wegen voor vinden.”
+Gerdien: “...dus ik heb nu geleerd dat als ik maar niet te enthousiast ben, dat ik ze wel weer warm krijg. Het is iets totaal anders dan met leerlingen. leerlingen doen alles voor mij, maar docenten die moet je op een andere manier daarbij bertrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je een goeie wegen voor vinden.”
+
+Elise:  “Ikuh, ik heb uuuh, ja heb zelf als kind uuuhm uuuhm, toen ik Frans begon te leren .. haalde  ik alleen 3en 4en. Dus ik uuh heb ook meegemaakt hoe verschrikkelijk de taal is”
+
+Elise: “en ik heb toen via een Frans meisje dat bij ons kwam logeren .. uuh.. Frans geleerd. Uhh... en daarna ja, eigenlijk echt wel ontdekt dat ik het een hele mooie taal vond en het eigenlijk wel kon. Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant uuh toch mensen wel liefde voor het vak bijbrengen. Maar vooral ook, vooral ook tja... **laten zien dat taal een middel is om mensen te ontmoeten**, en met mensen kennis te leren maken. En dat die mensen in hele verschillende contexten leven, dus dat kan Canada zijn, dat kan Vietnam zijn, dat kan Afrika zijn, dat kan Frankrijk zijn. **En tegelijkertijd leerlingen ook laten zien van ja ik haalde ook die 1en en 3en en 4en en het is goed gekomen met me.. hehe .. Dat bediscussieren ze dan als ik dat zeg, want ze vinden dat het goedgekomen is als je docent Frans bent**  hahaha...
+Maar eehm, maar het is gewoon te doen en als je de juiste aanpak vind dan kan je die taal wel leren en dan kan eigenlijk iedereen die taal leren. Dat is een beetje mijn dubbele drive.”
+
+Elise: “Ja... ja en wat ik ehm, ehm, ik sprak, zij was dus 4 weken logeren dus bij ons, en na drie weken sprak ik uhm, naja in mijn beleving toen vloeiend Frans.
+**Dus ik zag toen eigenlijk van hé, dat de manier die wij gehad hebben is niet mijn manier .. en een heleboel klasgenoten hebben daar wel 10en bij gehaald en ik niet, want ik begreep gewoon niet hoe ik het aan moest pakken**. Dus dat ligt niet eens per se aan de docent maar meer over, meer aan dat ik de aanpak gewoon niet begreep.”
+
+Elise: “**dan is er toch eigenlijk iets mis in ons onderwijssysteem dat we mensen 10en geven die geen Frans kunnen geven, uuhm praten [sam: foutje in haar woordkeuze], en dat ik 3en haal maar het best wel blijk te kunnen**. Dus.. tja waar zijn we dan nou mee bezig... en ik heb toen na de brugklas vast besloten van ik ga Frans studeren .. want ja ik ga de wereld veranderen.  heheheh .. en uuh, naja dat is toen allemaal golven nog [snap ik niet?] van nou ik ga toch geneeskunde doen, ik ga toch het bedrijfsleven in, enzovoorts. Maar  uiteindelijk ben ik toch in dat onderwijs terecht gekomen. En heb ik de wereld nog steeds niet kunnen veranderen maar blijf ik dat wel proberen...”
+
+Elise: “nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk** ... die ik niet uhm, in me heb. Maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
