@@ -8,7 +8,9 @@ Docenten zijn degenen die in direct contact staan met hun leerlingen en als eers
 
 Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf te blijven ontwikkelen zodat je je leerlingen de kans kan geven op een positieve toekomst is nog veel complexer.
 
-We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Hier onder zijn een aantal quotes uit onze gesprekken te lezen.
+## Hoe blijven Gerdien en Elise zich ontwikkelen?
+
+We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses be de Nederlandse School en zijn altijd actief bezich met hun eigen ontwikkeling als docent. Hier onder zijn een aantal quotes uit onze gesprekken te lezen.
 
 Gerdien: “Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
 
@@ -34,7 +36,7 @@ Elise: “En tegelijkertijd leerlingen laten zien, ik haalde ook die 1en, 3en en
 
 Elise: “nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als Alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
 
-Om meer inzicht te krijgen in hoe docenten zichzelf blijven ontwikkelen zijn we nog op zoek naar antwoorden op de volgende vraten.
+## Om meer inzicht te krijgen in hoe docenten zichzelf blijven ontwikkelen zijn we nog op zoek naar antwoorden op de volgende vragen.
 
 * Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
 * Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
