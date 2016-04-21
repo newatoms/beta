@@ -6,21 +6,27 @@ Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om 
 
 Maar ook wij hebben soms een frisse blik nodig.
 
-Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen wilen wij een blogpost schrijven waarin we jullie feedback over de workshops –en de Nederlandse School in het algemeen– verwerken. Hier voor zouden we graag willen weten hoe jullie –de deelnemers van de workshops– ons hebben ervaren, wat er beter kan en of er dingen zijn die ons tegenwerken om jullie te inspireren.
+Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen schrijven wij een blogpost  over wat docenten vinden wat wij beter kunnen doen. 
 
-Dit zouden we het liefst in een kort telefonisch interview van ongeveer 20 minuten doen, maar feedback per mail is ook van harte welkom. Het lijkt ons interessant om onder andere de volgende vragen te bespreken.
+## De feedback
 
-* Naar hoeveel workshops ben je geweest?
-* Waren ze allemaal hetzelfde in kwaliteit?
-* Was er één minder goed dan anderen en hoe kwam dat?
-* Hoe is de sfeer tijdens de workshops, en hoe zou deze nog beter kunnen worden?
-* Voldoen de workshops aan je verwachtingen?
-* Hoe zouden we duidelijkere verwachtingen kunnen scheppen?
-* Vind je het geloofwaardig wat we vertellen
-* Hoe vind je de presentatie van de workshops
-* Blijft de stof hangen of zou opvolging op de workshops helpen.
-* Is er iets wat je dwars zit m.b.t de Nederlandse School?
+### Teveel gericht op Amsterdam
 
+> Daarnaast zijn wel heel veel stafleden van de Nederlandse school gelokaliseerd in Amsterdam. Dus daar zijn we ook daar veel geweest. Maar daar is tegelijkertijd ook wel kritiek op gekomen. Want als jij een opleiding wil zijn voor heel Nederland dan kun je niet zeggen dat Amsterdam onze maatschappij in het klein is. Dat is niet zo. Er zijn bijvoorbeeld drie mensen die komen uit Emmen, er zijn drie mensen die komen uit Doorn er zijn mensen die komen uit het zuiden. Je moet wel een open vizier houden.  
+
+
+### Vind je het geloofwaardig wat de Nederlandse School doet en kunnen ze nog iets doen aan de verwachtingen die ze scheppen?
+
+> Dat is een goeie vraag. Ik denk dat ze hieraan nog wel wat kunnen doen. Ze zouden bepaalde faciliteiten met bepaalde middelen kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, maar er was nauwelijks WiFi. Dat vind ik belachelijk, je zit op een universiteit en we moeten iets doen. Uiteindelijk heb ik als brave deelnemer s'avonds op de hotelkamer mijn huiswerk gedaan, maar dit levert eigenlijk heel veel stress op. Dan denk ik kijk, dat soort voorwaardes, als jij vraagt om devices mee te nemen—ik had mijn MacBook mee en mijn iPad—dan moet je zorgen dat iedereen probleemloos op wifi kan. Het is wel een heel knullig voorbeeld maar dit vind ik wel een min.
+
+> Wat ik nu wel mooi zou vinden dat we nu als het waren ook wat meer mensen binnen het onderwijs bij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Ik weet alleen niet of anderen daar ook op zitten te wachten.
+
+### Sprekers die uit het onderwijs komen
+> ...je krijgt van de Nederlandse School artikelen aangereikt van mensen die over onderwijs schrijven. Het zal nu wel mooi zijn als je een keertje een dag zal hebben waar je stuk of wat van dergelijke mensen aanwezig zouden zijn, dat je kan zeggen dat we bepaalde mensen te spreken krijgen over waar we mee bezig zijn. Individueel krijg je die sprekers niet te pakken. Misschien is het nu langzamerhand wel tijd dat we met zijn allen een lijstje maken van de mensen die we zouden willen spreken. In plaats van dat de Nederlandse school ons sprekers aanreikt. Dan staan ze namelijk wat meer open voor degene die wij zouden willen spreken als groep.
+
+### Zijn er nog andere dingen die beter kunnen?
+
+> Wat wel jammer was is dat een van de stafleden van dNS een beetje geruisloos is vertrokken Dat was vrij onduidelijk.  Dat vond ik wel jammer. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg. Het was Kayleigh Rosalie en ik vond het bijzonder spijtig om haar zo ineens te moeten missen. Het is ook helemaal niet meer van deze tijd om een kaartje te sturen, maar ik vond het niet helemaal politiek correct en niet zo warm.
 
 <!-- > PITCH
 ## Wat kan de Nederlandse School beter doen?
