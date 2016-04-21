@@ -14,7 +14,7 @@ Dat de Nederlandse School al toekomstplannen heeft, mogelijk al uitgeschreven in
 
 ## Proposed action
 
-Wij zouden veel uit een plan kunnen halen. Eventueel zou een kort inteview de gaten kunnen dichten.
+Wij kunnen de plannen in het meerjarenplan samenvatten en bij elk plan uitleggen waarom het een goed plan is. Eventueel zou een kort inteview de gaten kunnen dichten.
 Wij willen zowel over de korte als de erg lange termijn plannen schrijven.
 
 ## Outcome
