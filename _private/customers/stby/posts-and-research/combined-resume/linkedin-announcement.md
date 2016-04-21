@@ -1,1 +1,1 @@
-Curious to see what our employees did before they came to work for STBY? “Here I will show you the road I have taken, so you may better understand who I am. I am a collection of people and experiences in different times and places. I am STBY.”
+Curious to see what our employees did before they came to work for STBY? “Here I will show you the road I have taken, so you may better understand who I am. I am a collection of people and experiences in different times and places. I am STBY.” [insert link here]
