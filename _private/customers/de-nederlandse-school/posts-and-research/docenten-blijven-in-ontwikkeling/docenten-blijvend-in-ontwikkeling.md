@@ -8,19 +8,7 @@ Docenten zijn degenen die in direct contact staan met hun leerlingen en als eers
 
 Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf te blijven ontwikkelen zodat je je leerlingen de kans kan geven op een positieve toekomst is nog veel complexer.
 
-* Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
-* Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
-* Waar haal je je kennis en inspiratie vandaan om te weten waar je leerlingen behoefte aan hebben?
-* Waarom is het belangrijk om je skills te verbeteren?
-* Hoeveel tijd besteed je eigenlijk aan zelfontwikkeling op het gebied van educatie?
-* Hoe vaak heb je het over lesgeven met mensen buiten het onderwijs (partner, familie etc.)?
-* Hoe denken zij hierover, en hoe schaart dat met je eigen opvattingen?
-* Hoe kijkt de school waar je lesgeeft hier tegenaan, heb je daar wel eens discussies over?
-* Kunnen je leerlingen invloed op hun leven uitoefenen met de lesstof die je ze geeft, hebben jullie het daar wel eens over?
-* In hoeverre heb je inzicht in het leven van de studenten, en heeft dat invloed op hoe je les geeft?
-* Ga je wel eens naar workshops buiten de Nederlands School?
-
-Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands hebben ons antwoord gegeven op een antal van deze vragen.
+We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Hier onder zijn een aantal quotes uit onze gesprekken te lezen.
 
 Gerdien: “Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
 
@@ -32,11 +20,11 @@ Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er 
 
 Gerdien: “Ik werk ook met oud leerlingen. Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.”
 
-Gerdien: “Als ik dan de enquetes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan.”
+Gerdien: “Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan.”
 
 Gerdien: “Iemand zei ik heb nog nooit zoveel geleerd bij Nederlands maar dat komt door wat we doen in de lessen.”
 
-Gerdien: “...dus ik heb nu geleerd dat als ik maar niet te enthousiast ben, dat ik ze wel weer warm krijg. Het is iets totaal anders dan met leerlingen. leerlingen doen alles voor mij, maar docenten die moet je op een andere manier daarbij bertrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je een goeie wegen voor vinden.”
+Gerdien: “...dus ik heb nu geleerd dat als ik maar niet te enthousiast ben, dat ik ze wel weer warm krijg. Het is iets totaal anders dan met leerlingen. leerlingen doen alles voor mij, maar docenten die moet je op een andere manier daarbij betrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je een goeie wegen voor vinden.”
 
 Elise:  “toen ik Frans begon te leren haalde  ik alleen 3en 4en. Dus ik heb ook meegemaakt hoe verschrikkelijk de taal is. ... Ik heb toen via een Frans meisje dat bij ons kwam logeren Frans geleerd. En daarna ja, eigenlijk ontdekt dat ik het een hele mooie taal vond...
 
@@ -44,4 +32,18 @@ Elise: “Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant me
 
 Elise: “En tegelijkertijd leerlingen laten zien, ik haalde ook die 1en, 3en en 4en en het is goed gekomen met me. Dat bediscussieren ze dan als ik dat zeg, want ze vinden dat het goedgekomen is als je docent Frans bent”
 
-Elise: “nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
+Elise: “nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als Alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
+
+Om meer inzicht te krijgen in hoe docenten zichzelf blijven ontwikkelen zijn we nog op zoek naar antwoorden op de volgende vraten.
+
+* Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
+* Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
+* Waar haal je je kennis en inspiratie vandaan om te weten waar je leerlingen behoefte aan hebben?
+* Waarom is het belangrijk om je skills te verbeteren?
+* Hoeveel tijd besteed je eigenlijk aan zelfontwikkeling op het gebied van educatie?
+* Hoe vaak heb je het over lesgeven met mensen buiten het onderwijs (partner, familie etc.)?
+* Hoe denken zij hierover, en hoe schaart dat met je eigen opvattingen?
+* Hoe kijkt de school waar je lesgeeft hier tegenaan, heb je daar wel eens discussies over?
+* Kunnen je leerlingen invloed op hun leven uitoefenen met de lesstof die je ze geeft, hebben jullie het daar wel eens over?
+* In hoeverre heb je inzicht in het leven van de studenten, en heeft dat invloed op hoe je les geeft?
+* Ga je wel eens naar workshops buiten de Nederlands School?
