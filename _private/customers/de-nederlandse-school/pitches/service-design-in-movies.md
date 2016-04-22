@@ -14,7 +14,7 @@ Writing an article where we use fictional services in classic blockbuster movies
 
 ## For example
 
-We could write about how the [service design inside the space ship Aximo](https://www.youtube.com/watch?v=_xToQ4cIHkk) in the pixar movie Wall-e, where everything is tailored towards the comfort of the end users that it eveantually has a negative effect. 
+We could write about how the [service design inside the space ship Aximo](https://www.youtube.com/watch?v=_xToQ4cIHkk) in the pixar movie Wall-e, where everything is extremly tailored towards the comfort of the end users that it eveantually has a negative effect. 
 
 
 ## We think this is a effective method to achieve the goal because
