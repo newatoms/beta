@@ -4,9 +4,9 @@
 
 Introduce recurring new readers to the blog who will share the story and who don't know STBY and what service design is.
 
-## The article
+## The article will need to have
 
-Will need to have a personal relevance to the reader that they will want to share with their network.
+ a personal relevance to the reader that they will want to share with their network.
 
 ## We propose to achieve this by
 
