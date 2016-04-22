@@ -14,12 +14,12 @@ Writing an article where we use fictional services in classic blockbuster movies
 
 ## For example
 
-We could write about how the [service design inside the space ship Aximo](https://www.youtube.com/watch?v=_xToQ4cIHkk) in the pixar movie Wall-e, where everything is extremly tailored towards the comfort of the end users, eveantually has a negative effect on the end user. 
+We could write about how the [service design inside the space ship Aximo](https://www.youtube.com/watch?v=_xToQ4cIHkk) in the pixar movie Wall-e, where everything is extremely tailored towards the comfort of the end users, eventually has a negative effect on the end user.
 
 
 ## We think this is a effective method to achieve the goal because
 
-By taking fictional services from movies we can use the emotional value the movie has for the viewer to invite them read about a subject they don't know, and probably would not actively read about. It enables create relevance to the reader by offering a new perspective on a movie they know and love, which is intensive to share the insights and article with their network.
+By taking fictional services from movies we can use the emotional value the movie has for the viewer to invite them to read about a subject they don't know, and probably would not actively read about. It enables create relevance to the reader by offering a new perspective on a movie they know and love, which is intensive to share the insights and article with their network.
 
 ## The effectiveness of this article is based on the following assumptions
 
