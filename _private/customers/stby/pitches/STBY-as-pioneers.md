@@ -23,8 +23,6 @@ Point us to the projects where STBY innovated. Answers to a few questions (possi
 ## Outcome
 
 * Show how good the organisation is
-* Show how good the product/service is
-* Show your relevance
 * Show the organisations impact on the future
 * Improve perception of the organisation
 * Show that STBY is accessable, entrepreneurial, inspiring, unconventional.
