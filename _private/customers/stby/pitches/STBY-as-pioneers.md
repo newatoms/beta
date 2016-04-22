@@ -14,7 +14,7 @@ That STBY indeed has innovated in recent projects.
 
 ## Proposed action
 
-We will focus on one project. Specifically on what the 'standard' way of dealing with a certain problem would be and what STBY did differently.
+We will focus on one project, specifically on what the 'standard' way of dealing with a certain problem would be and what STBY did differently.
 
 ## Assistance
 
