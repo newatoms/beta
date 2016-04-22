@@ -25,4 +25,4 @@ Point us to the projects where STBY innovated. Answers to a few questions (possi
 * Show how good the organisation is
 * Show the organisations impact on the future
 * Improve perception of the organisation
-* Show that STBY is accessable, entrepreneurial, inspiring, unconventional.
+* Show that STBY is accessible, entrepreneurial, inspiring, unconventional.
