@@ -1,5 +1,5 @@
 ## Goal
-To increase respect and admiration for STBY by showing they have great ambitions
+Showing existing clients that STBY merits respect and admiration by conveying their greatest ambitions
 
 ## Proposed Action
 We will write about how STBY would work with their ideal client or handle a hypothetical situation in need of design research and service design, showing how STBY would apply their prowess in a hypothetical "dream project". It would be a client or situation that exemplifies STBY's expertise and best qualities.
