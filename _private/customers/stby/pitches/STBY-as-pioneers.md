@@ -6,7 +6,7 @@ Convincing potential and existing clients of the fact that STBY is a pioneer in 
 
 ## Motivation
 
-It's difficult for people who are not in the field to see what aspects of service design are innovative and which are 'standard practice'. Since STBY takes pride in being a pioneer, readers should be made aware of how STBY is a pioneer.
+It's difficult for people who are not in the field to see what aspects of service design are innovative and which are 'standard practice'. Since STBY takes pride in being a pioneer, readers should be made aware of how STBY is innovating the field.
 
 ## Assumption
 
