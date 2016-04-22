@@ -12,6 +12,11 @@ Introduce recurring new readers to the blog who will share the story and who don
 
 Writing an article where we use fictional services in classic blockbuster movies to explain what service design is, how it influences the experience of the fictional end users and try to understand the reason behind the way the service is designed.
 
+## For example
+We could write about the service design inside the space ship Aximo in the pixar movie Wall-e, where it is so tailored towards the comfort of the end users, that it eventualy has a negative effect. <iframe width="100%" src="https://www.youtube.com/embed/_xToQ4cIHkk" frameborder="0" allowfullscreen></iframe>
+
+
+
 ## We think this is a effective method to achieve the goal because
 
 By taking fictional services from movies we can use the emotional value the movie has for the viewer to invite them read about a subject they don't know, and probably would not actively read about. It enables create relevance to the reader by offering a new perspective on a movie they know and love, which is intensive to share the insights and article with their network.
