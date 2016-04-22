@@ -19,7 +19,7 @@ We could write about how the [service design inside the space ship Aximo](https:
 
 ## We think this is a effective method to achieve the goal because
 
-By taking fictional services from movies we can use the emotional value the movie has for the viewer to invite them to read about a subject they don't know, and probably would not actively read about. It enables create relevance to the reader by offering a new perspective on a movie they know and love, which is intensive to share the insights and article with their network.
+By taking fictional services from movies we can use the emotional value the movie has for the viewer to invite them to read about a subject they don't know, and probably would not actively read about. Creating relevance to the reader by offering a new perspective on a movie they know and love, which is intensive to share the insights and article with their network.
 
 ## The effectiveness of this article is based on the following assumptions
 
