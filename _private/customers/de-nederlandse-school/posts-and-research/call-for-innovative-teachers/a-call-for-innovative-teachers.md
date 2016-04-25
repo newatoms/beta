@@ -3,7 +3,9 @@
 
 # Misdrijven oplossen in de klas
 
-Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Zij is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aanspreekt. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
+Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Zij is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aanspreekt.
+
+> Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.
 
 ## Maak de les relevant voor de leerling
 
