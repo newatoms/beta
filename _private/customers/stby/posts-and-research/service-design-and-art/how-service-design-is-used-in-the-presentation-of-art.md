@@ -2,7 +2,7 @@
 
 Almost everything we touch and see on a daily basis is created by other people, usually with a very specific goal in mind. Often these goals seem obvious, for example how a glass enables you to consume a liquid without needing to drink straight from the source.
 
-At the same time this glass also influence the way you consume the liquid. A person drinking milk from a expensive crystal glass will drink and experience the milk differently than a person drinking the exact same milk from a bucket. Everyone is aware of the practical side of things, because drinking milk from a glass is much more preferred than drinking it from your cupped hands, but we are much less aware of the influence the choice of glass has on the way we drink our milk.
+At the same time, this glass influences the way you consume the liquid. A person drinking milk from a expensive crystal glass will drink and experience the milk differently than a person drinking the exact same milk from a bucket. Everyone is aware of the practical side of things, because drinking milk from a glass is much more preferred than drinking it from your cupped hands, but we are much less aware of the influence the choice of glass has on the way we drink our milk.
 
 The exact same thing happens when we look at art. Most, if not all, of our attention is focussed on the piece on display, but rarely we will pay the same amount of attention to the display itself. The moment you start understanding the relationship between art and its context, a whole new world opens up.
 
