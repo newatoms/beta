@@ -9,7 +9,7 @@ Bij de Nederlandse School zijn wij bezig om docenten aan te moedigen om te innov
 
 ## Maak de les relevant voor de leerling
 
-Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het niet direct relevant in hun leven is. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
+Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het niet direct in hun belevingswereld past. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
 > Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.
 
