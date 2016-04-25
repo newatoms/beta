@@ -1,4 +1,4 @@
-# Police officers in Amsterdam with fully automatic weapons
+# Police officers in Amsterdam with fully-automatic weapons
 
 ## Goal
 
@@ -6,9 +6,7 @@ To attract new readers who are not necessarily familiar with service design.
 
 ## Method
 
-We will offer a unique perspective on a heated discussion in today's society.
-
-We will write an article discussing both the reasoning and effects of police carrying fully-automatic weapons in Amsterdam since the 26th of January, 2016. The intention of the article will not be to disapprove of the arming of police officers, but to clearly give insights into the thought process behind it and the effects it has on the experience of the end users, being both the officers carrying the weapons and the citizens.
+We will offer a unique perspective on a heated discussion in today's society by writing an article discussing both the reasoning and effects of police carrying fully-automatic weapons in Amsterdam since the 26th of January, 2016. The intention of the article will not be to disapprove of the arming of police officers, but to clearly give insights into the thought process behind it and the effects it has on the experience of the end users, being both the officers carrying the weapons and the citizens.
 
 
 ## Argument
