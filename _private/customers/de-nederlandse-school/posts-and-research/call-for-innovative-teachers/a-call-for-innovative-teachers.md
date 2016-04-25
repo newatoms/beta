@@ -26,7 +26,7 @@ Nu zijn ze met een pilot bezig.
 ## Het oplossen van misdaden als les op scholen
 
 
-De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een onbekend idee. Er zijn verschillende apps die door particulieren en scholen worden gebruikt om leerlingen virtuele misdaden op te laten lossen.
+De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een geheel nieuw idee. Er zijn verschillende apps die door particulieren en scholen worden gebruikt om leerlingen virtuele misdaden op te laten lossen.
 
 Zo laat de Groene hart school hun leerlingen misdaden via een [app](http://www.groenehartscholen.nl/rijnwoude/2014/11/06/historische-misdaden-oplossen-met-ipad-3/) oplossen.
 
