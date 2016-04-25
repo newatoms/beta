@@ -7,7 +7,7 @@ Velen van ons hebben waanzinnige docenten gehad die een blijvende positieve invl
 
 Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aanspreekt. “Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.”
 
-## Ellis probeert altijd haar lessen op haar leerlingen te betrekken.
+## Ellis probeert altijd haar lessen op haar leerlingen te betrekken
 
 Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
