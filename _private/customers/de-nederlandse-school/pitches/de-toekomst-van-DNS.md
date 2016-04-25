@@ -2,7 +2,7 @@
 
 ## Goal
 
-Om scholen/docenten meer te betrekken in de vorming en toekomst van de Nederlandse School laten wij de aspiraties van de Nederlanse School zien.
+Om scholen/docenten meer te betrekken in de vorming en toekomst van de Nederlandse School laten wij de aspiraties van de Nederlandse School zien.
 
 ## Motivation
 
