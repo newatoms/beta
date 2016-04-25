@@ -3,7 +3,13 @@
 # How Service Design Is Used in the Presentation of Art
 
 
-Imagine the following scenarios:
+Almost everything we touch and see on a daily basis is created by other people, usually with a very specific goal in mind. Often these goals seem obvious, for example how a glass enables you to consume a liquid without needing to drink straight from the source.
+
+At the same time this glass also influence the way you consume the liquid. A person drinking milk from a expensive crystal glass will drink and experience the milk differently than a person drinking the exact same milk from a bucket. Everyone is aware of the practical side of things, because drinking milk from a glass is much more preferred than drinking it from your cupped hands, but we are much less aware of the influence the choice of glass has on the way we drink our milk.
+
+The exact same thing happens when we look at art. Most, if not all, of our attention is focussed on the piece on display, but rarely we will pay the same amount of attention to the display itself. The moment you start understanding the relationship between art and its context, a whole new world opens up.
+
+As an example, try to imagine the following scenarios:
 
 *You are in the Rijksmuseum early in the morning. It's quiet. You are standing alone in front of Rembrandt's* [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg). *While looking at the painting, you're also aware of the surrounding architecture, the quality of light, the smell of the gallery, the feel of the carpet beneath your feet.*
 
@@ -19,7 +25,7 @@ Our location, present company, mood, and what our other senses are simultaneousl
 
 <img src="http://i.imgur.com/2zU78g0.jpg" width=1000% />
 
-> This picture is taken in front of [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg) during Obama's visit to Holland, where he met Mark Rutte, the prime minister of Holland. Seeing a photograph of world leaders looking at the painting greatly influences the way the viewer appreciates the painting within the photograph.
+>This picture is taken in front of [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg) during Obama's visit to Holland, where he met Mark Rutte, the prime minister of Holland. Seeing a photograph of world leaders looking at the painting greatly influences the way the viewer appreciates the painting within the photograph.
 
 Manipulation is not inherently negative. Works of art in everyday contexts can enhance the experiences of commuting, flipping through a magazine, occupying an office space... Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances. This is service design. Out in the world, context is shaping our behaviour and perceptions. The context of an artwork, or rather the reproduction thereof—think Google Images, Pinterest, advertising—is equally as designed for a specific effect.
 
