@@ -3,7 +3,8 @@
 
 # Misdrijven oplossen in de klas
 
-Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Zij is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg aanspreekt.
+Bij de Nederlandse School zijn wij bezig om docenten aan te moedigen om te innoveren in het onderwijs. Een van deze docenten is Ellis Stevens.
+Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Zij heeft voor dit vak gekozen omdat de manier van lesgeven in dit vak haar erg aanspreekt.
 
 > Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.
 
@@ -24,6 +25,7 @@ Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te ma
 De leerlingen kregen de opdracht om opzoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo'n spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
 
 Nu zijn ze met een Pilot bezig.
+
 > Ik heb de leerlingen op pad gestuurd. Ieder groepje had een misdrijf die zij moesten oplossen, leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. Kinderen belden uiteindelijk heel stoer op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politieagent.
 
 ## Het oplossen van misdaden als les op scholen
