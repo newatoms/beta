@@ -1,18 +1,14 @@
 # How Service Design Is Used in the Presentation of Art
 
-Almost everything we touch and see on a daily basis is created by other people, usually with a very specific goal in mind. Often these goals seem obvious, for example how a glass enables you to consume a liquid without needing to drink straight from the source.
+Imagine the following scenarios:
 
-At the same time, this glass influences the way you consume the liquid. A person drinking milk from an expensive crystal glass will drink and experience the milk differently than a person drinking the exact same milk from a bucket. Everyone is aware of the practical side of things, because drinking milk from a glass is much preferred over drinking it from your cupped hands, but we are much less aware of the influence the choice of glass has on the way we drink our milk.
-
-The exact same thing happens when we look at art. Most, if not all, of our attention is focussed on the piece on display, but rarely we will pay the same amount of attention to the display itself. The moment you start understanding the relationship between art and its context, a whole new world opens up.
-
-As an example, try to imagine the following scenarios:
-
-*You are in the Rijksmuseum early in the morning. It's quiet. You are standing alone in front of Rembrandt's* [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg). *While looking at the painting, you're also aware of the surrounding architecture, the quality of light, the smell of the gallery, the feel of the carpet beneath your feet.*
+*You are in the Rijksmuseum early in the morning before opening hours. It's quiet. You are standing alone in front of Rembrandt's* [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg). *While looking at the painting, you're vaguely aware of the surrounding architecture, the quality of light, the smell of the gallery, the feel of the carpet beneath your feet.*
 
 *You are sitting in a café with a friend. Music is playing. You are flipping through a guide of Amsterdam, where you come across a picture of Rembrandt's* Night Watch *between a photo of the Red Light District and a picture of Van Gogh's* Sunflowers, *all surrounded by text.*
 
 In each scenario, how do you experience the painting?
+
+When we look at art, most of our attention is focussed on the artwork on display. Rarely will we pay the same amount of attention to the display itself: the context. The moment we begin to understand the relationship between art and its context, a whole new world opens up.
 
 In 1972, art critic/writer/painter/poet [John Berger](https://en.wikipedia.org/wiki/John_Berger), in tandem with the BBC, made a four-part television series called *[Ways of Seeing](https://www.youtube.com/watch?v=utEoRdSL1jo)*. In this series, Berger calls a painting "a corridor, connecting the moment which it represents, to the moment you are looking at it."
 
