@@ -9,7 +9,7 @@ Ellis is docente Maatschappijleer geworden omdat de manier van lesgeven haar erg
 
 ## Ellis probeert altijd haar lessen op haar leerlingen te betrekken
 
-Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het geen directe betrekking op hun leven heeft. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
+Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het niet direct relevant in hun leven is. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
 “Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Desalnietemin probeert Ellis haar lessen altijd zoveel mogenlijk op de vragen die de leerlingen zelf hebben te richten.
 
@@ -36,3 +36,5 @@ Het oplossen van een misdaad is in feite een grote puzzel. Door leerlingen hiera
 ## Wat Ellis en haar collega's anders doen
 
 Ellis en haar collega's maken geen gebruik van apps of computerspelletjes maar sturen hun leerlingen met twee opdrachten op pad: interview mensen die je kunnen helpen in het oplossen van een misdaad en monteer dit tot een mooi kloppend geheel. Op deze manier maken ze net zoals bij de digitale variant gebruik van de spanning en opwinding die komt kijken bij het oplossen van een misdaad, maar geven ze de leerlingen meer ruimte om hun eigen invulling te geven aan de opdracht. Alhoewel het natuurlijk heerlijk is voor de leerlingen om zelf te bepalen wat ze met de opdracht doen, verijst en leert het hun ook veel over het stellen van prioriteiten en deadlines, iets dat vrijwel ongeroerd raakt met een app.
+
+##
