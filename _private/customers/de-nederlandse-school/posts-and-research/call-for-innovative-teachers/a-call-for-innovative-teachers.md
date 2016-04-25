@@ -11,11 +11,7 @@ Bij de Nederlandse School zijn wij bezig om docenten aan te moedigen om te innov
 
 Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het niet direct in hun belevingswereld past. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
-> Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.
-
-Desalnietemin probeert Ellis haar lessen altijd zoveel mogenlijk op de vragen die de leerlingen zelf hebben te richten.
-
-Ellis volgt samen met twee collega's workshops aan de Nederlandse School. Hierin worden ze aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van die toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*. In dit vak gaan ze de drie vakken samenvoegen en hopen ze later andere vakken erbij aan te laten sluiten.
+Ellis volgt samen met twee collega's workshops aan de Nederlandse School. Hierin worden ze aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van die toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*. In dit vak gaan ze drie vakken samenvoegen en hopen ze later andere vakken erbij aan te laten sluiten.
 
 Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te maken voor de leerlingen door ze op pad te sturen om, met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
 
