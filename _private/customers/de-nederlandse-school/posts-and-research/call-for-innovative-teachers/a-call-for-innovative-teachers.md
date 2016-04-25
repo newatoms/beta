@@ -7,9 +7,9 @@ Bij de Nederlandse School zijn wij bezig om docenten aan te moedigen om te innov
 
 > Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.
 
-## Maak de les relevant voor de leerling
+Het is voor leerlingen makkelijker om te leren als de stof direct in hun belevingswereld past. Daarom probeert Ellis haar lesstof zoveel mogelijk de onderwerpen direct op haar leerlingen te betrekken.
 
-Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het niet direct in hun belevingswereld past. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
+## Invloed van de Nederlandse School
 
 Ellis volgt samen met twee collega's workshops aan de Nederlandse School. Hierin worden ze aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van die toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*. In dit vak gaan ze drie vakken samenvoegen en hopen ze later andere vakken erbij aan te laten sluiten.
 
