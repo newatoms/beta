@@ -37,7 +37,10 @@ Zo laat de Groene hart school hun leerlingen misdaden via een [app](http://www.g
 
 > Leerlingen zijn op deze manier bezig met digital storytelling, waarbij ze hun misdaad stukje voor stukje ontrafelen.
 
-Ook de politie heeft zelf een spelletje ontworpen dat burgers in staat stelt om via social media actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.”, aldus Elma Bos - strategisch adviseur van de korpschef Nationale Politie - in [de Stentor](http://socialmediadna.nl/recherche-game/).
+Ook de politie heeft zelf een spelletje ontworpen dat burgers in staat stelt om via social media actief bij te dragen aan het oplossen van lopende zaken.
+
+Elma Bos, strategisch adviseur van de korpschef Nationale Politie, in [de Stentor](http://socialmediadna.nl/recherche-game/):
+> Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.
 
 Het oplossen van een misdaad is in feite een grote puzzel. Door leerlingen hieraan te laten werken stimuleer je hun actief buiten de lijntjes te denken, kritisch te zijn en oplossing gericht te denken. Allemaal vaardigheden die zowel binnen als buiten school erg belangrijk zijn.
 
