@@ -19,7 +19,7 @@ Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te ma
 
 De leerlingen kregen de opdracht om opzoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo'n spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
 
-Nu zijn ze met een Pilot bezig.
+Nu zijn ze met een pilot bezig.
 
 > Ik heb de leerlingen op pad gestuurd. Ieder groepje had een misdrijf die zij moesten oplossen, leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. Kinderen belden uiteindelijk heel stoer op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politieagent.
 
