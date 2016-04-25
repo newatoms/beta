@@ -1,4 +1,4 @@
-# Police officers in Amsterdam with fully automatic weapons
+# Police officers in Amsterdam with fully-automatic weapons
 
 ## Goal
 
