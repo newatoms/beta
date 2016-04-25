@@ -3,8 +3,7 @@
 
 # Misdrijven oplossen in de klas
 
-Bij de Nederlandse School zijn wij bezig om docenten aan te moedigen om te innoveren in het onderwijs. Een van deze docenten is Ellis Stevens.
-Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Zij heeft voor dit vak gekozen omdat de manier van lesgeven in dit vak haar erg aanspreekt.
+Bij de Nederlandse School zijn wij bezig om docenten aan te moedigen om te innoveren in het onderwijs. Een van deze docenten is Ellis Stevens, docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Zij heeft voor dit vak gekozen omdat de manier van lesgeven in dit vak haar erg aanspreekt.
 
 > Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.
 
