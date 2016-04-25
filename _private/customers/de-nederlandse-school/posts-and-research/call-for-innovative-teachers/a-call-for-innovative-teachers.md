@@ -13,7 +13,7 @@ Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op scho
 
 “Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Alhoewel er altijd standaard stof is die de leerlingen moeten leren focust Ellis haar lessen zoveel mogenlijk op de vragen die de leerlingen zelf hebben.
 
-Ellis volgt samen met twee collega workshops aan de Nederlandse School waar ze worden aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van die toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
+Ellis volgt samen met twee collega's workshops aan de Nederlandse School. Hierin worden ze aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van die toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*, daarin gaan ze de drie vakken samenvoegen en hopen ze later andere vakken bij-aan laten sluiten.
 
 Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te maken voor de leerlingen door ze op pad te sturen om met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
 
