@@ -1,6 +1,6 @@
 ## A Visual Documentation of Process
 ### Goal
-To visually elucidate the process of design research  
+To visually explain the process of design research  
 
 ### Action
 We will show the journey of design research from conception to completion using the visual artefacts produced during the process. Text will accompany the images to create a clear narrative.
