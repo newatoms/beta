@@ -11,7 +11,9 @@ Ellis Stevens is docent maatschappijleer op het Rietveld Lyceum in Doetinchem. Z
 
 Voor veel leerlingen is het lastig om de relevantie van de lessen die ze op school krijgen in te zien als het niet direct relevant in hun leven is. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
-“Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.” Desalnietemin probeert Ellis haar lessen altijd zoveel mogenlijk op de vragen die de leerlingen zelf hebben te richten.
+> Natuurlijk zijn er wel themas zoals de politiek en de rechtsstaat die leerlingen moeten leren.
+
+Desalnietemin probeert Ellis haar lessen altijd zoveel mogenlijk op de vragen die de leerlingen zelf hebben te richten.
 
 Ellis volgt samen met twee collega's workshops aan de Nederlandse School. Hierin worden ze aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van die toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*. In dit vak gaan ze de drie vakken samenvoegen en hopen ze later andere vakken erbij aan te laten sluiten.
 
@@ -21,14 +23,17 @@ Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te ma
 
 De leerlingen kregen de opdracht om opzoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo'n spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
 
-Nu zijn ze met een Pilot bezig. “Ik heb de leerlingen op pad gestuurd.“ Ieder groepje had een misdrijf die zij moesten oplossen, leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. “Kinderen belden uiteindelijk heel stoer op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politieagent.”
+Nu zijn ze met een Pilot bezig.
+> Ik heb de leerlingen op pad gestuurd. Ieder groepje had een misdrijf die zij moesten oplossen, leerlingen moesten zelf experts interviewen zoals de politie en bankmedewerkers. Van al deze interviews moesten ze een filmpje maken. Kinderen belden uiteindelijk heel stoer op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politieagent.
 
 ## Het oplossen van misdaden als les op scholen
 
 
 De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een onbekend idee. Er zijn verschillende apps die door particulieren en scholen worden gebruikt om leerlingen virtuele misdaden op te laten lossen.
 
-Zo laat de Groene hart school hun leerlingen misdaden via een [app](http://www.groenehartscholen.nl/rijnwoude/2014/11/06/historische-misdaden-oplossen-met-ipad-3/) oplossen. "Leerlingen zijn op deze manier bezig met digital storytelling, waarbij ze hun misdaad stukje voor stukje ontrafelen".
+Zo laat de Groene hart school hun leerlingen misdaden via een [app](http://www.groenehartscholen.nl/rijnwoude/2014/11/06/historische-misdaden-oplossen-met-ipad-3/) oplossen.
+
+> Leerlingen zijn op deze manier bezig met digital storytelling, waarbij ze hun misdaad stukje voor stukje ontrafelen.
 
 Ook de politie heeft zelf een spelletje ontworpen dat burgers in staat stelt om via social media actief bij te dragen aan het oplossen van lopende zaken. “Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.”, aldus Elma Bos - strategisch adviseur van de korpschef Nationale Politie - in [de Stentor](http://socialmediadna.nl/recherche-game/).
 
