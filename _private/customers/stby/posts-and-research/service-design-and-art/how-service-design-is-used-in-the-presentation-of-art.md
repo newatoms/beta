@@ -20,7 +20,7 @@ Our location, present company, mood, and what our other senses are simultaneousl
 
 <img src="http://i.imgur.com/2zU78g0.jpg" width=1000% />
 
-This picture is taken in front of [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg) during Obama's visit to Holland, where he met Mark Rutte, the prime minister of Holland. Seeing a photograph of world leaders looking at the painting greatly influences the way the viewer appreciates the painting within the photograph.
+This picture is taken in front of [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg) during Obama's visit to Holland, where he met prime minister Mark Rutte. Seeing a photograph of world leaders looking at the painting greatly influences the way the viewer appreciates the painting within the photograph.
 
 Manipulation is not inherently negative. Works of art in everyday contexts can enhance the experiences of commuting, flipping through a magazine, occupying an office space... Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances. This is service design. Out in the world, context is shaping our behaviour and perceptions. The context of an artwork, or rather the reproduction thereof—think Google Images, Pinterest, advertising—is equally as designed for a specific effect.
 
