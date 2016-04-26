@@ -9,7 +9,7 @@ Bij de Nederlandse School zijn wij bezig om docenten aan te moedigen om te innov
 
 Het is voor leerlingen makkelijker om te leren als de stof direct in hun belevingswereld past. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
-## Nieuwe vakken ontstaan
+## Het tastbaar maken van de stof
 
 Ellis volgt samen met twee collega's workshops aan de Nederlandse School. Hierin worden ze aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van die toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*. Ze gaan proberen om drie vakken samen te voegen en hopen dat er later nog andere erbij aan zullen sluiten.
 
