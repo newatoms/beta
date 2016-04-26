@@ -17,7 +17,7 @@ Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te ma
 
 ## Het oplossen van een fictief misdrijf als eerste opdracht
 
-De leerlingen kregen de opdracht om opzoek te gaan naar mensen die hun inzicht zouden kunnen geven in hoe je een misdrijf oplost. Door zo'n spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
+De leerlingen kregen de opdracht om opzoek te gaan naar mensen die inzicht hebben in hoe je een misdrijf oplost. Door zo'n spannend onderwerp te koppelen aan huidige lesstof, hopen Ellis en haar collega’s de leerlingen te enthousiasmeren en het belang van de lessen in te laten zien.
 
 Nu zijn ze met een pilot bezig.
 
