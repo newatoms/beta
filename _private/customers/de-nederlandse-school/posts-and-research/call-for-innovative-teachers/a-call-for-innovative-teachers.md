@@ -7,7 +7,7 @@ Bij de Nederlandse School zijn wij bezig om docenten aan te moedigen om te innov
 
 > Het is een vak waar je in principe geen boeken voor nodig hebt omdat maatschappijleer heel erg op de actualiteit gebaseerd is.
 
-Het is voor leerlingen makkelijker om te leren als de stof direct in hun belevingswereld past. Daarom probeert Ellis haar lesstof zoveel mogelijk de onderwerpen direct op haar leerlingen te betrekken.
+Het is voor leerlingen makkelijker om te leren als de stof direct in hun belevingswereld past. Daarom probeert Ellis haar lesstof zoveel mogelijk direct op haar leerlingen te betrekken.
 
 ## Invloed van de Nederlandse School
 
