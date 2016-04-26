@@ -25,3 +25,7 @@ This picture is taken in front of [Night Watch](http://www.rembrandthuis.nl/medi
 Manipulation of this kind or any other is not inherently negative. Works of art in everyday contexts can enhance the experiences of commuting, flipping through a magazine, occupying an office space... Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances. This is service design. Out in the world, context is shaping our behaviour and perceptions. The context of an artwork, or rather the reproduction thereof—think Google Images, Pinterest, advertising—is equally as designed for a specific effect.
 
 John Berger's ideas about seeing make clear that our experience of art is shaped by our selves and our environments more so than the art itself. The experience is designed to guide the viewer into a specific kind of connection to the artwork, based on its context. Art becomes people-centered. This idea—making something that can feel inaccessible at times very relatable—connects strikingly with what we do at STBY. Our creative research projects connect organisations with the lives and experiences of their customers. This helps our clients to innovate their service offering, making it more valuable for both their customers and their business.
+
+Image 1: [Rijksmuseum, Amsterdam](http://hdl.handle.net/10934/RM0001.HARCHIEF.12889)
+
+Image 2: [Dave de Vaal](https://www.flickr.com/photos/minister-president/13376723903)
