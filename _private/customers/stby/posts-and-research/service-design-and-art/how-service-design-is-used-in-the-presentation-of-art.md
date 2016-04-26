@@ -16,7 +16,7 @@ In 1972, art critic/writer/painter/poet [John Berger](https://en.wikipedia.org/w
 
 This metaphor is now more relevant than ever. Most of our experiences looking at art outside of a museum are through [multiple subsequent lenses](https://www.youtube.com/watch?v=icruGcSsPp0): a photo taken of the original, then uploaded onto a computer from which it is posted on a website, to where it finally reaches us, in illuminated pixels or ink on a page, wherever we may be at that moment. It comes to us as information. Our experience of it, therefore, is entirely affected by context.
 
-Our location, present company, mood, and what our other senses are simultaneously experiencing all contribute to our experience of a work of art. But these are only the factors over which we have control. Berger argues that "reproduction of works of art can be used by anybody for their own purposes." Manipulation—cropping, panning, overlying music, placement among text or other images—all transform the narrative of an artwork.
+Our location, present company, mood, and what our other senses are simultaneously experiencing all contribute to our experience of a work of art. But these are only the factors over which we have control. Berger argues that "reproduction of works of art can be used by anybody for their own purposes." Manipulation—setting, cropping, panning, overlying music, placement among text or other images—all transform the narrative of an artwork.
 
 <img src="http://i.imgur.com/2zU78g0.jpg" width=1000% />
 
