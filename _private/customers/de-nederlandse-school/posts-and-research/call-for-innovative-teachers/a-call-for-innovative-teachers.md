@@ -21,7 +21,7 @@ De leerlingen kregen de opdracht om opzoek te gaan naar mensen die inzicht hebbe
 
 > Kinderen belden uiteindelijk heel stoer op om afspraken te maken voor hun eigen interview met bijvoorbeeld een politieagent.
 
-## Misdaden oplossen op andere scholen 
+## Misdaden oplossen op andere scholen
 
 De keuze van Ellis om de leerlingen een misdaad op te laten lossen is niet een geheel nieuw idee. Er zijn verschillende apps die door particulieren en scholen worden gebruikt om leerlingen virtuele misdaden op te laten lossen.
 
@@ -29,7 +29,7 @@ Zo laat de Groene hart school hun leerlingen misdaden via een [app](http://www.g
 
 > Leerlingen zijn op deze manier bezig met digital storytelling, waarbij ze hun misdaad stukje voor stukje ontrafelen.
 
-Ook de politie heeft zelf een spelletje ontworpen waarmee burgers via social media actief bij kunnen dragen aan het oplossen van lopende zaken.
+Ook de politie heeft zelf een app ontworpen waarmee burgers via social media actief bij kunnen dragen aan het oplossen van lopende zaken.
 
 Elma Bos, strategisch adviseur van de korpschef Nationale Politie, in [de Stentor](http://socialmediadna.nl/recherche-game/):
 > Feitelijk doen we zo een beroep op de creativiteit, de denkkracht en de kennis van een potentieel heel grote groep spelers.
