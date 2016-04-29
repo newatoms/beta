@@ -14,25 +14,22 @@ We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Ned
 
 ### Geef les vanuit je enthouiastme
 
-> Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan. Gerdien
+Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belagrijk vindt. Het schetsen van een kader waarbinnen de stof tot leven komt is erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend" zegt Gerdien. Ze kunnen dan begrijpen waarom jij zo enthousiast wordt ervan en begrijpen waarom de lesstof relevant is.
 
-Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belagrijk vindt. Het schetsen van een kader waarbinnen de stof tot leven komt is erg belangrijk voor de motivatie van leerlingen. Ze kunnen dan begrijpen waarom jij zo enthousiast wordt ervan en begrijpen waarom de lesstof relevant is.
+Eén manier om dit enthousiastme over te laten komen is door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur", aldus Gerdien.
 
-Eén manier om dit enthousiastme over te laten komen is door de les niet teveel voor te bereiden.
-> Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur, Gerdien.
-
-Om het overbrengen van het enthousiastme vast te houden over tijd is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en door de huidige actualiteit te verwerken in de lessen. De Nederlandse School blijkt een goede manier te zijn om mensen te leren kennen.
-
+Om het overbrengen van het enthousiastme vast te houden over tijd is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en door de huidige actualiteit te verwerken in de lessen.
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
->Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, Gerdien
+Zowel Elise als Gerdien hebben sinds ze bij de Nederlandse School de workshops volgen veel meer contact met onbekenden gehad. Beide vinden dat er waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
+Ze kregen van de Nederlandse School de opdracht om iemand van buiten het onderwijs te zoeken om inspiratie van te krijgen voor het implementeren van een vernieuwing in het onderwijs.
 
-Gerdien belt ook oud leerlingen op om te vragen hoe het met ze gaat, maar ook om te vragen wat er beter kon aan de lessen Nederlands.
+Dit is Gerdien goed bevallen: "...ik heb juist ook heel veel externe bronnen, maar die zijn vooral ontstaan door de Nederlandse School... Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt.. een kunstenaar ... [en] heb ik ouders ingeschakeld en thuis uitgenodigd"
+Daarnaast belt Gerdien  ook oud leerlingen op om te vragen wat er beter kon aan de lessen Nederlands.
 
 Daarnaast bespreken beide docenten veel met andere docenten.
-
-> Dan zegt een collega kom maar gewoon kijken, Gerdien.
+Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dan dat een docent dan zegt dat ze maar eens mee moet lopen met een les.
 
 
 ### Baseer je lesstof op wat er in de wereld speelt
@@ -40,13 +37,11 @@ Daarnaast bespreken beide docenten veel met andere docenten.
 Elise behandelt fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat terwijl in de hogere klassen er gediscussieerd wordt over de betekenis van het fragment in een grotere context.
 Door het nieuws als lesstof te gebruiken krijgt zij nieuwe inzichten vanuit de discussies met de leerlingen en kan zij meer meegeven aan de leerlingen dan 'alleen' de Franse taal.
 
-> Ik weet als het ware een eindpunt wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend, Gerdien
+Ook Gerdien vindt het belangrijk om meer te bieden dan alleen de verplichte stof: "Ik weet als het ware een eindpunt wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend."
 
 Hoe belangrijk diversiteit in de stof van de les is heeft Elise zelf nog als leerling ervaren. Ze vond eigenlijk nooit iets aan Frans totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een enorm mooie taal vond. De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
 
-Ook kunnen de gesprekken met anderen direct in de les verwerkt worden:
-
->  ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen.”
+Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. Elise: "...ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen"
 
 ## Blijf in ontwikkeling
 
