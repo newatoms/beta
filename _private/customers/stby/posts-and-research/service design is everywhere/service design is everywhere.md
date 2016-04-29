@@ -15,6 +15,8 @@ Another place that has improved greatly due to service design is the train stati
 
 Delays in train departures from stations are disruptive to many, "such as train travelers and staff working in trains and stations, but also others stuck in traffic waiting needlessly at a nearby crossing." Train operators are keen to explore solutions that help to avoid delays in dispatch times, and one such solution is a count down service. A digital sign at the platform showing the minutes and seconds left before a train is due to depart helps staff and travelers effectively anticipate train departure times." Though implementation of such a system may be barely-noticed, this subtle improvement greatly improves the service of transportation.
 
+## How service design creates opportunity
+
 By taking away the stress of catching my train, or the uneasiness or going to the library I get to pay attention to other matters that are important form me, and my loved ones. Even though these changes seem trivial, the development of brilliant ideas that stimulate our society happen only when there is space for them to exist. Space like that of a gentle feeling library or the knowledge you will make it to your train in time.
 
 Well-designed and intentional yet often unnoticed or taken-for-granted services make our daily lives, and that of those around us, smoother and more comfortable creating space for other things to come into existence.
