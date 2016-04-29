@@ -20,7 +20,7 @@ Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan
 
 > “Ik merk dat je elkaar soms snel niet spreekt. Dat je dan de [te makkelijke] opdracht samen moet doen. Dit is een beetje jammer van mijn tijd.”
 
-> [Om dit op te lossen] kan je voor twee manieren kiezen. Je kan of niveaugroepen maken, of je kan er juist voor kiezen om dit niet te doen en de meer ervaren mensen de expert te laten zijn. Ik probeer dat [met mijn eigen leerlingen] af te wisselen.
+> “[Om dit op te lossen] kan je voor twee manieren kiezen. Je kan of niveaugroepen maken, of je kan er juist voor kiezen om dit niet te doen en de meer ervaren mensen de expert te laten zijn. Ik probeer dat [met mijn eigen leerlingen] af te wisselen.”
 
 *Wat is het voordeel van de tweede optie?*
 
