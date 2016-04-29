@@ -40,7 +40,9 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
 
 ### Zorg dat er altijd goede faciliteiten zijn
 
-WiFi is vaker een probleem als een grote groep mensen bijelkaar zitten en allemaal tegelijkertijd op het netwerk moeten. In Groningen ging het een keer mis. 
+WiFi is vaker een probleem als een grote groep mensen bijelkaar zitten en allemaal tegelijkertijd op het netwerk moeten. In Groningen ging het een keer mis.
+
+ 
 
 > “Dat is een goeie vraag. Ze zouden bepaalde faciliteiten met bepaalde middelen kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, maar er was nauwelijks WiFi. Dat vind ik belachelijk. Uiteindelijk heb ik als brave deelnemer ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dit levert eigenlijk heel veel stress op. Dan denk ik kijk, dat soort voorwaardes, als jij vraagt om devices mee te nemen—ik had mijn MacBook mee en mijn iPad—dan moet je zorgen dat iedereen probleemloos op WiFi kan. Het is wel een heel knullig voorbeeld maar dit vind ik wel een min.”
 
@@ -48,9 +50,7 @@ WiFi is vaker een probleem als een grote groep mensen bijelkaar zitten en allema
 
 DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijgen docenten een andere kijk op educatie en krijgen een frisse blik voor bepaalde problemen waar ze tegenaan lopen. Toch heeft een deelnemer de wens om nu iets meer sprekers van binnen het onderwijs uit te nodigen.   
 
-> “Je krijgt van de Nederlandse School artikelen aangereikt van mensen die over onderwijs schrijven. Het zal nu wel mooi zijn als je een keertje een dag zal hebben waar je stuk of wat van dergelijke mensen aanwezig zouden zijn, dat je kan zeggen dat we bepaalde mensen te spreken krijgen over waar we mee bezig zijn.” Individueel krijg je die sprekers niet te pakken.”
-
-> “Wat ik nu wel mooi zou vinden dat we nu als het waren ook wat meer mensen binnen het onderwijs bij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Ik weet alleen niet of anderen daar ook op zitten te wachten.”
+> “Wat ik nu wel mooi zou vinden dat we nu als het ware ook wat meer mensen binnen het onderwijs bij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Ik weet alleen niet of anderen daar ook op zitten te wachten.”
 
 ### Communiceer meer over werknemers van de dNS
 
