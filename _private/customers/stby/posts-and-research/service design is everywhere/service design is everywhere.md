@@ -16,7 +16,7 @@ Delays in train departures from stations are disruptive to many, "such as train 
 
 ## How service design creates opportunity
 
-By taking away the stress of catching my train, or the uneasiness or going to the library I get to pay attention to other matters that are important form me, and my loved ones. Even though these changes seem trivial, the development of brilliant ideas that stimulate our society happen only when there is space for them to exist. Space like that of a gentle feeling library or the knowledge you will make it to your train in time.
+By taking away the stress of catching my train or the uneasiness of going to the library I get to pay attention to other matters that are important form me, and my loved ones. Even though these changes seem trivial, the development of brilliant ideas that stimulate our society happen only when there is space for them to exist. Space like that of a gentle feeling library or the knowledge you will make it to your train in time.
 
 Well-designed and intentional yet often unnoticed or taken-for-granted services make our daily lives, and that of those around us, smoother and more comfortable creating space for other things to come into existence.
 
