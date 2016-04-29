@@ -12,7 +12,7 @@ Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf 
 
 We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses bij de Nederlandse School en zijn altijd actief bezich met hun eigen ontwikkeling als docent.
 
-### Geef les vanuit je enthouiastme
+### Geef les vanuit je enthousiasme
 
 Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belangrijk vindt. Volgends Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend".
 
