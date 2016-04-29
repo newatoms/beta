@@ -32,7 +32,7 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
   
 > “Dit kan je ook veel meer inzetten in het ontwerpen van het lesmateriaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord.”
 
-*Kan de Nederlandse school dit op een bepaalde manier faciliteren?*
+*Kan de Nederlandse school dit op een bepaalde manier stimuleren?*
 
 > “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt die informele uitwisseling en die is denk ik ook heel erg belangrijk. Er moet [dus] tijd zijn om die informele uitwisseling te kunnen hebben met elkaar.”
 
