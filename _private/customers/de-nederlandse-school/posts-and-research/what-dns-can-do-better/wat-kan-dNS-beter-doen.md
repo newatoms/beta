@@ -24,7 +24,7 @@ Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan
 
 *Wat is het voordeel van de tweede optie?*
 
-> “Ik heb ooit een collega geschiedenis horen zeggen: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer allemaal nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
+> “Ik heb ooit een collega geschiedenis horen zeggen: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer allemaal nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
 
 Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door gelijkwaardigheid te creëren zorg je dat iedereen zich geaccepteerd voelt en iets te bieden heeft.
 
@@ -40,7 +40,7 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
 
 ### Zorg dat er altijd goede faciliteiten zijn
 
-WiFi is vaker een probleem als een grote groep mensen bijelkaar zitten en allemaal tegelijkertijd op het netwerk moeten. In Groningen ging het een keer mis.
+WiFi is vaker een probleem als een grote groep mensen bij elkaar zitten en allemaal tegelijkertijd op het netwerk moeten. In Groningen ging het een keer mis.
 
 *Kan dNS nog iets doen aan de verwachtingen die ze scheppen?*
  
@@ -50,7 +50,7 @@ WiFi is vaker een probleem als een grote groep mensen bijelkaar zitten en allema
 
 DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijgen docenten een andere kijk op educatie en krijgen een frisse blik voor bepaalde problemen waar ze tegenaan lopen. Toch heeft een deelnemer de wens om nu iets meer sprekers van binnen het onderwijs uit te nodigen.   
 
-> “Wat ik nu wel mooi zou vinden dat we nu als het ware ook wat meer mensen binnen het onderwijs bij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Ik weet alleen niet of anderen daar ook op zitten te wachten.”
+> “Wat ik nu wel mooi zou vinden is dat we als het ware ook wat meer mensen binnen het onderwijs erbij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Individueel krijg je die sprekers niet te pakken.”
 
 ### Communiceer meer over werknemers van de dNS
 
