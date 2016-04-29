@@ -26,9 +26,9 @@ This is a great example of how our location, present company, mood, and what our
 
 While seeing works of art in less prestigious contexts, for example advertisements, can at times "cheapen" them, artworks in such settings can equally enhance the experiences of commuting, flipping through a magazine, occupying an office space... Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances.
 
-The act of actively influencing the experience of the viewer is a form of service design.
+The act of intentionally influencing the experience of the viewer is a form of service design.
 
-John Berger's ideas about seeing make clear that our experience of art is shaped by our selves and our environments more so than the art itself. The experience is designed to guide the viewer into a specific kind of connection to the artwork, based on its context. The moment the artist and curators take this in account while creating and displaying art, it becomes people-centered.
+John Berger's ideas about seeing make clear that our experience of art is shaped by our selves and our environments more so than the art itself. The experience is designed to guide the viewer into a specific kind of connection to the artwork, based on its context. The moment one takes this in account while creating and displaying art, it becomes people-centered.
 
 
 
