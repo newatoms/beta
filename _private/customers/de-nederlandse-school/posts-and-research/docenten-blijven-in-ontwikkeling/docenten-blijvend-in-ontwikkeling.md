@@ -23,7 +23,7 @@ Om het overbrengen van het enthousiastme vast te houden over tijd is het belangr
 ### Zorg dat je geïnspireerd blijft door anderen
 
 Zowel Elise als Gerdien hebben sinds ze bij de Nederlandse School de workshops volgen veel meer contact met onbekenden gehad. Beide vinden dat er waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
-Ze kregen van de Nederlandse School de opdracht om iemand van buiten het onderwijs te zoeken om inspiratie van te krijgen voor het implementeren van een vernieuwing in het onderwijs.
+Ze kregen van de Nederlandse School de opdracht om iemand van buiten het onderwijs te zoeken om inspiratie te krijgen voor het implementeren van een vernieuwing in het onderwijs.
 
 Dit is Gerdien goed bevallen: "...ik heb juist ook heel veel externe bronnen, maar die zijn vooral ontstaan door de Nederlandse School... Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt.. een kunstenaar ... [en] heb ik ouders ingeschakeld en thuis uitgenodigd"
 Daarnaast belt Gerdien  ook oud leerlingen op om te vragen wat er beter kon aan de lessen Nederlands.
