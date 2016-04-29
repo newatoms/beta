@@ -10,19 +10,25 @@ Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf 
 
 ## Hoe blijven Gerdien en Elise zich ontwikkelen?
 
-We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses be de Nederlandse School en zijn altijd actief bezich met hun eigen ontwikkeling als docent.
+We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses bij de Nederlandse School en zijn altijd actief bezich met hun eigen ontwikkeling als docent.
 
 ## Geef les vanuit je enthouiastme
 
-Gerdien: “Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan.”
+> Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan. Gerdien
 
-Gerdien: “Iemand zei ik heb nog nooit zoveel geleerd bij Nederlands maar dat komt door wat we doen in de lessen.”
+Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belagrijk vindt. Daarnaast leg je, als je enthousiast uitlegt, ook uit waarom jij er enthousiast van wordt. Het aanreiken van handvaten en een kader schetsen waarin de stof tot leven komt is erg belangrijk voor de leerlingen.
 
-Gerdien: “...dus ik heb nu geleerd dat als ik maar niet te enthousiast ben, dat ik ze wel weer warm krijg. Het is iets totaal anders dan met leerlingen. leerlingen doen alles voor mij, maar docenten die moet je op een andere manier daarbij betrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je een goeie wegen voor vinden.”
+Een manier om dit enthousiastme over te laten komen is om de les niet teveel voor te bereiden.
+> Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur, Gerdien.
+
+Bij mededocenten is het soms handig om het enthousiastme te temperen valt Gerdien op:
+
+> ...maar docenten moet je op een andere manier daarbij betrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je goede wegen voor vinden.
+
+Natuurlijk moet je het bij leerlingen ook zinvol maken maar de reden waarom het zinvol is verschilt.
 
 ## Zorg dat je geinspireerd blijft
 
-Gerdien: “Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur.”
 
 Elise: “Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant mensen liefde voor het vak bijbrengen, maar vooral ook, laten zien dat taal een middel is om mensen te ontmoeten."
 
