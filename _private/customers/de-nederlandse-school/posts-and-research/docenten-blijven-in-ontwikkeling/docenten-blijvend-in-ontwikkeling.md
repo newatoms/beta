@@ -18,6 +18,9 @@ We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Ned
 
 Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belagrijk vindt. Daarnaast leg je, als je enthousiast uitlegt, ook uit waarom jij er enthousiast van wordt. Het aanreiken van handvaten en een kader schetsen waarin de stof tot leven komt is erg belangrijk voor de leerlingen.
 
+> Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant mensen liefde voor het vak bijbrengen, maar vooral ook, laten zien dat taal een middel is om mensen te ontmoeten, Elise
+
+
 Een manier om dit enthousiastme over te laten komen is om de les niet teveel voor te bereiden.
 > Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur, Gerdien.
 
@@ -27,10 +30,19 @@ Bij mededocenten is het soms handig om het enthousiastme te temperen valt Gerdie
 
 Natuurlijk moet je het bij leerlingen ook zinvol maken maar de reden waarom het zinvol is verschilt.
 
-## Zorg dat je geinspireerd blijft
+## Zorg dat je geïnspireerd blijft
+
+Om het overbrengen van het enthousiastme vast te houden over tijd is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door de huidige actualiteit te verwerken in de lessen en door veel met onbekenden te praten.
+
+Elise behandelt fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat terwijl in de hogere klassen er gediscussieerd wordt over de betekenis van het fragment in een grotere context.
+Door het nieuws als lesstof te gebruiken leert zij nieuwe inzichten van de leerlingen en kan zij meer meegeven aan de leerlingen dan 'alleen' de Franse taal.
+
+Ook Gerdien wisselt in de stof die zij in haar klas bespreekt.
+> Ik weet als het ware een eindpunt wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend.
 
 
-Elise: “Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant mensen liefde voor het vak bijbrengen, maar vooral ook, laten zien dat taal een middel is om mensen te ontmoeten."
+
+> Joh ik heb gehoord dat leerlingen jou goed vinden, wat doe jij?” Dan zegt een collega kom maar gewoon kijken, Gerdien.
 
 Gerdien: “Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit opgaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie. Zo hebben we in onze sectie besloten om bijvoorbeeld in vwo 5 een lesmethode af te schaffen en daar ben ik bijvoorbeeld een heel groot voorstander van in de bovenbouw van HAVO VWO…”
 
@@ -38,9 +50,10 @@ Gerdien: “Ik heb met journalisten onder andere van de groene Amsterdammer same
 
 Gerdien: “Ik werk ook met oud leerlingen. Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.”
 
-Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
 
 ## Baseer je lesstof op wat er in de wereld speelt
+
+Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
 
 Elise:  “...toen ik Frans begon te leren haalde  ik alleen 3en 4en. Dus ik heb ook meegemaakt hoe verschrikkelijk de taal is. ... Ik heb toen via een Frans meisje dat bij ons kwam logeren Frans geleerd. En daarna ja, eigenlijk ontdekt dat ik het een hele mooie taal vond...
 
