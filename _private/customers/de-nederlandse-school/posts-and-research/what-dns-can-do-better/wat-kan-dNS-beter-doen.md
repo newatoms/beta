@@ -50,7 +50,7 @@ DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijge
 
 ### Communicatie bij vertrek van stafleden kan beter
 
-> Wat wel jammer was is dat een van de stafleden van dNS een beetje geruisloos is vertrokken. Dat was vrij onduidelijk. Dat vond ik wel jammer. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg. Het was Kayleigh Rosalie en ik vond het bijzonder spijtig om haar zo ineens te moeten missen. Het is ook helemaal niet meer van deze tijd om een kaartje te sturen, maar ik vond het niet helemaal politiek correct en niet zo warm.
+> “Het was wel jammer dat één van de stafleden van dNS een beetje geruisloos is vertrokken. Dat was vrij onduidelijk. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg.
 
 ## De waarde van feedback
 
