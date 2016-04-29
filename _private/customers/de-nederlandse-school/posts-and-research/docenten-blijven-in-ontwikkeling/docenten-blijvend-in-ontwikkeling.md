@@ -20,6 +20,7 @@ Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof ec
 
 > Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant mensen liefde voor het vak bijbrengen, maar vooral ook, laten zien dat taal een middel is om mensen te ontmoeten, Elise
 
+> Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit opgaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie
 
 Een manier om dit enthousiastme over te laten komen is om de les niet teveel voor te bereiden.
 > Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur, Gerdien.
@@ -40,15 +41,16 @@ Door het nieuws als lesstof te gebruiken leert zij nieuwe inzichten van de leerl
 Ook Gerdien wisselt in de stof die zij in haar klas bespreekt.
 > Ik weet als het ware een eindpunt wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend.
 
+Zowel Gerdien als Elise hebben gemerkt dat de Nederlandse School ervoor heeft gezorgd dat zij meer gesprekken met anderen hebben.
 
+>Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, Gerdien
+
+Daarnaast heeft zij op eigen initiatief ook contact gezocht met oud leerlingen
+>Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders, Gerdien
+
+Maar ook gesprekken met andere docenten kunnen veel opleveren.
 
 > Joh ik heb gehoord dat leerlingen jou goed vinden, wat doe jij?” Dan zegt een collega kom maar gewoon kijken, Gerdien.
-
-Gerdien: “Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit opgaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie. Zo hebben we in onze sectie besloten om bijvoorbeeld in vwo 5 een lesmethode af te schaffen en daar ben ik bijvoorbeeld een heel groot voorstander van in de bovenbouw van HAVO VWO…”
-
-Gerdien: “Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden van ja dit en dit zou ook zo mooi zijn als dat op school zou gebeuren kan dat? Dan gaan we het er over hebben gaan we nadenken en er over sparren.”
-
-Gerdien: “Ik werk ook met oud leerlingen. Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.”
 
 
 ## Baseer je lesstof op wat er in de wereld speelt
