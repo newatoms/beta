@@ -1,4 +1,4 @@
-<img src="https://imgur.com/ITzaEXA" width=100% />
+<img src="https://i.imgur.com/ITzaEXA.jpg" width=100% />
 
 # Docenten blijven in ontwikkeling
 
