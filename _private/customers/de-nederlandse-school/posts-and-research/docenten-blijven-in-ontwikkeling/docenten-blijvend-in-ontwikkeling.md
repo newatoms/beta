@@ -33,10 +33,7 @@ Natuurlijk moet je het bij leerlingen ook zinvol maken maar de reden waarom het 
 
 ## Zorg dat je geïnspireerd blijft
 
-Om het overbrengen van het enthousiastme vast te houden over tijd is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door de huidige actualiteit te verwerken in de lessen en door veel met onbekenden te praten.
-
-Elise behandelt fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat terwijl in de hogere klassen er gediscussieerd wordt over de betekenis van het fragment in een grotere context.
-Door het nieuws als lesstof te gebruiken leert zij nieuwe inzichten van de leerlingen en kan zij meer meegeven aan de leerlingen dan 'alleen' de Franse taal.
+Om het overbrengen van het enthousiastme vast te houden over tijd is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en door de huidige actualiteit te verwerken in de lessen.
 
 Ook Gerdien wisselt in de stof die zij in haar klas bespreekt.
 > Ik weet als het ware een eindpunt wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend.
@@ -54,6 +51,9 @@ Maar ook gesprekken met andere docenten kunnen veel opleveren.
 
 
 ## Baseer je lesstof op wat er in de wereld speelt
+
+Elise behandelt fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat terwijl in de hogere klassen er gediscussieerd wordt over de betekenis van het fragment in een grotere context.
+Door het nieuws als lesstof te gebruiken leert zij nieuwe inzichten van de leerlingen en kan zij meer meegeven aan de leerlingen dan 'alleen' de Franse taal.
 
 Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
 
