@@ -29,7 +29,7 @@ Gerdien heeft sinds de Nederlandse School samengewerkt met onder andere een jour
 
 Ook Elise merkt duidelijk dat haar blik de laatste tijd is verrijkt: "...dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben." Deze gesprekken bieden ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School" aldus Elise.
 
-Daarnaast bespreken beide docenten veel met andere docenten. Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze maar eens mee moet lopen met een les.
+Daarnaast bespreken beide docenten veel met andere docenten. Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze meer dan welkom is om eens mee te lopen in een les.
 
 
 ### Baseer je lesstof op wat er in de wereld speelt
