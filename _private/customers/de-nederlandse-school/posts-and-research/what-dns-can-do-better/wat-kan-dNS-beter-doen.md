@@ -1,4 +1,4 @@
-<img src="http://vignette1.wikia.nocookie.net/creepypasta/images/7/74/Ophelia_millais.jpg/revision/latest?cb=20140124022031" width=100% />
+<img src="http://lot-images.atgmedia.com/SR/10034/2871873/820-2013129172444_540x360.jpg" width=100% />
 
 # Wat kan de Nederlandse School beter doen?
 
