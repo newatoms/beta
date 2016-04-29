@@ -12,7 +12,7 @@ Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te h
 
 ### Laat de docenten meer van elkaar leren 
 
-Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan met het verschil van niveau en ervaring tussen de deelnemende docenten. Docenten hebben uiteenlopende redenen om met de de Nederlandse School mee te doen.
+Verschillende niveaus tussen leerlingen in één klas kan zowel het leren bevorderen als het tegen gaan. Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan met het verschil van niveau en ervaring tussen de deelnemende docenten die het master programma volgen bij de Nederlandse School. Docenten hebben ook uiteenlopende redenen om met de mee te doen.
 
 > “Sommige docenten geven net les, die staan nog te overleven in de klas en anderen staan er al 20 jaar en hadden [door de Nederlandse School] zin in weer eens een nieuwe drive en nieuwe ontmoetingen.”
 
