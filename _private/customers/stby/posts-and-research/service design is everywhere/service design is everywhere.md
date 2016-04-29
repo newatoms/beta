@@ -9,9 +9,9 @@ ___
 
 Well-designed and intentional yet often unnoticed or taken-for-granted services make our daily lives smoother and more comfortable. Our interactions with organisations are actually services that can be designed. When those experiences are negative, STBY sees opportunities for improvement. STBY has worked to improve society, often times in subtle but highly impactful ways.
 
-## Helping staff and travelers effectively anticipate train departure times. 
+## Helping staff and travelers effectively anticipate train departure times.
 
-Nomi always travels by train during rush hours. She finds herself sprinting through the stations’ big halls, high heels tapping on tiles, cafe latte in one hand in search of the right platform. Enduring stress before even thinking about work is not ideal. But then—her eyes scanning for her train departure time—she sees a count down clock. She didn't even have to look at her watch. Three minutes until the train leaves. Time to take a deep breath while finding out she didn’t spill any coffee; today will be a good day.     
+Let's look at another place that has improved greatly due to service design: the train station. Nomi always travels by train during rush hours. She finds herself sprinting through the stations’ big halls, high heels tapping on tiles, cafe latte in one hand in search of the right platform. Enduring stress before even thinking about work is not ideal. But then — her eyes scanning for her train departure time — she sees a count down clock. She didn't even have to look at her watch. Three minutes until the train leaves. Time to take a deep breath while finding out she didn’t spill any coffee; today will be a good day.     
 
 Delays in train departures from stations are disruptive to many, "such as train travelers and staff working in trains and stations, but also others stuck in traffic waiting needlessly at a nearby crossing. Train operators are keen to explore solutions that help to avoid delays in dispatch times, and one such solution is a count down service. A digital sign at the platform showing the minutes and seconds left before a train is due to depart helps staff and travelers effectively anticipate train departure times." Though implementation of such a system may be barely-noticed, this subtle improvement greatly improves the service of transportation.
 
