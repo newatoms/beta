@@ -50,7 +50,18 @@ Je kan voor twee manieren kiezen [om dit op te lossen]. Je kan of niveaugroepen 
 
 > Wat wel jammer was is dat een van de stafleden van dNS een beetje geruisloos is vertrokken Dat was vrij onduidelijk. Dat vond ik wel jammer. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg. Het was Kayleigh Rosalie en ik vond het bijzonder spijtig om haar zo ineens te moeten missen. Het is ook helemaal niet meer van deze tijd om een kaartje te sturen, maar ik vond het niet helemaal politiek correct en niet zo warm.
 
+<<<<<<< HEAD
 Afbeelding: 
+=======
+## De waarde van feedback
+
+Als organisatie ken je de beredenatie achter elke gemaakte keuze. Hierdoor is het vaak lastig om vast te stellen wat wel en wat niet goed werkt. Daarnaast verandert de wereld continu en moeten sommige gemaakte keuzes geherevalueerd worden. Wij proberen dit regelmatig te doen, maar wij ervaren de situatie natuurlijk heel anders dan deelnemende docenten. Om goede keuzes te maken hebben wij feedback nodig.
+
+Wij hopen met dit artikel te laten zien dat wij feedback zeer waarderen en graag een open communicatie willen behouden. Denk je dat iets beter kan? Spreek ons dan aan op één van de workshops of bel ons.
+
+
+
+>>>>>>> ready
 
 <!-- > PITCH
 ## Wat kan de Nederlandse School beter doen?
