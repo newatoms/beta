@@ -38,10 +38,6 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
 
 > “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
 
-### Lokatie en kwaliteit van de faciliteiten 
-
-> “Daarnaast zijn wel heel veel stafleden van de Nederlandse School gelokaliseerd in Amsterdam. Dus daar zijn we ook veel geweest. Maar daar is tegelijkertijd ook wel kritiek op gekomen. Want als jij een opleiding wil zijn voor heel Nederland dan kun je niet zeggen dat Amsterdam onze maatschappij in het klein is. Dat is niet zo. Er zijn bijvoorbeeld drie mensen die komen uit Emmen, er zijn drie mensen die komen uit Doorn er zijn mensen die komen uit het zuiden. Je moet wel een open vizier houden.  
-
 ### Vind je het geloofwaardig wat de Nederlandse School doet en kunnen ze nog iets doen aan de verwachtingen die ze scheppen?
 
 > Dat is een goeie vraag. Ik denk dat ze hieraan nog wel wat kunnen doen. Ze zouden bepaalde faciliteiten met bepaalde middelen kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, maar er was nauwelijks WiFi. Dat vind ik belachelijk, je zit op een universiteit en we moeten iets doen. Uiteindelijk heb ik als brave deelnemer s'avonds op de hotelkamer mijn huiswerk gedaan, maar dit levert eigenlijk heel veel stress op. Dan denk ik kijk, dat soort voorwaardes, als jij vraagt om devices mee te nemen—ik had mijn MacBook mee en mijn iPad—dan moet je zorgen dat iedereen probleemloos op wifi kan. Het is wel een heel knullig voorbeeld maar dit vind ik wel een min.
