@@ -22,7 +22,9 @@ Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan
 
 ### Wat is het voordeel van de tweede optie?
 
-> ...ik heb ooit van een collega geschiedenis horen zeggen: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer alle nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.
+Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door gelijkwaardigheid te creëren zorg je dat iedereen iets te bieden heeft en zich geaccepteerd voelt.
+
+> ...ik heb ooit van een collega geschiedenis horen zeggen: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer allemaal nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.
 
 ### Dus de Nederlandse School kan dit dus stimuleren door nadruk te leggen op het feit dat niet iedereen evenveel ervaring heeft, maar dat dat niet betekent dat daardoor de kennis minder waardevol is?
 
