@@ -8,7 +8,7 @@ Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om 
 
 Maar ook wij hebben soms een frisse blik nodig.
 
-## Wij vroegen om advies van deelnemende docenten
+## Wij vroegen deelnemende docenten om advies
 
 Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen, zijn wij in gesprek gegaan met docenten over wat wij beter kunnen doen. Hier onder het advies wat daaruit voort kwam.
 
