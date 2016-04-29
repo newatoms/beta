@@ -14,7 +14,7 @@ We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Ned
 
 ### Geef les vanuit je enthousiasme
 
-Door als docent enthousiast te zijn over jouw vak laat je zien dat jij de stof echt belangrijk vindt. Volgends Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen, zie ik juist dat mijn enthousiasme zo ontzettend motiverend is."
+Door als docent enthousiast te zijn over jouw vak laat je zien dat jij de stof belangrijk vindt. Volgens Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen, zie ik juist dat mijn enthousiasme zo ontzettend motiverend is."
 
 Volgends Gerdien is één manier om dit enthousiasme over te laten komen de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
 
