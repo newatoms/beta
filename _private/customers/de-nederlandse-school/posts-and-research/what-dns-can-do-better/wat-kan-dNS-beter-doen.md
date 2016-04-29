@@ -10,7 +10,7 @@ Maar ook wij hebben soms een frisse blik nodig.
 
 Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen schrijven wij over wat docenten vinden dat wij beter kunnen doen.
 
-### Laat de docenten meer van elkaar leren 
+### Deelnemers: Laat de docenten meer van elkaar leren 
 
 Verschillende niveaus tussen leerlingen in één klas kan zowel het leren bevorderen als het tegen gaan. Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan met het verschil van niveau en ervaring tussen de deelnemende docenten die het master programma volgen bij de Nederlandse School. Docenten hebben ook uiteenlopende redenen om met de mee te doen.
 
