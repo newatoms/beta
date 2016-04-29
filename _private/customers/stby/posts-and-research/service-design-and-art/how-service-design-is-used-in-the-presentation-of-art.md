@@ -18,15 +18,17 @@ In 1972, art critic/writer/painter/poet [John Berger](https://en.wikipedia.org/w
 
 This metaphor is now more relevant than ever. Most of our experiences looking at art outside of a museum are through [multiple subsequent lenses](https://www.youtube.com/watch?v=icruGcSsPp0): a photo taken of the original, then uploaded onto a computer from which it is posted on a website, to where it finally reaches us, in illuminated pixels or ink on a page, wherever we may be at that moment. It comes to us as information. Our experience of it, therefore, is entirely affected by context.
 
-Our location, present company, mood, and what our other senses are simultaneously experiencing all contribute to our experience of a work of art. But these are only the factors over which we have control. Berger argues that "reproduction of works of art can be used by anybody for their own purposes." Manipulation—setting, cropping, panning, overlying music, placement among text or other images—all transform the narrative of an artwork.
-
 <img src="http://i.imgur.com/2zU78g0.jpg" width=1000% />
 
 This picture is taken in front of [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg) during Obama's visit to Holland, where he met prime minister Mark Rutte. Seeing a photograph of world leaders looking at the painting greatly influences the way the viewer appreciates the painting within the photograph.
 
-While seeing works of art in less prestigious contexts, for example advertisements, can at times "cheapen" them, artworks in such settings can equally enhance the experiences of commuting, flipping through a magazine, occupying an office space... Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances. This is service design. Out in the world, context is shaping our behaviour and perceptions. The context of an artwork, or rather the reproduction thereof—think Google Images, Pinterest, advertising—is equally as designed for a specific effect.
+This is a great example of how our location, present company, mood, and what our other senses are simultaneously experiencing all contribute to our experience of a work of art, not all of these elements are within the control of the creator or the curator. Berger argues that "reproduction of works of art can be used by anybody for their own purposes." Suggesting that any one  transform the narrative of an artwork by Manipulation—setting, cropping, panning, overlying music, placement among text or other images—all.
 
-John Berger's ideas about seeing make clear that our experience of art is shaped by our selves and our environments more so than the art itself. The experience is designed to guide the viewer into a specific kind of connection to the artwork, based on its context. Art becomes people-centered. 
+While seeing works of art in less prestigious contexts, for example advertisements, can at times "cheapen" them, artworks in such settings can equally enhance the experiences of commuting, flipping through a magazine, occupying an office space... Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances.
+
+The act of actively influencing the experience of the viewer is a form of service design.
+
+John Berger's ideas about seeing make clear that our experience of art is shaped by our selves and our environments more so than the art itself. The experience is designed to guide the viewer into a specific kind of connection to the artwork, based on its context. The moment the artist and curators take this in account while creating and displaying art, it becomes people-centered.
 
 
 
