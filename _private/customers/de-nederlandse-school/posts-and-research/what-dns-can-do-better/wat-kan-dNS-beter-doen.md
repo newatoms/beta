@@ -44,14 +44,13 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
 
 ### Sprekers die uit het onderwijs komen
 
-> Wat ik nu wel mooi zou vinden dat we nu als het ware ook wat meer mensen binnen het onderwijs bij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Ik weet alleen niet of anderen daar ook op zitten te wachten.
+DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijgen docenten een andere kijk op educatie en krijgen een frisse blik voor bepaalde problemen waar ze tegenaan lopen. Toch heeft een deelnemer de wens om nu iets meer sprekers van binnen het onderwijs uit te nodigen.   
 
+“Je krijgt van de Nederlandse School artikelen aangereikt van mensen die over onderwijs schrijven. Het zal nu wel mooi zijn als je een keertje een dag zal hebben waar je stuk of wat van dergelijke mensen aanwezig zouden zijn, dat je kan zeggen dat we bepaalde mensen te spreken krijgen over waar we mee bezig zijn.” Individueel krijg je die sprekers niet te pakken.”
 
-> ...je krijgt van de Nederlandse School artikelen aangereikt van mensen die over onderwijs schrijven. Het zal nu wel mooi zijn als je een keertje een dag zal hebben waar je stuk of wat van dergelijke mensen aanwezig zouden zijn, dat je kan zeggen dat we bepaalde mensen te spreken krijgen over waar we mee bezig zijn. Individueel krijg je die sprekers niet te pakken. Misschien is het nu langzamerhand wel tijd dat we met zijn allen een lijstje maken van de mensen die we zouden willen spreken. In plaats van dat de Nederlandse school ons sprekers aanreikt. Dan staan ze namelijk wat meer open voor degene die wij zouden willen spreken als groep.
+### Communicatie bij vertrek van stafleden kan beter
 
-### Zijn er nog andere dingen die beter kunnen?
-
-> Wat wel jammer was is dat een van de stafleden van dNS een beetje geruisloos is vertrokken Dat was vrij onduidelijk. Dat vond ik wel jammer. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg. Het was Kayleigh Rosalie en ik vond het bijzonder spijtig om haar zo ineens te moeten missen. Het is ook helemaal niet meer van deze tijd om een kaartje te sturen, maar ik vond het niet helemaal politiek correct en niet zo warm.
+> Wat wel jammer was is dat een van de stafleden van dNS een beetje geruisloos is vertrokken. Dat was vrij onduidelijk. Dat vond ik wel jammer. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg. Het was Kayleigh Rosalie en ik vond het bijzonder spijtig om haar zo ineens te moeten missen. Het is ook helemaal niet meer van deze tijd om een kaartje te sturen, maar ik vond het niet helemaal politiek correct en niet zo warm.
 
 ## De waarde van feedback
 
