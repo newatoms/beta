@@ -1,6 +1,6 @@
 <img src="http://i.imgur.com/IWuQrIO.jpg" width=100% />
 
-# How Service Design Is Used in the Presentation of Art
+# The Art Experience
 
 Imagine the following scenarios:
 
@@ -12,7 +12,9 @@ In each scenario, how do you experience the painting?
 
 When we look at art, most of our attention is focussed on the artwork on display. Rarely will we pay the same amount of attention to the display itself: the context. The moment we begin to understand the relationship between art and its context, a whole new world opens up.
 
-In 1972, art critic/writer/painter/poet [John Berger](https://en.wikipedia.org/wiki/John_Berger), in tandem with the BBC, made a four-part television series called *[Ways of Seeing](https://www.youtube.com/watch?v=utEoRdSL1jo)*. In this series, Berger calls a painting "a corridor, connecting the moment which it represents, to the moment you are looking at it."
+In 1972, art critic/writer/painter/poet [John Berger](https://en.wikipedia.org/wiki/John_Berger), in tandem with the BBC, made a controversial four-part television series called *[Ways of Seeing](https://www.youtube.com/watch?v=utEoRdSL1jo)*. The series, regarded as one of the most influential art programmes ever made, was said by [Ratik Asokan](https://newrepublic.com/article/126679/many-faces-john-berger) to have been "pioneering for the ease with which it moved between analyzing the highbrow (e.g. the great masters) and the lowbrow (e.g. advertisements), [and] more importantly, for how it kicked down the supposed distinction between the two."
+
+>In *Ways of Seeing*, Berger calls a painting "a corridor, connecting the moment which it represents, to the moment you are looking at it."
 
 This metaphor is now more relevant than ever. Most of our experiences looking at art outside of a museum are through [multiple subsequent lenses](https://www.youtube.com/watch?v=icruGcSsPp0): a photo taken of the original, then uploaded onto a computer from which it is posted on a website, to where it finally reaches us, in illuminated pixels or ink on a page, wherever we may be at that moment. It comes to us as information. Our experience of it, therefore, is entirely affected by context.
 
