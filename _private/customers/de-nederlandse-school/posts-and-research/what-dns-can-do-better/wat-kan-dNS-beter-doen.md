@@ -42,7 +42,7 @@ WiFi is vaker een probleem als een grote groep mensen bij elkaar zitten en allem
 
 ### Haal sprekers die uit het onderwijs komen
 
-DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijgen docenten een andere kijk op educatie en krijgen een frisse blik voor bepaalde problemen waar ze tegenaan lopen. Toch heeft een deelnemer de wens om nu iets meer sprekers van binnen het onderwijs uit te nodigen.   
+DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijgen docenten een andere kijk op educatie en  een frisse blik voor bepaalde problemen waar ze tegenaan lopen. Toch heeft een deelnemer de wens om nu iets meer sprekers van binnen het onderwijs uit te nodigen.   
 
 > “Wat ik nu wel mooi zou vinden is dat we als het ware ook wat meer mensen binnen het onderwijs erbij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Individueel krijg je die sprekers niet te pakken.”
 
