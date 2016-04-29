@@ -1,4 +1,4 @@
-<img src="https://media.timeout.com/images/103140786/750/562/image.jpg" width=100% />
+<img src="http://lot-images.atgmedia.com/SR/10034/2871873/820-2013129172444_540x360.jpg" width=100% />
 
 # Wat kan de Nederlandse School beter doen?
 
