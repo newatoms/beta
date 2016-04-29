@@ -30,9 +30,9 @@ Gerdien: “Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de 
 
 Gerdien: “Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden van ja dit en dit zou ook zo mooi zijn als dat op school zou gebeuren kan dat? Dan gaan we het er over hebben gaan we nadenken en er over sparren.”
 
-Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
-
 Gerdien: “Ik werk ook met oud leerlingen. Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders. Wat gaat je goed en dat is heel tof.”
+
+Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
 
 ## Baseer je lesstof op wat er in de wereld speelt
 
