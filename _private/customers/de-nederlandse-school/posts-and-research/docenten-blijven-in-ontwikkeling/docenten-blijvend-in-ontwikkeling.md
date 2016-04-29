@@ -14,7 +14,7 @@ We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Ned
 
 ### Geef les vanuit je enthouiastme
 
-Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belagrijk vindt. Het schetsen van een kader waarbinnen de stof tot leven komt is erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend" zegt Gerdien. Ze kunnen dan begrijpen waarom jij zo enthousiast wordt ervan en begrijpen waarom de lesstof relevant is.
+Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belagrijk vindt. Het schetsen van een kader waarbinnen de stof tot leven komt is erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend", zegt Gerdien. Ze kunnen dan begrijpen waarom jij zo enthousiast wordt ervan en begrijpen waarom de lesstof relevant is.
 
 Eén manier om dit enthousiastme over te laten komen is door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur", aldus Gerdien.
 
@@ -28,8 +28,12 @@ Ze kregen van de Nederlandse School de opdracht om iemand van buiten het onderwi
 Dit is Gerdien goed bevallen: "...ik heb juist ook heel veel externe bronnen, maar die zijn vooral ontstaan door de Nederlandse School... Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt.. een kunstenaar ... [en] heb ik ouders ingeschakeld en thuis uitgenodigd"
 Daarnaast belt Gerdien  ook oud leerlingen op om te vragen wat er beter kon aan de lessen Nederlands.
 
+Ook Elise merkt een positief effect: "... dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben omdat ik daar dan net een avond gehad heb of mensen ontmoet heb."
+
+De gesprekken met anderen geven namelijk ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School", aldus Elise.
+
 Daarnaast bespreken beide docenten veel met andere docenten.
-Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dan dat een docent dan zegt dat ze maar eens mee moet lopen met een les.
+Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze maar eens mee moet lopen met een les.
 
 
 ### Baseer je lesstof op wat er in de wereld speelt
