@@ -10,24 +10,24 @@ Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf 
 
 ## Hoe blijven Gerdien en Elise zich ontwikkelen?
 
-We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses bij de Nederlandse School en zijn altijd actief bezich met hun eigen ontwikkeling als docent.
+We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses bij de Nederlandse School en zijn altijd actief bezig met hun eigen ontwikkeling als docent.
 
 ### Geef les vanuit je enthousiasme
 
-Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belangrijk vindt. Volgends Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend".
+Door als docent enthousiast te zijn over jouw vak laat je zien dat jij de stof echt belangrijk vindt. Volgends Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen, zie ik juist dat mijn enthousiasme zo ontzettend motiverend is."
 
-Volgends Gerdien is één manier om dit enthousiastme over te laten komen door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur".
+Volgends Gerdien is één manier om dit enthousiasme over te laten komen de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
 
-Om het overbrengen van het enthousiastme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en door de huidige actualiteit te verwerken in de lessen.
+Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en door de huidige actualiteit te verwerken in de lessen.
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
-Zowel Elise als Gerdien hebben sinds ze bij de Nederlandse School de workshops volgen veel meer contact met onbekenden gehad. Beide vinden dat er waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
+Sinds ze bij de Nederlandse Schoolde workshops volgen hebben zowel Elise als Gerdien veel meer contact met onbekenden gehad. Beiden vinden dat waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
 Ze kregen van de Nederlandse School de opdracht om iemand van buiten het onderwijs te zoeken om inspiratie te krijgen voor het implementeren van een vernieuwing in het onderwijs.
 
-Gerdien heeft sinds de Nederlandse School samengewerkt met onderandere een journalisten van van de groene Amsterdammer en een kunstenaar. Daarnaast heeftze de ouders en oud leerlingen ingeschakeld en om feedback gevraagd.
+Gerdien heeft sinds de Nederlandse School samengewerkt met onder andere een journaliste van de Groene Amsterdammer en een kunstenaar. Daarnaast heeft ze ouders en oud leerlingen ingeschakeld door om feedback te vragen.
 
-Ook Elise merkt duidelijk dat haar blik de laatste tijd is verrijkt: "... dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben." Deze gesprekken bieden ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School", aldus Elise.
+Ook Elise merkt duidelijk dat haar blik de laatste tijd is verrijkt: "...dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben." Deze gesprekken bieden ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School" aldus Elise.
 
 Daarnaast bespreken beide docenten veel met andere docenten. Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze maar eens mee moet lopen met een les.
 
@@ -36,15 +36,15 @@ Daarnaast bespreken beide docenten veel met andere docenten. Als Gerdien van lee
 
 Beide docenten vinden het belangrijk om hun lesstof op de actualiteit te betrekken. Zo behandelt Elise fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat, terwijl er in de hogere klassen gediscussieerd wordt over de betekenis van het fragment in een grotere context. Door het nieuws als lesstof te gebruiken kan Elise doormiddel van discussies in de klas samen met de leerlingen tot nieuwe inzichten komen en geeft ze haar leerlingen dus meer mee dan "alleen" de Franse taal.
 
-Ook Gerdien vindt het belangrijk om meer te bieden dan alleen de verplichte stof: "Ik weet wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend."
+Ook Gerdien vindt het belangrijk om meer te bieden dan alleen de verplichte stof: "Ik weet wat ik moet bereiken, maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend."
 
-Hoe belangrijk diversiteit in de stof van de les is heeft Elise zelf nog als leerling ervaren. Ze vond eigenlijk nooit iets aan Frans totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een enorm mooie taal vond. De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
+Hoe belangrijk diversiteit in de stof van de les is heeft Elise zelf nog als leerling ervaren. Ze vond Frans niks, totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een erg mooie taal vond. De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
 
-Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. Elise: "...ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen"
+Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. Elise: "Ik vind het razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen"
 
 ## Blijf in ontwikkeling
 
 Als mens wordt je sterk beïnvloed door gesprekken met anderen. Door regelmatig nieuwe mensen te spreken krijg je nieuwe inzichten en krijg je de kans om te reflecteren hoe je over dingen denkt. Zo halen Elise en Gerdien dagelijks inspiratie uit het praten met zowel bekenden, leerlingen, mededocenten, familie en vrienden, als met onbekenden, kunstenaars, wetenschappers, journalisten...
-Op die manier zorgen zij ervoor dat ze zich zowel op micro niveau, het kiezen van een onderwerp voor een les, als op macro niveau, hoe kan het educatiesysteem verbeterd worden, blijven ontwikkelen.
+Op die manier zorgen zij ervoor dat ze zich zowel op micro niveau (het kiezen van een onderwerp voor een les) als op macro niveau (hoe kan het educatiesysteem verbeterd worden) blijven ontwikkelen.
 
 > Try to learn something about everything and everything about something. [Thomas Huxley](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
