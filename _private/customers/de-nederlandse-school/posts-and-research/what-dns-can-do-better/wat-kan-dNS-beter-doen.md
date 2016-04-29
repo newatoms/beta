@@ -50,10 +50,11 @@ Je kan voor twee manieren kiezen [om dit op te lossen]. Je kan of niveaugroepen 
 
 ## De waarde van feedback
 
-Als organisatie weet je waarom alle beslissingen genomen zijn en verwacht je dat bepaalde beslissingen bepaalde gevolgen hebben. Het is alleen erg lastig om daar met een frisse blik naar te kijken. Om te blijven ontwikkelen is het daarom belangrijk om altijd van alle deelnemende partijen feedback te vragen. 
-Een deel van de bovenstaande feedback hebben wij nog niet eerder gehoord en zelfs nog nooit aan gedacht. Door dit op deze open manier te vragen kunnen wij nieuwe implementaties bedenken waarvan we hiervoor niet wisten dat deze nodig waren.
-Daarnaast hopen wij op deze manier te laten zien dat wij een feedback zeer waarderen en graag een open communicatie willen bewerkstelligen.
-Denk je dat iets beter kan? Spreek ons dan aan op een van de workshops of bel ons.
+Als organisatie ken je de beredenatie achter elke gemaakte keuze. Hierdoor is het vaak lastig om vast te stellen wat wel en wat niet goed werkt. Daarnaast verandert de wereld continu en moeten sommige gemaakte keuzes geherevalueerd worden. Wij proberen dit regelmatig te doen maar wij ervaren de situatie natuurlijk heel anders dan de docenten.
+
+Een deel van de bovenstaande feedback hebben wij namelijk nog niet eerder gehoord; sterker nog, we hebben er vanuit de organisatie zelfs nog nooit aan gedacht. Hierdoor kunnen wij nu goed geïnformeerd nieuwe keuzes maken.
+
+Daarnaast hopen wij op deze manier te laten zien dat wij een feedback zeer waarderen en graag een open communicatie willen behouden. Denk je dat iets beter kan? Spreek ons dan aan op een van de workshops of bel ons.
 
 
 
