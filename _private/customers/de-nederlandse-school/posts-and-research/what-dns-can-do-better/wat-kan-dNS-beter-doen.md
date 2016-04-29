@@ -10,7 +10,7 @@ Maar ook wij hebben soms een frisse blik nodig.
 
 Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen schrijven wij over wat docenten vinden dat wij beter kunnen doen.
 
-### Laat de docenten meer van elkaar leren
+### Laat de docenten meer van elkaar leren 
 
 Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan met het verschil van niveau en ervaring tussen de deelnemende docenten. Docenten hebben uiteenlopende redenen om met de de Nederlandse School mee te doen.
 
@@ -34,9 +34,13 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
 
 *Kan de Nederlandse school dit op een bepaalde manier stimuleren?*
 
+> “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
+
+Uit deze ontmoetingen kan volgens één van de deelnemers meer gehaald worden:
+
 > “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt die informele uitwisseling en die is denk ik ook heel erg belangrijk. Er moet [dus] tijd zijn om die informele uitwisseling te kunnen hebben met elkaar.”
 
-> “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
+
 
 ### Zorg dat er altijd goede faciliteiten zijn
 
