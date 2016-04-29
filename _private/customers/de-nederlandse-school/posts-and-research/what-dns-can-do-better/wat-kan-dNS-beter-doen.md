@@ -6,7 +6,7 @@ Bij de Nederlandse School zijn we continu bezig met het zoeken naar manieren om 
 
 Maar ook wij hebben soms een frisse blik nodig.
 
-Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen schrijven wij een blogpost over wat docenten vinden wat wij beter kunnen doen.
+Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen schrijven wij over wat docenten vinden dat wij beter kunnen doen.
 
 ## De feedback
 
