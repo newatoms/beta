@@ -13,11 +13,13 @@ Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te h
 > ...sommige docenten geven net les, die staan nog te overleven in de klas en anderen staan er al 20 jaar en hadden [door de Nederlandse School] zin in weer eens een nieuwe drive en nieuwe ontmoetingen.
 
 ### Wat is het nadeel hiervan?
+
 > ...ik merk dat je elkaar soms snel niet spreekt. Dat je dan de [te makkelijke] opdracht samen moet doen ... dit is een beetje jammer van mijn tijd.
-Je kan voor twee manieren kiezen [om dit op te lossen]. Je kan of niveaugroepen maken, of je kan er juist voor kiezen om dit niet te doen en de meer ervaren mensen de expert te laten zijn... ik probeer dat af te wisselen.
+
+> Je kan voor twee manieren kiezen [om dit op te lossen]. Je kan of niveaugroepen maken, of je kan er juist voor kiezen om dit niet te doen en de meer ervaren mensen de expert te laten zijn... ik probeer dat af te wisselen.
 
 ### Wat is het voordeel van de tweede optie?
-> ...ik heb ooit van een collega geschiedenis gehoord: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer alle nieuwe theorieën en inzichten. ...[Diegene] heeft weer meer puf voor dingen dan ik of ... mooier materiaal, ...of ict vaardigheden waar ik van kan leren. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.
+> ...ik heb ooit van een collega geschiedenis horen zeggen: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer alle nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.
 
 ### Dus de Nederlandse School kan dit dus stimuleren door nadruk te leggen op het feit dat niet iedereen evenveel ervaring heeft, maar dat dat niet betekent dat daardoor de kennis minder waardevol is?
 
