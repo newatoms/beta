@@ -22,7 +22,7 @@ This metaphor is now more relevant than ever. Most of our experiences looking at
 
 This picture is taken in front of [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg) during Obama's visit to Holland, where he met prime minister Mark Rutte. Seeing a photograph of world leaders looking at the painting greatly influences the way the viewer appreciates the painting within the photograph.
 
-This is a great example of how our location, present company, mood, and what our other senses are simultaneously experiencing all contribute to our experience of a work of art. Often these elements are not within the control of the viewer. Berger argues that "reproduction of works of art can be used by anybody for their own purposes," suggesting that anyone can transform the narrative of an artwork by manipulation: setting, cropping, panning, overlying music, placement among text or other images.
+This is a great example of how our context contributes to our experience of a work of art. Often these elements are not within the control of the viewer. Berger argues that "reproduction of works of art can be used by anybody for their own purposes," suggesting that anyone can transform the narrative of an artwork by manipulation: setting, cropping, panning, overlying music, placement among text or other images.
 
 Seeing works of art in less prestigious contexts (for example advertisements) can at times "cheapen" them, but artworks in such settings may equally enhance the experiences of commuting, flipping through a magazine, occupying an office space... Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances. These are all intentionally designed experiences.
 
