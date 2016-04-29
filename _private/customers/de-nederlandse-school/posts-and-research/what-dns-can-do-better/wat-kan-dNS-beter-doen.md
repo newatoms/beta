@@ -10,7 +10,7 @@ Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te h
 
 ### Doe meer met het verschil in ervaring tussen docenten
 
-> ...sommige docenten geven net les, die staan nog te overleven in de klas en anderen staan er al 20 jaar en hadden [via de Nederlandse School] zin in weer eens een nieuwe drive en nieuwe ontmoetingen.
+> ...sommige docenten geven net les, die staan nog te overleven in de klas en anderen staan er al 20 jaar en hadden [door de Nederlandse School] zin in weer eens een nieuwe drive en nieuwe ontmoetingen.
 
 ### Wat is het nadeel hiervan?
 > ...ik merk dat je elkaar soms snel niet spreekt. Dat je dan de [te makkelijke] opdracht samen moet doen ... dit is een beetje jammer van mijn tijd.
