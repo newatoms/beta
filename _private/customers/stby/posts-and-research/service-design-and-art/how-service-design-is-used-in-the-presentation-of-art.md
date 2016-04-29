@@ -26,8 +26,7 @@ This is a great example of how our context contributes to our experience of a wo
 
 Seeing works of art in less prestigious contexts (for example advertisements) can at times "cheapen" them. The Night Watch printed on an a pillow case might be considered banal or kitsch, as opposed to the awe the original in the museum provokes. But artworks in such settings may equally enhance the experiences of commuting, flipping through a magazine, occupying an office space... Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances. These are all forms of service design, where the experience of the viewer are intentionally influenced.
 
-
-John Berger's ideas about seeing make clear that our experience of art is shaped by our selves and our environments more so than the art itself. The experience is designed to guide the viewer into a specific kind of connection to the artwork, based on its context. The moment one takes this in account while creating and displaying art, it becomes people-centered.
+John Berger's ideas about seeing make clear that our experience of art is shaped by ourselves and our environments, more so than the art itself. The experience is designed to guide the viewer into a specific kind of connection to the artwork, based on its context. The moment one takes this in account while creating and displaying art, it becomes people-centered.
 
 Now, if you reimagine the two scenarios above, perhaps in each case you also imagine the color of the wall, the sounds, surrounding architecture, the quality of light, the smell and temperature of the air, and the feel of the floor beneath your feet, all with yourself at the center. This, with the artwork as just another element of the context, is the art experience.
 
