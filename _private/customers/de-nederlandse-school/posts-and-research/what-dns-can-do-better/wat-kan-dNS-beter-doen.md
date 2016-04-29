@@ -22,8 +22,6 @@ Verschillende niveaus tussen leerlingen in één klas kan zowel het leren bevord
 
 Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door gelijkwaardigheid te creëren zorg je dat iedereen zich geaccepteerd voelt en iets te bieden heeft.
 
-De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen heel veel mensen kennen waardoor je de juiste mensen kan uitnodigen waarvan docenten veel kunnen leren.
-
 > “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
 
 > “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt die informele uitwisseling en die is denk ik ook heel erg belangrijk. Er moet [dus] tijd zijn om die informele uitwisseling te kunnen hebben met elkaar.”
