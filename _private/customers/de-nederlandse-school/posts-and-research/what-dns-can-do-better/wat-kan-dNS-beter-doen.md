@@ -1,4 +1,6 @@
-<img src="http://static6.depositphotos.com/1055089/664/v/950/depositphotos_6644519-Vector-vintage-background-made-from-speech-bubbles.jpg" width=100% />
+<img src="https://camo.githubusercontent.com/af7cc910e47d97460deda925cd606e8f9d771317/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33352f4a6f686e5f436f6e737461626c655f2d5f53746f726d795f5365612c5f4272696768746f6e5f2d5f476f6f676c655f4172745f50726f6a6563742e6a70672f3132383070782d4a6f686e5f436f6e737461626c655f2d5f53746f726d795f5365612c5f4272696768746f6e5f2d5f476f6f676c655f4172745f50726f6a6563742e6a7067" width=100% />
+> You can't cross the sea merely by standing and staring at the water - [Rabindranath Tagore](https://nl.wikipedia.org/wiki/Rabindranath_Tagore)
+
 
 # Wat kan de Nederlandse School beter doen?
 
@@ -54,8 +56,7 @@ Als organisatie ken je de beredenatie achter elke gemaakte keuze. Hierdoor is he
 
 Wij hopen met dit artikel te laten zien dat wij feedback zeer waarderen en graag een open communicatie willen behouden. Denk je dat iets beter kan? Spreek ons dan aan op één van de workshops of bel ons.
 
-
-
+Afbeelding: John Constable - [Stormy Sea](https://commons.wikimedia.org/wiki/File:John_Constable_-_Stormy_Sea,_Brighton_-_Google_Art_Project.jpg)
 
 <!-- > PITCH
 ## Wat kan de Nederlandse School beter doen?
