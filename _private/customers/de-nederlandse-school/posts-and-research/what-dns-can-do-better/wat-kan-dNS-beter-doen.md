@@ -28,7 +28,7 @@ Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door g
 
 ### Interactie tussen docenten met verschillende ervaringen moet gestimuleerd worden
 
-De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen heel veel mensen kennen waardoor je de mensen kan uitnodigen waarvan docenten veel van kunnen leren.
+De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen heel veel mensen kennen waardoor je de juiste mensen kan uitnodigen waarvan docenten veel kunnen leren.
   
 > “Dit kan je ook veel meer inzetten in het ontwerpen van het lesmateriaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord.”
 
