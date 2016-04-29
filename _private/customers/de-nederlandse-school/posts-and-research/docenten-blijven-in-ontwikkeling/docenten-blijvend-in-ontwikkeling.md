@@ -39,3 +39,10 @@ Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er 
 Elise:  “...toen ik Frans begon te leren haalde  ik alleen 3en 4en. Dus ik heb ook meegemaakt hoe verschrikkelijk de taal is. ... Ik heb toen via een Frans meisje dat bij ons kwam logeren Frans geleerd. En daarna ja, eigenlijk ontdekt dat ik het een hele mooie taal vond...
 
 Elise: “...nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als Alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
+
+# Blijf in ontwikkeling
+
+Als mens wordt je sterk beïnvloed door gesprekken met anderen. Door regelmatig nieuwe mensen te spreken krijg je nieuwe inzichten en krijg je de kans om te reflecteren hoe je over dingen denkt. Zo halen Elise en Gerdien dagelijks inspiratie uit het praten met zowel bekenden, leerlingen, mededocenten, familie en vrienden, als met onbekenden, kunstenaars, wetenschappers, journalisten...
+Op die manier zorgen zij ervoor dat ze zich zowel op micro niveau, het kiezen van een onderwerp voor een les, als op macro niveau, hoe kan het educatiesysteem verbeterd worden, blijven ontwikkelen.
+
+> Try to learn something about everything and everything about something. [Thomas Huxley](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
