@@ -26,7 +26,7 @@ Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door g
 
 > “Ik heb ooit een collega geschiedenis horen zeggen: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer allemaal nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
 
-### Dus de Nederlandse School kan dit dus stimuleren door nadruk te leggen op het feit dat niet iedereen evenveel ervaring heeft, maar dat dat niet betekent dat daardoor de kennis minder waardevol is?
+### Interactie tussen docenten met verschillende ervaringen moet gestimuleerd worden
 
 De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen heel veel mensen kennen waardoor je de mensen kan uitnodigen waarvan docenten veel van kunnen leren.
   
