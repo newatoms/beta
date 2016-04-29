@@ -34,10 +34,9 @@ Daarnaast bespreken beide docenten veel met andere docenten. Als Gerdien van lee
 
 ### Baseer je lesstof op wat er in de wereld speelt
 
-Elise behandelt fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat terwijl in de hogere klassen er gediscussieerd wordt over de betekenis van het fragment in een grotere context.
-Door het nieuws als lesstof te gebruiken krijgt zij nieuwe inzichten vanuit de discussies met de leerlingen en kan zij meer meegeven aan de leerlingen dan 'alleen' de Franse taal.
+Beide docenten vinden het belangrijk om hun lesstof op de actualiteit te betrekken. Zo behandelt Elise fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat, terwijl er in de hogere klassen gediscussieerd wordt over de betekenis van het fragment in een grotere context. Door het nieuws als lesstof te gebruiken kan Elise doormiddel van discussies in de klas samen met de leerlingen tot nieuwe inzichten komen en geeft ze haar leerlingen dus meer mee dan "alleen" de Franse taal.
 
-Ook Gerdien vindt het belangrijk om meer te bieden dan alleen de verplichte stof: "Ik weet als het ware een eindpunt wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend."
+Ook Gerdien vindt het belangrijk om meer te bieden dan alleen de verplichte stof: "Ik weet wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend."
 
 Hoe belangrijk diversiteit in de stof van de les is heeft Elise zelf nog als leerling ervaren. Ze vond eigenlijk nooit iets aan Frans totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een enorm mooie taal vond. De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
 
