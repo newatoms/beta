@@ -16,38 +16,22 @@ We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Ned
 
 > Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen dan is het juist dat mijn enthousiasme zo ontzettend motiverend is dat zij daardoor voor en aangespoord om verder te gaan. Gerdien
 
-Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belagrijk vindt. Daarnaast leg je, als je enthousiast uitlegt, ook uit waarom jij er enthousiast van wordt. Het aanreiken van handvaten en een kader schetsen waarin de stof tot leven komt is erg belangrijk voor de leerlingen.
+Door als docent enthousiast te zijn over jou vak laat je zien dat jij de stof echt belagrijk vindt. Het schetsen van een kader waarbinnen de stof tot leven komt is erg belangrijk voor de motivatie van leerlingen. Ze kunnen dan begrijpen waarom jij zo enthousiast wordt ervan en begrijpen waarom de lesstof relevant is.
 
-> Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant mensen liefde voor het vak bijbrengen, maar vooral ook, laten zien dat taal een middel is om mensen te ontmoeten, Elise
-
-> Wat ik door de Nederlandse School heb meegekregen, wat eigenlijk de katalysator is geworden, is dat je het ook gewoon zelf kan doen. Je mag veel meer lef tonen daarin, je mag veel meer de creativiteit opgaan, je kunt veel meer mensen van buiten erbij te betrekken, je hoeft het niet allemaal zelf te doen en dat is het mooie
-
-Een manier om dit enthousiastme over te laten komen is om de les niet teveel voor te bereiden.
+Eén manier om dit enthousiastme over te laten komen is door de les niet teveel voor te bereiden.
 > Zodra je gaat voorbereiden in lesplannen dan zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur, Gerdien.
-
-Bij mededocenten is het soms handig om het enthousiastme te temperen valt Gerdien op:
-
-> ...maar docenten moet je op een andere manier daarbij betrekken. je moet het zinvol maken, dat is nog wel een spanningsveld, daar moet je goede wegen voor vinden.
-
-Natuurlijk moet je het bij leerlingen ook zinvol maken maar de reden waarom het zinvol is verschilt.
 
 ## Zorg dat je geïnspireerd blijft
 
-Om het overbrengen van het enthousiastme vast te houden over tijd is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en door de huidige actualiteit te verwerken in de lessen.
-
-Ook Gerdien wisselt in de stof die zij in haar klas bespreekt.
-> Ik weet als het ware een eindpunt wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend.
-
-Zowel Gerdien als Elise hebben gemerkt dat de Nederlandse School ervoor heeft gezorgd dat zij meer gesprekken met anderen hebben.
+Om het overbrengen van het enthousiastme vast te houden over tijd is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en door de huidige actualiteit te verwerken in de lessen. De Nederlandse School blijkt een goede manier te zijn om mensen te leren kennen.
 
 >Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt, ik ken een kunstenaar waar ik op een andere manier mee samengewerkt heb, ik heb ouders ingeschakeld en thuis uitgenodigd, Gerdien
 
-Daarnaast heeft zij op eigen initiatief ook contact gezocht met oud leerlingen
->Oud leerlingen die dus van school af zijn en die dus terugkijken maar wel vanuit een ervaring dat ze midden in hun studie zitten, die zitten midden in een studie en dan zeg ik ja oké wat heb je gehad aan Nederlands, wat kan anders, Gerdien
+Daarnaast belt Gerdien ook oud leerlingen op om te vragen hoe het met ze gaat, maar ook om te vragen wat er beter kon aan de lessen Nederlands.
 
-Maar ook gesprekken met andere docenten kunnen veel opleveren.
+Daarnaast bespreken beide docenten veel met andere docenten.
 
-> Joh ik heb gehoord dat leerlingen jou goed vinden, wat doe jij?” Dan zegt een collega kom maar gewoon kijken, Gerdien.
+> Dan zegt een collega kom maar gewoon kijken, Gerdien.
 
 
 ## Baseer je lesstof op wat er in de wereld speelt
@@ -55,9 +39,13 @@ Maar ook gesprekken met andere docenten kunnen veel opleveren.
 Elise behandelt fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat terwijl in de hogere klassen er gediscussieerd wordt over de betekenis van het fragment in een grotere context.
 Door het nieuws als lesstof te gebruiken leert zij nieuwe inzichten van de leerlingen en kan zij meer meegeven aan de leerlingen dan 'alleen' de Franse taal.
 
+Ook Gerdien wisselt in de stof die zij in haar klas bespreekt.
+> Ik weet als het ware een eindpunt wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend.
+
+Hoe belangrijk de stof is van de les heeft Elise zelf nog als leerling ervaren. Ze vond eigenlijk nooit iets aan Frans totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een enorm De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
+
 Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
 
-Elise:  “...toen ik Frans begon te leren haalde  ik alleen 3en 4en. Dus ik heb ook meegemaakt hoe verschrikkelijk de taal is. ... Ik heb toen via een Frans meisje dat bij ons kwam logeren Frans geleerd. En daarna ja, eigenlijk ontdekt dat ik het een hele mooie taal vond...
 
 Elise: “...nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als Alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
 
