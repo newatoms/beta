@@ -37,17 +37,16 @@ Daarnaast bespreken beide docenten veel met andere docenten.
 ## Baseer je lesstof op wat er in de wereld speelt
 
 Elise behandelt fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat terwijl in de hogere klassen er gediscussieerd wordt over de betekenis van het fragment in een grotere context.
-Door het nieuws als lesstof te gebruiken leert zij nieuwe inzichten van de leerlingen en kan zij meer meegeven aan de leerlingen dan 'alleen' de Franse taal.
+Door het nieuws als lesstof te gebruiken krijgt zij nieuwe inzichten vanuit de discussies met de leerlingen en kan zij meer meegeven aan de leerlingen dan 'alleen' de Franse taal.
 
 Ook Gerdien wisselt in de stof die zij in haar klas bespreekt.
 > Ik weet als het ware een eindpunt wat ik moet bereiken... maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend.
 
-Hoe belangrijk de stof is van de les heeft Elise zelf nog als leerling ervaren. Ze vond eigenlijk nooit iets aan Frans totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een enorm De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
+Hoe belangrijk diversiteit in de stof van de les is heeft Elise zelf nog als leerling ervaren. Ze vond eigenlijk nooit iets aan Frans totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een enorm mooie taal vond. De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
 
-Gerdien: “Ik ben van meer actualiteiten op de hoogte dan dat ik was, omdat er ook zoveel is. De Nederlandse school biedt daar wel een hele grote broedplaats voor aan zeg maar.”
+Ook kunnen de gesprekken met anderen direct in de les verwerkt worden;
 
-
-Elise: “...nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als Alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
+>  ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen.”
 
 # Blijf in ontwikkeling
 
