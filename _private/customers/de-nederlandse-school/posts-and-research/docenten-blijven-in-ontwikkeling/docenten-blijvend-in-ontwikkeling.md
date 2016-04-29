@@ -25,12 +25,12 @@ Om het overbrengen van het enthousiastme vast te houden over tijd is het belangr
 Zowel Elise als Gerdien hebben sinds ze bij de Nederlandse School de workshops volgen veel meer contact met onbekenden gehad. Beide vinden dat er waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
 Ze kregen van de Nederlandse School de opdracht om iemand van buiten het onderwijs te zoeken om inspiratie te krijgen voor het implementeren van een vernieuwing in het onderwijs.
 
-Dit is Gerdien goed bevallen: "...ik heb juist ook heel veel externe bronnen, maar die zijn vooral ontstaan door de Nederlandse School... Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt.. een kunstenaar ... [en] heb ik ouders ingeschakeld en thuis uitgenodigd"
-Daarnaast belt Gerdien  ook oud leerlingen op om te vragen wat er beter kon aan de lessen Nederlands.
+Dit is Gerdien goed bevallen: "...ik heb juist ook heel veel externe bronnen, maar die zijn vooral ontstaan door de Nederlandse School... Ik heb met journalisten onder andere van de groene Amsterdammer samengewerkt.. een kunstenaar ... [en] heb ik ouders ingeschakeld en thuis uitgenodigd."
+Daarnaast belt Gerdien ook oud leerlingen op om te vragen wat er beter kon aan de lessen Nederlands.
 
 Ook Elise merkt een positief effect: "... dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben omdat ik daar dan net een avond gehad heb of mensen ontmoet heb."
 
-De gesprekken met anderen geven namelijk ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School", aldus Elise.
+De gesprekken met anderen geven namelijk ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School", aldus Elise.
 
 Daarnaast bespreken beide docenten veel met andere docenten.
 Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze maar eens mee moet lopen met een les.
