@@ -30,4 +30,4 @@ By taking away the stress of catching our trains, ensuring The Netherlands doesn
 
 Well-designed and intentional yet often unnoticed or taken-for-granted services make our daily lives, and that of those around us, smoother and more comfortable, creating space for other things to come into existence.
 
-Image: [O. Taillon](https://www.flickr.com/photos/olitaillon/2465789822/in/photolist-4KTPpC-e5yNSy-76uU77-oXYYpA-4jpwKc-crxfcQ-2BWsZc-4zAcij-6tzGWr-6paUBh-NtB9B-xnRsc-5iSsnt-EFW94-uot2b-aULnG-fT8ngQ-jV65ZF-aQpqbX-dqaEQ-7hL56D-5iWNUf-B4KMR-fMfXgi-6tSsRK-5brGsh-5gYKo8-B4KMA-e9GE-B3rKE-B3rKR-6tJi3H-6tHMmx-7zQeAN-dGThP-4aBsuS-bvKYte-e3JUCs-e3R8m4-Q1eZJ-7bTH7E-7bTEHS-aPW7F-abBC4-fLGNbm-4aBsby-nJTrvc-dzPM69-4axqQx-9yDgs7)
+Image: Jacob van Ruisdael, *Landscape with Dunes*
