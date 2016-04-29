@@ -41,6 +41,6 @@ Image 2: [Dave de Vaal](https://www.flickr.com/photos/minister-president/1337672
 
 Hi Geke!
 
-Our goal with this article was to give a example about service design in a context that people rarely think about it. In order to do this we have used as many well know examples as we could find, and where it was not obvious, like John Berger, we tried to explain it as clearly as possible. The beauty of this article, even though it does not obviously state it, is that it suggests that service design is greater than art. This happens mostly in the last sentence where the reader can link the "art experience" to service design. We hope you enjoy the article as much as we enjoyed making it. If you have any comments feel free to post them here!
+Our goal with this article was to give an example about service design in a context in which it may rarely be thought about. In order to do this, we have used many well-known examples, and where it was not obvious, like in the case of John Berger, we tried to explain it as clearly as possible. The beauty of this article, though it does not obviously state it, is that it suggests that in regards to art in context, service design is actually more significant than art. This happens mostly in the last sentence where the reader can link the "art experience" to service design. We hope you enjoy the article as much as we enjoyed making it. If you have any comments feel free to post them here!
 
 Have a great day!
