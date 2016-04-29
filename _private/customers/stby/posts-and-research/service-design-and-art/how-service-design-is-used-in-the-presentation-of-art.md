@@ -36,3 +36,11 @@ Now, if you reimagine the two scenarios above, perhaps in each case you also ima
 Image 1: [Rijksmuseum, Amsterdam](http://hdl.handle.net/10934/RM0001.HARCHIEF.12889)
 
 Image 2: [Dave de Vaal](https://www.flickr.com/photos/minister-president/13376723903)
+
+## Motivation for chat
+
+Hi Geke!
+
+Our goal with this article was to give a example about service design in a context that people rarely think about it. In order to do this we have used as many well know examples as we could find, and where it was not obvious, like John Berger, we tried to explain it as clearly as possible. The beauty of this article, even though it does not obviously state it, it suggests that service design is greater than art. This happens mostly in the last sentence where the reader can link the "art experience" to service design. We hope you enjoy the article as much as we enjoyed making it. If you have any comments feel free to post them here!
+
+Have a great day!
