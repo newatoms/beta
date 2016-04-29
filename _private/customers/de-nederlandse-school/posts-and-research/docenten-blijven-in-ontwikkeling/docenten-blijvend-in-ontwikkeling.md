@@ -2,7 +2,7 @@
 
 # Docenten blijven in ontwikkeling
 
-We leven in een tijd waar alles zo snel verandert, dat je je soms zou kunnen afvragen of de arbeidsmarkt nog dezelfde behoefte heeft na het behalen van je diploma. Daarom is het waanzinnig belangrijk om als onderwijsinstelling je studenten het vermogen te geven om met de tijd mee te komen, ongeacht de nieuwe onbekende dingen die op hun pad komen. Het grootste gedeelte van deze last komt terecht op de schouders van de docenten, zonder dat deze er altijd op zijn voorbereid.
+We leven in een tijd waar alles snel verandert. Als één van de doelen van onderwijs is om leerlingen voor te bereiden op de arbeidsmarkt, kan je je afvragen of deze markt nog dezelfde behoefte heeft na het behalen van je diploma. Daarom is het belangrijk om als onderwijsinstelling je studenten het vermogen te geven om met de tijd mee te komen, ongeacht de nieuwe onbekende dingen die op hun pad komen. Het grootste gedeelte van deze last komt terecht op de schouders van de docenten, zonder dat deze er altijd op zijn voorbereid.
 
 Docenten zijn degenen die in direct contact staan met hun leerlingen en als eerste zullen merken of de lesstof die zij geven aansluit bij het leven en behoeften van hun leerlingen. Hoe zorg je als docent dat je je lessen zodanig in kan richten dat ze relevant zijn voor de tijd waarin hun leerlingen leven, en tegelijkertijd nog steeds relevant zijn als ze je school verlaten?
 
@@ -33,17 +33,3 @@ Elise:  “...toen ik Frans begon te leren haalde  ik alleen 3en 4en. Dus ik heb
 Elise: “Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant mensen liefde voor het vak bijbrengen, maar vooral ook, laten zien dat taal een middel is om mensen te ontmoeten.
 
 Elise: “...nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als Alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
-
-## We zijn nog op zoek naar antwoorden op de volgende vragen.
-
-* Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
-* Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
-* Waar haal je je kennis en inspiratie vandaan om te weten waar je leerlingen behoefte aan hebben?
-* Waarom is het belangrijk om je skills te verbeteren?
-* Hoeveel tijd besteed je eigenlijk aan zelfontwikkeling op het gebied van educatie?
-* Hoe vaak heb je het over lesgeven met mensen buiten het onderwijs (partner, familie etc.)?
-* Hoe denken zij hierover, en hoe schaart dat met je eigen opvattingen?
-* Hoe kijkt de school waar je lesgeeft hier tegenaan, heb je daar wel eens discussies over?
-* Kunnen je leerlingen invloed op hun leven uitoefenen met de lesstof die je ze geeft, hebben jullie het daar wel eens over?
-* In hoeverre heb je inzicht in het leven van de studenten, en heeft dat invloed op hoe je les geeft?
-* Ga je wel eens naar workshops buiten de Nederlands School?
