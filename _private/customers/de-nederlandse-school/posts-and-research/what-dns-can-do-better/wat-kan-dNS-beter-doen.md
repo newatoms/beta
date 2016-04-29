@@ -16,7 +16,7 @@ Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan
 
 ### Wat is het nadeel hiervan?
 
-> ...ik merk dat je elkaar soms snel niet spreekt. Dat je dan de [te makkelijke] opdracht samen moet doen ... dit is een beetje jammer van mijn tijd.
+> “Ik merk dat je elkaar soms snel niet spreekt. Dat je dan de [te makkelijke] opdracht samen moet doen. Dit is een beetje jammer van mijn tijd.”
 
 > [Om dit op te lossen] kan je voor twee manieren kiezen. Je kan of niveaugroepen maken, of je kan er juist voor kiezen om dit niet te doen en de meer ervaren mensen de expert te laten zijn. Ik probeer dat [met mijn eigen leerlingen] af te wisselen.
 
@@ -46,11 +46,11 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
 
 DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijgen docenten een andere kijk op educatie en krijgen een frisse blik voor bepaalde problemen waar ze tegenaan lopen. Toch heeft een deelnemer de wens om nu iets meer sprekers van binnen het onderwijs uit te nodigen.   
 
-“Je krijgt van de Nederlandse School artikelen aangereikt van mensen die over onderwijs schrijven. Het zal nu wel mooi zijn als je een keertje een dag zal hebben waar je stuk of wat van dergelijke mensen aanwezig zouden zijn, dat je kan zeggen dat we bepaalde mensen te spreken krijgen over waar we mee bezig zijn.” Individueel krijg je die sprekers niet te pakken.”
+> “Je krijgt van de Nederlandse School artikelen aangereikt van mensen die over onderwijs schrijven. Het zal nu wel mooi zijn als je een keertje een dag zal hebben waar je stuk of wat van dergelijke mensen aanwezig zouden zijn, dat je kan zeggen dat we bepaalde mensen te spreken krijgen over waar we mee bezig zijn.” Individueel krijg je die sprekers niet te pakken.”
 
 ### Communicatie bij vertrek van stafleden kan beter
 
-> “Het was wel jammer dat één van de stafleden van dNS een beetje geruisloos is vertrokken. Dat was vrij onduidelijk. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg.
+> “Het was wel jammer dat één van de stafleden van dNS een beetje geruisloos is vertrokken. Dat was vrij onduidelijk. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg.”
 
 ## De waarde van feedback
 
