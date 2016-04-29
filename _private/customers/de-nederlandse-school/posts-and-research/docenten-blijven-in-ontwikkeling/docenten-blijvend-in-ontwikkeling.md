@@ -34,16 +34,9 @@ Elise: “Dus er zit bij mij eigenlijk een dubbele passie in, aan de ene kant me
 
 Elise: “...nadenken over verschillende kanten van de wereld. Dat doe ik vanuit Franstalige landen .. maar ik bijvoorbeeld als Alpha niet denk vanuit een technisch perspectief en ik vind het dan razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit eigenlijk ... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen. En als ik kijk naar de bovenbouw lesklas 5/6 dan gaat het heel erg om de inhoud, dan hebben ze echt het niveau van het Frans dat ze kunnen discussiëren in het Frans, en dan hebben we het over.”
 
-## We zijn nog op zoek naar antwoorden op de volgende vragen.
+# Blijf in ontwikkeling
 
-* Hoe heeft jouw opleiding je voorbereidt op de lessen die je nu geeft
-* Hoe zorg je dat je lessen relevant blijven voor je leerlingen, zowel nu als later?
-* Waar haal je je kennis en inspiratie vandaan om te weten waar je leerlingen behoefte aan hebben?
-* Waarom is het belangrijk om je skills te verbeteren?
-* Hoeveel tijd besteed je eigenlijk aan zelfontwikkeling op het gebied van educatie?
-* Hoe vaak heb je het over lesgeven met mensen buiten het onderwijs (partner, familie etc.)?
-* Hoe denken zij hierover, en hoe schaart dat met je eigen opvattingen?
-* Hoe kijkt de school waar je lesgeeft hier tegenaan, heb je daar wel eens discussies over?
-* Kunnen je leerlingen invloed op hun leven uitoefenen met de lesstof die je ze geeft, hebben jullie het daar wel eens over?
-* In hoeverre heb je inzicht in het leven van de studenten, en heeft dat invloed op hoe je les geeft?
-* Ga je wel eens naar workshops buiten de Nederlands School?
+Als mens wordt je sterk beïnvloed door gesprekken met anderen. Door regelmatig nieuwe mensen te spreken krijg je nieuwe inzichten en krijg je de kans om te reflecteren hoe je over dingen denkt. Zo halen Elise en Gerdien dagelijks inspiratie uit het praten met zowel bekenden, leerlingen, mededocenten, familie en vrienden, als met onbekenden, kunstenaars, wetenschappers, journalisten...
+Op die manier zorgen zij ervoor dat ze zich zowel op micro niveau, het kiezen van een onderwerp voor een les, als op macro niveau, hoe kan het educatiesysteem verbeterd worden, blijven ontwikkelen.
+
+> Try to learn something about everything and everything about something. Thomas Huxley
