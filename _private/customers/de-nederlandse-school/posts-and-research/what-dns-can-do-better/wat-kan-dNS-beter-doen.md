@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Ivan_Constantinovich_Aivazovsky_-_Ship_in_a_Stormy_Sea_off_the_Coast.JPG" width=100% />
+<img src="https://camo.githubusercontent.com/af7cc910e47d97460deda925cd606e8f9d771317/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33352f4a6f686e5f436f6e737461626c655f2d5f53746f726d795f5365612c5f4272696768746f6e5f2d5f476f6f676c655f4172745f50726f6a6563742e6a70672f3132383070782d4a6f686e5f436f6e737461626c655f2d5f53746f726d795f5365612c5f4272696768746f6e5f2d5f476f6f676c655f4172745f50726f6a6563742e6a7067" width=100% />
 > You can't cross the sea merely by standing and staring at the water - [Rabindranath Tagore](https://nl.wikipedia.org/wiki/Rabindranath_Tagore)
 
 
@@ -50,18 +50,13 @@ Je kan voor twee manieren kiezen [om dit op te lossen]. Je kan of niveaugroepen 
 
 > Wat wel jammer was is dat een van de stafleden van dNS een beetje geruisloos is vertrokken Dat was vrij onduidelijk. Dat vond ik wel jammer. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg. Het was Kayleigh Rosalie en ik vond het bijzonder spijtig om haar zo ineens te moeten missen. Het is ook helemaal niet meer van deze tijd om een kaartje te sturen, maar ik vond het niet helemaal politiek correct en niet zo warm.
 
-<<<<<<< HEAD
-Afbeelding:
-=======
 ## De waarde van feedback
 
 Als organisatie ken je de beredenatie achter elke gemaakte keuze. Hierdoor is het vaak lastig om vast te stellen wat wel en wat niet goed werkt. Daarnaast verandert de wereld continu en moeten sommige gemaakte keuzes geherevalueerd worden. Wij proberen dit regelmatig te doen, maar wij ervaren de situatie natuurlijk heel anders dan deelnemende docenten. Om goede keuzes te maken hebben wij feedback nodig.
 
 Wij hopen met dit artikel te laten zien dat wij feedback zeer waarderen en graag een open communicatie willen behouden. Denk je dat iets beter kan? Spreek ons dan aan op één van de workshops of bel ons.
 
-
-
->>>>>>> ready
+Afbeelding: John Constable - [Stormy Sea](https://commons.wikimedia.org/wiki/File:John_Constable_-_Stormy_Sea,_Brighton_-_Google_Art_Project.jpg)
 
 <!-- > PITCH
 ## Wat kan de Nederlandse School beter doen?
