@@ -24,11 +24,13 @@ Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan
 
 Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door gelijkwaardigheid te creëren zorg je dat iedereen iets te bieden heeft en zich geaccepteerd voelt.
 
-> ...ik heb ooit van een collega geschiedenis horen zeggen: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer allemaal nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.
+> “Ik heb ooit een collega geschiedenis horen zeggen: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer allemaal nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
 
 ### Dus de Nederlandse School kan dit dus stimuleren door nadruk te leggen op het feit dat niet iedereen evenveel ervaring heeft, maar dat dat niet betekent dat daardoor de kennis minder waardevol is?
 
-> Ja want zij geven aan ... samen kennen we een heleboel mensen [en] kun je interessante mensen uitnodigen. En tegelijkertijd denk ik ... dat kan je ook veel meer inzetten in het ontwerpen van het materiaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord...
+De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen heel veel mensen kennen waardoor je de mensen kan uitnodigen waarvan docenten veel van kunnen leren.
+  
+> “Dit kan je ook veel meer inzetten in het ontwerpen van het lesmateriaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord.”
 
 ### Wat kan de Nederlandse school doen om dit meer te stimuleren?
 
