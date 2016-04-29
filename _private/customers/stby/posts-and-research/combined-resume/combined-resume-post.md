@@ -1,57 +1,47 @@
-# Combined Resume STBY
 
-The history of our highway to knowledge thought us a lot. Our employees all took different paths to get to where they are now. When combining a team it's important to bring different people with diverse skills together to form a creative whole. From our early studies, post doctorates and PhD's to working experience.
 
-Apart from our associates, at stby we've tried to get a diverse set of people to the team of eight. With different backgrounds, interests and talents. We'd not only studied and worked in the Netherlands and England but have broken out of our comfort zone by collecting different experiences abroad in France, Scotland, Spain and United States. Insights in the people behind a business can give a good representation of what a company is capable of.
+<img src="http://i.imgur.com/fqbqlEv.png" width=100% />
 
-## Studies that benefit our companies today
+# I am STBY.
 
-At standby we improve the services of our customers by doing, among others things, user research. This means that we talk a lot with the actual user of the service that we try to improve. Studies that help us to better understand the science behind human behaviour consisting of Psychology, Sociology, Cultural studies, Interaction design and research, Marketing and Communication, Computing Sciences and Ethnography, where the latter is a systematic study and the exploring of cultural phenomena.
+> Alone we can do so little, together we can do so much. — Helen Keller (the first deaf-blind person to earn a Bachelor of Arts degree).
 
-It's getting more technical towards our Media and Technology, Industrial design, designing printed materials and Ergonomics background. Consumer products and industrial design at TU Delft. In designing improvement for services we need all these specialties.
+A little while back I became the research partner of the *What Design Can Do* Challenge. In the last edition of the challenge we worked to create briefs that inspire and empower designers to come up with ideas that would help refugees and cities adapt to each other. I truly believe that, just like this problem, many problems in our society come from a disconnect between the creator and the user. This can be between government and the refugees that try to find a safe haven, between the education system and its students, or a car manufacturer and a driver.
 
-One conclusion we can draw is that our psychology background has given us insight in to user behavior and our media-technology master has given us insight in the design process.
+Over the past few decades I have, for the most part unknowingly, educated myself to view problems from both the perspective of the user and the creator. In order to give you an idea of how I enabled myself to do this, I will try to describe the road I have taken to get here, and the lessons I learned along the way.
 
-##A look at a working history
+<img src="http://i.imgur.com/CSqEf4a.png" width=100% />
 
-We had a job as a Choreographer for the Musical Hair.
+## “My whole life I have been caught between two interests: human behaviour and design.”
 
-We have been ergonomist at Dutch steel producer Hoogovens. Ergonomists are scientists who study humans' physical interaction with its surroundings.
+To feed these interests, I have done quite a variety of studies and worked in a lot of different places. To get a better understanding of the workings of the mind of an individual I have studied Psychology, and to place that knowledge into the context of society I have followed courses in Sociology and Cultural studies.
 
-We were a student assistant product design and marketing communication at the TU Delft.
+To understand different design processes I have studied Interaction design, Industrial design, Ergonomics and Consumer Product Design. I have also studied Ethnography, Photography and Choreography, studies that view the process of creation from the perspective of both the creator and the user.
 
-We founded ACS-i where our main focus was on content management (the developing and managing of processes and technologies that support the collection, managing, and publishing of information on digital platforms) and usability research (research of usage of products and service intended to draw conclusions that can increase the effectiveness and costumer satisfaction).
+## "I have always operated with the objective of making things better for people.”
 
-We became usability directors at a renown advertising agency and took the responsibility for the development and execution of all consumer research and copy consultancy.
 
-By working for a advertising agency we have had the ability to implement the service design towards commercial goals and experienced a very distinct and measurable way to implement conclusions drawn from their knowledge of user behavior
+To develop my skills after my education, I have worked in several positions for a lot of different companies. I have been an ergonomist at a Dutch steel producer, an account manager at an aviation company, and a consultant at a large labour force-oriented firm. Every time my goal was the same: to improve the labour conditions and health of employees, sometimes within the company and other times for other firms. In order to do this, I often had to look at the tools employees used and the environment in which they worked. I found it heart-breaking to see how much damage a misunderstanding between the designer and the user of a product or service can do.
 
-By having been involved in the coming of age of the internet businesses enabling us to created a very strong and deep understanding of the workings of internet services and the creation and distribution of digital content.
+Later, I tried to empower citizens to create and understand products and processes with the belief that everyone can be creative and innovative as long as they have a conducive environment. I wanted to give citizens the means to contribute to the world in which they live. It is so easy to forget how much we take our everyday activities for granted, even though they may seem unobtainable to others. Trying to help people undertake things that are usually outside their reach was an amazing and sometimes frustrating experience.  
 
-We investigated the needs and user patterns of costumers and [copy](https://en.wikipedia.org/wiki/Copywriting) consultancy for among others: Philips, KLM, KPN, Aids Fonds, Grolsch, Rijkswaterstaat etc.
+This joy and frustration greatly reignited my appreciation for what I was attempting to do and gave me a great deal of insight into the thought processes of the people I was trying to help. I have done this as a User-Researcher in a public laboratory and as head of an open design lab.  
 
-We did an internship as a industrial design student at	the Care & Health Applications research group at Philips.
+During this time I was also a Choreographer for the musical *Hair*, and I designed some printed materials for EPIC 2013, a congress that focuses on the perspective of the user.  
 
-We where a user researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
+<img src="http://www.catfeather.com/sitebuilder/images/long_splice_illustration.gif" width=100% />
 
-We also have been the head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency".
+## “The first company I founded mainly focused on copy consultancy and user-research.”
 
-We did an internship as a industrial design student at the Care & Health Applications research group at Philips. We were a User researcher in	CitiLab, a public laboratory that is a mix between a training center, a research center and an incubator for business and social initiatives with the believe that everyone can be creative and innovative as long as they have the required environment.
+I researched the use of products and service in an attempt to draw conclusions that could increase their effectiveness and make the users happier. I did this for Philips, KLM, KPN, Aids Fonds, Grolsch, and Rijkswaterstaat, among others. At some point, the company was bought by an advertising agency and I became their usability director. Here, I continued to do the same thing I had before, but the big difference was that the goal was much more commercial, making it much easier to measure the effects of products and services.
 
-We became a head of the Open Design Lab and Concept developer at the Waag Society. "The mission of Waag Society’s Open Design Lab is to empower people to make and understand products and processes, for more transparency".
+Even though I greatly enjoyed working at the advertising agency, I did not feel that I wanted to work there for the rest of my life. I decided that once again I would try to start my own company, but this time it would be something that fully brought my new-found interests and insights together. To enable myself to do this and to more clearly understand the business side of things, I returned to university and studied Marketing, Communication and Computing Sciences. Now I was ready.
 
-We were a Consultant at	ArboNed, a company focused on improving labour conditions of employees in Holland.
+<img src="http://i.imgur.com/vqCHsIQ.png" width=100% />
 
-We have been account manager at the	KLM Health Services, where they focus on keeping private individuals and employees of organisations fit and healthy. We started our own company as Service designer and insights specialist called Mrs. Slocombe.
+## “I am not a person nor am I a group.”
 
-We have been a Freelance Designer from and designed printed materials for EPIC (Ethnographic Praxis in Industry) 2013. EPIC is the systematic study of people and cultures where the researcher observes society from the point of view of the subject and the industrial implementations the emerge from it. Simply put, how can we improve thing by looking from the perspective of the user.
+My education and work experiences have enabled me to more fully understand the ways I can *use* my knowledge in order to produce effective service design. It has given me insight within the design process, and not solely in understanding the user. It has also enabled me to become independent from the commercial goals of advertising (increasing sales by using user behaviour) and function more towards improving services by understanding both the design process *and* user behaviour.
 
-The work experience that focused on enabling citizens to innovate. This has greatly enhanced our abilities to stand in someone else's shoes, something that also played a important role in our industrial design education, where the emphasis lies strongly on the interaction between the product and the end user.
+I am a collection of people and experiences in different times and places. For my whole life I have been searching for a place where I belong, and roughly 12 years ago I materialised. All the things I've learned have taught me to identify and solve problems in complex situations, to understand and influence human behaviour, and to comprehend how businesses function. I am [STBY](http://www.stby.eu/meet-the-team/).
 
-The work we did that revolved around improving the labour condition and health of employees of various companies by looking at the tools used and environment they are in.  This has given us a lot of insight the damage a wrongly designed product or service can do, an how we can solve those problems.
-
-Apart from working at businesses we started our own three times.
-
-During the first four years of STBY we went back to university. We received our PhD in Design Interactions at the Royal Collage of art, studied Marketing and communication at the renown Nyenrode Business University and received our PhD in computing sciences from the Open University.
-
-These studies enabled us to more fully understand the ways we can use our knowledge of service design by giving us insight within the design processes, and not just only understanding the user.  It enables us to be independent from the commercial goals of Lost Boys (increasing sales by using user behaviour) and function more towards improving services by understand both the design process as the user behavior.
