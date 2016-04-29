@@ -50,9 +50,9 @@ Je kan voor twee manieren kiezen [om dit op te lossen]. Je kan of niveaugroepen 
 
 ## De waarde van feedback
 
-Als organisatie ken je de beredenatie achter elke gemaakte keuze. Hierdoor is het vaak lastig om vast te stellen wat wel en wat niet goed werkt. Daarnaast verandert de wereld continu en moeten sommige gemaakte keuzes geherevalueerd worden. Wij proberen dit regelmatig te doen maar wij ervaren de situatie natuurlijk heel anders dan de docenten.
+Als organisatie ken je de beredenatie achter elke gemaakte keuze. Hierdoor is het vaak lastig om vast te stellen wat wel en wat niet goed werkt. Daarnaast verandert de wereld continu en moeten sommige gemaakte keuzes geherevalueerd worden. Wij proberen dit regelmatig te doen maar wij ervaren de situatie natuurlijk heel anders dan de docenten. Om goede keuzes te maken hebben wij feedback van docenten nodig.
 
-Een deel van de bovenstaande feedback hebben wij namelijk nog niet eerder gehoord; sterker nog, we hebben er vanuit de organisatie zelfs nog nooit aan gedacht. Hierdoor kunnen wij nu goed geïnformeerd nieuwe keuzes maken.
+Zo hebben wij een deel van de bovenstaande feedback nog niet eerder gehoord; sterker nog, we hebben er vanuit de organisatie zelfs nog nooit aan gedacht. 
 
 Daarnaast hopen wij op deze manier te laten zien dat wij een feedback zeer waarderen en graag een open communicatie willen behouden. Denk je dat iets beter kan? Spreek ons dan aan op een van de workshops of bel ons.
 
