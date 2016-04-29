@@ -24,9 +24,9 @@ Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan
 
 *Wat is het voordeel van de tweede optie?*
 
-Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door gelijkwaardigheid te creëren zorg je dat iedereen iets te bieden heeft en zich geaccepteerd voelt.
-
 > “Ik heb ooit een collega geschiedenis horen zeggen: ...je moet altijd een soort gelijkwaardigheid in die expertpositie creëren. Dus je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer allemaal nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
+
+Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door gelijkwaardigheid te creëren zorg je dat iedereen zich geaccepteerd voelt en iets te bieden heeft.
 
 De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen heel veel mensen kennen waardoor je de juiste mensen kan uitnodigen waarvan docenten veel kunnen leren.
   
@@ -38,7 +38,6 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
 
 > “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
 
-<<<<<<< HEAD
 ### Zorg dat er altijd goede faciliteiten zijn
 
 > “Dat is een goeie vraag. Ze zouden bepaalde faciliteiten met bepaalde middelen kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, maar er was nauwelijks WiFi. Dat vind ik belachelijk. Uiteindelijk heb ik als brave deelnemer ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dit levert eigenlijk heel veel stress op. Dan denk ik kijk, dat soort voorwaardes, als jij vraagt om devices mee te nemen—ik had mijn MacBook mee en mijn iPad—dan moet je zorgen dat iedereen probleemloos op WiFi kan. Het is wel een heel knullig voorbeeld maar dit vind ik wel een min.”
