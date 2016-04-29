@@ -38,13 +38,15 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
 
 > “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
 
-### Vind je het geloofwaardig wat de Nederlandse School doet en kunnen ze nog iets doen aan de verwachtingen die ze scheppen?
+### Kan dNS nog iets doen aan de verwachtingen die ze scheppen?
 
-> Dat is een goeie vraag. Ik denk dat ze hieraan nog wel wat kunnen doen. Ze zouden bepaalde faciliteiten met bepaalde middelen kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, maar er was nauwelijks WiFi. Dat vind ik belachelijk, je zit op een universiteit en we moeten iets doen. Uiteindelijk heb ik als brave deelnemer s'avonds op de hotelkamer mijn huiswerk gedaan, maar dit levert eigenlijk heel veel stress op. Dan denk ik kijk, dat soort voorwaardes, als jij vraagt om devices mee te nemen—ik had mijn MacBook mee en mijn iPad—dan moet je zorgen dat iedereen probleemloos op wifi kan. Het is wel een heel knullig voorbeeld maar dit vind ik wel een min.
-
-> Wat ik nu wel mooi zou vinden dat we nu als het waren ook wat meer mensen binnen het onderwijs bij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Ik weet alleen niet of anderen daar ook op zitten te wachten.
+> “Dat is een goeie vraag. Ze zouden bepaalde faciliteiten met bepaalde middelen kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, maar er was nauwelijks WiFi. Dat vind ik belachelijk. Uiteindelijk heb ik als brave deelnemer ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dit levert eigenlijk heel veel stress op. Dan denk ik kijk, dat soort voorwaardes, als jij vraagt om devices mee te nemen—ik had mijn MacBook mee en mijn iPad—dan moet je zorgen dat iedereen probleemloos op WiFi kan. Het is wel een heel knullig voorbeeld maar dit vind ik wel een min.”
 
 ### Sprekers die uit het onderwijs komen
+
+> Wat ik nu wel mooi zou vinden dat we nu als het ware ook wat meer mensen binnen het onderwijs bij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Ik weet alleen niet of anderen daar ook op zitten te wachten.
+
+
 > ...je krijgt van de Nederlandse School artikelen aangereikt van mensen die over onderwijs schrijven. Het zal nu wel mooi zijn als je een keertje een dag zal hebben waar je stuk of wat van dergelijke mensen aanwezig zouden zijn, dat je kan zeggen dat we bepaalde mensen te spreken krijgen over waar we mee bezig zijn. Individueel krijg je die sprekers niet te pakken. Misschien is het nu langzamerhand wel tijd dat we met zijn allen een lijstje maken van de mensen die we zouden willen spreken. In plaats van dat de Nederlandse school ons sprekers aanreikt. Dan staan ze namelijk wat meer open voor degene die wij zouden willen spreken als groep.
 
 ### Zijn er nog andere dingen die beter kunnen?
