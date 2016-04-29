@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/France_in_XXI_Century._School.jpg" width=100% />
+<img src="https://imgur.com/ITzaEXA" width=100% />
 
 # Docenten blijven in ontwikkeling
 
