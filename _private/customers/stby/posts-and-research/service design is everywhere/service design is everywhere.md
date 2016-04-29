@@ -1,4 +1,4 @@
-<img src="https://farm3.staticflickr.com/2264/2465789822_172bc818c5_b.jpg" width=100% />
+<img src="http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31774005-O3.jpg" width=100% />
 
 # Service Design is Everywhere
 
