@@ -40,6 +40,8 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
 
 ### Zorg dat er altijd goede faciliteiten zijn
 
+WiFi is vaker een probleem als een grote groep mensen bijelkaar zitten en allemaal tegelijkertijd op het netwerk moeten. In Groningen ging het een keer mis. 
+
 > “Dat is een goeie vraag. Ze zouden bepaalde faciliteiten met bepaalde middelen kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, maar er was nauwelijks WiFi. Dat vind ik belachelijk. Uiteindelijk heb ik als brave deelnemer ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dit levert eigenlijk heel veel stress op. Dan denk ik kijk, dat soort voorwaardes, als jij vraagt om devices mee te nemen—ik had mijn MacBook mee en mijn iPad—dan moet je zorgen dat iedereen probleemloos op WiFi kan. Het is wel een heel knullig voorbeeld maar dit vind ik wel een min.”
 
 ### Haal sprekers die uit het onderwijs komen
