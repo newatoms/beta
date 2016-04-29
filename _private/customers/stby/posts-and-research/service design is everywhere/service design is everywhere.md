@@ -26,7 +26,7 @@ Using a new [Design Thinking approach](http://www.stby.eu/2014/11/12/design-thin
 
 ## How service design creates opportunity
 
-By taking away the stress of catching my train, ensuring The Netherlands doesn't float into the sea, or removing the uneasiness of going to the library, I'm able to pay attention to other matters that are important to myself and my loved ones. Even though these changes seem trivial at first glance, the development of brilliant ideas that stimulate our society happen only when there is space for them to exist. Space like that of a gentle feeling library, comfortably dry feet or the knowledge you will make it to your train on time.
+By taking away the stress of catching my train, ensuring The Netherlands doesn't float into the sea, or removing the uneasiness of going to the library, I'm able to pay attention to other matters that are important to myself and my loved ones. Even though these changes seem trivial at first glance, the development of brilliant ideas that stimulate our society happen only when there is space for them to exist: that of a gentle feeling library, comfortably dry feet or the knowledge you will make it to your train on time.
 
 Well-designed and intentional yet often unnoticed or taken-for-granted services make our daily lives, and that of those around us, smoother and more comfortable, creating space for other things to come into existence.
 
