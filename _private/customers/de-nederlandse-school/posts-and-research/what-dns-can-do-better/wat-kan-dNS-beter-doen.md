@@ -10,7 +10,9 @@ Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te h
 
 ### Doe meer met het verschil in ervaring tussen docenten
 
-> ...sommige docenten geven net les, die staan nog te overleven in de klas en anderen staan er al 20 jaar en hadden [door de Nederlandse School] zin in weer eens een nieuwe drive en nieuwe ontmoetingen.
+Niet anders dan tussen leerlingen geldt dat het belangrijk is om goed om te gaan met het verschil van niveau en ervaring tussen de deelnemende docenten. Docenten hebben uiteenlopende redenen om met de de Nederlandse School mee te doen.
+
+> “Sommige docenten geven net les, die staan nog te overleven in de klas en anderen staan er al 20 jaar en hadden [door de Nederlandse School] zin in weer eens een nieuwe drive en nieuwe ontmoetingen.”
 
 ### Wat is het nadeel hiervan?
 
@@ -23,7 +25,7 @@ Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te h
 
 ### Dus de Nederlandse School kan dit dus stimuleren door nadruk te leggen op het feit dat niet iedereen evenveel ervaring heeft, maar dat dat niet betekent dat daardoor de kennis minder waardevol is?
 
-> Ja want zij geven aan ...  samen kennen we een heleboel mensen [en] kun je interessante mensen uitnodigen. En tegelijkertijd denk ik ... dat kan je ook veel meer inzetten in het ontwerpen van het materiaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord...
+> Ja want zij geven aan ... samen kennen we een heleboel mensen [en] kun je interessante mensen uitnodigen. En tegelijkertijd denk ik ... dat kan je ook veel meer inzetten in het ontwerpen van het materiaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord...
 
 ### Wat kan de Nederlandse school doen om dit meer te stimuleren?
 
