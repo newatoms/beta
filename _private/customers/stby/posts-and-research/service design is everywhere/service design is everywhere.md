@@ -22,7 +22,7 @@ Dry feet is something most of us in The Netherlands take for granted every day. 
 
 When decisions about water management are made solely by a single party, the needs and wants of others involved can be overlooked. A design-led, people-centred approach to addressing complex service matters such as water management is a behind-the-scenes shift with potentially enormous impact on the way we continuously experience the country in which we live.
 
-Using a new [Design Thinking approach](http://www.stby.eu/2014/11/12/design-thinking-making-policy-water-management/) allows for complex issues like this to be considered from fresh perspectives together with all stakeholders involved. Everyone has a better grasp of the difficulties of water management and everyone has the opportunity to contribute to the dialogue. Finally, with Design Thinking, planning the future of water management is possible in a way in which provinces, stakeholders and citizens alike can all be satisfied and everyone's feet can remain dry.
+Using a new [Design Thinking approach](http://www.stby.eu/2014/11/12/design-thinking-making-policy-water-management/) allows for a complex issue like this to be considered from fresh perspectives together with all stakeholders involved. Everyone has a better grasp of the difficulties of water management and everyone has the opportunity to contribute to the dialogue. Finally, with Design Thinking, planning the future of water management is possible in a way in which provinces, stakeholders and citizens alike can all be satisfied and everyone's feet can remain dry.
 
 ## How service design creates opportunity
 
