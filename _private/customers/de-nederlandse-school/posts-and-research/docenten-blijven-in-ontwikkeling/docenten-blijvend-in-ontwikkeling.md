@@ -10,7 +10,7 @@ Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf 
 
 ## Hoe blijven Gerdien en Elise zich ontwikkelen?
 
-We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses bij de Nederlandse School en zijn altijd actief bezig met hun eigen ontwikkeling als docent.
+We hebben gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Zij volgen masterclasses bij de Nederlandse School en zijn actief bezig met hun eigen ontwikkeling als docent.
 
 ### Geef les vanuit je enthousiasme
 
