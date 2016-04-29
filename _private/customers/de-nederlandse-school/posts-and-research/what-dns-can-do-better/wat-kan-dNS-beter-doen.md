@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/John_Constable_-_Stormy_Sea,_Brighton_-_Google_Art_Project.jpg/1280px-John_Constable_-_Stormy_Sea,_Brighton_-_Google_Art_Project.jpg" width=100% />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jan_Porcellis_-_Shipping_in_Stormy_Seas_-_WGA18154.jpg" width=100% />
 > You can't cross the sea merely by standing and staring at the water. - [Rabindranath Tagore](https://nl.wikipedia.org/wiki/Rabindranath_Tagore)
 
 
