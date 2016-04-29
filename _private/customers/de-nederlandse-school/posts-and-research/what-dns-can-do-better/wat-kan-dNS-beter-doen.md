@@ -32,15 +32,15 @@ De Nederlandse School geeft aan dat docenten, scholen en organisatoren samen hee
   
 > “Dit kan je ook veel meer inzetten in het ontwerpen van het lesmateriaal. Vandaag [heb ik] nog letterlijk in mijn 6e klas een collega een berichtje gestuurd: welke site was dat ook alweer waar al die handige dingen op stonden voor het eindexamen en ik kreeg gelijk antwoord.”
 
-### Wat kan de Nederlandse school dit op een bepaalde manier facaliteren?
+### Kan de Nederlandse school dit op een bepaalde manier faciliteren?
 
-> “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt die informele uitwisseling en die is denk ik ook heel erg belangrijk. Er moet [dus] tijd zijn om die informele uitwisseling te kunnen hebben met elkaar.
+> “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt die informele uitwisseling en die is denk ik ook heel erg belangrijk. Er moet [dus] tijd zijn om die informele uitwisseling te kunnen hebben met elkaar.”
 
-> De Nederlandse School is een ontmoeting iedere keer weer met diezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Die zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.
+> “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
 
-### Teveel gericht op Amsterdam
+### Lokatie en kwaliteit van de faciliteiten 
 
-> Daarnaast zijn wel heel veel stafleden van de Nederlandse School gelokaliseerd in Amsterdam. Dus daar zijn we ook veel geweest. Maar daar is tegelijkertijd ook wel kritiek op gekomen. Want als jij een opleiding wil zijn voor heel Nederland dan kun je niet zeggen dat Amsterdam onze maatschappij in het klein is. Dat is niet zo. Er zijn bijvoorbeeld drie mensen die komen uit Emmen, er zijn drie mensen die komen uit Doorn er zijn mensen die komen uit het zuiden. Je moet wel een open vizier houden.  
+> “Daarnaast zijn wel heel veel stafleden van de Nederlandse School gelokaliseerd in Amsterdam. Dus daar zijn we ook veel geweest. Maar daar is tegelijkertijd ook wel kritiek op gekomen. Want als jij een opleiding wil zijn voor heel Nederland dan kun je niet zeggen dat Amsterdam onze maatschappij in het klein is. Dat is niet zo. Er zijn bijvoorbeeld drie mensen die komen uit Emmen, er zijn drie mensen die komen uit Doorn er zijn mensen die komen uit het zuiden. Je moet wel een open vizier houden.  
 
 ### Vind je het geloofwaardig wat de Nederlandse School doet en kunnen ze nog iets doen aan de verwachtingen die ze scheppen?
 
