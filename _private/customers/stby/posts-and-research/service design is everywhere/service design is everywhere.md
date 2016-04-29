@@ -2,7 +2,6 @@
 
 # Service Design is Everywhere
 
-Service Design is Everywhere
 I am often surprised by how my behaviour, while interacting with something I know very well, has changed by the influence of an investment in service design. A fantastic example of this is the library. It is a place that has been traditionally known for "shushing" people, requiring heaping mounds of paperwork in order to benefit from their services, penalizing slow readers with fines, and being staffed with busy and sometimes intimidating people.
 
 If you've visited a library recently, perhaps you sensed something different going on. Most libraries have recognised that they no longer have a product; they are all about an experience. Currently, they are not in the business of books but the business of learning. They are working to understand the learning needs of communities and how to translate those needs into service and experiences for customers.
