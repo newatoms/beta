@@ -1,5 +1,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Ivan_Constantinovich_Aivazovsky_-_Ship_in_a_Stormy_Sea_off_the_Coast.JPG" width=100% />
-> You can't cross the sea merely by standing and staring at the water. - [Rabindranath Tagore](https://nl.wikipedia.org/wiki/Rabindranath_Tagore)
+> You can't cross the sea merely by standing and staring at the water - [Rabindranath Tagore](https://nl.wikipedia.org/wiki/Rabindranath_Tagore)
 
 
 # Wat kan de Nederlandse School beter doen?
@@ -51,7 +51,7 @@ Je kan voor twee manieren kiezen [om dit op te lossen]. Je kan of niveaugroepen 
 > Wat wel jammer was is dat een van de stafleden van dNS een beetje geruisloos is vertrokken Dat was vrij onduidelijk. Dat vond ik wel jammer. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg. Het was Kayleigh Rosalie en ik vond het bijzonder spijtig om haar zo ineens te moeten missen. Het is ook helemaal niet meer van deze tijd om een kaartje te sturen, maar ik vond het niet helemaal politiek correct en niet zo warm.
 
 <<<<<<< HEAD
-Afbeelding: 
+Afbeelding:
 =======
 ## De waarde van feedback
 
