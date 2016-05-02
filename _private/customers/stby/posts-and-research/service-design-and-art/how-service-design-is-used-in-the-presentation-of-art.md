@@ -20,15 +20,15 @@ This metaphor is now more relevant than ever. Most of our experiences looking at
 
 <img src="http://i.imgur.com/2zU78g0.jpg" width=1000% />
 
-This picture is taken in front of [Night Watch](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg) during Obama's visit to Holland, where he met prime minister Mark Rutte. Seeing a photograph of world leaders looking at the painting greatly influences the way the viewer appreciates the painting within the photograph.
+This picture is taken in front of [*Night Watch*](http://www.rembrandthuis.nl/media/images/nachtwachtrh.jpeg) during Obama's visit to Holland, where he met prime minister Mark Rutte. Seeing a photograph of world leaders looking at the painting greatly influences the way the viewer appreciates the painting within the photograph.
 
 This is a great example of how our context contributes to our experience of a work of art. Often, these elements are not within the control of the viewer. Berger argues that "reproduction of works of art can be used by anybody for their own purposes," suggesting that anyone can transform the narrative of an artwork by manipulation: setting, cropping, panning, overlying music, placement among text or other images.
 
-Seeing works of art in less prestigious contexts can at times "cheapen" them. The Night Watch used in an advertisement or printed on a cup might be considered banal or kitsch, as opposed to the awe the original in the museum provokes. But artworks in such settings may equally enhance the experiences of flipping through a magazine or occupying an office space. Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances.
+Seeing works of art in less prestigious contexts can at times "cheapen" them. The *Night Watch* used in an advertisement or printed on a cup might be considered banal or kitsch, as opposed to the awe the original in the museum provokes. But artworks in such settings may equally enhance the experiences of flipping through a magazine or occupying an office space. Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances.
 
 The act of intentionally influencing the experience of the viewer is a form of service design.
 
-John Berger's ideas about seeing make clear that our experience of art is shaped by our *selves* and our *environments*, more so than the art itself. The experience is designed to guide the viewer into a specific kind of connection to the artwork, based on its context. The moment one takes this into account while creating and displaying art, it becomes people-centered.
+John Berger's ideas about seeing make clear that our experience of art is shaped by our *selves* and our *environments*, more so than the art itself. The experience is *designed* to guide the viewer into a specific kind of connection to the artwork, based on its context. The moment one takes this into account while creating and displaying art, it becomes people-centered.
 
 Now, if you reimagine the two scenarios above, perhaps in each case you also imagine the color of the wall, the sounds, surrounding architecture, the quality of light, the smell and temperature of the air, and the feel of the floor beneath your feet, all with yourself at the center. This, with the artwork as just another element of the context, is the art experience.
 
