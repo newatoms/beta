@@ -22,7 +22,7 @@ Om het overbrengen van het enthousiasme vast te houden gedurende een langere per
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
-Alle deelnemers van de Nedernadse School hebben de opdracht gekregen om iemand van buiten het onderwijs te zoeken om inspiratie op te doen voor het implementeren van een vernieuwing in het onderwijs. Zowel Elise als Gerdien hebben hierdoor veel meer contact met onbekenden gehad en vinden dat waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
+Alle deelnemers van de Nederlandse School hebben de opdracht gekregen om iemand van buiten het onderwijs te zoeken om inspiratie op te doen voor het implementeren van een vernieuwing in het onderwijs. Zowel Elise als Gerdien hebben hierdoor veel meer contact met onbekenden gehad en vinden dat waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
 
 Gerdien heeft sinds de Nederlandse School samengewerkt met onder andere een journaliste van de Groene Amsterdammer en een kunstenaar. Daarnaast heeft ze ouders en oud leerlingen ingeschakeld om feedback te krijgen.
 
