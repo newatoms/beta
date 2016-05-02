@@ -18,12 +18,12 @@ Door als docent enthousiast te zijn over jouw vak laat je zien dat jij de stof b
 
 Volgens Gerdien is één manier om dit enthousiasme over te laten komen door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
 
-Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en huidige actualiteit in de lessen te verwerken.
+Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en huidige actualiteit in hun lessen te verwerken.
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
 Sinds ze bij de Nederlandse School de workshops volgen hebben zowel Elise als Gerdien veel meer contact met onbekenden gehad. Beiden vinden dat waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
-Ze kregen van de Nederlandse School de opdracht om iemand van buiten het onderwijs te zoeken om inspiratie te krijgen voor het implementeren van een vernieuwing in het onderwijs.
+Ze kregen van de Nederlandse School de opdracht om iemand van buiten het onderwijs te zoeken om inspiratie op te doen voor het implementeren van een vernieuwing in het onderwijs.
 
 Gerdien heeft sinds de Nederlandse School samengewerkt met onder andere een journaliste van de Groene Amsterdammer en een kunstenaar. Daarnaast heeft ze ouders en oud leerlingen ingeschakeld om feedback te krijgen.
 
