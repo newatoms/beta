@@ -43,7 +43,6 @@ Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. 
 
 ## Blijf in gesprek
 
-Als mens wordt je sterk beïnvloed door gesprekken met anderen. Door regelmatig nieuwe mensen te spreken krijg je nieuwe inzichten en krijg je de kans om te reflecteren hoe je over dingen denkt. Zo halen Elise en Gerdien dagelijks inspiratie uit het praten met zowel bekenden, leerlingen, mededocenten, familie en vrienden, als met onbekenden, kunstenaars, wetenschappers, journalisten...
-Op die manier zorgen zij ervoor dat ze zich zowel op micro niveau (het kiezen van een onderwerp voor een les) als op macro niveau (hoe kan het educatiesysteem verbeterd worden) blijven ontwikkelen.
+Als mens wordt je sterk beïnvloed door gesprekken met anderen. Door regelmatig nieuwe mensen te spreken krijg je nieuwe inzichten en krijg je de kans om te reflecteren hoe je over dingen denkt. Zo halen Elise en Gerdien dagelijks inspiratie uit het praten met zowel bekenden, leerlingen, mededocenten, familie en vrienden, als met onbekenden, kunstenaars, wetenschappers, journalisten. Op deze manier zorgen zij ervoor dat ze zich zowel op micro niveau (het kiezen van een onderwerp voor een les) als op macro niveau (hoe kan het educatiesysteem verbeterd worden) blijven ontwikkelen.
 
 > Try to learn something about everything and everything about something. [Thomas Huxley](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
