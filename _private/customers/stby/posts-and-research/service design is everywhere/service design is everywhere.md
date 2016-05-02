@@ -12,7 +12,7 @@ Values defined by librarians have transformed into values defined by library use
 
 ## Rushed to relaxed
 
-Another place that has improved greatly due to service design is the train station. If you always travel by train during rush hours, you may find yourself sprinting through the stations’ big halls, high heels tapping on tiles, cafe latte in one hand in search of the right platform. Enduring stress before even thinking about work is not ideal. But then imagine — while looking for the departure time of your train — you see a count down clock. You don't even have to look at your watch. Three minutes until the train leaves. Time to take a deep breath and see if you spilled any of your coffee.
+Another place that has improved greatly due to service design is the train station. If you always travel by train during rush hours, you may find yourself sprinting through the stations’ big halls, shoes tapping on tiles, coffee in one hand in search of the right platform. Enduring stress before even thinking about work is not ideal. But then imagine — while looking for the departure time of your train — you see a count down clock. You don't even have to look at your watch. Three minutes until the train leaves. Time to take a deep breath and see if you spilled any of your coffee.
 
 Delays in train departures from stations are disruptive to many. Train operators and commuters are both concerned about the problem and are working to explore solutions that help to avoid delays in dispatch times. One proposed solution is a [count down service](http://www.stby.eu/2015/03/19/mutual-benefits-minimal-delays/). A digital sign at the platform showing the minutes and seconds left before a train departs helps both train staff and travelers leave on time. Though implementation of such a system may be barely-noticed, this subtle improvement greatly improves the service of transportation.
 
@@ -20,7 +20,7 @@ Delays in train departures from stations are disruptive to many. Train operators
 
 It's amazing to realise that some streets in Holland are meters below sea level. Dry feet is something most of us in The Netherlands take for granted every day. It's incredible to think that the act of managing water, something that rarely crosses our minds, has such a profound effect on our daily existence and health.
 
-When decisions about water management are made solely by a single party, the needs and wants of others involved can be overlooked. Water management is a behind-the-scenes process with potentially enormous impact on the way we continuously experience the country in which we live. 
+When decisions about water management are made solely by a single party, the needs and wants of others involved can be overlooked. Water management is a behind-the-scenes process with potentially enormous impact on the way we continuously experience the country in which we live.
 
 Using an inclusive [new approach](http://www.stby.eu/2014/11/12/design-thinking-making-policy-water-management/) allows for a complex issue like this to be considered from fresh perspectives together with all involved. Everyone has a better grasp of the difficulties of water management and everyone has the opportunity to contribute to the dialogue. Planning the future of water management is possible in a way in everybody can contribute and no one's living room is flooded.
 
