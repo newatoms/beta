@@ -16,7 +16,7 @@ In 1972, art critic/writer/painter/poet [John Berger](https://en.wikipedia.org/w
 
 >In *Ways of Seeing*, Berger calls a painting "a corridor, connecting the moment which it represents, to the moment you are looking at it."
 
-This metaphor is now more relevant than ever. Most of our experiences looking at art outside of a museum are through [multiple subsequent lenses](https://www.youtube.com/watch?v=icruGcSsPp0): a photo taken of the original, then uploaded onto a computer from which it is posted on a website or printed, to where it finally reaches us, in illuminated pixels or ink on a page, wherever we may be at that moment. It comes to us as information. Our experience of it, therefore, is entirely affected by context.
+This metaphor is now more relevant than ever. Most of our experiences looking at art outside of a museum are through [multiple subsequent lenses](https://www.youtube.com/watch?v=icruGcSsPp0): a photo taken of the original, then uploaded onto a computer from which it is posted on a website or printed, to where it finally reaches us, in illuminated pixels or ink on a page, wherever we may be at that moment. Our experience of it, therefore, is entirely affected by context.
 
 <img src="http://i.imgur.com/2zU78g0.jpg" width=1000% />
 
@@ -24,7 +24,7 @@ This picture is taken in front of [Night Watch](http://www.rembrandthuis.nl/medi
 
 This is a great example of how our context contributes to our experience of a work of art. Often these elements are not within the control of the viewer. Berger argues that "reproduction of works of art can be used by anybody for their own purposes," suggesting that anyone can transform the narrative of an artwork by manipulation: setting, cropping, panning, overlying music, placement among text or other images.
 
-Seeing works of art in less prestigious contexts can at times "cheapen" them. The Night Watch used in an advertisement or printed on a cup might be considered banal or kitsch, as opposed to the awe the original in the museum provokes. But artworks in such settings may equally enhance the experiences of flipping through a magazine or occupying an office space. Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances. 
+Seeing works of art in less prestigious contexts can at times "cheapen" them. The Night Watch used in an advertisement or printed on a cup might be considered banal or kitsch, as opposed to the awe the original in the museum provokes. But artworks in such settings may equally enhance the experiences of flipping through a magazine or occupying an office space. Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances.
 
 The act of intentionally influencing the experience of the viewer is a form of service design.
 
