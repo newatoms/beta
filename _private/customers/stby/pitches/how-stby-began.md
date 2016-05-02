@@ -10,7 +10,7 @@ We write a blog post about Bas and Geke that mirrors STBY's commitment to it's p
 
 ## Things we could talk about
 
-* Where Bas and Geke worked and what they did before starting STBY, what we think they learned from their previous experiences, and how their personal relationship, combined experiences and personalities make them unique and equipped to do what they do.
+* Where Bas and Geke worked and what they did before starting STBY, what we think they learned from their previous experiences, and how their combined experiences and personalities make them unique and equipped to do what they do.
 
 * How their experience taught them that stepping into the life of the participant, hearing his or her story, and authentically integrating the knowledge gained from this experience into the design process makes a meaningful, valuable difference in people's lives
 
