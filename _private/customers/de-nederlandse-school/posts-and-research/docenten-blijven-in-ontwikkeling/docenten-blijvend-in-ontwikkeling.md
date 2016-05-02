@@ -24,7 +24,7 @@ Om het overbrengen van het enthousiasme vast te houden gedurende een langere per
 
 Alle deelnemers van de Nederlandse School hebben de opdracht gekregen om iemand van buiten het onderwijs te zoeken om inspiratie op te doen voor het implementeren van een vernieuwing in het onderwijs. Zowel Elise als Gerdien hebben hierdoor veel meer contact met onbekenden gehad en vinden dat waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
 
-Gerdien heeft sinds de Nederlandse School samengewerkt met onder andere een journaliste van de Groene Amsterdammer en een kunstenaar. Daarnaast heeft ze ouders en oud leerlingen ingeschakeld om feedback te krijgen.
+Gerdien heeft sinds haar deelname aan de Nederlandse School samengewerkt met onder andere een journaliste van de Groene Amsterdammer en een kunstenaar. Daarnaast heeft ze ouders en oud leerlingen ingeschakeld om feedback te krijgen.
 
 Ook Elise merkt duidelijk dat haar blik de laatste tijd is verrijkt: "...dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben." Deze gesprekken bieden ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School".
 
