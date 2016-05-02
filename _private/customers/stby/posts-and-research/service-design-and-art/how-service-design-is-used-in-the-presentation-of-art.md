@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/IWuQrIO.jpg" width=100% />
+<img src="http://i.imgur.com/qQs66n1.jpg" width=100% />
 
 # The Art Experience
 
@@ -33,7 +33,7 @@ John Berger's ideas about seeing make clear that our experience of art is shaped
 Now, if you reimagine the two scenarios above, perhaps in each case you also imagine the color of the wall, the sounds, surrounding architecture, the quality of light, the smell and temperature of the air, and the feel of the floor beneath your feet, all with yourself at the center. This, with the artwork as just another element of the context, is the art experience.
 
 
-Image 1: [Rijksmuseum, Amsterdam](http://hdl.handle.net/10934/RM0001.HARCHIEF.12889)
+Image 1: [Rijksmuseum, Amsterdam](https://www.rijksmuseum.nl/en/search/objects?s=chronologic&f=1&p=2&ps=12&imgonly=True&where=C-243&ii=8#/RMA-SSA-F-00639-1,20)
 
 Image 2: [Dave de Vaal](https://www.flickr.com/photos/minister-president/13376723903)
 
