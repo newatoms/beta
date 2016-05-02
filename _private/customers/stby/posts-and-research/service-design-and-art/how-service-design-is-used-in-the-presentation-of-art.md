@@ -16,7 +16,7 @@ In 1972, art critic/writer/painter/poet [John Berger](https://en.wikipedia.org/w
 
 >In *Ways of Seeing*, Berger calls a painting "a corridor, connecting the moment which it represents, to the moment you are looking at it."
 
-This metaphor is now more relevant than ever. Most of our experiences looking at art outside of a museum are through [multiple subsequent lenses](https://www.youtube.com/watch?v=icruGcSsPp0): a photo taken of the original, then uploaded onto a computer from which it is posted on a website or printed, to where it finally reaches us, in illuminated pixels or ink on a page, wherever we may be at that moment. Our experience of it, therefore, is entirely affected by context.
+This metaphor is now more relevant than ever. Most of our experiences looking at art outside of a museum are through [multiple subsequent lenses](https://www.youtube.com/watch?v=icruGcSsPp0): a photo taken of the original, then uploaded onto a computer from which it is posted on a website or printed, to where it finally reaches us, in illuminated pixels or ink on a page, wherever we may be at that moment. It comes to us in the same way as all information does. Our experience of it, therefore, is entirely affected by context.
 
 <img src="http://i.imgur.com/2zU78g0.jpg" width=1000% />
 
