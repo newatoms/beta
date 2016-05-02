@@ -42,7 +42,7 @@ Hoe belangrijk diversiteit in de stof van de les is heeft Elise zelf nog als lee
 
 Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. Elise: "Ik vind het razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen"
 
-## Blijf in ontwikkeling
+## Blijf in gesprek
 
 Als mens wordt je sterk beïnvloed door gesprekken met anderen. Door regelmatig nieuwe mensen te spreken krijg je nieuwe inzichten en krijg je de kans om te reflecteren hoe je over dingen denkt. Zo halen Elise en Gerdien dagelijks inspiratie uit het praten met zowel bekenden, leerlingen, mededocenten, familie en vrienden, als met onbekenden, kunstenaars, wetenschappers, journalisten...
 Op die manier zorgen zij ervoor dat ze zich zowel op micro niveau (het kiezen van een onderwerp voor een les) als op macro niveau (hoe kan het educatiesysteem verbeterd worden) blijven ontwikkelen.
