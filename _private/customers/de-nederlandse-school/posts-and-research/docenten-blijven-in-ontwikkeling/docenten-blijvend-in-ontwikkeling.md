@@ -19,21 +19,19 @@ Door als docent enthousiast te zijn over jouw vak laat je zien dat jij de stof b
 
 Volgens Gerdien is één manier om dit enthousiasme over te laten komen door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
 
-Elise ziet haalt haar enthousiastme uit twee aspecten: "liefde voor het vak bijbrengen [en] laten zien dat taal een middel is om mensen te ontmoeten."
-
-
+Elise ziet haalt haar enthousiastme uit twee aspecten: "liefde voor het vak bijbrengen [en] laten zien dat taal een middel is om mensen te ontmoeten." Hoe belangrijk diversiteit in de stof van de les is heeft Elise zelf nog als leerling ervaren. Ze vond Frans niks, totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een erg mooie taal vond. De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
 
 Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en de actualiteit in hun lessen te verwerken.
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
-Alle deelnemers van de Nederlandse School hebben de opdracht gekregen om iemand van buiten het onderwijs te zoeken om inspiratie op te doen voor het implementeren van een vernieuwing in het onderwijs. Zowel Elise als Gerdien hebben hierdoor veel meer contact met onbekenden gehad en vinden dat waardevol voor zowel hun eigen ontwikkeling als voor de kwaliteit van hun lessen.
+Alle deelnemers van de Nederlandse School hebben de opdracht gekregen om iemand van buiten het onderwijs te zoeken om inspiratie op te doen voor het implementeren van een vernieuwing in het onderwijs. Zowel Elise als Gerdien hebben hierdoor veel meer contact met onbekenden gekregen en deze ontwikkeling zowel voor hun eigen ontwikkeling als voor de kwaliteit van hun lessen zeer waardevol. Gerdien: ""ik ben van meer actualiteiten op de hoogte dan ik was... de Nederlandse school biedt daar wel een hele grote broedplaats voor"
 
-Gerdien heeft sinds haar deelname aan de Nederlandse School samengewerkt met onder andere een journaliste van de Groene Amsterdammer en een kunstenaar. Daarnaast heeft ze ouders en oud leerlingen ingeschakeld om feedback te krijgen.
+Zo heeft zij sinds inmiddels samengewerkt een journaliste van de Groene Amsterdammer en een kunstenaar. "Ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden .. dit zou ook zo mooi zijn als dat op school zou gebeuren, kan dat?" Daarnaast heeft ze ouders en oud leerlingen ingeschakeld om feedback te krijgen.
 
 Ook Elise merkt duidelijk dat haar blik de laatste tijd is verrijkt: "...dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben." Deze gesprekken bieden ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School".
 
-Daarnaast bespreken beide docenten veel met andere docenten. Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze meer dan welkom is om eens mee te lopen in een les. Elise beaamt: "Een belangrijk onderdeel wat wij ... belangrijk vinden, is dat docenten veel meer met elkaar in contact komen en van elkaar leren. ... [Dat we] de ruimte krijgen om bij elkaar te kijken en daardoor geïnspireerd raken om zelf ook weer te veranderen."
+Beide bespreken ook veel met andere docenten. Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze meer dan welkom is om eens mee te lopen in een les. Elise beaamt: "Een belangrijk onderdeel wat wij ... belangrijk vinden, is dat docenten veel meer met elkaar in contact komen en van elkaar leren. ... [Dat we] de ruimte krijgen om bij elkaar te kijken en daardoor geïnspireerd raken om zelf ook weer te veranderen."
 
 
 ### Baseer je lesstof op wat er in de wereld speelt
@@ -42,7 +40,6 @@ Beide docenten vinden het belangrijk om hun lesstof op de actualiteit te betrekk
 
 Ook Gerdien vindt het belangrijk om meer te bieden dan alleen de verplichte stof: "Ik weet wat ik moet bereiken, maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend."
 
-Hoe belangrijk diversiteit in de stof van de les is heeft Elise zelf nog als leerling ervaren. Ze vond Frans niks, totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een erg mooie taal vond. De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
 
 Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. Elise: "Ik vind het razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen"
 
