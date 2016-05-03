@@ -1,5 +1,7 @@
 <img src="https://i.imgur.com/ITzaEXA.jpg" width=100% />
 
+> We hebben allemaal op school gezeten maar de school van nu is echt heel anders dan de school van vroeger. Elise Bouwman.
+
 # Docenten blijven in ontwikkeling
 
 We leven in een snel veranderende tijd. Hoe zorg je ervoor dat je leerlingen hierop voorbereid? Hoeveel is het behalen van een diploma waard als de behoeftes in een maatschappij zo snel veranderen?
@@ -27,7 +29,7 @@ Gerdien heeft sinds haar deelname aan de Nederlandse School samengewerkt met ond
 
 Ook Elise merkt duidelijk dat haar blik de laatste tijd is verrijkt: "...dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben." Deze gesprekken bieden ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School".
 
-Daarnaast bespreken beide docenten veel met andere docenten. Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze meer dan welkom is om eens mee te lopen in een les.
+Daarnaast bespreken beide docenten veel met andere docenten. Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze meer dan welkom is om eens mee te lopen in een les. Elise beaamt: "Een belangrijk onderdeel wat wij ... belangrijk vinden, is dat docenten veel meer met elkaar in contact komen en van elkaar leren. ... [Dat we] de ruimte krijgen om bij elkaar te kijken en daardoor geïnspireerd raken om zelf ook weer te veranderen."
 
 
 ### Baseer je lesstof op wat er in de wereld speelt
