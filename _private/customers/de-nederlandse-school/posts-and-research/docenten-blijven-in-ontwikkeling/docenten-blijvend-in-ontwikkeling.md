@@ -12,9 +12,7 @@ Om dit uit te zoeken hebben we gesproken met Elise Bouwman, docente Frans en Ger
 
 ### Geef les vanuit je enthousiasme
 
-Volgens Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen, zie ik juist dat mijn enthousiasme zo ontzettend motiverend is."
-
-Volgens Gerdien is één manier om dit enthousiasme over te laten komen door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
+Volgens Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen, zie ik juist dat mijn enthousiasme zo ontzettend motiverend is." Eén manier om dit enthousiasme over te laten komen door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
 
 Elise laat haar enthousiastme zien door op twee aspecten te richten: "liefde voor het vak bijbrengen [en] laten zien dat taal een middel is om mensen te ontmoeten." Zij heeft zelf nog als leerling ervaren hoe deze aspecten zijn voor de motivatie van de leerling. Ze vond Frans niks, totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een erg mooie taal vond.
 
@@ -22,11 +20,11 @@ Om het overbrengen van het enthousiasme vast te houden gedurende een langere per
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
-Deelnemers van de Nederlandse School moesten recent iemand van buiten het onderwijs zoeken om inspiratie op te doen voor innovatie in het onderwijs. Zowel Elise als Gerdien hebben hierdoor veel meer contact met onbekenden gekregen. Deze ontwikkeling had een positief effect op zowel hun eigen ontwikkeling als op de kwaliteit van hun lessen. Gerdien: ""ik ben van meer actualiteiten op de hoogte dan ik was... de Nederlandse school biedt daar wel een hele grote broedplaats voor." Zo heeft zij sindsdien samengewerkt een journaliste van de Groene Amsterdammer en een kunstenaar. "Ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden .. dit zou ook zo mooi zijn als dat op school zou gebeuren, kan dat?"
+Deelnemers van de Nederlandse School moesten recent iemand van buiten het onderwijs zoeken om inspiratie op te doen voor het innoveren van onderwijs. Zowel Elise als Gerdien hebben hierdoor veel meer contact met onbekenden gekregen. Deze ontwikkeling had een positief effect op zowel hun eigen ontwikkeling als op de kwaliteit van hun lessen. Gerdien: ""ik ben van meer actualiteiten op de hoogte dan ik was... de Nederlandse school biedt daar wel een hele grote broedplaats voor." Zo heeft zij sindsdien samengewerkt een journaliste van de Groene Amsterdammer en een kunstenaar. "Ik ben met een aantal om de tafel gaan zitten die vanuit eigen expertise zeiden .. dit zou ook zo mooi zijn als dat op school zou gebeuren, kan dat?"
 
-Ook Elise merkt duidelijk dat haar kennis de laatste tijd is verrijkt: "...dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben." Deze gesprekken bieden ook een nieuwe kijk op wat educatie is en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School".
+Ook Elise merkt duidelijk dat haar kennis de laatste tijd is verrijkt: "...dat ik opeens bij een diner met mensen uit andere vakgebieden veel beter snap waar ze het over hebben." Deze gesprekken bieden een nieuwe kijk op wat educatie is, en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlanse School".
 
-Beide bespreken ook veel met andere docenten. Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe om te vragen hoe hij/zij dat doet. Gerdien's ervaring is dat een docent dan zegt dat ze meer dan welkom is om eens mee te lopen in een les. Elise beaamt dit: "Een belangrijk onderdeel wat wij ... belangrijk vinden, is dat docenten veel meer met elkaar in contact komen en van elkaar leren. ... [Dat we] de ruimte krijgen om bij elkaar te kijken en daardoor geïnspireerd raken om zelf ook weer te veranderen."
+Beide bespreken ook veel met andere docenten. Als Gerdien van leerlingen hoort dat zij een docent te gek vinden gaat ze gelijk naar die docent toe. Gerdien's ervaring is dat ze dan meer dan welkom is om eens mee te lopen in een les. Elise beaamt dit: "Een belangrijk onderdeel wat wij ... belangrijk vinden, is dat docenten veel meer met elkaar in contact komen en van elkaar leren. ... [Dat we] de ruimte krijgen om bij elkaar te kijken en daardoor geïnspireerd raken om zelf ook weer te veranderen."
 
 ### Baseer je lesstof op wat er in de wereld speelt
 
