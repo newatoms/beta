@@ -18,7 +18,7 @@ By doing this from the perspective of STBY, a company that provides advise on ho
 
 ## Shareability
 
-Linking the change of a gun on the police force to service design can create a better understanding of the subject. Because the safety in our country is a huge topic lately, this post has a lot of sharing potential.  
+Linking the change of arms on the national police force to service design can create a better understanding of the subject. Because the safety in our country is a huge topic lately, this post has a lot of sharing potential.  
 
 ## Outcome
 
