@@ -36,6 +36,6 @@ Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. 
 
 ## Blijf in gesprek
 
-Gesprekken met anderen beïnvloeden sterk hoe je de wereld ziet. Door regelmatig nieuwe mensen te spreken krijg je nieuwe inzichten en krijg je de kans om te reflecteren hoe je over dingen denkt. Vooral aan de hand van deze gesprekken zorgen Gerdien en Elise ervoor dat ze zich zowel op micro niveau——het kiezen van een onderwerp voor een les—— als op macro niveau——hoe kan het educatiesysteem verbeterd worden——blijven ontwikkelen.
+Gesprekken met anderen beïnvloeden sterk hoe je de wereld ziet. Ze resulteren in nieuwe inzichten en een geven een moment voor reflectie. Vooral aan de hand van deze gesprekken zorgen Gerdien en Elise ervoor dat ze zich zowel op micro niveau——het kiezen van een onderwerp voor een les—— als op macro niveau——hoe kan het educatiesysteem verbeterd worden——blijven ontwikkelen.
 
 > Try to learn something about everything and everything about something. [Thomas Huxley](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
