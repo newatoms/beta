@@ -4,9 +4,7 @@
 
 # Docenten blijven in ontwikkeling
 
-We leven in een snel veranderende tijd. Hoe zorg je ervoor dat je leerlingen hierop voorbereid? Hoeveel is het behalen van een diploma waard als de behoeftes in de maatschappij zo snel veranderen?
-
-Goede educatie zorgt ervoor dat de nieuwe generatie deze verandering aankan. Maar hoe zit het met de docenten? Een groot gedeelte van de kennisoverdracht wordt direct door docenten gedaan, zonder dat deze directe handvaten krijgen om zichzelf te ontwikkelen.
+We leven in een tijd waarin alles steeds sneller verandert. Goede educatie zorgt ervoor dat de nieuwe generatie deze verandering aankan, maar hoe zit het met de docenten? Een groot gedeelte van de kennisoverdracht wordt direct door docenten gedaan, zonder dat deze directe handvaten krijgen om zichzelf te ontwikkelen.
 
 Om dit uit te zoeken hebben we gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Beide volgen masterclasses bij de Nederlandse School en zijn actief bezig met hun eigen ontwikkeling als docent.
 
