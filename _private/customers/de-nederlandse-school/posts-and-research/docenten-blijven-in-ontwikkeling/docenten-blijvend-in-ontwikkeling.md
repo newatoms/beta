@@ -8,8 +8,6 @@ We leven in een tijd waarin alles steeds sneller verandert. Goede educatie zorgt
 
 Om dit uit te zoeken hebben we gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Beide volgen masterclasses bij de Nederlandse School en zijn actief bezig met hun eigen ontwikkeling als docent.
 
-## Hoe blijven Gerdien en Elise zich ontwikkelen?
-
 ### Geef les vanuit je enthousiasme
 
 Volgens Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen, zie ik juist dat mijn enthousiasme zo ontzettend motiverend is." Eén manier om dit enthousiasme over te laten komen door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
