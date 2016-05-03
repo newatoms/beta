@@ -5,6 +5,7 @@
 # Docenten blijven in ontwikkeling
 
 We leven in een snel veranderende tijd. Hoe zorg je ervoor dat je leerlingen hierop voorbereid? Hoeveel is het behalen van een diploma waard als de behoeftes in de maatschappij zo snel veranderen?
+
 Goede educatie zorgt ervoor dat de nieuwe generatie deze verandering aankan. Maar hoe zit het met de docenten? Een groot gedeelte van de kennisoverdracht wordt direct door docenten gedaan, zonder dat deze directe handvaten krijgen om zichzelf te ontwikkelen.
 
 Om dit uit te zoeken hebben we gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Beide volgen masterclasses bij de Nederlandse School en zijn actief bezig met hun eigen ontwikkeling als docent.
@@ -13,11 +14,11 @@ Om dit uit te zoeken hebben we gesproken met Elise Bouwman, docente Frans en Ger
 
 ### Geef les vanuit je enthousiasme
 
-Door als docent enthousiast te zijn over jouw vak laat je zien dat jij de stof belangrijk vindt. Volgens Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen, zie ik juist dat mijn enthousiasme zo ontzettend motiverend is."
+Volgens Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen, zie ik juist dat mijn enthousiasme zo ontzettend motiverend is."
 
 Volgens Gerdien is één manier om dit enthousiasme over te laten komen door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
 
-Elise ziet haalt haar enthousiastme uit twee aspecten: "liefde ̨voor het vak bijbrengen [en] laten zien dat taal een middel is om mensen te ontmoeten." Hoe belangrijk diversiteit in de stof van de les is heeft Elise zelf nog als leerling ervaren. Ze vond Frans niks, totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een erg mooie taal vond. De taal leren kennen in verschillende contexten kan dus enorm inspirerend zijn voor een leerling.
+Elise laat haar enthousiastme zien door op twee aspecten te richten: "liefde voor het vak bijbrengen [en] laten zien dat taal een middel is om mensen te ontmoeten." Zij heeft zelf nog als leerling ervaren hoe deze aspecten zijn voor de motivatie van de leerling. Ze vond Frans niks, totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een erg mooie taal vond.
 
 Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en de actualiteit in hun lessen te verwerken.
 
