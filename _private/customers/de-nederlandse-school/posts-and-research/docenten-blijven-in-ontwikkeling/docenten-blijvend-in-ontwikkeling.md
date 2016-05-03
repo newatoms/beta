@@ -2,11 +2,10 @@
 
 # Docenten blijven in ontwikkeling
 
-We leven in een tijd waar alles snel verandert. Als één van de doelen van onderwijs is om leerlingen voor te bereiden op de arbeidsmarkt, kan je je afvragen of deze markt nog dezelfde behoefte heeft na het behalen van je diploma. Daarom is het belangrijk om als onderwijsinstelling je studenten het vermogen te geven om met de tijd mee te komen, ongeacht de nieuwe onbekende dingen die op hun pad komen. Het grootste gedeelte van deze last komt terecht op de schouders van de docenten, zonder dat deze er altijd op zijn voorbereid.
+We leven in een snel veranderende tijd. Hoe zorg je ervoor dat je leerlingen hierop voorbereid? Hoeveel is het behalen van een diploma waard als de behoeftes in een maatschappij zo snel veranderen?
+Goede educatie zorgt ervoor dat de nieuwe generatie deze verandering aan kan. Maar hoe zit het met de docenten? Een groot gedeelte van de kennisoverdracht wordt direct door docenten gedaan, zonder dat deze directe handvaten krijgen om zichzelf te ontwikkelen.
 
-Docenten zijn degenen die in direct contact staan met hun leerlingen en als eerste zullen merken of de lesstof die zij geven aansluit bij het leven en behoeften van hun leerlingen. Hoe zorg je als docent dat je je lessen zodanig in kan richten dat ze relevant zijn voor de tijd waarin hun leerlingen leven, en tegelijkertijd nog steeds relevant zijn als ze je school verlaten?
-
-Een goede docent zijn is al moeilijk genoeg, maar het vermogen hebben om jezelf te blijven ontwikkelen zodat je je leerlingen de kans kan geven op een positieve toekomst is nog veel complexer.
+Hoe zorgen docenten ervoor dat zij zichzelf blijven ontwikkelen, zodat gemaakte lessen relevant voor de wereld waarin hun leerlingen leven blijven, en tegelijkertijd veel waarde hebben als deze leerlingen de school verlaten?
 
 ## Hoe blijven Gerdien en Elise zich ontwikkelen?
 
