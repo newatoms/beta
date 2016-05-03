@@ -19,6 +19,10 @@ Door als docent enthousiast te zijn over jouw vak laat je zien dat jij de stof b
 
 Volgens Gerdien is één manier om dit enthousiasme over te laten komen door de les niet teveel voor te bereiden. "Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
 
+Elise ziet haalt haar enthousiastme uit twee aspecten: "liefde voor het vak bijbrengen [en] laten zien dat taal een middel is om mensen te ontmoeten."
+
+
+
 Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en de actualiteit in hun lessen te verwerken.
 
 ### Zorg dat je geïnspireerd blijft door anderen
@@ -34,7 +38,7 @@ Daarnaast bespreken beide docenten veel met andere docenten. Als Gerdien van lee
 
 ### Baseer je lesstof op wat er in de wereld speelt
 
-Beide docenten vinden het belangrijk om hun lesstof op de actualiteit te betrekken. Zo behandelt Elise fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat, terwijl er in de hogere klassen gediscussieerd wordt over de betekenis van het fragment in een grotere context. Door het nieuws als lesstof te gebruiken kan Elise doormiddel van discussies in de klas samen met de leerlingen tot nieuwe inzichten komen en geeft ze haar leerlingen dus meer mee dan "alleen" de Franse taal.
+Beide docenten vinden het belangrijk om hun lesstof op de actualiteit te betrekken. Zo behandelt Elise fragmenten van de Franse radio in de klas. In de lagere klassen ontleden ze waar de stof over gaat, terwijl er in de hogere klassen gediscussieerd wordt over de betekenis van het fragment in een grotere context. Door het nieuws als lesstof te gebruiken kan Elise doormiddel van discussies in de klas samen met de leerlingen tot nieuwe inzichten komen en geeft ze haar leerlingen dus meer mee dan "alleen" de Franse taal. Zo krijgt zij leerlingen zelfs zover dat ze in een tussenuur vragen of zij mee kunnen doen met een les: "Ik heb leerlingen die in een tussenuur vragen, mag ik erbij komen zitten want ik heb een tussenuur en gaat u iets met het nieuws doen? Want ik ben benieuwd [wat er is] gebeurd in Frankrijk"
 
 Ook Gerdien vindt het belangrijk om meer te bieden dan alleen de verplichte stof: "Ik weet wat ik moet bereiken, maar welke route we nemen dat gaat bij mij nog wel eens heel erg verschillend."
 
