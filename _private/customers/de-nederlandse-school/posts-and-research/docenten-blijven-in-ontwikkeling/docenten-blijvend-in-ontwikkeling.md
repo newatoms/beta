@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/ITzaEXA.jpg" width=100% />
 
-"We hebben allemaal op school gezeten maar de school van nu is echt heel anders dan de school van vroeger", Elise Bouwman.
+"We hebben allemaal op school gezeten, maar de school van nu is echt heel anders dan de school van vroeger", Elise Bouwman (deelneemster dNS workshops).
 
 # Docenten blijven in ontwikkeling
 
