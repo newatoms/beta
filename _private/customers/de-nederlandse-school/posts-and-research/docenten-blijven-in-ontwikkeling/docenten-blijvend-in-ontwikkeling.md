@@ -4,7 +4,7 @@
 
 # Docenten blijven in ontwikkeling
 
-We leven in een tijd waarin alles steeds sneller verandert. Goede educatie zorgt ervoor dat de nieuwe generatie deze veranderingen aankan, maar hoe zit het met de ontwikkeling van docenten zelf? Krijgen zij hier handvaten voor aangerijkt, of zoeken zij dit vooral zelf uit?
+We leven in een tijd waarin alles steeds sneller verandert. De nieuwe generatie groeit als vanzelfsprekend op met die veranderingen, maar hoe zit het met de ontwikkeling van docenten? Krijgen zij hier handvaten voor aangereikt, of moeten zij dit zij dit vooral zelf uitzoeken?
 
 Om dit uit te zoeken hebben we gesproken met Elise Bouwman, docente Frans en Gerdien Ort, docente Nederlands. Beide volgen masterclasses bij de Nederlandse School en zijn actief bezig met hun eigen ontwikkeling als docent.
 
