@@ -30,7 +30,7 @@ Een tip die beide docenten geven om geïnspireerd te blijven is om de lesstof te
 
 Ook Gerdien vindt het belangrijk om meer te bieden dan alleen de verplichte stof: "Ik weet wat ik moet bereiken, maar welke route we nemen, dat gaat bij mij nog wel eens heel erg verschillend." Zij heeft, in overleg met de vakgroep, de standaard lesmethode——denk aan Malmberg Noordhoff——onlangs bij 5 vwo eruit gegooid. "Dat is uitstekend bevallen, het is wel meer werk want je zal zelf op zoek moeten gaan naar teksten."
 
-Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. Elise: "Ik vind het razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit... die ik niet in me heb, maar die ik wel mee kan nemen in mijn lessen."
+Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. Elise: "Ik vind het razend interessant om naar een avond te gaan over technische start-ups. Omdat dat voor mij weer een wereld ontsluit... waar ik zelf niet veel van wist, maar die ik wel mee kan nemen in mijn lessen."
 
 ## Blijf in gesprek
 
