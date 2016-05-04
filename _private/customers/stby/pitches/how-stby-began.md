@@ -1,12 +1,12 @@
-# What it is about Bas and Geke that made STBY so good.
+# How people close to us see STBY?
 
 ## Goal
 
-To gain a personal insight into the driving forces behind STBY – it's originators, Bas and Geke – and how their experiences have made STBY as good as it is now
+To get a more accessible approach of explaining service design and to get a better sense of alternative ways to explain what STBY does
 
 ## Action
 
-We write a blog post about Bas and Geke that mirrors STBY's commitment to it's participant's stories by telling their own narrative.   
+We interview Geke’s brother.    
 
 ## Things we could talk about
 
