@@ -12,9 +12,9 @@ Om dit uit te zoeken hebben we gesproken met Elise Bouwman, docente Frans en Ger
 
 Volgens Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt erg belangrijk(of: het allerbelangrijkste) voor de motivatie van leerlingen. "Als ik dan de enquêtes bekijk die ik heb afgenomen onder mijn leerlingen, zie ik juist dat mijn enthousiasme zo ontzettend motiverend is." “Het voorbereiden van de lessen heb ik snel losgelaten. Zodra je gaat voorbereiden in lesplannen zit je zo vast. Dan is er geen ruimte meer voor creativiteit en dat heb je juist zo nodig in een lesuur."
 
-Elise laat haar enthousiasme zien door zich op twee leerdoelen te richten: "liefde voor het vak bijbrengen [en] laten zien dat taal een middel is om mensen te ontmoeten." Zij heeft zelf nog als leerling ervaren hoe belangrijk deze doelen zijn voor de motivatie van de leerling. Ze vond Frans niks, totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een erg mooie taal vond.
+Elise laat haar enthousiasme zien door zich op twee leerdoelen te richten: "Ik wil hen liefde voor het vak bijbrengen en laten zien dat taal een middel is om mensen te ontmoeten." Zij heeft zelf nog als leerling ervaren hoe belangrijk deze doelen zijn voor de motivatie van de leerling. Ze vond Frans niks, totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel met haar te praten kwam ze erachter dat ze Frans eigenlijk een erg mooie taal vond.
 
-Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en de actualiteit in hun lessen te verwerken.
+Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten én door de actualiteit in hun lessen te verwerken.
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
