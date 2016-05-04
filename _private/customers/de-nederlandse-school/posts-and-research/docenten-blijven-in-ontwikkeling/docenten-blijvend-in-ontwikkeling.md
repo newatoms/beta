@@ -22,7 +22,7 @@ Deelnemers van de Nederlandse School moesten recent iemand van buiten het onderw
 
 Ook Elise merkt duidelijk dat haar kennis de laatste tijd is verrijkt: "...Ik merkte bijvoorbeeld opeens dat ik bij een diner met mensen uit andere vakgebieden veel beter snapte waar ze het over hebben." Deze gesprekken bieden een nieuwe kijk op wat educatie is, en wat het zou kunnen zijn: "...dat idee van het bastion doorbreken wat de school is... dat is wel erg blijven hangen bij mij vanuit de Nederlandse School".
 
-Beide bespreken ook veel met andere docenten. Gerdien vraagt zelf regelmatig aan leerlingen welke docent zij te gek vinden en gaat dan naar die docent toe om te vragen wat hij/zij doet. Vaak is daarop de reactie dat ze maar eens mee moet lopen in een les. Elise beaamt het belang van leren van elkaar: "Een belangrijk onderdeel wat wij ... belangrijk vinden, is dat docenten veel meer met elkaar in contact komen en van elkaar leren. ... [Dat we] de ruimte krijgen om bij elkaar te kijken en daardoor geïnspireerd raken om zelf ook weer te veranderen."
+Beide bespreken ook veel met andere docenten. Gerdien vraagt zelf regelmatig aan leerlingen welke docent zij te gek vinden en gaat dan naar die docent toe om te vragen wat hij/zij doet. Vaak is daarop de reactie dat ze maar eens mee moet lopen in een les. Elise beaamt het belang van leren van elkaar: "Een belangrijk onderdeel wat wij belangrijk vinden, is dat docenten veel meer met elkaar in contact komen en van elkaar leren. Dat we de ruimte krijgen om bij elkaar te kijken en daardoor geïnspireerd raken om zelf ook weer te veranderen."
 
 ### Baseer je lesstof op wat er in de wereld speelt
 
