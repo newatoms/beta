@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/ITzaEXA.jpg" width=100% />
 
-"We hebben allemaal op school gezeten, maar de school van nu is echt heel anders dan de school van vroeger", Elise Bouwman (deelneemster dNS workshops).
+> We hebben allemaal op school gezeten, maar de school van nu is echt heel anders dan de school van vroeger, Elise Bouwman (deelneemster dNS workshops).
 
 # Docenten blijven in ontwikkeling
 
@@ -15,6 +15,8 @@ Volgens Gerdien is het schetsen van een kader waarbinnen de stof tot leven komt 
 Elise laat haar enthousiasme zien door zich op twee leerdoelen te richten: "liefde voor het vak bijbrengen [en] laten zien dat taal een middel is om mensen te ontmoeten." Zij heeft zelf nog als leerling ervaren hoe belangrijk deze doelen zijn voor de motivatie van de leerling. Ze vond Frans niks, totdat er een Frans meisje bij haar gezin kwam logeren tijdens een uitwisselingsproject. Door veel te praten met dit meisje kwam ze erachter dat ze Frans eigenlijk een erg mooie taal vond.
 
 Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en de actualiteit in hun lessen te verwerken.
+
+> Tegelijkertijd wil ik leerlingen ook laten zien dat ik ook 1en en 3en haalde en dat het goed is gekomen met mij. Dat bediscussiëren ze dan als ik dat zeg, want ze vragen zich af of het wel goed is gekomen als je docent Frans bent, Elise Bouwman.
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
