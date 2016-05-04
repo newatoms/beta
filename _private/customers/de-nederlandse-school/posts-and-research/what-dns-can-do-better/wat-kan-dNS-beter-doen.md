@@ -10,7 +10,7 @@ Maar ook wij hebben soms een frisse blik nodig.
 
 ## Wij vroegen deelnemende docenten om advies
 
-Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen, zijn wij in gesprek gegaan met docenten over wat wij beter kunnen doen. Hier onder het advies wat daaruit voort kwam.
+Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te helpen, zijn wij in gesprek gegaan met docenten over wat wij beter kunnen doen. Hieronder het advies wat daaruit voortkwam.
 
 ### Laat de docenten meer van elkaar leren
 
