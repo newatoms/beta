@@ -6,7 +6,7 @@ To get a more accessible approach of explaining service design and to get a bett
 
 ## Action
 
-We interview Geke’s brother.    
+We interview Geke’s brother about what he thinks STBY is, what he thinks Geke does, what makes her good at what she does and if he knows any examples of service design that makes us understand why Geke is so into this.  
 
 ## Things we could talk about
 
