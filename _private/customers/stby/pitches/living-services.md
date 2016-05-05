@@ -1,7 +1,7 @@
 # Living Services
 
 ## Goal
-To show readers that STBY is progressive and forward-thinking in the service design industry
+Show readers that STBY is progressive and forward-thinking in the service design industry
 
 ## Motivation
 Showing that STBY is consistently identifying and reflecting on new trends within the field keeps the company contemporary and relevant to readers.
