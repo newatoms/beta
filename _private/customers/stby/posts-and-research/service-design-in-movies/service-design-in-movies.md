@@ -5,3 +5,5 @@ Imagine how difficult it was to learn a new language a century ago. You'd have t
 A large part of this transition has to do with technical innovations, but another part has to do with service design.
 
 People get used to improvements very quickly. In a way we are just like the people on the spaceship Aximo in the movie [WALL-E](http://www.imdb.com/title/tt0910970/), oblivious to the fact how easy a lot of things have become. Good service design will become the new normal.
+
+Image: Still from the movie [WALL-E](http://www.imdb.com/title/tt0910970/)
