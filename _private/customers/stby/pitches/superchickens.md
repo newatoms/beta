@@ -10,4 +10,4 @@ We discuss a tedtalk by [Mararet Heffernan](https://www.ted.com/talks/margaret_h
 
 ## Motivation
 
-Even though these insights are not as mind-blowing as they might have been 10 years ago, they still suggest a vastly different way of working than the way most companies operate. By sharing this, you create a valuable insight into productivity, and you create yet again a different way of understanding what service design is, wihout explicitly saying it is. 
+Even though these insights are not as mind-blowing as they might have been 10 years ago, they still suggest a vastly different way of working than the way most companies operate. In this case it ilustrates that if the eployers listen and look better at the need of their employees, both parties are better off. Just like with anny other service where putting effort in listening to the end users greatly enhances the service and thus helps the provider of the service. By sharing this, you create a valuable insight into productivity, and you create yet again a different way of understanding what service design is, wihout explicitly saying it is. 
