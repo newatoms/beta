@@ -6,7 +6,7 @@ To show the value of the needs of the end users in our society
 
 ## Method
 
-We write about (a)success case(s) of citizen initiatives that have found sustainable solutions to problems in our society, that the governments failed to solve. In this article we will use the example of the urban farms in Detroit that have been so hyped in the media lately. We will mainly focus on the phenomenon started, what problems it tried to solve and what the state of these problems is now.
+We write about (a)success case(s) of citizen initiatives that have found sustainable solutions to problems in our society, that the governments failed to solve. In this article we will use the example of the urban farms in Detroit that have been so hyped in the media lately. In this case the city of Detroit had a serious lack of jobs and food stores in a lot of neigbourhoods. By producing and selling food with and to eachother the problem was largely solved. There was a strong need by de citizens (end users) that was not heard, recongized by the goverment so the citizens took it on them selves to solve it. We will mainly focus on how the phenomenon started, what problems it tried to solve and what the state of these problems is now.
 
 ## Motivation
 
