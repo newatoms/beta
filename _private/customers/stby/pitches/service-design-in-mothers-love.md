@@ -1,4 +1,4 @@
-# love and service design  
+# Love and service design  
 
 ## Goal
 
@@ -10,4 +10,4 @@ We will write and a short article discussing how you behave, and are expected to
 
 ## Motivation
 
-Caring for some one always influences the way you behave towards them. this could be by going out of your way to give them a smile, being brutal honest because you think they need it or lying about something in order to protect them. This behavior feels extremely natural, but I think that by comparing this to service design we can make some fun and interesting connections that introduces service design in a different way. Because it is such a relatable subject it could be an effective item to be shared by others trough social media.
+Caring for someone always influences the way you behave towards them. This could be by going out of your way to give them a smile, being brutally honest because you think they need it, or lying about something in order to protect them. This behavior feels extremely natural, but by comparing this to service design we can make some fun and interesting connections that introduces service design in a different way. Because it is such a relatable subject it could be an effective item to be shared by others through social media.
