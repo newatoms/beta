@@ -16,7 +16,7 @@ Elise laat haar enthousiasme zien door zich op twee leerdoelen te richten: "lief
 
 Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en de actualiteit in hun lessen te verwerken.
 
-> Tegelijkertijd wil ik leerlingen ook laten zien dat ik ook 1en en 3en haalde en dat het goed is gekomen met mij. Dat bediscussiëren ze dan als ik dat zeg, want ze vragen zich af of het wel goed is gekomen als je docent Frans bent, Elise Bouwman.
+> Ik wil leerlingen laten zien dat ik vroeger ook 1en en 3en haalde en dat het met mij is goed gekomen. Dat bediscussiëren ze dan als ik dat zeg, want ze vragen zich af of het wel goed is gekomen als je docent Frans bent, Elise Bouwman.
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
