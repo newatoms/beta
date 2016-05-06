@@ -6,7 +6,11 @@ To introduce (potentially recurring) new readers who are unfamiliar with the ter
 
 ## Action
 
-By showing how the positive experience of a service they know is very intentionally designed, we will help the reader realize that they come in contact with service design on a daily basis. In this post we will take a look at the influence of service design on eating. We will compare eating in a super chique restaurant to a home cooked meal with your parents or eating a microwave dinner. It will not be a in-depth analysis but more a rationalized but fun article about the impact of (sometimes unintentional) service design can have on how you experience your food.
+By showing how the positive experience of a service they know is very intentionally designed, we will help the reader realize that they come in contact with service design on a daily basis. In this post we will take a look at the influence of service design on eating. It will not be a in-depth analysis but more a rationalized but fun article about the impact of (sometimes unintentional) service design can have on how you experience your food.
+
+## Example 
+
+The dutch television program 'de keuringsdienst van waarde', which investigates everyday products on their quality, found out that the shrimps in the 'AH excellent' packaging were exactly the same as those in the normal, cheaper, packages. Would, with this knowledge, buying the 'excellent' shrimps still lead to a more 'luxurious' experience?
 
 ## Motivation
 
