@@ -12,6 +12,8 @@ In each scenario, how do you experience the painting?
 
 When we look at art, most of our attention is focussed on the artwork on display. Rarely will we pay the same amount of attention to the display itself: the context. The moment we begin to understand the relationship between art and its context, a whole new world opens up.
 
+The act of intentionally influencing the experience of the viewer is a form of service design.
+
 In 1972, art critic/writer/painter/poet [John Berger](https://en.wikipedia.org/wiki/John_Berger), in tandem with the BBC, made a controversial four-part television series called *[Ways of Seeing](https://www.youtube.com/watch?v=utEoRdSL1jo)*. In the series, regarded as one of the most influential art programmes ever made, Berger shows how the way we see things is influenced by what we know. It was said by [Ratik Asokan](https://newrepublic.com/article/126679/many-faces-john-berger) to have been "pioneering for the ease with which it moved between analyzing the highbrow (e.g. the great masters) and the lowbrow (e.g. advertisements), [and] more importantly, for how it kicked down the supposed distinction between the two."
 
 >In *Ways of Seeing*, Berger calls a painting "a corridor, connecting the moment which it represents, to the moment you are looking at it."
@@ -26,11 +28,9 @@ This is a great example of how our context contributes to our experience of a wo
 
 Seeing works of art in less prestigious contexts can at times "cheapen" them. The *Night Watch* used in an advertisement or printed on a cup might be considered banal or kitsch, as opposed to the awe the original in the museum provokes. But artworks in such settings may equally enhance the experiences of flipping through a magazine or occupying an office space. Museums also regulate (manipulate) the environment to place the visitor into ideal art viewing circumstances.
 
-The act of intentionally influencing the experience of the viewer is a form of service design.
-
 John Berger's ideas about seeing make clear that our experience of art is shaped by our *selves* and our *environments*, more so than the art itself. The experience is *designed* to guide the viewer into a specific kind of connection to the artwork, based on its context. The moment one takes this into account while creating and displaying art, it becomes people-centered.
 
-Now, if you reimagine the two scenarios above, perhaps in each case you also imagine the color of the wall, the sounds, surrounding architecture, the quality of light, the smell and temperature of the air, and the feel of the floor beneath your feet, all with yourself at the center. This, with the artwork as just another element of the context, is the art experience.
+Now, if you reimagine the two scenarios above, perhaps in each case you also imagine the colour of the wall, the sounds, surrounding architecture, the quality of light, the smell and temperature of the air, and the feel of the floor beneath your feet, all with yourself at the center. This, with the artwork as just another element of the context, is the art experience.
 
 
 Image 1: [Rijksmuseum, Amsterdam](https://www.rijksmuseum.nl/en/search/objects?s=chronologic&f=1&p=2&ps=12&imgonly=True&where=C-243&ii=8#/RMA-SSA-F-00639-1,20)
