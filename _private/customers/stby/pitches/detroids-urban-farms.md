@@ -11,3 +11,6 @@ We write about success (a) case(s) of citizen initiatives that have found sustai
 ## Motivation
 
 Citizen initiatives are a perfect example of how valuable the perspective and understanding of endusers is in having (or not having) a properly functioning service. Apart from the fact that understanding the value of listening to other people is important for everyone, this article might help potential clients see the relevance of service design from a different perspective.
+
+
+<img src="http://rochestertalon.com/wp-content/uploads/2015/03/detroitfarm.jpg" width=100% />
