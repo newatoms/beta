@@ -10,7 +10,9 @@ Imagine the following scenarios:
 
 In each scenario, how do you experience the painting?
 
-The act of intentionally influencing the experience of the viewer is a form of service design. When we look at art, most of our attention is focussed on the artwork on display. Rarely will we pay the same amount of attention to the display itself: the context. The moment we begin to understand the relationship between art and its context, a whole new world opens up.
+When we look at art, most of our attention is focussed on the artwork on display. Rarely will we pay the same amount of attention to the display itself: the context. The moment we begin to understand the relationship between art and its context, a whole new world opens up.
+
+The act of intentionally influencing the experience of the viewer is a form of service design.
 
 In 1972, art critic/writer/painter/poet [John Berger](https://en.wikipedia.org/wiki/John_Berger), in tandem with the BBC, made a controversial four-part television series called *[Ways of Seeing](https://www.youtube.com/watch?v=utEoRdSL1jo)*. In the series, regarded as one of the most influential art programmes ever made, Berger shows how the way we see things is influenced by what we know. It was said by [Ratik Asokan](https://newrepublic.com/article/126679/many-faces-john-berger) to have been "pioneering for the ease with which it moved between analyzing the highbrow (e.g. the great masters) and the lowbrow (e.g. advertisements), [and] more importantly, for how it kicked down the supposed distinction between the two."
 
