@@ -2,7 +2,7 @@
 
 ## Goal
 
-To get a more accessible approach of explaining service design 
+To get a better sense of what team members are doing at stby and what makes them good at it
 
 ## Action
 
