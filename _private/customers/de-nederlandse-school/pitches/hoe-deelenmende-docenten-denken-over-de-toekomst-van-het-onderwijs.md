@@ -2,7 +2,7 @@
 
 ## Goal
 
-Om vanuit het perspectief van dNS te laten zien hoe deelnemend docenten het docentschap opnieuw uit vinden en onderwijsontwikkeling ontwerpen op deelnemende scholen
+Om vanuit het perspectief van dNS te laten zien hoe deelnemend docenten het docentschap opnieuw uitvinden en onderwijsontwikkeling ontwerpen op deelnemende scholen
 
 ## Action
 
