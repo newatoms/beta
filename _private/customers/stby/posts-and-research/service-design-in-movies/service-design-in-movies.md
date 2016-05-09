@@ -16,7 +16,7 @@ The space ship Aximo in the Pixar movie Wall-E, released in 2008, is a great exa
 
 ## Sweet Sweet Aximo
 
-In Wall-E, the earth is abandoned and covered in heaps of garbage left over from decades of mass consumerism facilitated by the megacorporation Buy 'n' Large, the same corporation that evacuated Earth's population in fully automated starliners (luxury cruiseships for in space) to cruize trough space, waiting for humanity's eventual return.
+In Wall-E, the earth is abandoned and covered in heaps of garbage left over from decades of mass consumerism facilitated by the megacorporation Buy 'n' Large. The same corporation that evacuated Earth's population in fully automated starliners (luxury cruiseships for in space) to cruize trough space, waiting for humanity's eventual return.
 
 The story is told from the perspective of Wall-E, the only left functioning robot tasked with cleaning up the world. At some point in the movie the viewer is introduced to one of Buy 'n' large starliners when Wall-E boards the spaceship Aximo.
 
