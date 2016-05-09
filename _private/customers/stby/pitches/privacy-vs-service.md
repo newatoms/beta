@@ -2,7 +2,7 @@
 
 ## Goal
 
-Raise STBY's trustworthiness by showing that STBY is aware about the potential negative impact of certain services
+Raise STBY's trustworthiness by showing that STBY is aware of the potential negative impact of certain services
 
 ## Action
 
