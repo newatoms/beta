@@ -22,6 +22,6 @@ The story is told from the perspective of Wall-E, the only left functioning robo
 
 The spaceship is crewed almost entirely by robots, with their main goal to keep the residents as comfortable as possible, from the perspective of the consumer driven Buy 'n' Large.
 
-Even though [this clip](https://www.youtube.com/watch?v=h1BQPV-iCkU) gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing, there is nothing that actually shows this. Who is to tell what they actually do? While looking at the clip it is interesting to speculate about the (fictional) motives of the buy 'n' large and the writers of the movie. It stimulates us to ask the question if, what we think we want or others want, is actually what we need.
+Even though [this clip](https://www.youtube.com/watch?v=h1BQPV-iCkU) gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing, there is nothing that actually shows this. Who is to tell what they actually do? While looking at the clip it is interesting to speculate about the (fictional) motives of the Buy 'n' large and the writers of the movie. It stimulates us to ask the question if, what we think we want or others want, is actually what we need.
 
 Images: Stills from the movie [WALL-E](http://www.imdb.com/title/tt0910970/)
