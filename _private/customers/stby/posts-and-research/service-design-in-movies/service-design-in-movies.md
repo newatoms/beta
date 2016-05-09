@@ -21,7 +21,6 @@ The story is told from the perspective of Wall-E, the only functioning robot lef
 As shown in [this scene](https://www.youtube.com/watch?v=h1BQPV-iCkU), the spaceship's crew is almost entirely automised, with the main goal of keeping the residents as comfortable as possible—"comfort" being defined by the consumer-driven Buy 'n' Large. A lot of these robots on Aximo already look like our services today or feel like they are part of a near future.
 
 ## Aximo just got 'real' in only 7 years
-
  
 Because Wall-E was made in 2008, it’s interesting to see that mankind already has come this far in only 7 years. 
 
