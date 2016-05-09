@@ -12,15 +12,17 @@ The pace ship Aximo in the Pixar movie Wall-E, released in 2008, is a great exam
 
 ## Sweet Sweet Aximo
 
-Wall-E is a movie
-In 2008 Pixar released the movie Wall-E. In 2805, Earth is abandoned and covered in heaps of garbage left over from decades of mass consumerism facilitated by the megacorporation Buy 'n' Large (BnL). Seven hundred years earlier, BnL evacuated Earth's population in fully automated starliners, leaving behind WALL-E trash compactor robots to clean the planet for humanity's eventual return.
+In Wall-E, the earth is abandoned and covered in heaps of garbage left over from decades of mass consumerism facilitated by the megacorporation Buy 'n' Large, the same corporation that evacuated Earth's population in fully automated starliners to cuize trough space, waiting for humanity's eventual return.
+
+The story is told from the perspective of Wall-E, the only left functioning robot tasked with cleaning up the world.
 
 At some point in the movie the viewer is introduced to one of Buy 'n' large starliners when Wall-E boards the space ship Aximo.
 
-Designed as a massive luxury cruise ship, the Axiom kept everyone aboard fed and entertained as it cruised through space, waiting until they could return to earth.
+The ship is crewed almost entirely by robots, with their main goal to keep the residents as comfortable as possible, from the perspective of the consumer driven Buy 'n' Large.
 
-The ship is crewed almost entirely by robots, though there is a human captain. The majority of the ship's functions are handled by its computer, as well as an autopilot called AUTO. The ship has all the trappings of a typical cruise liner, such as shops, restaurants and swimming pools.
+Even though everyone on Aximo seems very content and polite, the humans seem drugged behind there computer screens.
 
-To make sure that the wait to return to earth is as pleasant as possible, every single part of the ship is designed to ward passenger comfort, from the perspective of a benefactor of consumerism, Buy 'n' large.
+
+
 
 Image: Still from the movie [WALL-E](http://www.imdb.com/title/tt0910970/)
