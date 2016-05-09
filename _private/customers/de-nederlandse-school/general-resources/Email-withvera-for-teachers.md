@@ -13,3 +13,7 @@ Wij maken het sjabloon, vullen hem elke week in met de juiste linkjes, schrijven
 ## Motivatie
 
 We hebben gemerkt dat het lastig is om in contact te komen met docenten om informatie op te doen voor de artikelen die we schrijven voor de Nederlandse School. Door het uitzetten van deze nieuwsbrief zouden we de data te krijgen die we zoeken en tegelijkertijd een een middel bieden aan de deelnemende docenten en de Nederlandse school om de deelnemende docenten gemeeschpa bij elkaar te brengen en te houden.
+
+## Assistence
+
+Elke week, op het zelfde moment, zal dNS de door content.supply gemaakte nieuwsbrief moeten verzenden aan alle deelnemende docenten.
