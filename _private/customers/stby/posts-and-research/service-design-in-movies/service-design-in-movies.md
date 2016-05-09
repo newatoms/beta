@@ -22,11 +22,11 @@ The spaceship's crew is almost entirely automised, with the main goal of keeping
 
 ## Aximo just got *real* in only 7 years
  
-So yes, maybe easy to say from a 2008 pixar movie, but it’s interesting to see that mankind already has come this far in only 7 years. In [this *human dystopian* scene](https://www.youtube.com/watch?v=h1BQPV-iCkU) for example: 
+Because Wall-E was made in 2008, it’s interesting to see that mankind already has come this far in only 7 years. In [this—over the top—*human dystopia* scene](https://www.youtube.com/watch?v=h1BQPV-iCkU) from Wall-E for example: 
 
-* Autonomous floating hoovers are keeping everyone inline. Sounds familiar? Look at [Google autonomous cars](https://www.youtube.com/watch?v=XReZFuACQLc) or [Tesla’s autopilot function](https://www.youtube.com/watch?v=UgNhYGAgmZo).
-* The citizens of Aximo have a fixed focus on their screen. In a way, we’re already heading this way. Just [read about the design of these traffic lights in Germany for smartphone zombies](http://www.theguardian.com/cities/2016/apr/29/always-practise-safe-text-the-german-traffic-light-for-smartphone-zombies).  
+* Very efficient autonomous and floating hoovers are keeping everyone inline. Sounds familiar? Look at [Google autonomous cars](https://www.youtube.com/watch?v=XReZFuACQLc) or [Tesla’s autopilot function](https://www.youtube.com/watch?v=UgNhYGAgmZo).
+* The citizens of Aximo have a fixed focus on their screen. In a way, we’re already heading this way. Just [read about this very cool design of these traffic lights in Germany for smartphone zombies](http://www.theguardian.com/cities/2016/apr/29/always-practise-safe-text-the-german-traffic-light-for-smartphone-zombies).  
 
-Even though the *human dystopian* scene gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing, there is nothing that actually shows this. Who is to tell what they actually do? While looking at the clip it is interesting to speculate about the (fictional) motives of the Buy 'n' Large and the writers of the movie. It stimulates us to ask the question whether what we think we or others want is actually what we need.
+Even though the *human dystopia* scene gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing, there is nothing that actually shows this. Who is to tell what they actually do? While looking at the clip it is interesting to speculate about the (fictional) motives of the Buy 'n' Large and the writers of the movie. It stimulates us to ask the question whether what we think we or others want is actually what we need.
 
 Images: Stills from the movie [WALL-E](http://www.imdb.com/title/tt0910970/)
