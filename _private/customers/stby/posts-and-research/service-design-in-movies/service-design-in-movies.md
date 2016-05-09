@@ -6,7 +6,7 @@ A large part of this transition has to do with technical innovations, but anothe
 
 People get used to improvements very quickly, so quickly even that something that was a mazing and new just a few moments ago, now is the norm. Luis CK has [a pretty good sketch](https://www.youtube.com/watch?v=ZFsOUbZ0Lr0) that illustrates this during the live show "Conan".
 
-Just like offering WIFI in an airplain, custumer satisfaction is becoming more and more the unique selling points for servicese that seem more and more alike. But thinking that you know what your users want, and knowing it are two vastly different things.
+Custumer satisfaction is becoming the unique selling points for services that seem more and more alike. But thinking that you know what your users want, and knowing what your user needs it are two vastly different things.
 
 The pace ship Aximo in the Pixar movie Wall-E, released in 2008, is a great example of this.  
 
