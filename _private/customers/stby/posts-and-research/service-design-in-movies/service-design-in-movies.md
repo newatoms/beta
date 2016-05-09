@@ -18,7 +18,7 @@ In Wall-E, earth is abandoned and covered in heaps of garbage left over from dec
 
 The story is told from the perspective of Wall-E, the only functioning robot left, tasked with cleaning up the world. At some point in the movie, the viewer is introduced to one of Buy 'n' Large's starliners when Wall-E boards the spaceship Aximo.
 
-As shown in [this scene](https://www.youtube.com/watch?v=h1BQPV-iCkU), the spaceship's crew is almost entirely automised, with the main goal of keeping the residents as comfortable as possible—"comfort" being defined by the consumer-driven Buy 'n' Large. A lot of these robots on Aximo already look like our services today or feel like they are part of a near future.
+As shown in [this scene](https://www.youtube.com/watch?v=h1BQPV-iCkU), the spaceship's crew is almost entirely automised with the main goal of keeping the residents as comfortable as possible—"comfort" being defined by the consumer-driven Buy 'n' Large. A lot of these robots on Aximo already look like our services today or feel like they are part of a near future.
 
 ## Aximo just got 'real' in only 7 years
  
