@@ -6,22 +6,22 @@ Imagine how difficult it was to learn a new language a century ago. You'd have t
 
 A large part of this transition has to do with technical innovations, but another part has to do with how these services were designed with the end-users in mind.
 
-People get used to improvements very quickly, so quickly even that something that was a mazing and new just a few moments ago, now is the norm. Luis CK has [a pretty good sketch](https://www.youtube.com/watch?v=ZFsOUbZ0Lr0) that illustrates this during the live show "Conan".
+People get used to improvements very quickly, so quickly even that something that was amazing and new just a few moments ago, now is the norm. Luis CK has [a pretty good sketch](https://www.youtube.com/watch?v=ZFsOUbZ0Lr0) that illustrates this during the live show *Conan*.
 
-Custumer satisfaction is becoming the unique selling points for services that seem more and more alike. But thinking that you know what your users want, and knowing what your user needs it are two vastly different things.
+Customer satisfaction is becoming the unique selling points for services that seem more and more alike. But thinking that you know what your users want, and knowing what your users needs it are two vastly different things.
 
-The pace ship Aximo in the Pixar movie Wall-E, released in 2008, is a great example of this.  
+The space ship Aximo in the Pixar movie Wall-E, released in 2008, is a great example of this.  
 
 <img src=https://jonnegroni.files.wordpress.com/2015/04/walle-socialnetwork03.jpg?w=798&h=337 width=100% />
 
 ## Sweet Sweet Aximo
 
-In Wall-E, the earth is abandoned and covered in heaps of garbage left over from decades of mass consumerism facilitated by the megacorporation Buy 'n' Large, the same corporation that evacuated Earth's population in fully automated starliners to cuize trough space, waiting for humanity's eventual return.
+In Wall-E, the earth is abandoned and covered in heaps of garbage left over from decades of mass consumerism facilitated by the megacorporation Buy 'n' Large, the same corporation that evacuated Earth's population in fully automated starliners to cruize trough space, waiting for humanity's eventual return.
 
-The story is told from the perspective of Wall-E, the only left functioning robot tasked with cleaning up the world. At some point in the movie the viewer is introduced to one of Buy 'n' large starliners when Wall-E boards the space ship Aximo.
+The story is told from the perspective of Wall-E, the only left functioning robot tasked with cleaning up the world. At some point in the movie the viewer is introduced to one of Buy 'n' large starliners when Wall-E boards the spaceship Aximo.
 
 The ship is crewed almost entirely by robots, with their main goal to keep the residents as comfortable as possible, from the perspective of the consumer driven Buy 'n' Large.
 
-Even though [this clip](https://www.youtube.com/watch?v=_xToQ4cIHkk) gives us the impression that the sitizens of Aximo are wasting their live away, only consuming and not contributing, there is nothing that actually shows this. Who is to tell what they actually do? While looking at the clip it is interesting to speculate about the (fictional) motives of the buy 'n' large and the writers of the movie. It stimulates us to ask the question if, what we think we want or others want, is actually what we need.
+Even though [this clip](https://www.youtube.com/watch?v=_xToQ4cIHkk) gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing, there is nothing that actually shows this. Who is to tell what they actually do? While looking at the clip it is interesting to speculate about the (fictional) motives of the buy 'n' large and the writers of the movie. It stimulates us to ask the question if, what we think we want or others want, is actually what we need.
 
 Images: Stills from the movie [WALL-E](http://www.imdb.com/title/tt0910970/)
