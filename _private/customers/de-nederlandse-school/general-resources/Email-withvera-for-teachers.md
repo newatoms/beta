@@ -1,3 +1,5 @@
+# Dit is geen pitch voor een artiekel, maar een aanbod voor een gratis dienst.
+
 ## Goal
 
 Om de deelnemende docenten te betrekken in elkaars ontwikkelingen, en ze te stimuleren om hun eigen ervaringen en meningen omtrend de invloed van de worksop's te delen
@@ -10,4 +12,4 @@ Wij maken het sjabloon, vullen hem elke week in met de juiste linkjes, schrijven
 
 ## Motivatie
 
-We hebben gemerkt dat het lastig is om in contact te komen met docenten om informatie op te doen voor de artikelen die we schrijven voor de Nederlandse School en dit leek ons een goede manier om zowel de data te krijgen die we zoeken, als een middel te bieden aan de deelnemende docenten en de Nederlandse school om de communitie bij elkaar te brengen. 
+We hebben gemerkt dat het lastig is om in contact te komen met docenten om informatie op te doen voor de artikelen die we schrijven voor de Nederlandse School. Door het uitzetten van deze nieuwsbrief zouden we de data te krijgen die we zoeken en tegelijkertijd een een middel bieden aan de deelnemende docenten en de Nederlandse school om de deelnemende docenten gemeeschpa bij elkaar te brengen en te houden.
