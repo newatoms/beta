@@ -2,7 +2,7 @@
 
 ## Goal
 
-To get a better sense of what team members are doing at stby and what makes them good at it
+To get a better sense of what team members are doing at stby and what makes them good at their job
 
 ## Action
 
