@@ -1,34 +1,26 @@
-# What it is about Bas and Geke that made STBY so good.
+# How people close to us see STBY?
 
 ## Goal
 
-To gain a personal insight into the driving forces behind STBY – it's originators, Bas and Geke – and how their experiences have made STBY as good as it is now
+To get a better sense of what team members are doing at stby and what makes them good at their job
 
 ## Action
 
-We write a blog post about Bas and Geke that mirrors STBY's commitment to it's participant's stories by telling their own narrative.   
+we interview Geke’s brother about what he thinks STBY is, what he thinks Geke does, what makes her good at what she does and if he knows any examples in Geke’s daily live that makes her a typical service designer.
 
-## Things we could talk about
+## Some of the Questions we have
 
-* Where Bas and Geke worked and what they did before starting STBY, what we think they learned from their previous experiences, and how their combined experiences and personalities make them unique and equipped to do what they do
-
-* How their experience taught them that stepping into the life of the participant, hearing his or her story, and authentically integrating the knowledge gained from this experience into the design process makes a meaningful, valuable difference in people's lives
-
-* How their personal and professional take on the emerging field of design research has shaped the scope and profile of STBY
-
-## Questions we have
-
-* How did you guys (Bas and Geke) meet?
-* Why are you great at your jobs? In other words, what experiences have equipped you to know that there is a need for service design?
-* Have there been times of frustration, and how did you push through these times?
-* Was there an "aha moment" when you realized how important people's stories are in design research?
-* What are your personal and professional ideas about the emerging field of design research?
-* How have these ideas shaped STBY?
-* How do your personalities complement one another and make for an effective business partnership? Or, what particular role do each of you play as business partners and why are you equipped to do so?
+* What is her greatest quality?
+* Is there something you learned from her professional life?
+* How did this affect your way of doing things?
+* What makes her a good pioneer?
+* How do you explain to friends what Geke does for a living?
+* Did she in some way designed her own live in a way that makes you think of service design.
+* Is there something that she could do better?
 
 ## What do we need from you
 
-* A short interview with Bas and/or Geke of about 20-30 minutes
+* An ok from Geke to interview her brother and his contact information. 
 
 ## Outcome
 
