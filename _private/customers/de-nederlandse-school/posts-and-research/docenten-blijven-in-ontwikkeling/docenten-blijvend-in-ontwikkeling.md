@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/ITzaEXA.jpg" width=100% />
 
-> We hebben allemaal op school gezeten, maar de school van nu is echt heel anders dan de school van vroeger, Elise Bouwman (deelneemster dNS workshops).
+> "We hebben allemaal op school gezeten, maar de school van nu is echt heel anders dan de school van vroeger", Elise Bouwman (deelneemster dNS workshops).
 
 # Docenten blijven in ontwikkeling
 
@@ -16,7 +16,7 @@ Elise laat haar enthousiasme zien door zich op twee leerdoelen te richten: "lief
 
 Om het overbrengen van het enthousiasme vast te houden gedurende een langere periode is het belangrijk om zelf geïnspireerd te blijven. Elise en Gerdien doen dit beide door veel met (on)bekenden te praten en de actualiteit in hun lessen te verwerken.
 
-> Ik wil leerlingen laten zien dat ik vroeger ook 1en en 3en haalde en dat het met mij is goed gekomen. Dat bediscussiëren ze dan als ik dat zeg, want ze vragen zich af of het wel goed is gekomen als je docent Frans bent, Elise Bouwman.
+> "Ik wil leerlingen laten zien dat ik vroeger ook 1en en 3en haalde en dat het met mij is goed gekomen. Dat bediscussiëren ze dan als ik dat zeg, want ze vragen zich af of het wel goed is gekomen als je docent Frans bent", Elise Bouwman.
 
 ### Zorg dat je geïnspireerd blijft door anderen
 
@@ -38,4 +38,4 @@ Ook kunnen de gesprekken met anderen direct als stof in de les verwerkt worden. 
 
 Gesprekken met anderen beïnvloeden sterk hoe je de wereld ziet. Ze resulteren in nieuwe inzichten en geven een moment voor reflectie. Voor Gerdien en Elise is het de voornaamste manier om zich zowel op micro niveau——het kiezen van een onderwerp voor een les—— als op macro niveau——hoe kan het educatiesysteem verbeterd worden——te blijven ontwikkelen.
 
-> Try to learn something about everything and everything about something. [Thomas Huxley](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
+> "Try to learn something about everything and everything about something". [Thomas Huxley](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
