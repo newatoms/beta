@@ -6,7 +6,7 @@ Imagine how difficult it was to learn a new language a century ago. You'd have t
 
 A large part of this transition has to do with technical innovations, but another part has to do with how these services were designed with the end-users in mind.
 
-People get used to improvements very quickly, so quickly even that something that was amazing and new just a few moments ago, now is the norm. Luis CK has [a pretty good sketch](https://www.youtube.com/watch?v=ZFsOUbZ0Lr0) that illustrates this during the live show *Conan*.
+People get so quickly used to improvements that what was new a moment ago, now is the norm. Luis CK has [a pretty good sketch](https://www.youtube.com/watch?v=ZFsOUbZ0Lr0) that illustrates this during the live show *Conan*.
 
 Customer satisfaction is becoming the unique selling points for services that seem more and more alike. But the difference between thinking and knowing what your users wants, are two vastly different things.
 
