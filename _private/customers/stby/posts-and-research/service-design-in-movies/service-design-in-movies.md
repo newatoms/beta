@@ -18,8 +18,15 @@ In Wall-E, earth is abandoned and covered in heaps of garbage left over from dec
 
 The story is told from the perspective of Wall-E, the only functioning robot left, tasked with cleaning up the world. At some point in the movie, the viewer is introduced to one of Buy 'n' Large's starliners when Wall-E boards the spaceship Aximo.
 
-The spaceship's crew is almost entirely automised, with the main goal of keeping the residents as comfortable as possible—"comfort" being defined by the consumer-driven Buy 'n' Large.
+The spaceship's crew is almost entirely automised, with the main goal of keeping the residents as comfortable as possible—"comfort" being defined by the consumer-driven Buy 'n' Large. A lot of these robots on Aximo already look like our services today or feel like they are part of a near future.
 
-Even though [this clip](https://www.youtube.com/watch?v=h1BQPV-iCkU) gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing, there is nothing that actually shows this. Who is to tell what they actually do? While looking at the clip it is interesting to speculate about the (fictional) motives of the Buy 'n' Large and the writers of the movie. It stimulates us to ask the question whether what we think we or others want is actually what we need.
+## Aximo just got *real* in only 7 years
+ 
+So yes, maybe easy to say from a 2008 pixar movie, but it’s interesting to see that mankind already has come this far in only 7 years. In this scene of the movie: 
+
+* Autonomous floating hoovers are keeping everyone inline. Sounds familiar? Look at [Google autonomous cars](https://www.youtube.com/watch?v=XReZFuACQLc) or [Tesla’s autopilot function](https://www.youtube.com/watch?v=UgNhYGAgmZo).
+* The citizens of Aximo have a fixed focus on their screen. In a way we’re already heading this way if you [read about the design of these traffic lights in Germany for smartphone zombies](http://www.theguardian.com/cities/2016/apr/29/always-practise-safe-text-the-german-traffic-light-for-smartphone-zombies).  
+
+Even though the *human dystopian* scene gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing, there is nothing that actually shows this. Who is to tell what they actually do? While looking at the clip it is interesting to speculate about the (fictional) motives of the Buy 'n' Large and the writers of the movie. It stimulates us to ask the question whether what we think we or others want is actually what we need.
 
 Images: Stills from the movie [WALL-E](http://www.imdb.com/title/tt0910970/)
