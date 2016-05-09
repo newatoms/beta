@@ -4,8 +4,6 @@
 
 Imagine how difficult it was to learn a new language a century ago. You'd have to be lucky that somebody who spoke the language was living close to you and had time and energy to teach you. Nowadays sites like [Duolingo](https://www.duolingo.com/) enable you to talk to somebody on the other side of the globe.
 
-A large part of this transition has to do with technical innovations, but another part has to do with how these services were designed with the end-users in mind.
-
 People get so quickly used to improvements that what was new a moment ago, now is the norm. Luis CK has [a pretty good sketch](https://www.youtube.com/watch?v=ZFsOUbZ0Lr0) that illustrates this during the live show *Conan*.
 
 Customer satisfaction is becoming the unique selling points for services that seem more and more alike. But the difference between thinking and knowing what your users wants, are two vastly different things.
