@@ -24,7 +24,7 @@ Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door g
 
 > “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
 
-> “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt die informele uitwisseling die volgends mij heel erg belangrijk is. Er moet volgneds mij meer tijd zijn om die informele uitwisseling met elkaar te kunnen hebben.”
+> “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt de informele uitwisseling die volgens mij heel erg belangrijk is. Er moet meer tijd zijn om die informele uitwisseling met elkaar te kunnen hebben.”
 
 ### Zorg dat er altijd goede faciliteiten zijn
 
