@@ -15,7 +15,7 @@ we interview Geke’s brother about what he thinks STBY is, what Geke does, why 
 * How did this affect your way of doing things?
 * What makes her a good pioneer?
 * How do you explain to friends what Geke does for a living?
-* Did she design her own life in a way that makes you think of service design?
+* Did she design parts of her own life in a way that makes you think of service design?
 * Is there something that she could do better?
 
 ## What do we need from you
