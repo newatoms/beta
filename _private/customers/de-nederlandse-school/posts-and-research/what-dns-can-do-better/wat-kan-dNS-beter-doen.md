@@ -18,7 +18,7 @@ Verschillende niveaus tussen leerlingen in één klas kan zowel het leren bevord
 
 > “Sommige docenten geven net les en staan nog te overleven in de klas, terwijl andere docenten al 20 jaar les geven en juist opzoek zijn naar een nieuwe drive en ontmoetingen.”
 
-> "Je bent allemaal expert in iets. Ik kan wel een ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd heeft mijn onervaren collega, die niet van de universiteid af komt, weer allemaal nieuwe theorieën en inzichten. Daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
+> "Je bent allemaal expert in iets. Ik kan wel een ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd heeft mijn onervaren collega, die net van de universiteit af komt, weer allemaal nieuwe theorieën en inzichten. Daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
 
 Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door gelijkwaardigheid te creëren zorg je dat iedereen zich geaccepteerd voelt en iets te bieden heeft.
 
