@@ -30,7 +30,7 @@ Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door g
 
 WiFi is vaker een probleem als een grote groep mensen bij elkaar zitten en allemaal tegelijkertijd op het netwerk moeten.
 
-> “De Nederlandse School zou de middelen op faciliteiten kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, waar er een slecht draadloze internet verbinding was. Uiteindelijk heb ik als ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dat leverde eigenlijk heel veel stress op.”
+> “De Nederlandse School zou de faciliteiten kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, waar er een slechte internet verbinding was. Uiteindelijk heb ik als ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dat leverde eigenlijk heel veel stress op.”
 
 ### Haal sprekers die uit het onderwijs komen
 
