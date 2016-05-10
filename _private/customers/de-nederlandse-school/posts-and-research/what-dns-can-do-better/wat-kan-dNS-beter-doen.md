@@ -16,23 +16,21 @@ Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te h
 
 Verschillende niveaus tussen leerlingen in één klas kan zowel het leren bevorderen als het tegen gaan. Binnen de masteropleiding van de Nederlandse School zijn docenten de leerlingen en is het dus net zo belangrijk om op niveau, maar vooral ook op het verschil in ervaring te letten.
 
-> “Sommige docenten geven net les, die staan nog te overleven in de klas en anderen staan er al 20 jaar en hadden [door de Nederlandse School] zin in weer eens een nieuwe drive en nieuwe ontmoetingen.”
+> “Sommige docenten geven net les en staan nog te overleven in de klas, terwijl andere docenten al 20 jaar les geven en juist opzoek zijn naar een nieuwe drive en ontmoetingen.”
 
-> "Je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer allemaal nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
+> "Je bent allemaal expert in iets. Ik kan wel een ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd heeft mijn onervaren collega, die niet van de universiteid af komt, weer allemaal nieuwe theorieën en inzichten. Daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
 
 Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door gelijkwaardigheid te creëren zorg je dat iedereen zich geaccepteerd voelt en iets te bieden heeft.
 
 > “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
 
-> “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt die informele uitwisseling en die is denk ik ook heel erg belangrijk. Er moet [dus] tijd zijn om die informele uitwisseling te kunnen hebben met elkaar.”
+> “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt die informele uitwisseling die volgends mij heel erg belangrijk is. Er moet volgneds mij meer tijd zijn om die informele uitwisseling met elkaar te kunnen hebben.”
 
 ### Zorg dat er altijd goede faciliteiten zijn
 
-WiFi is vaker een probleem als een grote groep mensen bij elkaar zitten en allemaal tegelijkertijd op het netwerk moeten. In Groningen ging het een keer mis.
+WiFi is vaker een probleem als een grote groep mensen bij elkaar zitten en allemaal tegelijkertijd op het netwerk moeten.
 
-*Kan dNS nog iets doen aan de verwachtingen die ze scheppen?*
-
-> “[De Nederlandse School] zou bepaalde faciliteiten met bepaalde middelen kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, maar er was nauwelijks WiFi. Uiteindelijk heb ik als brave deelnemer ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dit levert eigenlijk heel veel stress op. Het is wel een heel knullig voorbeeld maar dit vind ik wel een min.”
+> “De Nederlandse School zou de middelen op faciliteiten kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, waar er een slecht draadloze internet verbinding was. Uiteindelijk heb ik als ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dat leverde eigenlijk heel veel stress op.”
 
 ### Communiceer meer over werknemers van de dNS
 
@@ -46,8 +44,6 @@ DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijge
 
 ## De waarde van feedback
 
-Als organisatie ken je de beredenatie achter elke gemaakte keuze. Hierdoor is het vaak lastig om vast te stellen wat wel en wat niet goed werkt. Daarnaast verandert de wereld continu en moeten sommige gemaakte keuzes geherevalueerd worden. Wij proberen dit regelmatig te doen, maar wij ervaren de situatie natuurlijk heel anders dan deelnemende docenten. Om goede keuzes te maken hebben wij feedback nodig.
-
-Wij hopen met dit artikel te laten zien dat wij feedback zeer waarderen en graag een open communicatie willen behouden. Denk je dat iets beter kan? Spreek ons dan aan op één van de workshops of bel ons.
+Als organisatie ken je de beredenatie achter elke gemaakte keuze. Hierdoor is het vaak lastig om vast te stellen wat wel en wat niet goed werkt, en wij ervaren de situatie natuurlijk heel anders dan deelnemende docenten. Daarom zijn wij super blij met deze feedback, en hopen dat dit ook andere docenten motiveerd om met ons te delen wat zij graag anders zouden willen, zodat we samen kunnen blijven groeien.
 
 Afbeelding: John Constable - [Stormy Sea](https://commons.wikimedia.org/wiki/File:John_Constable_-_Stormy_Sea,_Brighton_-_Google_Art_Project.jpg)
