@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/af7cc910e47d97460deda925cd606e8f9d771317/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33352f4a6f686e5f436f6e737461626c655f2d5f53746f726d795f5365612c5f4272696768746f6e5f2d5f476f6f676c655f4172745f50726f6a6563742e6a70672f3132383070782d4a6f686e5f436f6e737461626c655f2d5f53746f726d795f5365612c5f4272696768746f6e5f2d5f476f6f676c655f4172745f50726f6a6563742e6a7067" width=100% />
+<img src="http://www.publicdomainpictures.net/pictures/80000/nahled/kojima-island.jpg" width=100% />
 > You can't cross the sea merely by standing and staring at the water - [Rabindranath Tagore](https://nl.wikipedia.org/wiki/Rabindranath_Tagore)
 
 
@@ -40,6 +40,6 @@ DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijge
 
 ## De waarde van feedback
 
-Alhoewel je als organisatie de beredenatie achter elke gemaakte keuze kent, blijft het lastig om te zien wat er wel en niet werkt. Vooral omdat wij de masterclasses niet vanuit het perspectief van de deelnemende docenten en scholen kunnen ervaren. Daarom zijn wij super blij met deze feedback, en hopen wij dat dit ook andere docenten motiveert om samen met ons te kijken naar hoe we de Nederlandse School kunnen blijven ontwikkelen. 
+Alhoewel je als organisatie de beredenatie achter elke gemaakte keuze kent, blijft het lastig om te zien wat er wel en niet werkt. Vooral omdat wij de masterclasses niet vanuit het perspectief van de deelnemende docenten en scholen kunnen ervaren. Daarom zijn wij super blij met deze feedback, en hopen wij dat dit ook andere docenten motiveert om samen met ons te kijken naar hoe we de Nederlandse School kunnen blijven ontwikkelen.
 
-Afbeelding: John Constable - [Stormy Sea](https://commons.wikimedia.org/wiki/File:John_Constable_-_Stormy_Sea,_Brighton_-_Google_Art_Project.jpg)
+Afbeelding: [Kojima Island](http://www.publicdomainpictures.net/view-image.php?image=76216&picture=kojima-island) - Library of Congress
