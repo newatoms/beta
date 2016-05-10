@@ -16,7 +16,7 @@ Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te h
 
 Verschillende niveaus tussen leerlingen in één klas kan zowel het leren bevorderen als het tegen gaan. Binnen de masteropleiding van de Nederlandse School zijn docenten de leerlingen en is het dus net zo belangrijk om op niveau, maar vooral ook op het verschil in ervaring te letten.
 
-> “Sommige docenten geven net les en staan nog te overleven in de klas, terwijl andere docenten al 20 jaar les geven en juist opzoek zijn naar een nieuwe drive en ontmoetingen.”
+> “Sommige docenten geven net les en staan nog te overleven in de klas, terwijl andere docenten al 20 jaar les geven en juist op zoek zijn naar een nieuwe drive en ontmoetingen.”
 
 > "Je bent allemaal expert in iets. Ik kan wel een ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd heeft mijn onervaren collega, die net van de universiteit af komt, weer allemaal nieuwe theorieën en inzichten. Daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
 
