@@ -28,4 +28,4 @@ Take for example the very efficient, autonomously floating hovercrafts that are 
 
 This scene from WALL-E gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing. But there is nothing that actually shows this. Who is to judge their productivity? While looking at the clip, it is interesting to speculate about the (fictional) motives of Buy 'n' Large based on the screenplay writers opinions of society. It stimulates us to ask whether what we *think* we or others need is *actually* what we need.
 
-Images: Stills from the movie [WALL-E](http://www.imdb.com/title/tt0910970/)
+Images: Stills from the movie [WALL-E](http://www.pixar.com/features_films/WALLE), Pixar/Walt Disney Studios.
