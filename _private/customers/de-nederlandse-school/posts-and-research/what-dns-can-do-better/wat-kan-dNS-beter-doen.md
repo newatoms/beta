@@ -46,6 +46,6 @@ DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijge
 
 ## De waarde van feedback
 
-Alhoewel je als organisatie de beredenatie achter elke gemaakte keuze kent, blijft het lastig om te zien wat er wel en niet werkt. Vooral omdat wij de Nederlandse School niet vanuit het perspectief van de deelnemende docenten en scholen kunnen ervaren. Daarom zijn wij super blij met deze feedback, en hopen wij dat dit ook andere docenten motiveert om samen met ons te kijken naar hoe we de Nederlandse School kunnen blijven ontwikkelen. 
+Alhoewel je als organisatie de beredenatie achter elke gemaakte keuze kent, blijft het lastig om te zien wat er wel en niet werkt. Vooral omdat wij de masterclasses niet vanuit het perspectief van de deelnemende docenten en scholen kunnen ervaren. Daarom zijn wij super blij met deze feedback, en hopen wij dat dit ook andere docenten motiveert om samen met ons te kijken naar hoe we de Nederlandse School kunnen blijven ontwikkelen. 
 
 Afbeelding: John Constable - [Stormy Sea](https://commons.wikimedia.org/wiki/File:John_Constable_-_Stormy_Sea,_Brighton_-_Google_Art_Project.jpg)
