@@ -16,33 +16,27 @@ Om ons te kunnen blijven ontwikkelen en anderen aan te moedigen ons hierbij te h
 
 Verschillende niveaus tussen leerlingen in één klas kan zowel het leren bevorderen als het tegen gaan. Binnen de masteropleiding van de Nederlandse School zijn docenten de leerlingen en is het dus net zo belangrijk om op niveau, maar vooral ook op het verschil in ervaring te letten.
 
-> “Sommige docenten geven net les, die staan nog te overleven in de klas en anderen staan er al 20 jaar en hadden [door de Nederlandse School] zin in weer eens een nieuwe drive en nieuwe ontmoetingen.”
+> “Sommige docenten geven net les en staan nog te overleven in de klas, terwijl andere docenten al 20 jaar les geven en juist op zoek zijn naar een nieuwe drive en ontmoetingen.”
 
-> "Je bent allemaal expert in iets. Ik kan wel die ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd komt mijn onervaren collega net van de universiteit en die kent weer allemaal nieuwe theorieën en inzichten. Dus daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
+> "Je bent allemaal expert in iets. Ik kan wel een ervaren leraar zijn die al honderdduizend projecten en reizen georganiseerd heeft, maar tegelijkertijd heeft mijn onervaren collega, die net van de universiteit af komt, weer allemaal nieuwe theorieën en inzichten. Daar zou je wel de gelijkheid, of in ieder geval de gelijkwaardigheid in de expertise moeten zoeken.”
 
 Iedere docent heeft expertises, bepaalde skills waarin hij/zij uitblinkt. Door gelijkwaardigheid te creëren zorg je dat iedereen zich geaccepteerd voelt en iets te bieden heeft.
 
 > “De Nederlandse School is een ontmoeting, iedere keer weer met dezelfde docenten die dat programma volgen. Uit die ontmoetingen en gesprekken haal ik veel. Ze zijn inspirerend en je hoort wat mensen tegenkomen in hun werk en hoe zij die dingen oplossen. Dezelfde dingen waar ik tegenaan loop.”
 
-> “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt die informele uitwisseling en die is denk ik ook heel erg belangrijk. Er moet [dus] tijd zijn om die informele uitwisseling te kunnen hebben met elkaar.”
+> “Ik heb al meerdere keren gepleit voor langere lunchpauzes, want daar gebeurt de informele uitwisseling die volgens mij heel erg belangrijk is. Er moet meer tijd zijn om die informele uitwisseling met elkaar te kunnen hebben.”
 
 ### Zorg dat er altijd goede faciliteiten zijn
 
-WiFi is vaker een probleem als een grote groep mensen bij elkaar zitten en allemaal tegelijkertijd op het netwerk moeten. In Groningen ging het een keer mis.
+WiFi is vaker een probleem als een grote groep mensen bij elkaar zitten en allemaal tegelijkertijd op het netwerk moeten.
 
-*Kan dNS nog iets doen aan de verwachtingen die ze scheppen?*
-
-> “[De Nederlandse School] zou bepaalde faciliteiten met bepaalde middelen kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, maar er was nauwelijks WiFi. Uiteindelijk heb ik als brave deelnemer ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dit levert eigenlijk heel veel stress op. Het is wel een heel knullig voorbeeld maar dit vind ik wel een min.”
-
-### Communiceer meer over werknemers van de dNS
-
-> “Het was wel jammer dat één van de stafleden van dNS een beetje geruisloos is vertrokken. Dat was vrij onduidelijk. Je bent zo erg met elkaar betrokken en dat vond ik niet heel erg recht doen aan deze persoon. Ik dacht, je gaat niet zomaar door de achterdeur weg.”
+> “De Nederlandse School zou de faciliteiten kunnen verbeteren. Afgelopen weekend waren we bijvoorbeeld in Groningen, waar er een slechte internet verbinding was. Uiteindelijk heb ik als ’s avonds op de hotelkamer mijn huiswerk gedaan, maar dat leverde eigenlijk heel veel stress op.”
 
 ### Haal sprekers die uit het onderwijs komen
 
-DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijgen docenten een andere kijk op educatie en  een frisse blik voor bepaalde problemen waar ze tegenaan lopen. Er blijkt echter ook een wens om nu iets meer sprekers van binnen het onderwijs uit te nodigen.   
+DNS nodigt veel sprekers uit die van buiten het onderwijs komen. Hierdoor krijgen docenten een andere kijk op educatie en  een frisse blik op problemen waar ze tegenaan lopen. Er blijkt echter ook een wens te zijn om mensen van binnen het onderwijs te horen spreken.
 
-> “Wat ik nu wel mooi zou vinden is dat we als het ware ook wat meer mensen binnen het onderwijs erbij betrekken want wat er nu in ons hoofd gebeurt is dat we als het ware creatieve ideeën voor ons onderwijs krijgen. Misschien dat de Nederlandse school ervoor kan zorgen dat ze met wat meer mensen uit het onderwijs in contact komen, anders dan de mensen die we al kennen. Individueel krijg je die sprekers niet te pakken.”
+> “Ik zou het mooi vinden als we ook wat meer mensen van binnen het onderwijs bij de workshops zouden betrekken. Individueel krijg je de interesante sprekers over het onderwijs niet te pakken."
 
 ## De waarde van feedback
 
