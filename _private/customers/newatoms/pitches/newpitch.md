@@ -16,4 +16,4 @@ The aprouch of a phenomenon from different perspectives. For example how you can
 
 ## Motivation
 
-By explaining how collaboration (an important part of the workflow of New Atoms) improves your ability to understand the world and create new insights (an important product of New Atoms)
+By explaining how collaboration (an important part of the workflow of New Atoms) improves your ability to understand the world and create new insights (an important product of New Atoms) we create an article that is interesting for both potential clients and potential employees. Gaining new insights can be hugely rewarding, and creating insights for the reader on the subject of insights you creat an insentive for people to share the aritcle with their friends and fameily.
