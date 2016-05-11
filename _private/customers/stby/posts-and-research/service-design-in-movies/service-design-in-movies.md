@@ -6,7 +6,7 @@ Imagine how difficult it was to learn a new language a century ago. You'd have t
 
 People get used to improvements so quickly that what was new a moment ago is now the norm. (Louis CK has [a pretty good sketch](https://www.youtube.com/watch?v=ZFsOUbZ0Lr0) illustrating this during the talk show, *Conan*).
 
-Customer satisfaction is becoming the unique selling point for services that seem more and more alike. But the difference between thinking you know what your users want and actually knowing what your users want, are two vastly different things.
+Customer satisfaction is becoming the unique selling point for services that seem more and more alike. But the difference between thinking you know what your users want and actually knowing what your users want are two vastly different things.
 
 The spaceship *Aximo* in the Pixar film *WALL-E*, released in 2008, is a great example of this.  
 
