@@ -11,8 +11,7 @@ Your experience vastly influences the way you look at things, and by working wit
 
 ## For example we could write about...
 
-...approaching a phenomenon from different perspectives. For example, one person could be annoyed by the fact that a lot of companies are using "being green" as a marketing tactic instead of actually trying to contribute to a more sustainable source of energy, while another person could be stoked that these companies are funding the hype for green energy, making it inevetable that customers are going to demand actual sustainable energy. After illustrating these different perspectives, we can demonstrate how, when combined, these two different ways of viewing the subject give them insights they would never have had on their own by drawing conclusions fueld by both perspectives.
-
+...approaching a phenomenon from different perspectives. For example, one person could be annoyed by the fact that a lot of companies are using "being green" as a marketing tactic instead of actually trying to contribute to a more sustainable source of energy, while another person could be stoked that these companies are funding the hype for green energy, making it inevetable that customers are going to demand actual sustainable energy. After illustrating these different perspectives, we can demonstrate how that you come to new insights by combing these two different ways of seeing.
 
 ## Motivation
 
