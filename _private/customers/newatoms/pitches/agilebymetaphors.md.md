@@ -14,4 +14,4 @@ By using the process of building a bike as a metaphor for agile working in journ
 
 ## Motivation
 
-By explaining the process, the content is made relevant for potential new hires. And by explaining the value added, the content is made relevant for potential customers. By using a metaphor you can make agile working more concrete and tangible.
+By explaining the process, the content will be relevant to potential new hires. And by explaining the value added, the content will be relevant to potential customers.
