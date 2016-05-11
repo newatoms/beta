@@ -5,6 +5,6 @@ Spaceship Aximo just got 'real' in only 7 years. [insert link]
 
 **LinkedIn:**
 
-the difference between thinking and knowing what your users want are two vastly different things. The spaceship *Aximo* in the Pixar film *WALL-E*, released in 2008, is a great example of this.
+The difference between thinking and knowing what your users want are two vastly different things. The spaceship *Aximo* in the Pixar film *WALL-E*, released in 2008, is a great example of this.
 
 <img src=https://jonnegroni.files.wordpress.com/2015/04/walle-socialnetwork03.jpg?w=798&h=337 width=100% />
