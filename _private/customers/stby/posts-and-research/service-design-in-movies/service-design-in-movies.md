@@ -20,12 +20,12 @@ The story is told from the perspective of WALL-E, the only remaining functioning
 
 As shown in [this scene](https://www.youtube.com/watch?v=h1BQPV-iCkU), the spaceship's crew is almost entirely automised with the main goal of keeping the residents as comfortable as possible—"comfort" being defined by the consumer-driven Buy 'n' Large. A lot of these robots on Aximo already resemble existing services, or feel like they are part of a very near future.
 
-## Aximo just got 'real' in only 7 years
- 
-Because WALL-E was made in 2008, it’s fascinating to see that mankind has already come this far in only 7 years. 
+## Aximo just got 'real' in only seven years
+
+Because WALL-E was made in 2008, it’s fascinating to see that mankind has already come this far in only seven years.
 
 Take for example the very efficient, autonomously floating hovercrafts that are keeping everyone in line. Sound familiar? Look at [Google autonomous cars](https://www.youtube.com/watch?v=XReZFuACQLc) or [Tesla’s autopilot function](https://www.youtube.com/watch?v=UgNhYGAgmZo). Another phenomenon shown is one in which citizens of Aximo have peripheral vision blockers, fixing their focus only on their screens. In a way, we’re already heading this way. Just [read about this very cool design of traffic lights in Germany for smartphone zombies](http://www.theguardian.com/cities/2016/apr/29/always-practise-safe-text-the-german-traffic-light-for-smartphone-zombies).  
 
-This scene from WALL-E gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing. But there is nothing that actually shows this. Who is to judge their productivity? While looking at the clip, it is interesting to speculate about the (fictional) motives of Buy 'n' Large based on the screenplay writers opinions of society. It stimulates us to ask whether what we *think* we or others need is *actually* what we need.
+This scene from WALL-E gives us the impression that the citizens of Aximo are wasting their lives, only consuming and not contributing. But there is nothing that actually shows this. Who is to judge their productivity? While looking at the clip, it is interesting to speculate about the (fictional) motives of Buy 'n' Large based on the screenplay writers' opinions of society. It stimulates us to ask whether what we *think* we or others need is *actually* what we need.
 
 Images: Stills from the movie [WALL-E](http://www.pixar.com/features_films/WALLE), Pixar/Walt Disney Studios.
