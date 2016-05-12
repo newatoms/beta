@@ -18,7 +18,7 @@ Vienna has had very similar goals in the past decennia. This can clearly been se
 
 Vienna truly believes that our future will be designed in cities with a strong feel for social equality. "Cities are smart if all people living in them have access to the same degree of participation. The politic decisions are therefore derived from the principle of social inclusion. The use of cutting-edge information and communication technologies opens up a multifaceted work environment that generates a sufficient number of workplaces designed to enable workers to combine career and family."
 
-## Investing reaps great rewards
+## The importance of happiness
 
 By having multi decennia goals and investing heavily into obtaining these goals Vienna became an exemplary organism. So, instead of trying to solve short term problems and restricting budget, Vienna decided to invest in the future. By noticing that it's citizens will make or break the city they decided to make their quality of life one of the top goals. Our hope is that other cities will see the value of these investments and change their policy!
 
