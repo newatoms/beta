@@ -2,9 +2,9 @@
 
 # Cities are like organisms
 
-Healthy organisms adapt and evolve based on what is happening in the world around them. Cities are ever-changing organisms, and part of their evolution and adaptation are the large-scale services they offer to their citizens and the quality thereof. Because these services are so important for the quality of our lives, we think it is important to be aware of how these services influence our lives and which cities do it exemplary well.
+Healthy organisms adapt and evolve based on what is happening in the world around them. Cities are ever-changing organisms, and part of their evolution and adaptation are the large-scale services they offer to their citizens and the quality thereof. Because these services are so important for the quality of our lives, we think it is important to be aware that these services influence our lives and which cities do it exemplary well.
 
-## How this organism is good for its people
+## An example of an ideal organism
 
 Though long overlooked as a European tourist destination **Vienna, Austria** “...has ranked top in the last seven published rankings,” said [Mercer](http://www.mercer.com/newsroom/western-european-cities-top-quality-of-living-ranking-mercer.html) after releasing their 2016 [Quality of Living Survey](https://www.imercer.com/content/mobility/quality-of-living-city-rankings.html). “It scores highly in a number of categories; it provides a safe and stable environment to live in, a high level of public utilities and transport facilities, and good recreational facilities.”
 
