@@ -1,4 +1,4 @@
-<img src="http://s0.geograph.org.uk/geophotos/03/46/89/3468902_8cf7cd7b.jpg" width=100% />
+<img src="http://i.imgur.com/Sf3pUq8.jpg" width=100% />
 
 # STBY's Unofficial City Awards
 
