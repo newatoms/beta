@@ -2,7 +2,7 @@
 
 # Cities are like organisms
 
-Healthy organisms adapt and evolve based on what is happening in the world around them. Cities evolve and adapt by trough their large-scale services they offer to their citizens and the quality thereof.
+Healthy organisms adapt and evolve based on what is happening in the world around them. Cities are ever-changing organisms, and part of their evolution and adaptation are the large-scale services they offer to their citizens and the quality thereof. Because the these services are so important for the quality of our lives, we think it is important that citizens are aware of how these services influence our lives and which cities do it exemplary well.
 
 ## How this organism is good for its people
 
