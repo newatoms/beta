@@ -9,4 +9,4 @@ Though long overlooked as a European tourist destination **Vienna, Austria** “
 
 Vienna's housing is uniquely affordable among major cities due to a long tradition of investing in high-quality social housing. The city's public transport is among the most frequent and affordable, and it's geographic location is highly suitable for business and pleasure alike. Vienna's proximity to outdoor recreation—skiing, hiking and water sports—makes for an ingrained environmental appreciation and awareness. And outdoor activities are not the only fun to be had: it has also become a fast-growing, young and lively city over the past decade with it's high density of students.
 
-Image: Power Washing 188 Suffolk St., [Trevor Little](http://www.trevorlittle.com/2007/01/03/power-washing-188-suffolk-st/)
+Image: Extreme Window Cleaning, The Spinnaker Tower, Portsmouth, [Graham Robson](http://www.trevorlittle.com/2007/01/03/power-washing-188-suffolk-st/) (Photo is edited)
