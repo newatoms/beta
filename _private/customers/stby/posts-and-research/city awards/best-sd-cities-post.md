@@ -14,7 +14,7 @@ Vienna's housing is uniquely affordable among major cities due to a long traditi
 
 ## Investing reaps great rewards
 
-By having multi decennia goals and investing heavily into obtaining these goals Vienna became an exemplary organism. So, instead of trying to solve short term problems and restricting budget, Vienna decided to invest in the future. By noticing that it's citizens will make or break the city they decided to make their quality of life one of the top goals. Our hope is that other cities will see the value of long term investments and change their policy!
+By having multi decennia goals and investing heavily into obtaining these goals Vienna became an exemplary organism. So, instead of trying to solve short term problems and restricting budget, Vienna decided to invest in the future. By noticing that it's citizens will make or break the city they decided to make their quality of life one of the top goals. Our hope is that other cities will see the value of these investments and change their policy!
 
 Image 1: Extreme Window Cleaning, The Spinnaker Tower, Portsmouth, [Graham Robson](http://www.trevorlittle.com/2007/01/03/power-washing-188-suffolk-st/) (Photo is edited)
 
