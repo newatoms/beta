@@ -36,4 +36,3 @@ Because the cities services are so important for the quality of our lives, it is
 Cities are ever-changing organisms, so their evolutions have a great impact on our lives. [Insert link to blogpost here]
 [Link for twitter image: https://flic.kr/p/nyGtag]
 <img src="https://farm8.staticflickr.com/7358/14153515845_be69db1640_k.jpg" width="100%">
->>>>>>> ready
