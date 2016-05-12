@@ -15,6 +15,6 @@ order: 50
 | Bank grade security met een 2048-bits certificaat voorzien door Google. | _Inclusief_ |
 | Taal (Nederlands, Engels beschikbaar, meer komen) | Engels of Nederlands* |
 | Een 30 dagen niet-goed-geld-terug-garantie! | _Inclusief_ |
-|  | **€2000** per&nbsp;maand |
+|  | **€2500** per&nbsp;maand |
 
 <small>* Twee talen kost per maand €1000 extra.</small>
