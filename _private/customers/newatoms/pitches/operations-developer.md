@@ -1,7 +1,7 @@
 # Why an Operations Developer is critical
 
 ## Goal
-To reach new readers and potential employees by showing the intentional thoughtfulness of the the organisation. 
+To reach new readers and potential employees by showing the intentional thoughtfulness of the organisation. 
 
 ## Proposed Method
 We will discuss the effects of having happy, comfortable and cared for team members on productivity based on research and current working models.
