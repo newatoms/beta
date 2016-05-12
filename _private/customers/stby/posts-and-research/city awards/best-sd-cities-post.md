@@ -32,7 +32,7 @@ Image 2: Vienna night view, [Matthias Ripp](https://www.flickr.com/photos/562184
 ### LinkedIN
 Because the cities services are so important for the quality of our lives, it is important to look at cities that do it exemplary well. [Insert link to blogpost here]
 
-<img src="http://www.trevorlittle.com/wordpress/wp-content/photos/DSCF1289.jpg?w=560" width=100% />
+<img src="http://i.imgur.com/jOqc033.jpg" width=100% />
 
 
 ### Twitter
