@@ -1,6 +1,6 @@
 Beste Dick,
 
-Ik sprak zojuist een van uw collega's en die rade mij aan u te mailen, dus bij deze!
+Ik sprak zojuist een van collega van u en die rade mij aan u te mailen, dus bij deze!
 
 Wij zijn content.supply, een journalistieke start-up met de Nederlandse School als een van onze eerste test klanten. Wij schrijven de komende drie maanden artikelen over de deelnemende docenten en scholen voor het blog van de Nederlandse School.
 
