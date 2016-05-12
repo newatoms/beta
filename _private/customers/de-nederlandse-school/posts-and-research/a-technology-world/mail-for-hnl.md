@@ -11,5 +11,7 @@ Op jullie website zien wij het enthousiasme waarmee jullie de leerlingen betrekk
 We zouden dit het liefste doen per telefoon (+/- 20min), maar we zouden het ook per mail kunnen doen.
 
 We kijken uit naar uw reactie!
+
 Hartelijke groet,
+
 Thomas, Sam, Krysten en Mattthijs
