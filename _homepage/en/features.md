@@ -15,6 +15,6 @@ order: 50
 | Bank grade security with a 2048-bit certificate provided by Google | _Included_ |
 | Language (English, Dutch available, more coming) | English or Dutch* |
 | A 30-day money back guarantee! | _Included_ |
-|  | **€2000** per&nbsp;month |
+|  | **€2500** per&nbsp;month |
 
 <small>* Two languages for an additional €1000 per month</small>
