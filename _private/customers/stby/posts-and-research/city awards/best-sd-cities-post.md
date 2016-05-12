@@ -1,4 +1,4 @@
-<img src="http://www.trevorlittle.com/wordpress/wp-content/photos/DSCF1289.jpg?w=560" width=100% />
+<img src="http://i.imgur.com/88Z8Ryn.jpg" width=100% />
 
 # STBY's Unofficial City Awards
 
