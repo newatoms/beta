@@ -1,8 +1,8 @@
-# Explaining agile working in journalism by using metaphors
+# Explaining how New Atoms uses agile working to produce journalistic content
 
 ## Goal
 
-To reach people that will share our content, hire us to write content for them, or that we could hire.
+To reach people that will share New Atoms content, hire New Atoms to write content for them or who New Atoms could hire.
 
 ## Method
 
@@ -14,4 +14,4 @@ By using the process of building a bike as a metaphor for agile working in journ
 
 ## Motivation
 
-By explaining the process, the content will be relevant to potential new hires. And by explaining the value added, the content will be relevant to potential customers.
+By explaining the process of New Atoms, the content will be relevant to potential new hires. And by explaining the value added, the content will be relevant to potential customers.
