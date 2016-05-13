@@ -2,7 +2,7 @@
 
 # Cities are like organisms
 
-Healthy organisms adapt and evolve based on what is happening in the world around them. Cities are ever-changing organisms, and part of their evolution and adaptation are the large-scale services they offer to their citizens. Because these services are so important for the quality of our lives, it is important to look at cities that provide them impeccably well.
+Healthy organisms adapt and evolve based on what is happening in the world around them. Cities are ever-changing organisms, and part of their evolution and adaptation are the large-scale services they offer to their citizens. Because these services are so important for the quality of our lives, it is important to look at cities that provide them admirably well.
 
 ## An exemplary organism
 
@@ -30,7 +30,7 @@ Image 2: Vienna night view, [Matthias Ripp](https://www.flickr.com/photos/562184
 ## Social
 
 ### LinkedIN
-Because cities' services are so important to the quality of our lives, it is important to look at cities that do it impeccably well. [Insert link to blogpost here]
+Because cities' services are so important to the quality of our lives, it is important to look at cities that do it admirably well. [Insert link to blogpost here]
 
 <img src="http://i.imgur.com/jOqc033.jpg" width=100% />
 
