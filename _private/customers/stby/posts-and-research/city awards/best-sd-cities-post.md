@@ -2,11 +2,11 @@
 
 # Cities are like organisms
 
-Healthy organisms adapt and evolve based on what is happening in the world around them. Cities are ever-changing organisms, and part of their evolution and adaptation are the large-scale services they offer to their citizens. Because these services are so important for the quality of our lives, it is important to look at cities that provide them exemplary well.
+Healthy organisms adapt and evolve based on what is happening in the world around them. Cities are ever-changing organisms, and part of their evolution and adaptation are the large-scale services they offer to their citizens. Because these services are so important for the quality of our lives, it is important to look at cities that provide them admirably well.
 
 ## An exemplary organism
 
-Though long overlooked as a European tourist destination **Vienna, Austria** “...has ranked top in the last seven published rankings,” said [Mercer](http://www.mercer.com/newsroom/western-european-cities-top-quality-of-living-ranking-mercer.html) after releasing their 2016 [Quality of Living Survey](https://www.imercer.com/content/mobility/quality-of-living-city-rankings.html). “It scores highly in a number of categories; it provides a safe and stable environment to live in, a high level of public utilities and transport facilities, and good recreational facilities.”
+Though long overlooked as a European tourist destination, **Vienna, Austria** “...has ranked top in the last seven published rankings,” said [Mercer](http://www.mercer.com/newsroom/western-european-cities-top-quality-of-living-ranking-mercer.html) after releasing their 2016 [Quality of Living Survey](https://www.imercer.com/content/mobility/quality-of-living-city-rankings.html). “It scores highly in a number of categories; it provides a safe and stable environment to live in, a high level of public utilities and transport facilities, and good recreational facilities.”
 
 <img src="http://i.imgur.com/jOqc033.jpg" width=100% />
 
@@ -14,13 +14,13 @@ Vienna's housing is uniquely affordable among major cities due to a long traditi
 
 ## How did they do it?
 
-Vienna has had very similar goals in the past decennia. This can clearly been seen by comparing their [2000](https://www.wien.gv.at/stadtentwicklung/studien/pdf/b007289.pdf) and [2011](https://smartcity.wien.gv.at/site/files/2014/09/SmartCityWien_FrameworkStrategy_english_doublepage.pdf) strategies. Since the 90s the city has had the same overall goal: build a better city by innovating proactively. "In view of the huge challenges, it is better to advance the necessary changes proactively and benefit from them both economically and as a society." The economic advantage would be gained mostly through export: "Viennese know-how, products and services in such areas as energy, mobility, sustainability, healthcare and many other segments are exported all over the world."
+Vienna has had very similar goals throughout the past decennia. This can clearly been seen by comparing their [2000](https://www.wien.gv.at/stadtentwicklung/studien/pdf/b007289.pdf) and [2011](https://smartcity.wien.gv.at/site/files/2014/09/SmartCityWien_FrameworkStrategy_english_doublepage.pdf) strategies. Since the 90s, the city has had the same overall goal: build a better city by innovating proactively. "In view of the huge challenges, it is better to advance the necessary changes proactively and benefit from them both economically and as a society." The economic advantage would be gained mostly through export: "Viennese know-how, products and services in such areas as energy, mobility, sustainability, healthcare and many other segments are exported all over the world."
 
-Vienna truly believes that our future will be designed in cities with a strong feel for social equality. "Cities are smart if all people living in them have access to the same degree of participation. The politic decisions are therefore derived from the principle of social inclusion. The use of cutting-edge information and communication technologies opens up a multifaceted work environment that generates a sufficient number of workplaces designed to enable workers to combine career and family."
+Vienna truly believes that our future will be designed in cities with a strong feel for social equality. "Cities are smart if all people living in them have access to the same degree of participation. The political decisions are therefore derived from the principle of social inclusion. The use of cutting-edge information and communication technologies opens up a multifaceted work environment that generates a sufficient number of workplaces designed to enable workers to combine career and family."
 
 ## The importance of happiness
 
-By having multi decennia goals and investing heavily into obtaining these goals Vienna became an exemplary organism. So, instead of trying to solve short term problems and restricting budget, Vienna decided to invest in the future. By noticing that it's citizens will make or break the city they decided to make their quality of life one of the top goals. Our hope is that other cities will see the value of these investments and change their policy!
+By having multi-decennia-traversing goals and investing heavily into obtaining these goals, Vienna became an exemplary organism. So, instead of trying to solve short-term problems and restricting budget, Vienna decided to invest in the future. By noticing that it's citizens will make or break the city, they decided to make their quality of life one of the top goals. Our hope is that other cities will see the value of these investments and change their policies!
 
 Image 1: Extreme Window Cleaning, The Spinnaker Tower, Portsmouth, [Graham Robson](http://www.trevorlittle.com/2007/01/03/power-washing-188-suffolk-st/) (Photo is edited)
 
@@ -30,7 +30,7 @@ Image 2: Vienna night view, [Matthias Ripp](https://www.flickr.com/photos/562184
 ## Social
 
 ### LinkedIN
-Because the cities services are so important for the quality of our lives, it is important to look at cities that do it exemplary well. [Insert link to blogpost here]
+Because cities' services are so important to the quality of our lives, it is important to look at cities that do it admirably well. [Insert link to blogpost here]
 
 <img src="http://i.imgur.com/jOqc033.jpg" width=100% />
 
