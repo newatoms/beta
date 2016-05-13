@@ -30,7 +30,7 @@ Image 2: Vienna night view, [Matthias Ripp](https://www.flickr.com/photos/562184
 ## Social
 
 ### LinkedIN
-Because the cities services are so important for the quality of our lives, it is important to look at cities that do it exemplary well. [Insert link to blogpost here]
+Because cities' services are so important to the quality of our lives, it is important to look at cities that do it impeccably well. [Insert link to blogpost here]
 
 <img src="http://i.imgur.com/jOqc033.jpg" width=100% />
 
