@@ -15,8 +15,3 @@ Understanding the vision Boris and the New Atoms team has about the store and jo
 ### Motivation
 
 By showing the modern vision New Atoms has on understanding the world and doing research, you show your relevance and impact on the future. This blog post has the potential of attracting investors as well.  
-
-
-
-
-
