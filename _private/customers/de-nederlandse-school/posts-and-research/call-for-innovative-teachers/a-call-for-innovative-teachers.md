@@ -13,7 +13,7 @@ Het is voor leerlingen makkelijker om te leren als de stof direct in hun belevin
 
 Ellis volgt samen met twee collega's workshops aan de Nederlandse School. Hierin worden ze aangemoedigd om de inspiratie die ze opdoen in de workshops toe te passen in de klas. Een van die toepassingen is dat ze een nieuw vak willen introduceren: *Grote vragen*. Ze gaan proberen om drie vakken samen te voegen en hopen dat er later nog andere erbij aan zullen sluiten.
 
-Met "Grote vragen" proberen Ellis en haar collega's de lesstof tastbaarder te maken voor de leerlingen door ze op pad te sturen om, met de lessen die ze in de klas geleerd hebben, grote vragen op te lossen.
+Met "Grote vragen" probeert Ellis de lesstof tastbaarder te maken voor de leerlingen door ze op pad te sturen om bijvoorbeeld, met de lessen die ze in de klas geleerd hebben, een misdrijf op te lossen
 
 ## Het oplossen van een fictief misdrijf als eerste opdracht
 
