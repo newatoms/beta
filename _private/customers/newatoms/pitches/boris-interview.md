@@ -1,17 +1,16 @@
-# The experiences that led to New Atoms
+# The experience that cried for a new business
 
 ### Goal
 To show new and returning readers, potential clients and potential employees that New Atoms is grounded in relevant and formative experiences  
 
 ### Proposed Method
-We will write an article based on Boris's previous work experiences, what he took away from them, and how they prepared and inspired him to create New Atoms.
+We will write an article based on one of Boris's previous work experience in journalism, what he took away from it, and how it prepared and inspired him to create New Atoms. This could potentially be a point of departure for a series about Boris's diverse working experiences and how they each prepared him for the present (technology, software development, programming, consulting, designing, etc.).
 
 ### Potential Interview Questions
 * What were the most critical takeaways from your work in media and journalism?
-* What were the most critical takeaways from your work in technology?
-* How did these experiences prepare you to found your own company?
+* How did these experiences prepare you to establish your own company?
 * What inspired you to integrate all of the above?
-* Have you had specific experiences that taught you what *not* to do when founding your own company?
+* Did you have specific experiences in the field that taught you what *not* to do when founding New Atoms?
 
 ### Assistance
 A 30-40 minute interview with Boris
