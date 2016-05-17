@@ -14,9 +14,4 @@ Understanding the vision Boris and the New Atoms team has about the store and jo
 
 ### Motivation
 
-By showing the modern vision New Atoms has on understanding the world and doing research, you show your relevance and impact on the future. This blog post has the potential of attracting investors as well.  
-
-
-
-
-
+New Atoms says that it’s partially a research organisation with collaboration—both between humans, and humans and computers—at its core. By showing the vision on that collaboration New Atoms improves its relevance to the field.     
