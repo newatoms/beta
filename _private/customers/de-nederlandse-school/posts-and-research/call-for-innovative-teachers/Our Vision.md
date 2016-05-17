@@ -2,7 +2,7 @@
 
 ### Goal
 
-Making journalists (new audience) and media organisations (potential editorial.supply customers) curious of the visions New Atoms has on the future in understanding the world and doing research. 
+Making journalists (new audience) and media organisations (potential editorial.supply customers) curious of the visions New Atoms has of the future in understanding the world and doing research. 
 
 ### Method
 
@@ -14,5 +14,5 @@ Understanding the vision Boris and the New Atoms team has about the store and jo
 
 ### Motivation
 
-New Atoms says that it’s partially a research organisation with collaboration—both between humans, and humans and computers—at its core. By showing the vision on that collaboration New Atoms improves its relevance to the field.     
+New Atoms says that it’s partially a research organisation with collaboration—both between humans, and humans and computers—at its core. By showing the vision of that collaboration, New Atoms improves its relevance in the journalism field.
 
