@@ -2,7 +2,7 @@
 
 ### Goal
 
-Making journalists (new audience) and media organisations (potential editorial.supply customers) curious of the visions New Atoms has for the future in understanding the world and doing research. 
+Making journalists (new audience) and media organisations (potential editorial.supply customers) curious of the visions New Atoms has on the future in understanding the world and doing research. 
 
 ### Method
 
