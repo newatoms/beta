@@ -17,12 +17,12 @@ defaults:
       language: en
   -
     scope:
-      path: homepage/en
+      path: _homepage/en
     values:
       language: en
   -
     scope:
-      path: faq/en
+      path: _faq/en
     values:
       language: en
   -
@@ -32,20 +32,16 @@ defaults:
       language: nl
   -
     scope:
-      path: homepage/nl
+      path: _homepage/nl
     values:
       language: nl
   -
     scope:
-      path: faq/nl
+      path: _faq/nl
     values:
       language: nl
 
 # Build settings
 encoding: utf-8
-markdown: kramdown
-kramdown:
-  input: GFM
-highlighter: pygments
 
-exclude: ["Gemfile", "Gemfile.lock", "bower_components","circle.yml"]
+exclude: ["Gemfile", "Gemfile.lock", "bower_components", "circle.yml"]
