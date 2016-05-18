@@ -1,3 +1,7 @@
+<img src="https://i.imgur.com/WFGVZKp.jpg" width=100% />
+
+Picture 1: [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), the armless man and [Eli Bowen](Eli_Bowen), the legless man, riding a tandem. ca. 1890s.
+
 # How collaborating helps you understand the world
 
 The way we see and understand the world is made up of an uncountable number of different experiences and perspectives, which we have gained throughout our lives and have somehow merged into our own views and opinions.
