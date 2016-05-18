@@ -20,8 +20,8 @@ There are so many things happening towards improving the planet on which we live
 
 This newsletter, named *How We Have Been Saving The Planet This Week*, which already has more than 25 issues, was started because we got depressed 😞 about all the negative news that surrounds the health of the environment. The green house effect, polluted oceans, deforestation, world leaders' lack of interest in a cleaner future and so on…
 
-The newsletter brings you just a few awesome things that are happening, right in your inbox 📬👊 every week.
-After we produced a few newsletters our mindset changed a 180 degrees.
+The newsletter brings just a few awesome things that are happening right to your inbox every week 📬👊.
+After we produced only a few newsletters, our mindset changed 180 degrees.
 
 🚚 👈🔋👈🌞
 
