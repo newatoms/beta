@@ -10,7 +10,7 @@ A classic narrative arc.
 I hate to break it to you, but this seems only to work when a viewer/reader/consumer of your content is guaranteed to go through the whole thing, as in someone in a cinema, someone set on reading every article in the newspaper and, in some sense, someone watching television. This is hardly ever the case in modern media consumption.
 
 ### First impressions matter.
-If you make video for YouTube or articles on Medium you need to first of all convince people to watch your video. **The first 2 seconds of your video are the most important.** These seconds are what gets a YouTube viewer excited and focussed, and they are what gets someone seeing a video in their Facebook feed to not scroll on.
+If you make video for YouTube or articles on Medium, you need to first convince people to watch your video. **The first 2 seconds of your video are the most important.** These seconds are what gets a YouTube viewer excited and focussed, and they are what gets someone seeing a video in their Facebook feed to not scroll on.
 The inverse narrative arc works like this:
 
 (image)
