@@ -6,7 +6,7 @@ We have no office, because we believe all of us should decide the best work envi
 
 Enter New Atoms Worktunes, our collaborative YouTube playlist that serves as our company radio station sans the cheesy DJs.
 
-With new daily additions the playlist is getting bigger every day and there is always something new to listen to.
+With new daily additions, the playlist is continually expanding and there is always something new to listen to.
 
 Thomas de Beus is especially happy playing ILoveMakonnen: I DONT SELL MOLLY NO MORE and Hodgy, Domo Genesis And Tyler, The Creator: Rella for the fun. Other favorites are MF Doom: Mr. Clean and Radiohead: Lotus Flower.
 
