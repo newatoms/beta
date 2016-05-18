@@ -1,4 +1,4 @@
-We have no office, because we believe all of us should decide the best work environment for themselves. This means no water cooler to stand around, no coffee machine, no copier and most of all, no radio to tune to the radio. So what are we going to do to create a shared experience?
+We have no office, because we believe all of us should decide the best work environment for ourselves. This means no water cooler to stand around, no coffee machine, no copier and most of all, no radio to tune into. So what are we going to do to create a shared experience?
 
 (image)
 
