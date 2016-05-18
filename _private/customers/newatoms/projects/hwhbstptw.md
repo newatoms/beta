@@ -18,7 +18,7 @@ With an overload for negative environmental news, it is easy to miss the positiv
 
 There are so many things happening towards improving the planet on which we live: exciting technological advancements, heroic 💪 initiatives and amazing ideas. We think these things don't get the exposure they deserve.
 
-This newsletter, named ‘How We Have Been Saving The Planet This Week’, which is already over 25 issues, was started because we got depressed 😞 about all the negative news that surrounds the health of the environment, green house effect, polluted oceans, deforestation, the lack of interests of world leaders in a cleaner future and so on…
+This newsletter, named *How We Have Been Saving The Planet This Week*, which already has more than 25 issues, was started because we got depressed 😞 about all the negative news that surrounds the health of the environment. The green house effect, polluted oceans, deforestation, world leaders' lack of interest in a cleaner future and so on…
 
 The newsletter brings you just a few awesome things that are happening, right in your inbox 📬👊 every week.
 After we produced a few newsletters our mindset changed a 180 degrees.
