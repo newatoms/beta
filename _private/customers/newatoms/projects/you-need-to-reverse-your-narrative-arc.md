@@ -11,12 +11,13 @@ I hate to break it to you, but this seems only to work when a viewer/reader/cons
 
 ### First impressions matter.
 If you make video for YouTube or articles on Medium, you need to first convince people to watch your video. **The first 2 seconds of your video are the most important.** These seconds are what gets a YouTube viewer excited and focussed, and they are what gets someone seeing a video in their Facebook feed not to scroll on.
+
 The inverse narrative arc works like this:
 
 (image)
 
-1. You get people to watch your video, make them interested and excited.
+1. You get people to watch your video or read your post; you make them interested and excited.
 
 2. You tell them what you think they need to know.
 
-3. You get them to crave more, this is where they continue their path through your content, subscribe etc.
+3. You get them to crave more; this is where they continue their path through your content, subscribe, etc.
