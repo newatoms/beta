@@ -1,6 +1,6 @@
 >We write guides on how to do all the things we do at New Atoms. These serve to teach, but also to reassure. I made this guide mainly to reassure myself whenever I have doubts or questions about my role, which I have all the time.
 
->**The goal of this guide**: To give you an understanding of what it means to be a Managing Director.
+**The goal of this guide**: To give you an understanding of what it means to be a Managing Director.
 
 # How to be a Managing Director
 
@@ -22,9 +22,9 @@ So what is it that makes up your job? These are the things you need to take care
 
 Make sure the company grows, and is structured in a way that is durable and sustainable: not faster than it can, not slower than it should.
 
-We want to bring both what we can do for others and the experience of being a part of what we’re doing to as many people as possible, but we don’t want to build some kind of bubble that grows and grows until it implodes and leaves everyone unsatisfied.
+We want to bring both what we can do for others and the experience of being a part of what we’re doing to as many people as possible, but we don’t want to build some kind of bubble that grows and grows until it [pops](https://www.youtube.com/watch?v=E_Xe486i-Q0) and leaves everyone unsatisfied.
 
-Neither do we want to create a company where the people who work here settle into a comfortable but boring job they’ll have for the rest of their lives.
+Neither do we want to create a company whose team members settle into a comfortable but boring job they’ll have for the rest of their lives.
 
 ### Make sure everyone gets what they need
 
@@ -44,7 +44,7 @@ This does not mean that you need to decide how everyone works, but more that you
 
 There are problems that are too hard to solve within a team, customers too hard to deal with, disputes too painful to confront. This is where you come in.
 
-Your role as the Managing Director means you are the doctor and therapist of the company. You need to be able to be there for everyone involved, to help them solve the problems they cannot figure out for themselves.
+Your role as the Managing Director means you are the doctor and therapist of the company. You need to be able to be there for everyone involved and help them solve the problems they cannot figure out for themselves.
 
 Be available for anyone who can’t figure something out on their own, and helping them tackle their problems head on.
 
@@ -58,7 +58,7 @@ Be honest, be vulnerable, be strong, be enthusiastic and be curious, just like o
 
 So you’re probably thinking “but hey, there are these gazillion other things that I want to do.” Sorry man, it’s not your job.
 
-Make sure you find a way to effectively integrate all your ideas into the teams and the process. Since for everything the company is dependent on you, it needs to wait for you, and that is no fun for anyone.
+Make sure you find a way to effectively integrate all your ideas into the teams and the process. Because the company is dependent on you for everything, it needs to wait for you and that is no fun for anyone.
 
 Things that are not inherently natural to the company or that the company could better do at a later time can be delegated to other talented folks and companies, especially when those skills are so hard that they can’t, realistically, be learned by our people within a reasonable time frame.
 
