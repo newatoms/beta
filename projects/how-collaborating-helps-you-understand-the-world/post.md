@@ -14,7 +14,7 @@ In addition, in such a situation you have to focus your discussion on a certain 
 
 ## It's all about **psychological safety**
 
-We feel this is exactly the reason Google found out that the best performing teams were all about **psychological safety**. Their research, in which they analyzed how their teams were functioning, showed that this component enables team members to take risks and explain their doubts. Charles Duhigg of the New York Times wrote a piece about it: [What Google Learned From wets Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=1).
+We feel this is exactly the reason Google found out that the best performing teams were all about **psychological safety**. Their research, in which they analyzed how their teams were functioning, showed that this component enables team members to take risks and explain their doubts. Charles Duhigg of the New York Times wrote a piece about it: [What Google Learned From its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=1).
 
 Abeer Dubey, a manager in Google’s People Analytics division said in the article: "We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘who’ part of the equation didn’t seem to matter."
 
