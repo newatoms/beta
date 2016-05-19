@@ -1,5 +1,3 @@
-# How installing Sol LeWitt Wall Drawings prepared me for working agile
-
 ## Goal
 To reach people who may not otherwise resonate with a workflow inspired by software building/new technology
 

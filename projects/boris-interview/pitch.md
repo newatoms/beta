@@ -1,5 +1,3 @@
-# The experience that cried for a new business
-
 ### Goal
 To show new and returning readers, potential clients and potential employees that New Atoms is grounded in relevant and formative experiences  
 

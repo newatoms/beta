@@ -1,5 +1,3 @@
-# Why an Operations Developer is critical
-
 ## Goal
 To reach new readers and potential employees by showing the intentional thoughtfulness of the organisation.
 

@@ -2,8 +2,6 @@ We have no office, because we believe all of us should decide the best work envi
 
 (image)
 
-## Because every team needs a shared playlist
-
 Enter New Atoms Worktunes, our collaborative YouTube playlist that serves as our company radio station sans the cheesy DJs.
 
 With new daily additions, the playlist is continually expanding and there is always something new to listen to.

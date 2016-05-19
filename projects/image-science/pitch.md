@@ -1,5 +1,3 @@
-# The Psychology and Science of Images
-
 ## Goal
 To grow both new and existing audiences by showing that New Atoms' methods are simultaneously creative and grounded in science.
 

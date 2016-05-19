@@ -1,4 +1,3 @@
-# You need to inverse your narrative arc
 The old way of structuring stories is rendered useless by modern media consumption. You now need to start with the best bits to bait the viewer, and end with some good bits to hook them into continuing onwards.
 
 When we used to make TV (and content for almost every other medium) we would create a build up like this:

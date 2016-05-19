@@ -1,5 +1,3 @@
-# How We Have Been Saving The Planet This Week
-
 *If you look at the news about the environment,*
 
 *you’ll get almost convinced the world is going to end.*

@@ -1,5 +1,3 @@
-# How applying for funding helped us get to know and develop our concept
-
 ## Update: What a ride… 
 When we heard about the Digital News Initiative from Google, we simply had to reply. It’s right up our alley, perfectly aligned with our ambitions and, come on, they’re funding €150 million!
 

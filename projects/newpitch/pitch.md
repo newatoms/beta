@@ -1,5 +1,3 @@
-# How collaborating helps you understand the world
-
 ## Goal
 
 To reach returning readers who could hire us, work for us or share our content with those who could
@@ -7,7 +5,7 @@ To reach returning readers who could hire us, work for us or share our content w
 ## Method
 
 We write an article about how collaboration can help you understand the world and come to new insights.
-Your experience vastly influences the way you look at things, and by working with others you can use their experience to view the world, and its problems, from a different perspective. We will explain this by writing about very personal experiences, backed up by scientific insights on the topic. 
+Your experience vastly influences the way you look at things, and by working with others you can use their experience to view the world, and its problems, from a different perspective. We will explain this by writing about very personal experiences, backed up by scientific insights on the topic.
 
 ## For example we could write about...
 

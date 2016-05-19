@@ -2,8 +2,6 @@
 
 **The goal of this guide**: To give you an understanding of what it means to be a Managing Director.
 
-# How to be a Managing Director
-
 Great, so you’re the Managing Director of New Atoms. Congratulations🎉!
 
 Lets take apart what that means for a second:

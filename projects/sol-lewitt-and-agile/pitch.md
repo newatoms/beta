@@ -1,5 +1,3 @@
-# How Sol LeWitt was the predecessor to working agile
-
 ## Goal
 To reach people who may not otherwise resonate with a workflow inspired by software building/new technology
 
