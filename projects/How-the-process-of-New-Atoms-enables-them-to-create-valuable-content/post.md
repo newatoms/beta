@@ -2,7 +2,7 @@
 
 At New Atoms, we don't work as individuals with specific tasks, but rather as a team in which every team member contributes iterations to the whole. This enables us to work from our strengths instead of from necessity.
 
-This is called *Agile* working and is mainly used in software engineering. Simply stated, *agile* teams work on projects that try to achieve a specific goal. This goal is broken op in smaller tasks that can be fulfilled by individual team members. This way every team member can work on these smaller tasks in a way that they think helps the most to achieve the bigger goal seen from their own strengths and experiences. By enabling team members to work on project in the way they see fit, you get solutions that not one individual could ever expect, enabling you to go beyond conventions in to newer and more fruitful territories.
+This is called *agile* working and is mainly used in software engineering. Simply stated, *agile* teams work on projects that try to achieve a specific goal. This goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, every team member can work on these smaller tasks in a way that they think helps the most to achieve the bigger goal seen from their own strengths and experiences. By enabling team members to work on a project in the way they see fit, you get solutions that one individual could ever expect, enabling you to go beyond conventions into newer and more fruitful territories.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Catalunya_test_2011_-_36.jpg" width=100% />
 
