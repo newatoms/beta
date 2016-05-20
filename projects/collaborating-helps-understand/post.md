@@ -8,7 +8,7 @@ No matter what vehicle we use, we feel like **we** are at the center of traffic 
 
 > The most effective method for upgrading knowledge is by cooperating with others
 
-We ourselves easily flip-flop perspectives depending on our current situation. These views, however, are warped by our own position, ideas and experiences. In our finer moments, we also try to imagine how others see the world. We can imagine being a tourist in a city for the first time, unaware of stepping into the bike lane because we are so overwhelmed with new stimulus. Putting ourselves in the shoes of others is a conduit for empathy.
+We ourselves easily flip-flop perspectives depending on our current situation. These views, however, are warped by our own position, ideas and experiences. In our finer moments, we also try to imagine how others see the world. We can imagine being a tourist in a city for the first time, unaware of stepping into the bike lane because we are so overwhelmed with new stimuli. Putting ourselves in the shoes of others is a conduit for empathy.
 
 When being open to different perspectives, we also tend to be pretty good at upgrading our knowledge. This occurs when we are confronted with inconsistencies, obtain new insights or learn new facts. The best way to get smarter is by cooperating with others, because it's the most direct and practical way to experience a different view.
 
