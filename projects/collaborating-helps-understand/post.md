@@ -14,10 +14,8 @@ Cooperative situations require us to focus our discussions, use constructive arg
 
 ## It's all about **psychological safety**
 
-Google discovered that the best performing teams were all about **psychological safety**. Their research, in which they analyzed how their teams were functioning, showed that a safe environment enables team members to take risks and explain their doubts. Charles Duhigg of the New York Times wrote a piece about it: [What Google Learned From its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=1).
+Google discovered that the best performing teams were all about *psychological safety*. Their research, in which they analyzed how their teams were functioning, showed that a safe environment enables team members to take risks and explain their doubts. Charles Duhigg of the New York Times wrote a piece about it: [What Google Learned From its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=1).
 
 In this article, Abeer Dubey, a manager in Google’s People Analytics division, said: "We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘who’ part of the equation didn’t seem to matter."
 
 Picture 1: [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), the armless man and [Eli Bowen](Eli_Bowen), the legless man, riding a tandem. ca. 1890s.
-
-<!-- To be inspired by the process of collaboration — As a reader — I can read about how collaborative processes bring people to new insights -->
