@@ -2,7 +2,7 @@
 
 # How collaborating helps you understand the world
 
-World views are made up of a countless number of experiences and perspectives gained throughout a life. People easily switch between these views, as can be seen in traffic:
+Each individual's worldview is made up of countless experiences and perspectives. People easily switch between these views, as can be seen in traffic:
 
 No matter what vehicle we are on or in, we feel like **we** are at the center of traffic. We feel that everyone should comply to **our** rules. When we're on a bike, we just want to get from A to B as fast as possible. Everyone partaking in traffic is an idiot who's standing in the way of that goal. But when we're in the car, we feel like both cyclists and pedestrians are hazardous. They are unpredictable projectiles that don't follow the rules—rules that would make traffic safe, if only everyone would comply to these rules.
 
