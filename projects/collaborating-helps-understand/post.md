@@ -10,7 +10,7 @@ No matter what vehicle we are on or in, we feel like *we* are at the center of t
 
 We ourselves easily flip-flop perspectives depending on our current situation. These views, however, are warped by our own position, ideas and experiences. In our finer moments, we also try to imagine how others see the world. When being open to different perspectives, we tend to be pretty good at upgrading our knowledge. This occurs when we are confronted with inconsistencies, obtain new insights or learn new facts. The best way to get smarter is by cooperating with others, because it's the most direct and practical way to experience a different view.
 
-Cooperative situations require us to focus our discussions, use constructive arguments and explain our thought processes. At times we are confronted with unfamiliar topics. These moments are very valuable because they show a gap in your knowledge and let you fill that gap by "stealing" the knowledge of others.
+Cooperative situations require us to focus our discussions, use constructive arguments and explain our thought processes. At times we are confronted with unfamiliar topics. These moments are very valuable because they show a gap in our knowledge and let you fill that gap by "stealing" the knowledge of others.
 
 ## It's all about **psychological safety**
 
