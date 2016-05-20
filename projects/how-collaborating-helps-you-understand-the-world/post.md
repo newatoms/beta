@@ -8,7 +8,7 @@ No matter what vehicle we are on or in, we feel like **we** are at the center of
 
 > The most effective method for upgrading knowledge is by cooperating with others
 
-So we ourselves can easily switch, but we also try to imagine how others see the world. These views will always be warped by our own ideas and experiences though. When experiencing a different perspective we are pretty good at upgrading our knowledge. This will occur when we get confronted with inconsistencies, obtaining new insights or learning new facts. The most effective method for upgrading knowledge is by cooperating with others, because it easily lets us experience a different view.
+We ourselves easily flip-flop perspectives depending on our current situation. These views, however, are warped by our own position, ideas and experiences. In our finer moments, we also try to imagine how others see the world. When being open to different perspectives, we tend to be pretty good at upgrading our knowledge. This occurs when we get confronted with inconsistencies, obtain new insights or learn new facts. The best way to get smarter is by cooperating with others, because it's the most direct and practical way to experience a different view.
 
 In addition, in such a situation you have to focus your discussion on a certain topic, use constructive arguments, and explain your thought process step by step. When approaching unfamiliar topics, you therefore often notice that you are struggling with making claims or backing them up. These moments are very valuable because they show a gap in your knowledge and let you fill that gap by "stealing" the knowledge of others.
 
