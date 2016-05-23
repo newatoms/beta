@@ -1,0 +1,11 @@
+deployment:
+  production:
+    branch: live
+    commands:
+      - npm install newatoms/productrepository#live
+      - node ./node_modules/productrepository
+  staging:
+    branch: ready
+    commands:
+      - npm install newatoms/productrepository#live
+      - node ./node_modules/productrepository
