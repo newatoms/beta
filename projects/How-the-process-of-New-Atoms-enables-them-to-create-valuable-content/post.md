@@ -19,7 +19,7 @@ This is called *agile* working and is mainly used in software engineering. Simpl
 
 ## Gone with traditional producing
 
-This customised agile process enables teams to work on customer acquisition, communication, software development, journalistic content etc. New Atoms found a way to do all creative works in an agile manner. This brought some challenges to the table. Text, for example comes naturally, but it's hard to break down into little tasks.
+This customised agile process enables teams to work on customer acquisition, communication, software development, journalistic content, etc. New Atoms found a way to make all creative works in an agile manner. This brought some challenges to the table. Text, for example comes naturally, but it's hard to break down into little tasks.
 
 Traditionally, producing an article goes something like this:
 
@@ -32,7 +32,7 @@ Traditionally, producing an article goes something like this:
 * Editing
 * Printing
 
-The New Atoms way of working however, introduces the advantage of **continues press**. This means that every little iteration should add value to the whole. These additions get reviewed by someone else so you always have an editing step. When this task is added by a team member it's his/her responsibility to make the end product publishable. This way you can always show something to the client in a finished state.
+The New Atoms way of working, however, introduces the advantage of *continuous press*. This means every little iteration should add value to the whole. These additions get reviewed by someone else so you always have an editing step. When this task is added by a team member, it's his/her responsibility to make the end product publishable. This way you can always show something to the client in a finished state.
 
 Making teams work in an agile way is not only good for making use of skills. It also enables the team to deliver publishable articles in a fast and efficient way.   
 
