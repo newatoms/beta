@@ -1,4 +1,4 @@
-
+# How the process of New Atoms enables them to create valuable content
 If you had a really cool science class when you were a kid, perhaps you had a bridge-building challenge. Each student in the class designs and builds a model of a bridge within a strict framework of rules. At the end of the contest, a heavy weight is placed on each model to test its structural integrity. Some bridges are beautiful, but collapse immediately under the weight. Others look like abominations but can bear the weight of a sack of bowling balls.
 
  Author and entrepreneur [Margaret Heffernan](http://www.mheffernan.com/index2.php) identifies that
