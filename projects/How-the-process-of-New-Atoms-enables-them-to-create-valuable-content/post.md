@@ -9,6 +9,8 @@ If you had a really cool science class when you were a kid, perhaps you had a br
 
 Imagine the same challenge, but in a way that each bridge is only *started* by one student. It then goes through a rotation, allowing each student to add small parts and make small improvements based on their aptitudes. In the end, you have a much higher success rate, *and* kids have worked together to achieve great things.
 
+## What all teams can learn from software development
+
 At New Atoms, we don't work as individuals with large, specific tasks. We work as a team in which every member contributes small iterations to the whole. This enables us to work from our strengths instead of from necessity.
 
 This is called *agile* working and is mainly used in software engineering. Simply stated, *agile* teams work on projects that aim to achieve a specific goal. This goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, every team member can choose tasks that suit their own strengths and experiences. They can also execute them in the way they think best serves the larger goal. By enabling team members to work on a project in the way they see fit, solutions emerge that no one individual could ever expect. This enables teams to go beyond conventions into newer and more fruitful territories.
