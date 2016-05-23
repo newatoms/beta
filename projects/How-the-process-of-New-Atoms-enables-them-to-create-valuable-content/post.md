@@ -1,4 +1,3 @@
-To understand how working agile adds value to creative works in a uniquely effective way — As a Beta reader — I can read an example of the value added by approaching journalism with agility
 
 When I was a kid, I participated in a bridge-building challenge. Each student in the class had to design and build a model of a bridge within a strict framework of rules. At the end of the contest, a heavy weight would be placed on each model in order to test its structural integrity. My bridge was beautiful, but it collapsed immediately when the weight was placed on it.
 
