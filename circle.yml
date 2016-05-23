@@ -1,3 +1,5 @@
+test:
+  - echo "There are no tests set up yet"
 deployment:
   production:
     branch: live
