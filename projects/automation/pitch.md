@@ -1,7 +1,7 @@
 # Robots can Have our Jobs
 
 ## Goal
-To *Show the organisations impact on the future* we will write about *Our Vision* to show how *Modern* enables you to excel in *Research and Understanding* written from the perspective of a(n) *Internal Editorial Team*.
+To *show the organisations impact on the future*, we will write about *New Atoms' Vision* to show how *modern* implementations enables the organization to excel in *research and understanding*, written from the perspective of a(n) *Internal Editorial Team*.
 
 ## Method
 We will write an article about automation, what it can do for us, how it frees us to do things AI cannot yet do and why New Atoms believes they should automate most things that are automatable.
