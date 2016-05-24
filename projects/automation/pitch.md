@@ -1,25 +1,16 @@
-# [Name of the pitch]
+# Robots can Have our Jobs
 
 ## Goal
-
 To *Show the organisations impact on the future* we will write about *Our Vision* to show how *Modern* enables you to excel in *Research and Understanding* written from the perspective of a(n) *Internal Editorial Team*.
 
 ## Method
-
-[Formulate how you will try to achieve the goal mentioned above. This is the creative part of the pitch and requires you to go nuts within the limitations of the generated goal. Have fun! Formulate an idea that you would be excited to read about and work on.]
+We will write an article about automation, what it can do for us, how it frees us to do things AI cannot yet do and why New Atoms believes they should automate most things that are automatable.
 
 ## Example
-
-[Give a tangible example of an end result of the proposed method. This will help the client understand what kind of end result they can expect from the pitch.]
+We could write about the things we automate and how we do not feel our jobs are actually at risk as a result of AI, but rather that developments in AI free us to do the more fun and creative things that computers are not yet capable of doing.
 
 ## Motivation
-
-[Explain why you think the proposed method is beneficial for the client. You can use the example above.]
+Writing about the progressive mindset of New Atoms and its participation in and contributions to the fast-flowing river of technology shows that the organization is forward-thinking. Companies that aware of what is happening in technology and actively using these resources are actually directing the future.
 
 ## Assumptions
-
-[State the assumptions that you made when formulating the pitch. If any of these assumptions are false in the eyes of the client, it is better to find out before writing the article than after!]
-
-## Assistance
-
-[If you need assistance from the client, state here what you need.]
+That New Atoms would in fact automate most things possible.
