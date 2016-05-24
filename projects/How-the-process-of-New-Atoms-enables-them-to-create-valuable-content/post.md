@@ -33,6 +33,6 @@ Traditionally, producing an article goes something like this:
 
 The New Atoms way of working, however, introduces the advantage of *continuous press*. This means every little iteration should add value to the whole. These additions get reviewed by someone else so you always have an editing step. When this task is added by a team member, it's his/her responsibility to make the end product publishable. This way you can always show something to the client in a finished state.
 
-Making teams work in an agile way is not only good for making use of skills. It also enables the team to deliver publishable articles in a fast and efficient way.   
+Making teams work in an agile way is not only good for making use of skills, it also enables the team to deliver publishable articles in a fast and efficient way.   
 
 Image: [Red Bull pit stop](https://commons.wikimedia.org/wiki/File:Catalunya_test_2011_-_36.jpg) by [Gil Abrantes](https://www.flickr.com/photos/9259187@N05)
