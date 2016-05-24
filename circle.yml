@@ -1,5 +1,5 @@
 test:
-  overide:
+  override:
     - echo "There are no tests set up yet"
 deployment:
   production:
