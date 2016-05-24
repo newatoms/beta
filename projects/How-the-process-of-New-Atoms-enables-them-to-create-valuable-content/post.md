@@ -1,7 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Catalunya_test_2011_-_36.jpg" width=100% />
 
-
-# How the process of New Atoms enables them to create valuable content
+# Building Bridges
 
 If you had a really cool science class when you were a kid, perhaps you had a bridge-building challenge. Each student in the class designs and builds a model of a bridge within a strict framework of rules. At the end of the contest, a heavy weight is placed on each model to test its structural integrity. Some bridges are beautiful, but collapse immediately under the weight. Others look like abominations but can bear the weight of a sack of bowling balls.
 
@@ -9,7 +8,7 @@ If you had a really cool science class when you were a kid, perhaps you had a br
 
 >we have an education system that encourages people to think of themselves as soloists – their success actually requires someone else’s failure.
 
-Imagine the same challenge, but in a way that each bridge is only *started* by one student. It then goes through a rotation, allowing each student to add small parts and make small improvements based on their aptitudes. In the end, you have a much higher success rate, *and* kids have worked together to achieve great things.
+Imagine the same challenge, but in a way that each bridge is only *started* by one student. It then goes through a rotation, allowing each student to add small parts and make small improvements based on their aptitudes. In the end, you have a much higher success rate, and kids have worked together to achieve great things.
 
 ## What all teams can learn from software development
 

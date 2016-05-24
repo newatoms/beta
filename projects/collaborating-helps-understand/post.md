@@ -10,7 +10,7 @@ We ourselves easily flip-flop perspectives depending on our current situation. T
 
 > The most effective method for upgrading knowledge is by cooperating with others
 
-When being open to different perspectives, we also tend to be pretty good at upgrading our knowledge. This occurs when we are confronted with inconsistencies, obtain new insights or learn new facts. The best way to get smarter is by cooperating with others, because it's the most direct and practical way to experience a different view.
+When being open to different perspectives, we also tend to be pretty good at upgrading our knowledge. This occurs when we are confronted with inconsistencies, obtain new insights or learn new facts. The best way to encounter such opportunities is by cooperating with others, because it's the most direct and practical way to experience a different view.
 
 Collaborative situations require us to focus our discussions, use constructive arguments and explain our thought processes. At times we are confronted with unfamiliar topics. These moments are very valuable because they show a gap in our knowledge and let us fill that gap by "stealing" the knowledge of others, as long as we feel safe to do so.
 
