@@ -1,5 +1,3 @@
-# New Atoms: The Team
-
 ## GOAL
 To attract new and returning readers who could hire us, work for us or share our content with those who could, by putting a face/faces with the company.
 
