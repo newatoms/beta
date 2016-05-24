@@ -16,9 +16,9 @@ At New Atoms, we don't work as individuals with large, specific tasks. We work a
 
 This is called *agile* working and is mainly used in software engineering. Simply stated, *agile* teams work on projects that aim to achieve a specific goal. This goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, every team member can choose tasks that suit their own strengths and experiences. They can also execute them in the way they think best serves the larger goal. By enabling team members to work on a project in the way they see fit, solutions emerge that no one individual could ever expect. This enables teams to go beyond conventions into newer and more fruitful territories.
 
-## Gone with traditional producing
+## Traditional producing, be gone
 
-This customised agile process enables teams to work on customer acquisition, communication, software development, journalistic content, etc. New Atoms found a way to make all creative works in an agile manner. This brought some challenges to the table. Text, for example comes naturally, but it's hard to break down into little tasks.
+New Atoms found a way to make all creative works in an agile manner—not only software development, but journalistic content. This brought some challenges to the table. Writing text, for example, is at its core "easy" for everyone, but once you break it up into small iterations, it actually gets quite abstract and difficult.
 
 Traditionally, producing an article goes something like this:
 
