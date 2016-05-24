@@ -1,5 +1,3 @@
-# Robots can Have our Jobs
-
 ## Goal
 To *show the organisations impact on the future*, we will write about *New Atoms' Vision* to show how *modern* implementations enables the organization to excel in *research and understanding*, written from the perspective of a(n) *Internal Editorial Team*.
 
