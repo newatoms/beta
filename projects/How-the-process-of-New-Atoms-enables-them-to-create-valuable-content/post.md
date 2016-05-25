@@ -18,7 +18,7 @@ This is called *agile* working and is mainly used in software engineering. Simpl
 
 ## Traditional producing, be gone
 
-New Atoms found a way to make all creative works in an agile manner—not only software development, but journalistic content. This brought some challenges to the table. Writing text, for example, is at its core "easy" for everyone, but once you break it up into small iterations, it actually gets quite abstract and difficult.
+New Atoms found a way to make all creative works in an agile manner—not only software development, but journalistic content. This brought some challenges to the table. Writing text, for example, is at its core "easy" for everyone, but the task of breaking it up into small iterations is quite abstract and difficult.
 
 Traditionally, producing an article goes something like this:
 
@@ -31,8 +31,8 @@ Traditionally, producing an article goes something like this:
 * Editing
 * Printing
 
-The New Atoms way of working, however, introduces the advantage of *continuous press*. This means every little iteration should add value to the whole. These additions get reviewed by someone else so you always have an editing step. When this task is added by a team member, it's his/her responsibility to make the end product publishable. This way you can always show something to the client in a finished state.
+The New Atoms way of working, however, introduces the idea of *continuous press*. In this process, every little iteration adds value to the whole, continuously building upon it until it is a well-rounded, creative work. Each addition is reviewed by someone else in an editing step, ensuring nothing gets too crazy (unless it should 🙃). Ideally, the creative work should be built upon in such a way that it is publishable after every addition. This way, every article is in a constantly "finished" state.
 
-Making teams work in an agile way is not only good for making use of skills, it also enables the team to deliver publishable articles in a fast and efficient way.   
+Enabling teams to work in an agile way not only best situates people to best use their talents, it also enables the team to deliver publishable, creative works in a fast and efficient way.   
 
 Image: [Red Bull pit stop](https://commons.wikimedia.org/wiki/File:Catalunya_test_2011_-_36.jpg) by [Gil Abrantes](https://www.flickr.com/photos/9259187@N05)
