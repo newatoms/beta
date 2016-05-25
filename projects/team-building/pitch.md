@@ -1,25 +1,19 @@
-# Pub Time Means Business
+# Pub Time is Business Time
 
 ## Goal
-
-To *Show how good the organisation is* we will write about *The Entrepeneur and the team* to show how *Collaborative* enables you to excel in *Research and Understanding* written from the perspective of a(n) *Internal Editorial Team*.
+To *show how good the organisation is*, we will write about *the entrepeneur and the team* to show how a *collaborative* atmosphere enables individuals to excel in *research and understanding*, written from the perspective of a(n) *Internal Editorial Team*.
 
 ## Method
-
-[Formulate how you will try to achieve the goal mentioned above. This is the creative part of the pitch and requires you to go nuts within the limitations of the generated goal. Have fun! Formulate an idea that you would be excited to read about and work on.]
+We will write about the New Atoms off-site future conference, specifically the team's time spent in various pubs.  
 
 ## Example
-
-[Give a tangible example of an end result of the proposed method. This will help the client understand what kind of end result they can expect from the pitch.]
+We could write about some of the various important issues we discussed, for example feminism. We would explain how learning to communicate openly, honestly and respectfully about loaded issues removes barriers to speaking the same way in a work environment and helps everyone feel safe to do so.
 
 ## Motivation
-
-[Explain why you think the proposed method is beneficial for the client. You can use the example above.]
+Spending time together as a team outside of work is extremely helpful in developing meaningful relationships. An emotional investment in one's colleagues makes for a more devoted team and a stronger, more empathetic and effective organisation overall.
 
 ## Assumptions
-
-[State the assumptions that you made when formulating the pitch. If any of these assumptions are false in the eyes of the client, it is better to find out before writing the article than after!]
+That the team would not be opposed to revealing some more personal (but not too personal) events, conversations and views.
 
 ## Assistance
-
-[If you need assistance from the client, state here what you need.]
+Short interviews with the team; around 10 minutes.
