@@ -5,7 +5,7 @@ To *show how good the organisation is*, we will write about *the entrepeneur and
 We will write about the New Atoms off-site future conference, specifically the team's time spent in various pubs.  
 
 ## Example
-We could write about some of the various important issues we discussed, for example feminism. We would explain how learning to communicate openly, honestly and respectfully about loaded issues removes barriers to speaking the same way in a work environment and helps everyone feel safe to do so.
+We could write about some of the important issues we discussed, for example feminism. Learning to communicate openly, honestly and respectfully about loaded issues removes barriers. This is a precursor to similar communication in a work environment, helping everyone to feel safe and respected.
 
 ## Motivation
 Spending time together as a team outside of work is extremely helpful in developing meaningful relationships. An emotional investment in one's colleagues makes for a more devoted team and a stronger, more empathetic and effective organisation overall.
