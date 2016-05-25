@@ -1,25 +1,13 @@
-# [Name of the pitch]
+# We are a Protagonist in the Story of IT
 
 ## Goal
-
-To *Show the organisations impact on the future* we will write about *Our Vision* to show how *Modern* enables you to excel in *Media Production* written from the perspective of a(n) *Internal Editorial Team*.
+To *show the organisations impact on the future*, we will write about *our Vision* to show how *modern* thinking enables New Atoms to excel in *Media Production* written from the perspective of a(n) *Internal Editorial Team*.
 
 ## Method
-
-[Formulate how you will try to achieve the goal mentioned above. This is the creative part of the pitch and requires you to go nuts within the limitations of the generated goal. Have fun! Formulate an idea that you would be excited to read about and work on.]
+We will write an article about the trajectory of information technology related to media, and the ways in which New Atoms is both merging into the IT narrative and contributing to its direction and propulsion.
 
 ## Example
-
-[Give a tangible example of an end result of the proposed method. This will help the client understand what kind of end result they can expect from the pitch.]
+The article could be in more of a narrative style, telling the story of IT/media and introducing New Atoms as a protagonist in the story (inspired by the telegram "puppet theater" at the London Museum of Natural History). Within this narrative, we could also write about the ways in which media production has become irrelevant to our time, and how New Atoms is addressing the industry's current needs.
 
 ## Motivation
-
-[Explain why you think the proposed method is beneficial for the client. You can use the example above.]
-
-## Assumptions
-
-[State the assumptions that you made when formulating the pitch. If any of these assumptions are false in the eyes of the client, it is better to find out before writing the article than after!]
-
-## Assistance
-
-[If you need assistance from the client, state here what you need.]
+By showing New Atoms' awareness of the IT trajectory over time, it will be apparent that New Atoms is also aware of where the trajectory will go in the future. Showing that New Atoms knows where they fall within this timeline and will help to determine its direction makes evident that the company will have an impact on the future.
