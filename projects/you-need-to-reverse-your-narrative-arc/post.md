@@ -1,3 +1,6 @@
+<img src="http://i.imgur.com/QHWCw89.jpg" alt="Upside down arc" width=100% />
+*image caption: Arcs by [Pedro](https://flic.kr/p/8rZjgV)
+
 The old way of structuring stories is rendered useless by modern media consumption. You now need to start with the best bits to bait the viewer, and end with some good bits to hook them into continuing onwards.
 
 When we used to make TV (and content for almost every other medium) we would create a build up like this:
