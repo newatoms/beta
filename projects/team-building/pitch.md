@@ -1,6 +1,4 @@
-# Pub Time is Business Time
 
-## Goal
 To *show how good the organisation is*, we will write about *the entrepeneur and the team* to show how a *collaborative* atmosphere enables individuals to excel in *research and understanding*, written from the perspective of a(n) *Internal Editorial Team*.
 
 ## Method
