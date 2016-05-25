@@ -1,5 +1,5 @@
-<img src="http://i.imgur.com/sciUlmH.jpg" alt="Upside down arc" width=100% />
-*Image caption: Arcs by [Pedro](https://flic.kr/p/8rZjgV) (Image is modified)*
+<img src="http://i.imgur.com/wKNaNma.jpg" width=100% />
+*Image caption: St. Louis Arc by [Fernando De la Torre](https://flic.kr/p/MucjW) (Image is modified)*
 
 The old way of structuring stories is rendered useless by modern media consumption. You now need to start with the best bits to bait the viewer, and end with some good bits to hook them into continuing onwards.
 
