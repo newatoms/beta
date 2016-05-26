@@ -1,3 +1,7 @@
+<img src="http://i.imgur.com/FyveX9R.jpg" alt="Snow plower clears the way" width=100% />
+
+*Image caption: Clearing the way by [Kenny Louie](https://flic.kr/p/93pbXs)* 
+
 >We write guides on how to do all the things we do at New Atoms. These serve to teach, but also to reassure. I made this guide mainly to reassure myself whenever I have doubts or questions about my role, which I have all the time.
 
 **The goal of this guide**: To give you an understanding of what it means to be a Managing Director.
