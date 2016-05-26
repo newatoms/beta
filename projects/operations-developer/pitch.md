@@ -1,5 +1,3 @@
-# Happy Employees are, well... Happy
-
 ## Goal
 To *show how good the organisation is*, we will write about *our Vision* to show how *modern* thinking enables you to excel in *all things*, written from the perspective of a(n) *Internal Editorial Team*.
 
