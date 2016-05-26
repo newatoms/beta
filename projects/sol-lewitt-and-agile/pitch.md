@@ -1,5 +1,3 @@
-# What Krysten learned about working iteratively from installing Sol LeWitt
-
 ## Goal
 To *Create new audience* we will write about *The Entrepeneur and the team* to show how *Collaborative* enables you to excel in *Research and Understanding* written from the perspective of a(n) *Internal Editorial Team*.
 
