@@ -1,4 +1,5 @@
 <img src="https://i.imgur.com/WFGVZKp.jpg" width=100% />
+*Image caption: [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), the armless man and [Eli Bowen](Eli_Bowen), the legless man, riding a tandem. ca. 1890s.*
 
 Each individual's worldview is made up of countless experiences and perspectives. People easily switch between these views, as can be seen while navigating traffic in the city:
 
@@ -10,16 +11,16 @@ We ourselves easily flip-flop perspectives depending on our current situation. T
 
 When being open to different perspectives, we also tend to be pretty good at upgrading our knowledge. This occurs when we are confronted with inconsistencies, obtain new insights or learn new facts. The best way to encounter such opportunities is by cooperating with others, because it's the most direct and practical way to experience a different view.
 
-Collaborative situations require us to focus our discussions, use constructive arguments and explain our thought processes. At times we are confronted with unfamiliar topics. These moments are very valuable because they show a gap in our knowledge and let us fill that gap by "stealing" the knowledge of others, as long as we feel safe to do so.
+Collaborative situations require us to focus our discussions, use constructive arguments and explain our thought processes. At times we are confronted with unfamiliar topics. These moments are very valuable because they show a gap in our knowledge and let us fill that gap by "stealing" the knowledge of others, as long as we feel safe to do so.          
 
 ## It's all about **psychological safety**
 
-Google has performed studies showing that the best performing teams were all about *psychological safety*. Their research, in which they analyzed how their teams were functioning, showed that a safe environment enables team members to take risks and explain their doubts. Charles Duhigg of the New York Times wrote a piece about it: [What Google Learned From its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=1).
+Google has performed studies showing that the best performing teams were all about *psychological safety*. Their research, in which they analysed how their teams were functioning, showed that a safe environment enables team members to take risks and explain their doubts. Charles Duhigg of the New York Times wrote a piece about it: [What Google Learned From its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=1).
 
 In this article, Abeer Dubey, a manager in Google’s People Analytics division, said: "We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘who’ part of the equation didn’t seem to matter."
 
 Incredibly, the productivity of people working together has nothing to do with how smart or cool or experienced they all are. It has everything to do with feeling safe. And feeling safe has everything to do with knowing we are all understood—that judgements will not be speeding towards us like unpredictable projectiles—which inherently means understanding the perspectives of others. And the most genuine path to understanding, is through collaboration.
 
+## New Atoms puts this into practice
 
-
-Picture 1: [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), the armless man and [Eli Bowen](Eli_Bowen), the legless man, riding a tandem. ca. 1890s.
+New Atoms is doing everything they can to create this *safe zone*. It means that everyone is equal and this enables each team member to show when they're in doubt. In collaboration, this vulnerability is key to get to the core of a problem. If teammates feel too proud to show their weaknesses, this can get in the way of problems that are both avoidable and easily solvable. Besides, how can teammates fill each other's "knowledge gaps" if there's no room for mistakes?
