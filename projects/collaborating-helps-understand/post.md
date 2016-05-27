@@ -1,4 +1,5 @@
 <img src="https://i.imgur.com/WFGVZKp.jpg" width=100% />
+*Image caption: [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), the armless man and [Eli Bowen](Eli_Bowen), the legless man, riding a tandem. ca. 1890s.*
 
 Each individual's worldview is made up of countless experiences and perspectives. People easily switch between these views, as can be seen while navigating traffic in the city:
 
@@ -23,5 +24,3 @@ Incredibly, the productivity of people working together has nothing to do with h
 ## New Atoms puts this into practice
 
 New Atoms is doing everything they can to create this *safe zone*. It means that everyone is equal and this enables everyone in the team to show when they're in doubt. With collaboration, this vulnerability is key to get to the core of a problem. If teammates feel too proud to show their weaknesses it gets in the way of problems that are both avoidable and easily solvable. Besides, how can team mates fill each other's "knowledge gaps" if there's no room for mistakes?
-
-Picture 1: [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), the armless man and [Eli Bowen](Eli_Bowen), the legless man, riding a tandem. ca. 1890s.
