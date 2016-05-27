@@ -2,7 +2,7 @@
 <img src="http://i.imgur.com/HkPmyfN.jpg" alt="Dinosaur eye" width=100% />
 *image caption: Dinosaur eye by [allispossible.org.uk](https://flic.kr/p/4a2qFU)
 
-According to the images they use on their posts, it seems like a lot of bloggers like cappuccinos with foam art. They work on the same laptops, but still use paper and pencils to show they are creative. All fine, but why does everyone use these generic stock photos when they don’t say anything about the written content? 
+According to the images they use on their posts, it seems like a lot of bloggers like cappuccinos with foam art. They work on the same laptops, but still use paper and pencils to show they are creative. All fine, but why does everyone use these generic stock photos when they don’t say anything about the written content?
 
 When used correctly, effective visuals can communicate a message very powerfully. There are a number of interesting scientific and psychological explanations for why certain images resonate with people and others don't:
 
