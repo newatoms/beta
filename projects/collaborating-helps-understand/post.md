@@ -23,4 +23,4 @@ Incredibly, the productivity of people working together has nothing to do with h
 
 ## New Atoms puts this into practice
 
-New Atoms is doing everything they can to create this *safe zone*. It means that everyone is equal and this enables everyone in the team to show when they're in doubt. With collaboration, this vulnerability is key to get to the core of a problem. If teammates feel too proud to show their weaknesses it gets in the way of problems that are both avoidable and easily solvable. Besides, how can team mates fill each other's "knowledge gaps" if there's no room for mistakes?
+New Atoms is doing everything they can to create this *safe zone*. It means that everyone is equal and this enables each team member to show when they're in doubt. In collaboration, this vulnerability is key to get to the core of a problem. If teammates feel too proud to show their weaknesses, this can get in the way of problems that are both avoidable and easily solvable. Besides, how can teammates fill each other's "knowledge gaps" if there's no room for mistakes?
