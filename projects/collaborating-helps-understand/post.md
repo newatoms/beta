@@ -14,7 +14,7 @@ Collaborative situations require us to focus our discussions, use constructive a
 
 ## It's all about **psychological safety**
 
-New Atoms is doing everything they can to create this *safe zone*. It means that everyone is equal and this enables everyone in the team to show when they're in doubt. With collaboration, this vulnerability is key to get to the core of a problem. If team mates feel too proud to show their weaknesses it gets in the way of problems that are easily solvable. Besides, how can team mates fill each other's "knowledge gaps" if there's no room for mistakes?
+New Atoms is doing everything it can to create this *safe zone*. Everyone is seen as equal, enabling everyone in the team to show when they're in doubt. In collaboration, this vulnerability is key in getting to the core of a problem. If team mates feel too proud to show their weaknesses, it gets in the way of problems that are easily solvable. Besides, how can team mates fill each other's "knowledge gaps" if there's no room for mistakes?
 
 Google has performed studies showing that the best performing teams were all about *psychological safety*. Their research, in which they analyzed how their teams were functioning, showed that a safe environment enables team members to take risks and explain their doubts. Charles Duhigg of the New York Times wrote a piece about it: [What Google Learned From its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=1).
 
