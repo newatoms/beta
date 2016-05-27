@@ -33,7 +33,7 @@ Traditionally, producing an article goes something like this:
 
 The agile way of working, however, introduces the idea of *continuous press*. In this process, every little iteration each team member makes adds value to the whole, continuously building upon it until it is a well-rounded, creative work. Each addition is reviewed by someone else in an editing step, ensuring nothing gets too crazy (unless it should 🙃). Ideally, the creative work should be built upon in such a way that it is publishable after every addition. This way, every article is in a constantly "finished" state.
 
-Enabling teams to work in an agile way not only best situates people to use their talents, it also enables the team to deliver publishable, creative works in a fast and efficient way.  
+Enabling an agile workflow best situates people to use their talents within a team while also benefitting from the complimentary talents of others. This, while working together to deliver publishable, creative works quickly and efficiently, makes for some very strong bridges.  
 
 
 
