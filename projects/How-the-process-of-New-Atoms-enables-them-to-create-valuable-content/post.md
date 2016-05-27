@@ -12,13 +12,13 @@ Imagine the same challenge, but in a way that each bridge is only *started* by o
 
 ## What all teams can learn from software development
 
-At New Atoms, we don't work as individuals with large, specific tasks. We work as a team in which every member contributes small iterations to the whole. This enables us to work from our strengths instead of from necessity.
-
-This is called *agile* working and is mainly used in software engineering. Simply stated, *agile* teams work on projects that aim to achieve a specific goal. This goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, every team member can choose tasks that suit their own strengths and experiences. They can also execute them in the way they think best serves the larger goal. By enabling team members to work on a project in the way they see fit, solutions emerge that no one individual could ever expect. This enables teams to go beyond conventions into newer and more fruitful territories.
+This type of process already exists. It's called *agile* working and is mainly used in software engineering. Simply stated, *agile* teams work on projects that aim to achieve a specific goal. This goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, every team member can choose tasks that suit their own strengths and experiences. They can also execute them in the way they think best serves the larger goal. By enabling team members to work on a project in the way they see fit, solutions emerge that no one individual could ever expect. This enables teams to go beyond conventions into newer and more fruitful territories.
 
 ## Traditional producing, be gone
 
-New Atoms found a way to make all creative works in an agile manner—not only software development, but journalistic content. This brought some challenges to the table. Writing text, for example, is at its core "easy" for everyone, but once you break it up into small iterations, it actually gets quite abstract and difficult.
+As evidenced by the possibility of kids building bridges in small, individual iterations, *agile* working does not have to be limited to software engineering. It can also be applied to all other forms of working that benefit from collaboration.
+
+One field that could vastly improve with better collaboration is journalism. Imagine articles not being written by one person (along with her perspectives and ego), but by a whole diverse team with each contributor's individual skills, views and voice. Doing this brings some challenges to the table. Writing text, for example, is at its core "easy" for everyone, but the task of breaking it up into small iterations is quite abstract and difficult.
 
 Traditionally, producing an article goes something like this:
 
@@ -31,8 +31,10 @@ Traditionally, producing an article goes something like this:
 * Editing
 * Printing
 
-The New Atoms way of working, however, introduces the advantage of *continuous press*. This means every little iteration should add value to the whole. These additions get reviewed by someone else so you always have an editing step. When this task is added by a team member, it's his/her responsibility to make the end product publishable. This way you can always show something to the client in a finished state.
+The agile way of working, however, introduces the idea of *continuous press*. In this process, every little iteration each team member makes adds value to the whole, continuously building upon it until it is a well-rounded, creative work. Each addition is reviewed by someone else in an editing step, ensuring nothing gets too crazy (unless it should 🙃). Ideally, the creative work should be built upon in such a way that it is publishable after every addition. This way, every article is in a constantly "finished" state.
 
-Making teams work in an agile way is not only good for making use of skills, it also enables the team to deliver publishable articles in a fast and efficient way.   
+Enabling an agile workflow best situates people to use their talents within a team while also benefitting from the complimentary talents of others. This, while working together to deliver publishable, creative works quickly and efficiently, makes for some very strong bridges.  
+
+
 
 Image: [Red Bull pit stop](https://commons.wikimedia.org/wiki/File:Catalunya_test_2011_-_36.jpg) by [Gil Abrantes](https://www.flickr.com/photos/9259187@N05)
