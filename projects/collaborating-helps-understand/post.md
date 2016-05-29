@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/WFGVZKp.jpg" width=100% />
-*Image caption: [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), the armless man and [Eli Bowen](Eli_Bowen), the legless man, riding a tandem. ca. 1890s.*
+*Image caption: The armless [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), and legless [Eli Bowen](https://en.wikipedia.org/wiki/Eli_Bowen), riding a tandem.*
 
 **In our finer moments, we also try to imagine how others see the world**. We ourselves easily flip-flop perspectives depending on our current situation. These views, however, are warped by our own position, ideas and experiences. We can imagine being a tourist in our city for the first time, unaware of stepping into the bike lane because we are so overwhelmed with new stimuli. Putting ourselves in the shoes of others is a conduit for empathy.
 
