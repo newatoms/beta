@@ -3,7 +3,7 @@
 ![An old photograph Tripp and Bowen on a bicycle](https://i.imgur.com/WFGVZKp.jpg)
 *The armless [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), and legless [Eli Bowen](https://en.wikipedia.org/wiki/Eli_Bowen), riding a tandem.*
 
-**In our finer moments, we try to imagine how others see the world**. Yet, these views are warped by our own position, ideas and experiences. We can imagine being a tourist in our city for the first time, unaware of stepping into the bike lane because we are so overwhelmed with new stimuli. Putting ourselves in the shoes of others is a conduit for empathy.
+In our finer moments, we try to imagine how others see the world. Yet, these views are warped by our own position, ideas and experiences. We can imagine being a tourist in our city for the first time, unaware of stepping into the bike lane because we are so overwhelmed with new stimuli. Putting ourselves in the shoes of others is a conduit for empathy.
 
 Each individual's worldview is made up of countless experiences and perspectives. People easily switch between these views, as can be seen while navigating traffic in the city:
 
