@@ -9,7 +9,7 @@ So what makes the best teams?
 
 ## Differing perspectives are the key
 
-In our finer moments, we try to imagine how others see the world. Yet, these views are warped by our own position, ideas and experiences. We can imagine being a tourist in our city for the first time, unaware of stepping into the bike lane because we are so overwhelmed with new stimuli. Putting ourselves in the shoes of others is a conduit for empathy.
+In our finer moments, we humans try to imagine how others see the world. Yet, these views are warped by our own position, ideas and experiences. We can imagine being a tourist in our city for the first time, unaware of stepping into the bike lane because we are so overwhelmed with new stimuli. Putting ourselves in the shoes of others is a conduit for empathy.
 
 Each individual's worldview is made up of countless experiences and perspectives. People easily switch between these views, as can be seen while navigating traffic in the city:
 
