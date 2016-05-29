@@ -1,4 +1,4 @@
-# A team that collaborates is greater than the sum of its parts
+# Building killer teams: Collaboration between differing people is the key
 
 ![An old photograph Tripp and Bowen on a bicycle](https://i.imgur.com/WFGVZKp.jpg)
 *The armless [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), and legless [Eli Bowen](https://en.wikipedia.org/wiki/Eli_Bowen), riding a tandem.*
