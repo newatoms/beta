@@ -29,6 +29,11 @@ Abeer Dubey, a leader on the project and manager in Google’s People Analytics 
 
 Incredibly, the productivity of people working together has little to do with how smart or cool or experienced they all are. It has everything to do with feeling safe. And feeling safe has everything to do with knowing we are all understood—that judgements will not be speeding towards us like unpredictable projectiles—which inherently means understanding the perspectives of others. And the most genuine path to understanding, is through collaboration.
 
-## New Atoms puts this into practice
 
-New Atoms is doing everything they can to create this *safe zone*. It means that everyone is equal and this enables each team member to show when they're in doubt. In collaboration, this vulnerability is key to get to the core of a problem. If teammates feel too proud to show their weaknesses, this can get in the way of problems that are both avoidable and easily solvable. Besides, how can teammates fill each other's "knowledge gaps" if there's no room for mistakes?
+## So how do we make the best teams?
+
+We’re betting on a combination of diversity and trust over resumes and star-status. Our founder Boris sees the A-Team as a rolemodel. “They could be locked up in a barn and figure out how to build a tank out of what was in there, I believe that a group of very different smart people can work their way out of any situation.”
+
+Our teams are made up out of people that are as different as possible, while still focussed on certain outcomes. This means there is no editorial, marketing or back-end development team. “All of our teams should have access to every important aspect of developing the company, and everyone should be able to contribute whatever they can.”
+
+We hope that, with this knowledge, we can foster teams that can handle any challenge.
