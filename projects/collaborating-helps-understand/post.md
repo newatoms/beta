@@ -27,7 +27,7 @@ Google studied what made great teams great. [The research from Project Aristotle
 
 Abeer Dubey, a leader on the project and manager in Google’s People Analytics division, said: "We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘who’ part of the equation didn’t seem to matter."
 
-Incredibly, the productivity of people working together has nothing to do with how smart or cool or experienced they all are. It has everything to do with feeling safe. And feeling safe has everything to do with knowing we are all understood—that judgements will not be speeding towards us like unpredictable projectiles—which inherently means understanding the perspectives of others. And the most genuine path to understanding, is through collaboration.
+Incredibly, the productivity of people working together has little to do with how smart or cool or experienced they all are. It has everything to do with feeling safe. And feeling safe has everything to do with knowing we are all understood—that judgements will not be speeding towards us like unpredictable projectiles—which inherently means understanding the perspectives of others. And the most genuine path to understanding, is through collaboration.
 
 ## New Atoms puts this into practice
 
