@@ -30,7 +30,7 @@ Incredibly, the productivity of people working together has little to do with ho
 
 ## So how do we make the best teams?
 
-We’re betting on a combination of diversity and trust over resumes and star-status. Our founder Boris sees the A-Team as a rolemodel. “They could be locked up in a barn and figure out how to build a tank out of what was in there, I believe that a group of very different smart people can work their way out of any situation.”
+We’re betting on a combination of diversity and trust over résumés and star-status. Our founder Boris sees the A-Team as a role model. “They could be locked up in a barn and figure out how to build a tank out of what was in there, I believe that a group of very different smart people can work their way out of any situation.”
 
 Our teams are made up out of people that are as different as possible, while still focussed on certain outcomes. This means there is no editorial, marketing or back-end development team. “All of our teams should have access to every important aspect of developing the company, and everyone should be able to contribute whatever they can.”
 
