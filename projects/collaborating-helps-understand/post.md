@@ -34,4 +34,6 @@ We’re betting on a combination of diversity and trust over resumes and star-st
 
 Our teams are made up out of people that are as different as possible, while still focussed on certain outcomes. This means there is no editorial, marketing or back-end development team. “All of our teams should have access to every important aspect of developing the company, and everyone should be able to contribute whatever they can.”
 
-We hope that, with this knowledge, we can foster teams that can handle any challenge.
+We hope that, with this knowledge, we can foster teams that can handle any challenge. 
+
+If you have any ideas or input on this we’d love to hear from you.
