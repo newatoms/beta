@@ -7,7 +7,7 @@
 
 Each individual's worldview is made up of countless experiences and perspectives. People easily switch between these views, as can be seen while navigating traffic in the city:
 
-No matter what vehicle we use, we feel like *we* are at the center of traffic and that everyone should comply to *our* rules. When we're on a bike, everyone participating in the city's movement is interrupting our trajectory. But when we're in a car, we feel like both cyclists and pedestrians are hazardous. They are unpredictable projectiles that don't follow the rules—rules that would make traffic safe, if only everyone would comply to them.
+It is human to feel like *we* are at the center of the universe and that everyone should comply to *our* rules. When we're on a bike, everyone participating in the city's movement is interrupting our trajectory. But when we're in a car, we feel like both cyclists and pedestrians are hazardous. They are unpredictable projectiles that don't follow the rules—rules that would make traffic safe, if only everyone would comply to them.
 
 > The most effective method for upgrading knowledge is by cooperating with others
 
