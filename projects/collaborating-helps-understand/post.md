@@ -1,7 +1,7 @@
 ![An old photograph Tripp and Bowen on a bicycle](https://i.imgur.com/WFGVZKp.jpg)
 *The armless [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), and legless [Eli Bowen](https://en.wikipedia.org/wiki/Eli_Bowen), riding a tandem.*
 
-Everyone who starts a company is very concerned with hiring the right talent. Venture funding backed startups pay insane salaries for talent with impressive CVs and proven track records. Yet Google’s internal research into this has shown the best performing teams were not those made out of the brightest individuals.
+Hiring the right talent is a top concern for every startup. The best résumés and track records will provide for some [insane salaries](http://www.indeed.com/salary/q-Software-Engineer-l-Silicon-Valley,-CA.html) to try and get the most productive teams. Yet internal research by Google into what makes great teams has shown this doesn’t work: the best performing teams were not those made out of the brightest individuals.
 
 So what makes the best teams?
 
