@@ -21,3 +21,6 @@ Thus, our brains need a visual representation to process information faster and 
 ## Retention
 
 Retention is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
+
+
+<!-- To know that New Atoms highly considers the images it uses to accompany content — As a Beta reader — I can see an example of a real image trajectory -->
