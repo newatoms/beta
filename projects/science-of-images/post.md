@@ -21,3 +21,16 @@ Thus, our brains need a visual representation to process information faster and 
 ## Retention
 
 Retention is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
+
+## Now what?
+
+How can you apply this user behaviour knowledge so that people will resonate with your images? In a practical sense, according to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that the images need to tell part of the story."
+
+To make it easier on yourself, you can set some guidelines: 
+
+* Images should be interesting on their own. 
+* Trigger curiosity; don’t go for the obvious. 
+* Images should create a context. Create an atmosphere into which you would like your readers to enter.
+* Images need to tell part of the story.
+
+Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?*  
