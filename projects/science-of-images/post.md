@@ -28,9 +28,9 @@ How can you apply this user behaviour knowledge so that people will resonate wit
 
 To make it easier on yourself, you can set some rules: 
 
-* The image should be interesting on its own. 
+* Images should be interesting on there own. 
 * Trigger curiosity; don’t go for the obvious. 
-* The image should create a context. Create an atmosphere into which you would like your readers to enter.
-* The image needs to tell part of the story.
+* They should create a context. Create an atmosphere into which you would like your readers to enter.
+* Images need to tell part of the story.
 
-Especially if you’re collaborating on content, it’s important to think about the arguments to defend your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?*  
+Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?*  
