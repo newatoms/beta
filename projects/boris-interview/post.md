@@ -2,7 +2,7 @@
 
 # The Experience that Cried for a New Business
 
-One of Boris's most uttered words, to the anoyance of most of the people who surround him, is "*why*".
+One of Boris's most uttered words, to the annoyance of most of the people who surround him, is "*why*".
 "*Why* is there a need for this to exist?", "*Why* would you want to change this and *why* havent you?", "*Why* are we not asking *why*?" Even though it can be wildly annoying at times, it has also enabled him to understand small bits of the world with which he would come into contact. The more small bits of understanding he collected, the more they contributed to a bigger understanding—an understanding that led to a hunger for more.
 
 This steered him into the field journalism, a world filled wih professionals in asking the *what*s and the *why*s about the things that move our world. Even within a group of naturally curious people, Boris noticed that few would question themselves about their methods and motives.
