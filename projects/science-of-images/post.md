@@ -26,11 +26,11 @@ Retention is related to the memorable experience that visual content tends to cr
 
 How can you apply this user behaviour knowledge so that people will resonate with your images? In a practical sense, according to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that the images need to tell part of the story."
 
-To make it easier on yourself, you can set some rules: 
+To make it easier on yourself, you can set some guidelines: 
 
-* Images should be interesting on there own. 
+* Images should be interesting on their own. 
 * Trigger curiosity; don’t go for the obvious. 
-* They should create a context. Create an atmosphere into which you would like your readers to enter.
+* Images should create a context. Create an atmosphere into which you would like your readers to enter.
 * Images need to tell part of the story.
 
 Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?*  
