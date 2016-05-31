@@ -1,5 +1,3 @@
-# We are a Protagonist in the Story of IT
-
 ## Goal
 To *show the organisations impact on the future*, we will write about *our Vision* to show how *modern* thinking enables New Atoms to excel in *Media Production* written from the perspective of a(n) *Internal Editorial Team*.
 

@@ -1,0 +1,4 @@
+About images and how they add value to your content, backed by science.
+
+Image: © 2014 Jakub. Licensed under CC-BY
+<img src="http://i.imgur.com/Sv894au.png" alt="Eye in space" width=100% />

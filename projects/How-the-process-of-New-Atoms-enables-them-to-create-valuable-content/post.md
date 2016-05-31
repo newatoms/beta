@@ -1,8 +1,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Catalunya_test_2011_-_36.jpg" width=100% />
 
-# Building Bridges
+# Building Bridges with Macaroni
 
-If you had a really cool science class when you were a kid, perhaps you had a bridge-building challenge. Each student in the class designs and builds a model of a bridge within a strict framework of rules. At the end of the contest, a heavy weight is placed on each model to test its structural integrity. Some bridges are beautiful, but collapse immediately under the weight. Others look like abominations but can bear the weight of a sack of bowling balls.
+If you had a really cool science class when you were a kid, perhaps you had a macaroni bridge-building challenge. Each student in the class designs and builds a model of a bridge within a strict framework of rules. At the end of the contest, a heavy weight is placed on each model to test its structural integrity. Some bridges are beautiful, but collapse immediately under the weight. Others look like abominations but can bear the weight of a sack of bowling balls.
 
  Author and entrepreneur [Margaret Heffernan](http://www.mheffernan.com/index2.php) identifies that
 
@@ -10,29 +10,31 @@ If you had a really cool science class when you were a kid, perhaps you had a br
 
 Imagine the same challenge, but in a way that each bridge is only *started* by one student. It then goes through a rotation, allowing each student to add small parts and make small improvements based on their aptitudes. In the end, you have a much higher success rate, and kids have worked together to achieve great things.
 
-## What all teams can learn from software development
+## What all teams can learn from kids building macaroni bridges
 
-At New Atoms, we don't work as individuals with large, specific tasks. We work as a team in which every member contributes small iterations to the whole. This enables us to work from our strengths instead of from necessity.
+This type of process already exists. It's called *agile* working and is mainly used in software engineering. Simply stated, *agile* teams work on projects that aim to achieve a specific goal. This goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, every team member can choose tasks that suit their own strengths and experiences. They can also execute them in the way they think best serves the larger goal.
 
-This is called *agile* working and is mainly used in software engineering. Simply stated, *agile* teams work on projects that aim to achieve a specific goal. This goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, every team member can choose tasks that suit their own strengths and experiences. They can also execute them in the way they think best serves the larger goal. By enabling team members to work on a project in the way they see fit, solutions emerge that no one individual could ever expect. This enables teams to go beyond conventions into newer and more fruitful territories.
+By enabling team members to work on a project in the way they see fit, solutions emerge that no one individual could ever expect. This enables teams to go beyond conventions into newer and more fruitful territories.
+
+The possibility of kids building macaroni bridges together shows that agile working does not have to be limited to software engineering. It can also be applied to all other forms of working that benefit from collaboration.
 
 ## Traditional producing, be gone
 
-New Atoms found a way to make all creative works in an agile manner—not only software development, but journalistic content. This brought some challenges to the table. Writing text, for example, is at its core "easy" for everyone, but once you break it up into small iterations, it actually gets quite abstract and difficult.
+One field that could vastly improve with better collaboration is journalism. Imagine articles that have not been written by only one person (along with her perspectives and ego), but by a whole diverse team with each contributor's individual skills, views and voice.
 
-Traditionally, producing an article goes something like this:
+Doing this brings some challenges to the table. Writing text, for example, is at its core "easy" for everyone. But the task of breaking it up into small iterations is quite abstract and difficult.
 
-1. Finding a subject
-* Doing research
-* Possible interviewing
-* Writing
-* Some more research
-* Re-writing
-* Editing
-* Printing
+Traditionally, producing an article goes something like this: first you find a subject, then you do some research possibly followed by an interview. After gathering all the necessary information, you start writing your article, often to discover your research is inadequate. So you do some more research and interviewing and re-write your article. Then you present your work to your editor (which has more than likely not yet seen the light of day). The editor has some comments and offers perspectives you failed to think of. Annoyed by your own lack of insight, you re-write yet again and hopefully get approved for printing.
 
-The New Atoms way of working, however, introduces the advantage of *continuous press*. This means every little iteration should add value to the whole. These additions get reviewed by someone else so you always have an editing step. When this task is added by a team member, it's his/her responsibility to make the end product publishable. This way you can always show something to the client in a finished state.
+The agile way of working, however, introduces the idea of *continuous press*.
 
-Making teams work in an agile way is not only good for making use of skills, it also enables the team to deliver publishable articles in a fast and efficient way.   
+<img src="http://i.giphy.com/lXiRLb0xFzmreM8k8.gif" width="100%">
+
+In this process, every little iteration a team member makes adds value to the whole. The article is continuously built upon from different perspectives and sources until it is a well-rounded, creative work. Each addition is then reviewed by someone else in an editing step. This ensures that projects are fulfilling their goals while not going outside the scope of those goals.
+
+Ideally, the creative work is built upon in such a way that it is publishable after every iteration. This way, every article is in a constantly "finished" state.
+
+Enabling an agile workflow best situates people to use their talents within a team. They (and the work) are benefitting from the complimentary talents and insights of others. They are working together to deliver creative works quickly and efficiently. All of this makes for some very strong macaroni bridges.
 
 Image: [Red Bull pit stop](https://commons.wikimedia.org/wiki/File:Catalunya_test_2011_-_36.jpg) by [Gil Abrantes](https://www.flickr.com/photos/9259187@N05)
+Gif: [GFAUGHT](http://gfaught.tumblr.com/)
