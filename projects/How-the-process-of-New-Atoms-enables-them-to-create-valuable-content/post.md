@@ -37,3 +37,4 @@ Ideally, the creative work is built upon in such a way that it is publishable af
 Enabling an agile workflow best situates people to use their talents within a team. They (and the work) are benefitting from the complimentary talents and insights of others. They are working together to deliver creative works quickly and efficiently. All of this makes for some very strong macaroni bridges.
 
 Image: [Red Bull pit stop](https://commons.wikimedia.org/wiki/File:Catalunya_test_2011_-_36.jpg) by [Gil Abrantes](https://www.flickr.com/photos/9259187@N05)
+Gif: [GFAUGHT](http://gfaught.tumblr.com/)
