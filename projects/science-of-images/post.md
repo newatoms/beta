@@ -24,7 +24,7 @@ Retention is related to the memorable experience that visual content tends to cr
 
 ## Now what?
 
-How can you apply this user behaviour knowledge so that people will resonate with your images? In a practical sense, according to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that the images need to tell part of the story."
+So how can you apply this user behaviour knowledge so that people will resonate with your images? In a practical sense, according to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that the images need to tell part of the story."
 
 To make it easier on yourself, you can set some guidelines: 
 
@@ -33,7 +33,7 @@ To make it easier on yourself, you can set some guidelines:
 * Images should create a context. Create an atmosphere into which you would like your readers to enter.
 * Images need to tell part of the story. 
 
-## Don’t start trying to find the perfect image 
+## Don’t start by trying to find the perfect image 
 
 All this being said, it can still be daunting right? You can find yourself spending hours to find the perfect photograph. Please don’t. Iterating on content until it's good enough to give to the client works not only with the writing process, but with finding images as well.
 
