@@ -16,7 +16,7 @@ Is the article [Publishable](https://github.com/newatoms/guides/blob/ready/gloss
 - [ ] comprehensible,
 - [ ] within the commissioned project.
 
-Is it an **article**
+Is it an **article**?
 
 - [ ] it is text,
 - [ ] it has a captivating beginning, from the first sentence,
