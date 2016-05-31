@@ -1,4 +1,6 @@
-Automation has always had a pretty bad name, mainly because it keeps taking away jobs from good hard working citizens. But to be completely frank, It is hard to believe that these jobs were enjoyable or challenging mainly because the robots that are capable of taking over our jobs are those that are really good at following up instructions, but are terrible in creative thinking. 
+# Robots can have our jobs
+
+Automation has always had a pretty bad name, mainly because it seems to keep taking away jobs from good hard working citizens. But to be completely frank, It is hard to believe that these jobs were enjoyable or challenging mainly because the robots that are capable of taking over our jobs are those that are really good at following up instructions, but are terrible in creative thinking. 
 
 Turns out that the one thing we Humans are super good at is creative thinking. 
 
