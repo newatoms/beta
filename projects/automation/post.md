@@ -4,6 +4,6 @@ Automation has always had a pretty bad name, mainly because it seems to keep tak
 
 Turns out the one thing we humans are super good at is creative thinking. 
 
-We have the capability to come up with solutions that no other animal or machine can—solutions that not only come from practicality, but also take other humans into account. Sadly, most of our time is spent doing jobs that don't challenge our creative side, jobs that are very clear in what their goal is and how we are supposed to achieve them. 
+We have the capability to come up with solutions that no other animal or machine can—solutions that not only come from practicality, but also take other humans into account. Sadly, most of our time is spent doing jobs that don't challenge our creative side, jobs that have already-established goals with inflexible solutions.
 
-Imagine a world where we would never have to do things that do not require our creativity. Imagine a world where you would be constantly stimulated to come up with smart, fun and social solutions to everything you do. Nothing would ever come to a standstill. Systems would become fluid and social and each individual could influence the world around them with their own strengths and beliefs.
+Imagine a world where we would never have to do things that do not require our creativity. Imagine a world where we only had to do constructive, creative things. Nothing would ever come to a standstill. Systems would become fluid and social and each individual could influence the world around them with their own strengths and beliefs.
