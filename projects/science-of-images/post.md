@@ -24,7 +24,7 @@ Retention is related to the memorable experience that visual content tends to cr
 
 ## Now what?
 
-How can you apply this user behaviour knowledge so that people will resonate with your images? In a practical sense, according to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that the images need to tell part of the story."
+So how can you apply this user behaviour knowledge so that people will resonate with your images? In a practical sense, according to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that the images need to tell part of the story."
 
 To make it easier on yourself, you can set some guidelines: 
 
@@ -33,13 +33,13 @@ To make it easier on yourself, you can set some guidelines:
 * Images should create a context. Create an atmosphere into which you would like your readers to enter.
 * Images need to tell part of the story. 
 
-## Don’t start trying to find the perfect image 
+## Don’t start by trying to find the perfect image 
 
-All this being said, it can still be daunting right? You can find yourself spending hours to find the perfect photograph. Please don’t. At New Atoms we iterate on content until we find it good enough to give to the client. We do this with writing and with finding images as well.   
+All this being said, it can still be daunting, right? You can find yourself spending hours searching for the perfect photograph. Please don’t. At New Atoms we iterate on content until we find it good enough to give to the client. We do this with writing and with finding images as well.   
 
 <img src=http://i.imgur.com/ieGL8UK.png width=100% />
 *Image caption: Notes on image finding by Krysten Koehn.* 
 
-The process you see above had a duration of 30 minutes in total.   The team decided that the image which came out of it was too generic. A user-story was made and the person that iterated on this process used it to start where she left.
+The process you see above had a duration of 30 minutes in total. The team decided that the image that came out of it was too generic. A user-story was made, and the person that iterated on top of this process used it to start where Krysten left off.
 
 Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?* 
