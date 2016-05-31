@@ -14,13 +14,13 @@ Visual content should indicate the emotion for which it aims. This could be acco
 
 ## Comprehension
 
-Comprehension is linked to the way our brains translate data in order to simplify it. It has been observed that 90% of the information sent to our brains is visual, with our brains responding to it 60,000 faster than they do for text.
+Comprehension is linked to the way our brains translate data in order to simplify it. It has been observed that 90% of the information sent to our brains is visual, with our brains responding to it **60,000 faster** than they do for text.
 
 Thus, our brains need a visual representation to process information faster and create a connection between the visual object and its concept. It’s impressive how the visual perception in our brain makes such a complex task easy. This could also be a scientific explanation for why "an image is worth a thousand words.”
 
 ## Retention
 
-Retention is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
+Retention is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).  
 
 ## Now what?
 
@@ -31,6 +31,15 @@ To make it easier on yourself, you can set some guidelines:
 * Images should be interesting on their own. 
 * Trigger curiosity; don’t go for the obvious. 
 * Images should create a context. Create an atmosphere into which you would like your readers to enter.
-* Images need to tell part of the story.
+* Images need to tell part of the story. 
 
-Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?*  
+## Don’t start trying to find the perfect image 
+
+All this being said, it can still be daunting right? You can find yourself spending hours to find the perfect photograph. Please don’t. At New Atoms we iterate on content until we find it good enough to give to the client. We do this with writing and with finding images as well.   
+
+<img src=http://i.imgur.com/ieGL8UK.png width=100% />
+*Image caption: Notes on image finding by Krysten Koehn.* 
+
+The process you see above had a duration of 30 minutes in total.   The team decided that the image which came out of it was too generic. A user-story was made and the person that iterated on this process used it to start where she left.
+
+Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?* 
