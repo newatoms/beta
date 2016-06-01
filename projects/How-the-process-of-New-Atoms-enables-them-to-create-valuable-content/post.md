@@ -24,7 +24,7 @@ One field that could vastly improve with better collaboration is journalism. Ima
 
 Traditionally, producing an article goes something like this: first you find a subject, then you do some research possibly followed by an interview. After gathering all the necessary information, you start writing your article, often to discover your research is inadequate. So you do some more research and interviewing and re-write your article. Then you present your work to your editor (which has more than likely not yet seen the light of day). The editor has some comments and offers perspectives you failed to think of. Annoyed by your own lack of insight, you re-write yet again and hopefully get approved for printing.
 
-With an agile way of working, however, we're introducing the idea of *continuous press*.
+An agile way of working, however, has helped us introduce the idea of *continuous press*.
 
 <img src="http://i.giphy.com/lXiRLb0xFzmreM8k8.gif" width="100%">
 
@@ -32,7 +32,7 @@ In this process, every little iteration a team member makes adds value to the wh
 
 Ideally, we build upon the creative work in such a way that it is publishable after every iteration. This way, every article is in a constantly "finished" state.
 
-Enabling an agile workflow best situates us to use our talents within a team. We (and our work) are benefitting from the complimentary talents and insights of others. We are working together to deliver creative works quickly and efficiently. All of this makes for some very strong macaroni bridges.
+Enabling an agile workflow best situates us to use our talents within a team. We (and our work) are benefitting from the complimentary talents and insights of others, working together to deliver creative works quickly and efficiently. All of this, if done well, makes for some very strong macaroni bridges.
 
 Image: [Red Bull pit stop](https://commons.wikimedia.org/wiki/File:Catalunya_test_2011_-_36.jpg) by [Gil Abrantes](https://www.flickr.com/photos/9259187@N05)
 Gif: [GFAUGHT](http://gfaught.tumblr.com/)
