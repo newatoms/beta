@@ -1,4 +1,4 @@
-![An old photograph Tripp and Bowen on a bicycle](https://i.imgur.com/WFGVZKp.jpg)
+<img src="https://i.imgur.com/WFGVZKp.jpg" alt="An old photograph Tripp and Bowen on a bicycle" width=100% />
 *The armless [Charles B. Tripp](https://en.wikipedia.org/wiki/Charles_B._Tripp), and legless [Eli Bowen](https://en.wikipedia.org/wiki/Eli_Bowen), riding a tandem.*
 
 Hiring the right talent is a top concern for every startup. The best résumés and track records will give rise to some [insane salaries](http://www.indeed.com/salary/q-Software-Engineer-l-Silicon-Valley,-CA.html) with the goal of recruiting for the most productive teams. Yet internal research by Google into what makes great teams has shown that this doesn’t work: the best performing teams were not those made from the brightest individuals.
