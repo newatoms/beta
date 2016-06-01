@@ -16,7 +16,7 @@ This type of process already exists. It's called *agile* working and is mainly u
 
 By enabling team members to work on a project in the way they see fit, solutions emerge that no one individual could ever expect. This enables teams to go beyond conventions into newer and more fruitful territories.
 
-The possibility of kids building macaroni bridges together shows that agile working does not have to be limited to software engineering. It can also be applied to all other forms of working that benefit from collaboration.
+The possibility of kids building macaroni bridges together shows that agile working does not have to be limited to software engineering. We're trying it out on other forms of working that benefit from collaboration.
 
 ## Traditional producing, be gone
 
