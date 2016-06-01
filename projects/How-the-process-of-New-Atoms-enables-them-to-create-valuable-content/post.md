@@ -14,7 +14,7 @@ Several people have contributed to the writing process. So, collaboration, right
 
 We are trying, as a team, to build upon multiple creative works at the same time and to do it in such a way that everything is publishable after every iteration.
 
-In this process, every little iteration a team member makes adds value to the whole. The article is continuously built upon from our different perspectives and sources until it is a well-rounded, creative work. Each addition is then reviewed by someone else in an editing step. This ensures that projects are fulfilling their goals while not going outside the scope of those goals.
+In this process, every little iteration a team member makes adds value to the whole. The article is continuously built upon from our different perspectives and sources until it is a well-rounded, creative work. Each addition is reviewed by someone else in an editing step. This ensures that projects are fulfilling the goals we set for them while not going outside the scope of those goals.
 
 Think of it like this: if you had a really cool science class when you were a kid, you probably had a macaroni bridge-building challenge. Every student in your class designed and built a model of a bridge within a strict framework of rules. At the end of the contest, a heavy weight was placed on each model to test its structural integrity. Some bridges were beautiful, but collapsed immediately under the weight. Others were utter abominations but could bear the weight of a sack of bowling balls.
 
@@ -22,7 +22,7 @@ Author and entrepreneur [Margaret Heffernan](http://www.mheffernan.com/index2.ph
 
 >we have an education system that encourages people to think of themselves as soloists – their success actually requires someone else’s failure.
 
-Now imagine the same challenge, but in a way that each bridge is only started by one student. It then goes through a rotation, allowing each student to add small parts and make small improvements based on their aptitudes. In the end, you have a much higher success rate, and kids have worked together to achieve great things.
+Now imagine the same challenge, but in a way that each bridge is only started by one student. It then goes through a rotation, allowing each student to add small parts and make small improvements based on their aptitudes. In the end, you have a much higher success rate, and kids have worked together to make great things.
 
 ## What all teams can learn from kids building macaroni bridges
 
