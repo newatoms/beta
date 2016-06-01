@@ -11,6 +11,7 @@ This suggests that that things will be better when people only have to do what t
 
 But off course, there are always jobs that nobody wants to do. Jobs that you just cant get better at, that are repetitive and have already-established goals with inflexible solutions. So who do you assign those jobs to? Robots!
 
+# Automation
 Robots are amazing at following up instructions with inhuman precision while humans are great at coming up with instructions. Humans are great at creation while robots are superior at execution.
 
 Automation is not only good at doing certain things more efficient that people, it is a great way to make sure that no one needs to have a job they hate.
