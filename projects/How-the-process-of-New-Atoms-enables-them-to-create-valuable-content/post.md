@@ -20,7 +20,7 @@ The possibility of kids building macaroni bridges together shows that agile work
 
 ## Traditional producing, be gone
 
-One field that could vastly improve with better collaboration is journalism. Imagine articles that have not been written by only one person (along with her perspectives and ego), but by a whole diverse team with each contributor's individual skills, views and voice.
+We think one field that could vastly improve with better collaboration is journalism. Imagine articles that have not been written by only one person (along with her perspectives and ego), but by a whole diverse team with each contributor's individual skills, views and voice.
 
 Traditionally, producing an article goes something like this: first you find a subject, then you do some research possibly followed by an interview. After gathering all the necessary information, you start writing your article, often to discover your research is inadequate. So you do some more research and interviewing and re-write your article. Then you present your work to your editor (which has more than likely not yet seen the light of day). The editor has some comments and offers perspectives you failed to think of. Annoyed by your own lack of insight, you re-write yet again and hopefully get approved for printing.
 
