@@ -17,7 +17,7 @@ It is human to feel like *we* are at the center of the universe and that everyon
 
 When we are open to different perspectives, we also tend to be pretty good at upgrading our knowledge. This occurs when we are confronted with inconsistencies, get new insights or learn new facts. The best way to encounter such opportunities is by cooperating with others, because it's the most direct and practical way to experience a different view.
 
-Collaborative situations require you to focus your discussions, use constructive arguments and explain your thought processes. At times we are confronted with unfamiliar topics. These moments are valuable because they show a gap in our knowledge and let us fill that gap by "stealing" the knowledge of others, as long as we feel safe to do so.          
+Working together effectively requires us to focus our discussions, use constructive arguments and explain our thought processes. At times we are confronted with unfamiliar or challenging topics. These moments are valuable because they show a gap in our knowledge and let us fill that gap by "stealing" the knowledge of others, as long as we feel safe to do so.          
 
 ## Feeling safe, accelerator of learning
 
