@@ -26,7 +26,7 @@ Now imagine the same challenge, but in a way that each bridge is only started by
 
 ## What all teams can learn from kids building macaroni bridges
 
-This process is not new. It's called *agile working* and is mainly used in software engineering. Simply stated, agile teams work on projects that aim to achieve a specific goal. This goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, every team member can choose tasks that suit their own strengths and experiences. They can also execute them in the way they think best serves the larger goal.
+This process isn't new. It's been used in software engineering for the last decade or so. These super-smart people call it *agile working*. Agile teams first identify the goal of a project, then work on the project with the sole aim of achieving that goal. To make this possible, the goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, every team member can choose tasks that suit their own strengths and experiences. Even better, they can execute them in the way they think best serves the larger goal.
 
 By enabling team members to work on a project in the way they see fit, solutions emerge that no one individual could ever expect. Things develop from multiple perspectives. This enables teams to go beyond conventions into newer and more fruitful territories.
 
