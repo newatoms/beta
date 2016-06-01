@@ -3,7 +3,7 @@
 
 Hiring the right talent is a top concern for every startup. The best résumés and track records will give rise to some [insane salaries](http://www.indeed.com/salary/q-Software-Engineer-l-Silicon-Valley,-CA.html) with the goal of recruiting for the most productive teams. Yet internal research by Google into what makes great teams has shown that this doesn’t work: the best performing teams were not those made from the brightest individuals.
 
-So what makes the best teams?
+So what makes the best [teams](http://image.slidesharecdn.com/aesculturecode2015-recruitmentcover-150405032249-conversion-gate01/95/how-to-grow-a-thriving-advisory-business-with-aes-international-67-638.jpg?cb=1429169440)?
 
 ## Differing perspectives are the key
 
