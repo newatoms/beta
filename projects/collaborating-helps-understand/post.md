@@ -21,7 +21,7 @@ Working together effectively requires us to focus our discussions, use construct
 
 ## Feeling safe, accelerator of learning
 
-Google’s incredible research into what makes the teams perform: [Project Aristotle](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=1). The project, run by Google’s People Analytics Division, analysed what the influence was of individuals on teams.
+Incredible research done in [Project Aristotle](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=1) by Google gives us great insights into what it is that makes teams perform well. The project, run by Google’s People Analytics Division, analysed what the influence was of individuals on teams.
 
 "We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘who’ part of the equation didn’t seem to matter,” Abeer Dubey, a leader on the project said.
 
