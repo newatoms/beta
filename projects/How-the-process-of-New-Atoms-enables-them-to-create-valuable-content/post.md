@@ -26,7 +26,7 @@ This process isn't new. It's been used in software engineering for the last deca
 
 By enabling team members to work on a project in the way they see fit, solutions emerge that no one individual could ever expect. Things develop from multiple perspectives. This enables teams to go beyond conventions into newer and more fruitful territories.
 
-The possibility of kids building macaroni bridges together shows that agile working does not have to be limited to software engineering. We're trying it out on other forms of working that benefit from collaboration like journalistic production, .
+And this is why we feel every product that has a variable trajectory and thrives on creative freedom should use the *agile* process.
 
 Enabling an agile workflow best situates us to use our talents within a team. We (and our work) are benefitting from the complimentary talents and insights of others, working together to deliver creative works quickly and efficiently.
 
