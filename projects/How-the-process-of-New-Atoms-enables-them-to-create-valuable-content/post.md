@@ -34,5 +34,5 @@ Enabling an agile workflow best situates us to use our talents within a team. We
 
 All of this, if done well, makes for some very strong macaroni bridges.
 
-Image: [Contiuous press](http://i.imgur.com/nc1Pcgv.jpg) by [Boris van Hoytema](http://bvh.me/)
+Image: [Red Bull pit stop](https://commons.wikimedia.org/wiki/File:Catalunya_test_2011_-_36.jpg) by [Gil Abrantes](https://www.flickr.com/photos/9259187@N05)
 Gif: [GFAUGHT](http://gfaught.tumblr.com/)
