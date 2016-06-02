@@ -1,4 +1,4 @@
-<img src="https://newatoms.slack.com/files/boris/F1CP01E4W/continuous_press.png" width=100% />
+<img src="https://files.slack.com/files-pri/T04F3U9HB-F1CP01E4W/continuous_press.png" width=100% />
 
 No one in journalism actually collaborates. We're trying to fix that.
 
