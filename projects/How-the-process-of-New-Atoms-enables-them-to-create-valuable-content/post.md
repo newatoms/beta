@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/DarkSideOfTheMoon1973.jpg" width=100% />
+<img src="https://i.vimeocdn.com/video/234342984_1280x960.jpg" width=100% />
 
 No one in journalism actually collaborates. We're trying to fix that.
 
