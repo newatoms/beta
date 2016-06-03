@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Catalunya_test_2011_-_36.jpg" width=100% />
+<img src="https://i.ytimg.com/vi/4ebeGepdAV8/maxresdefault.jpg" width=100% />
 
 No one in journalism actually collaborates. We're trying to fix that.
 
@@ -22,7 +22,7 @@ Now imagine the same challenge, but in a way that each bridge is only started by
 
 ## What all teams can learn from kids building macaroni bridges
 
-This process isn't new. It's been used in software engineering for the last decade or so. These super-smart people call it *agile working*. 
+This process isn't new. It's been used in software engineering for the last decade or so. These super-smart people call it *agile working*.
 
 Agile teams first identify the goal of a project, then work on the project with the sole aim of achieving that goal. To make this possible, the goal is broken up into smaller tasks that can be fulfilled by individual team members. This way, the project keeps its momentum and every team member can choose tasks that suit her or his own strengths, quickly building upon one another's work. Even better, everyone can execute the tasks in the way they think best serves the larger goal.
 
@@ -34,5 +34,5 @@ Enabling an agile workflow best situates us to use our talents within a team. We
 
 All of this, if done well, makes for some very strong macaroni bridges.
 
-Image: [Red Bull pit stop](https://commons.wikimedia.org/wiki/File:Catalunya_test_2011_-_36.jpg) by [Gil Abrantes](https://www.flickr.com/photos/9259187@N05)
+Image: [Rowing](https://i.ytimg.com/vi/4ebeGepdAV8/maxresdefault.jpg) by [See Ming-Lee](https://www.youtube.com/channel/UC6wDuILndDZycucDp6Rg8Ow)
 Gif: [GFAUGHT](http://gfaught.tumblr.com/)
