@@ -35,4 +35,5 @@ Enabling an agile workflow best situates us to use our talents within a team. We
 All of this, if done well, makes for some very strong macaroni bridges.
 
 Image: The [Jazz Messengers](https://en.wikipedia.org/wiki/Terence_Blanchard#/media/File:Jas_Messengers01.JPG) by Roland Godefroy
+
 Gif: [GFAUGHT](http://gfaught.tumblr.com/)
