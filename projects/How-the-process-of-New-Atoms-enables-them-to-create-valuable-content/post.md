@@ -1,4 +1,4 @@
-<img src="https://i.ytimg.com/vi/4ebeGepdAV8/maxresdefault.jpg" width=100% />
+<img src="http://farm4.static.flickr.com/3509/3830293674_46725f3179.jpg" width=100% />
 
 No one in journalism actually collaborates. We're trying to fix that.
 
@@ -34,5 +34,5 @@ Enabling an agile workflow best situates us to use our talents within a team. We
 
 All of this, if done well, makes for some very strong macaroni bridges.
 
-Image: [Rowing](https://i.ytimg.com/vi/4ebeGepdAV8/maxresdefault.jpg) by [See Ming-Lee](https://www.youtube.com/channel/UC6wDuILndDZycucDp6Rg8Ow)
+Image: Oarsmen on the Schuylkill by Thomas Eakins, 1874
 Gif: [GFAUGHT](http://gfaught.tumblr.com/)
