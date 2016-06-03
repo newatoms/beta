@@ -7,15 +7,15 @@ It is speculated on the internet that Einstein once wrote: "Everybody is a geniu
 
 If you are bad at something and you don't seem to get better at it, no matter your efforts, you usually do an even worse job than you are capable of. But if you enjoy doing something and see yourself getting better at it, you will often exceed beyond expectations.
 
-This suggests that people are more efficient when they do what they enjoy and can improve in. That here is something beyond the [carrot and the stick](https://en.wikipedia.org/wiki/Carrot_and_stick), It speaks of the power of motivation through happiness and self fullfillment instead of motivation trough fear or rewards. You might even go as far as to conclude that if  you let everyone do the things they enjoy, and give them the opportunity to develop themselves, you will maximize their contribution to society.
+This suggests that people are more efficient when they do what they enjoy and can improve in. It also means that there is something beyond the [carrot and the stick](https://en.wikipedia.org/wiki/Carrot_and_stick). It speaks of the power of motivation through happiness and self fullfillment instead of motivation trough fear or rewards. You might even go as far as to conclude that if  you let everyone do the things they enjoy, and give them the opportunity to develop themselves, you will maximize their contribution to society.
 
-But of course, there are always tasks that nobody wants to do. Tasks that you just can't get better at, that are repetitive and have pre determend goals with inflexible solutions. Tasks that that have no need of creativity but only of execution. So who do you assign those Tasks to? Robots!
+But of course, there are always tasks that nobody wants to do. Tasks that you just can't get better at, that are repetitive and have predetermined goals with inflexible solutions. Tasks that don't need creativity, only execution. So who do you assign those tasks to? Robots!
 
 # Automation
 Robots are amazing at following up instructions with inhuman precision while humans are great at coming up with instructions. Humans are great at creation while robots are superior at execution.
 
 Automation is not only good for doing certain things more efficient than people, it is a great way to make sure that no one needs to have a job they hate.
 
-Of course this will not be achieved overnight. The people that have the jobs that would be atomised would have a really hard time rediscovering what they enjoy and are good at. We should not just fire everyone with a job better done by robots, but we should keep it in mind for all the new jobs that open up. What if we would only give the jobs to those who enjoy them and let the rest be done by robots?
+Of course this will not be achieved overnight. The people whose jobs would be atomised would need time to rediscover what they enjoy and are good at. We should not just fire everyone with a job better suited for robots, but we should keep it in mind for all the new jobs that open up. What if we would only give the jobs to those who enjoy them and let the rest be done by robots?
 
 Imagine a world where you would be constantly stimulated to come up with smart, fun and social solutions. Imagine a world where we only had to do constructive, creative things. Nothing would ever come to a standstill. Systems would become fluid and communal and each individual could influence the world around them with their own strengths and beliefs.
