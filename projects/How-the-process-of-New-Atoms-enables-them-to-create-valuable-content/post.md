@@ -1,4 +1,4 @@
-<img src="https://c1.staticflickr.com/5/4080/4815205632_ef9be83f32_o.jpg" width=100% />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Bad_brains_1983.jpg" width=100% />
 
 No one in journalism actually collaborates. We're trying to fix that.
 
