@@ -22,6 +22,10 @@ Thus, our brains need a visual representation to process information faster and 
 
 Retention is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).  
 
+<img src="http://i.imgur.com/8p4Xzhd.jpg" alt="Astronaut and circus horse meet up in an alleyway" width=45% />
+<img src="http://i.imgur.com/5OUeje6.jpg" alt="Human television sharing intimate dinner with television" width="45%" />
+*According to above theory, both of these strange stock images should get good scores on memorability. Yet the algorithm only found the romantic dinner between two (semi-human) tv's to be highly memorable. Source: [Buzzfeed](https://www.buzzfeed.com/daves4/unexplainable-stock-photos?utm_term=.px0waDlZ3#.okVGnrX2z)*
+
 ## Now what?
 
 So how can you apply this user behaviour knowledge so that people will resonate with your images? In a practical sense, according to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that the images need to tell part of the story."
