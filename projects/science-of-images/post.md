@@ -42,7 +42,7 @@ To make it easier on yourself, you can set some guidelines:
 All this being said, it can still be daunting right? You can find yourself spending hours to find the perfect photograph. Please don’t. Iterating on content until it's good enough to give to the client works not only with the writing process, but with finding images as well.
 
 <img src=http://i.imgur.com/ieGL8UK.png width=100% />
-*Image caption: Notes on image finding by Krysten Koehn.* 
+*Notes on image finding by Krysten Koehn.*
 
 The process you see above had a duration of 30 minutes in total. The team decided that the image which came out of it was too generic. A [User story](https://en.wikipedia.org/wiki/User_story) was made and the person that iterated on this process used it to start where she left.
 
