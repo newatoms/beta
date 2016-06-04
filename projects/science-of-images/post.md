@@ -44,6 +44,6 @@ All this being said, it can still be daunting right? You can find yourself spend
 <img src=http://i.imgur.com/ieGL8UK.png width=100% />
 *Image caption: Notes on image finding by Krysten Koehn.* 
 
-The process you see above had a duration of 30 minutes in total.   The team decided that the image which came out of it was too generic. A [User story](https://en.wikipedia.org/wiki/User_story) was made and the person that iterated on this process used it to start where she left.
+The process you see above had a duration of 30 minutes in total. The team decided that the image which came out of it was too generic. A [User story](https://en.wikipedia.org/wiki/User_story) was made and the person that iterated on this process used it to start where she left.
 
-Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?* 
+Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?*
