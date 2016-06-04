@@ -1,6 +1,6 @@
 
-<img src="http://i.imgur.com/HkPmyfN.jpg" alt="Dinosaur eye" width=100% />
-*image caption: Dinosaur eye by [allispossible.org.uk](https://flic.kr/p/4a2qFU)*
+<img src="http://i.imgur.com/2HNf90E.jpg" alt="Dinosaur eye" width=100% />
+*The deadly sin of latte art imagery. By [Michael Allen Smith](https://www.flickr.com/photos/digitalcolony/)*
 
 According to the images they use on their posts, it seems like a lot of bloggers like cappuccinos with foam art. They work on the same laptops, but still use paper and pencils to show they are creative. All fine, but why does everyone use these generic stock photos when they don’t say anything about the written content?
 
