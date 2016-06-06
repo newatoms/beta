@@ -8,7 +8,7 @@ According to the images seen atop their posts, a lot of bloggers are evidently w
 
 To give ourselves an alternative for generic photos (and to prevent losing the fight for our readers' attention), we ask ourselves: How can we apply science and user behaviour knowledge to image finding so that readers will resonate with our images? According to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*."
 
-When used effectively, visual imagery can communicate a message very powerfully. There are a number of scientific and psychological explanations for why certain images are relatable (or aren't) and tell your story successfully (or don't):
+When used effectively, visual imagery can communicate a powerful message. There are scientific and psychological explanations for why certain images are relatable (or aren't) and tell your story successfully (or don't):
 
 ## Appeal
 
