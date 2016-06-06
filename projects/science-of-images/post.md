@@ -10,6 +10,9 @@ When used correctly, effective visuals can communicate a message very powerfully
 
 Appeal refers to natural attraction towards visual content and how it manages to attract even those with short attention spans. We might not be able to explain why we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship). Deeply emotional reactions are some of the strongest connections we can make to visual content. They occur from the part of the brain that is also related to our [survival instincts](http://adventure.howstuffworks.com/survival/wilderness/wired-for-survival1.htm), which means that the reaction may be more direct and intense.
 
+<img src="http://i.imgur.com/IVmdxZf.jpg" alt="Banksey's Caveman" width=100% />
+*Banksy's caveman by [Lord Jim](https://flic.kr/p/4qq592), ([CC BY 2.0](http://creativecommons.org/licenses/by/2.0/))*
+
 Visual content should indicate the emotion for which it aims. This could be accomplished abstractly with colour, metaphors, or irony, for example. Or it could be achieved concretely with associations which elicit the "right" feeling (safety, food, positivity, love...).
 
 ## Comprehension
@@ -32,7 +35,7 @@ So how can you apply this user behaviour knowledge so that people will resonate 
 
 To make it easier on yourself, you can set some guidelines:
 
-* Images should be interesting on their own. 
+* Images should be interesting on their own.
 * Trigger curiosity; don’t go for the obvious.
 * Images should create a context. Create an atmosphere into which you would like your readers to enter.
 * Images need to tell part of the story.
