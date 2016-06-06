@@ -1,0 +1,1 @@
+To see some of the benefits of effective communication that is not obstructed by assumptions — As a Beta reader — I can read about how the New Atoms team becomes closer by connecting on a personal level
