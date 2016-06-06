@@ -17,7 +17,7 @@ This is a natural attraction towards visual content and how it manages to attrac
 Immediate, emotional reactions are some of the strongest connections we can make to visual content. They occur from the part of the brain that is also related to our [survival instincts](http://adventure.howstuffworks.com/survival/wilderness/wired-for-survival1.htm), which means that the reaction will likely be more direct and intense.
 
 <img src="http://i.imgur.com/IVmdxZf.jpg" alt="Banksy's Caveman" width=100% />
-*Banksy's caveman by [Lord Jim](https://flic.kr/p/4qq592), ([CC BY 2.0](http://creativecommons.org/licenses/by/2.0/)). Also, give yourself a threat and see some [more work from Banksy](http://banksy.co.uk/).*
+*Banksy's caveman by [Lord Jim](https://flic.kr/p/4qq592), ([CC BY 2.0](http://creativecommons.org/licenses/by/2.0/)). Also, give yourself a treat and see some [more work from Banksy](http://banksy.co.uk/).*
 
 Visual content should indicate the emotion for which it aims. This could be accomplished abstractly with colour, metaphors, or irony, for example. Or it could be achieved concretely with associations which elicit the "right" feeling (safety, food, positivity, love...).
 
