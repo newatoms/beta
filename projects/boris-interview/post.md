@@ -11,6 +11,8 @@ This led to an urge to understand and improve the field of journalism, and so he
 
 While poking around in the business of the BBC, Boris stumbled on a set of structural problems that make it hard for news organisations to keep up with the market. The two key fields for improvement: scalability and adaptability.
 
+First of all the way in which media companies currently grow will quickly lead to scalability problems. Because when a company hires one person to write a story on corruption in Afghanistan...
+
 Enter New Atoms.
 
 To understand what "scalability" problems in journalism are — As a reader — I can read how boris explains it in the interview with krysten
