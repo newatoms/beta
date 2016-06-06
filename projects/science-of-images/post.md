@@ -44,6 +44,6 @@ One last suggestion to make all of this less daunting: don’t start by trying t
 
 This is an example of our process, which had a duration of about 30 minutes in total. Justifying each subsequent image in accordance with the article and the research above positioned Krysten to look for a better image. She eventually got frustrated and gave up, settling on a "super cheesy potential image".
 
-Because the process was documented and each image was rationalised, however, the next person to attempt the task could pick up where she left off rather than starting from the beginning.
+Because the process was documented and each image was rationalised, the next person to attempt the task could pick up where she left off rather than starting from the beginning.
 
 Especially if you’re collaborating on content, it’s important to be able to rationalise your images. With all the brain power we can muster (and that of people much smarter than us), we are trying to create contexts for our writing that people actually want to enter. Saying: “the image is beautiful and nice” just won’t cut it. Maybe just ask yourself: Are pictures of cappuccinos and laptops on desks worth a thousand words?
