@@ -2,7 +2,7 @@
 <img src="http://i.imgur.com/2HNf90E.jpg" alt="Dinosaur eye" width=100% />
 *The deadly sin of latte art imagery. By [Michael Allen Smith](https://www.flickr.com/photos/digitalcolony/)*
 
-You may be creating a context for your writing into which no one really wants to enter. We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content?
+You may be creating a context for your writing into which no one really wants to enter. We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? In this episode, an attempt to convey our learning curve about the value and the chosing of an image that sticks.
 
 According to the images seen atop their posts, a lot of bloggers are evidently writing about cappuccinos with foam art or strategically arranged laptops, smartphones, paper and pencils. We suppose that's all fine if that's the case, but why would one use these generic stock photos when they don’t say anything about the written content?
 
