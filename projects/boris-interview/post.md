@@ -15,6 +15,6 @@ First of all, the way in which media companies currently grow quickly leads to s
 
 Now let's say the same newspaper hires two more people: one to write a blogpost about beers in Belgium and another one to write about fries in France. It may seem like the newspaper has increased its production by 300%. However, all of these people now need to make trips, do research and may need mediation at some point in their process. This causes a drastic increase in overhead, making your production per person diminish and leaving you with less value for your money. This is obviously a very bad incentive for media companies to grow. 
 
-So, says Boris, these companies need to look at the way in which technological organisations grow: they hire people to make the company as a whole more valuable. Implementing this system -of sharing knowledge, work and experience- in media production, enables individuals to increase their production as well as that of the people around them.
+So, says Boris, these companies need to look at the way in which technological organisations grow: they hire people to make the company as a whole more valuable. Implementing this system-of sharing knowledge, work and experience-in media production, enables individuals to increase their production as well as that of the people around them.
 
 And so the idea for New Atoms was born.
