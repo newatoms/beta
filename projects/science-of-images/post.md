@@ -1,6 +1,6 @@
 
-<img src="http://i.imgur.com/HkPmyfN.jpg" alt="Dinosaur eye" width=100% />
-*image caption: Dinosaur eye by [allispossible.org.uk](https://flic.kr/p/4a2qFU)*
+<img src="http://i.imgur.com/2HNf90E.jpg" alt="Dinosaur eye" width=100% />
+*The deadly sin of latte art imagery. By [Michael Allen Smith](https://www.flickr.com/photos/digitalcolony/)*
 
 According to the images they use on their posts, it seems like a lot of bloggers like cappuccinos with foam art. They work on the same laptops, but still use paper and pencils to show they are creative. All fine, but why does everyone use these generic stock photos when they don’t say anything about the written content?
 
@@ -22,24 +22,28 @@ Thus, our brains need a visual representation to process information faster and 
 
 Retention is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).  
 
+<img src="http://i.imgur.com/8p4Xzhd.jpg" alt="Astronaut and circus horse meet up in an alleyway" width=48% />
+<img src="http://i.imgur.com/5OUeje6.jpg" alt="Human television sharing intimate dinner with television" width="48%" />
+*According to above theory, both of these strange stock images should get good scores on memorability. Yet the algorithm only found the romantic dinner between two (semi-human) tv's to be highly memorable. Source: [Buzzfeed](https://www.buzzfeed.com/daves4/unexplainable-stock-photos?utm_term=.px0waDlZ3#.okVGnrX2z)*
+
 ## Now what?
 
 So how can you apply this user behaviour knowledge so that people will resonate with your images? In a practical sense, according to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that the images need to tell part of the story."
 
-To make it easier on yourself, you can set some guidelines: 
+To make it easier on yourself, you can set some guidelines:
 
 * Images should be interesting on their own. 
-* Trigger curiosity; don’t go for the obvious. 
+* Trigger curiosity; don’t go for the obvious.
 * Images should create a context. Create an atmosphere into which you would like your readers to enter.
-* Images need to tell part of the story. 
+* Images need to tell part of the story.
 
-## Don’t start by trying to find the perfect image 
+## Don’t start by trying to find the perfect image
 
 All this being said, it can still be daunting right? You can find yourself spending hours to find the perfect photograph. Please don’t. Iterating on content until it's good enough to give to the client works not only with the writing process, but with finding images as well.
 
 <img src=http://i.imgur.com/ieGL8UK.png width=100% />
-*Image caption: Notes on image finding by Krysten Koehn.* 
+*Notes on image finding by Krysten Koehn.*
 
-The process you see above had a duration of 30 minutes in total.   The team decided that the image which came out of it was too generic. A [User story](https://en.wikipedia.org/wiki/User_story) was made and the person that iterated on this process used it to start where she left.
+The process you see above had a duration of 30 minutes in total. The team decided that the image which came out of it was too generic. A [User story](https://en.wikipedia.org/wiki/User_story) was made and the person that iterated on this process used it to start where she left.
 
-Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?* 
+Especially if you’re collaborating on content, it’s important to be able to rationalise your images. Saying: “the image is beautiful and nice” just won’t cut it. You certainly had a goal or a reason before you started writing an article. Why wouldn’t you do the same with your visual content? Maybe just ask yourself: *Are pictures of cappuccinos and laptops on desks worth a thousand words?*
