@@ -1,4 +1,5 @@
-
+<img src="http://i.imgur.com/5Upjs6y.jpg" alt="Did it just get dark?" width=100% />
+Kenny Louie - [Did it just get dark?](https://www.flickr.com/photos/kwl/3632116185/in/photolist-6wXxAR-7AAedL-EFWoYo-eW5ynW-eW5ymd-FLD78W-8KDLbv-5ouuHm-eVT9tt-6VfF99-eW5ynj-GBN8Sc-8M1mk5-cJoKT-FN5nxY-7jVFfG-8LXiCM-7PtQJe-GBNa6K-dLzeYh-8M1mih-eVT9rk-eW5ynA-8M1mjm-pCEwtS-7KxKak-fwJWW8-GBNbgF-EGexZe-D6827J-7hwgz3-7sJV2h-5NirV3-DAJrjJ-GzoD2f-GzoDsW-9pUJSo-8LXiFi-8CZwzu-8Qx2nn-dAdU2c-bAXtpM-GzoB3A-g4eA1M-nKpBca-bAXt9H-Gh6rcN-5J2hqN-dCHnPA-D683fW)
 # Robots can have our jobs
 
 The world would be a happier, more fluid and communal place if robots did all the jobs that they could do better than people.
@@ -19,3 +20,5 @@ Automation is not only good for doing certain things more efficient than people,
 Of course this will not be achieved overnight. The people whose jobs would be atomised would need time to rediscover what they enjoy and are good at. We should not just fire everyone with a job better suited for robots, but we should keep it in mind for all the new jobs that open up. What if we would only give the jobs to those who enjoy them and let the rest be done by robots?
 
 Imagine a world where you would be constantly stimulated to come up with smart, fun and social solutions. Imagine a world where we only had to do constructive, creative things. Nothing would ever come to a standstill. Systems would become fluid and communal and each individual could influence the world around them with their own strengths and beliefs.
+
+Image: Kenny Louie - [Did it just get dark?](https://www.flickr.com/photos/kwl/3632116185/in/photolist-6wXxAR-7AAedL-EFWoYo-eW5ynW-eW5ymd-FLD78W-8KDLbv-5ouuHm-eVT9tt-6VfF99-eW5ynj-GBN8Sc-8M1mk5-cJoKT-FN5nxY-7jVFfG-8LXiCM-7PtQJe-GBNa6K-dLzeYh-8M1mih-eVT9rk-eW5ynA-8M1mjm-pCEwtS-7KxKak-fwJWW8-GBNbgF-EGexZe-D6827J-7hwgz3-7sJV2h-5NirV3-DAJrjJ-GzoD2f-GzoDsW-9pUJSo-8LXiFi-8CZwzu-8Qx2nn-dAdU2c-bAXtpM-GzoB3A-g4eA1M-nKpBca-bAXt9H-Gh6rcN-5J2hqN-dCHnPA-D683fW)
