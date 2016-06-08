@@ -1,8 +1,8 @@
 
-<img src="http://i.imgur.com/HkPmyfN.jpg" alt="Dinosaur eye" width=100% />
-*image caption: Dinosaur eye by [allispossible.org.uk](https://flic.kr/p/4a2qFU)*
+<img src="http://i.imgur.com/2HNf90E.jpg" alt="Dinosaur eye" width=100% />
+*The deadly sin of latte art imagery. By [Michael Allen Smith](https://www.flickr.com/photos/digitalcolony/)*
 
-You may be creating a context for your writing into which no one really wants to enter. We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content?
+You may be creating a context for your writing into which no one really wants to enter. We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? In this episode: an attempt to convey our learning curve in the search for a valuable image that sticks.
 
 According to the images seen atop their posts, a lot of bloggers are evidently writing about cappuccinos with foam art or strategically arranged laptops, smartphones, paper and pencils. We suppose that's all fine if that's the case, but why would one use these generic stock photos when they don’t say anything about the written content?
 
@@ -16,6 +16,9 @@ This is a natural attraction towards visual content and how it manages to attrac
 
 Immediate, emotional reactions are some of the strongest connections we can make to visual content. They occur from the part of the brain that is also related to our [survival instincts](http://adventure.howstuffworks.com/survival/wilderness/wired-for-survival1.htm), which means that the reaction will likely be more direct and intense.
 
+<img src="http://i.imgur.com/IVmdxZf.jpg" alt="Banksy's Caveman" width=100% />
+*Banksy's caveman by [Lord Jim](https://flic.kr/p/4qq592), ([CC BY 2.0](http://creativecommons.org/licenses/by/2.0/)). Also, give yourself a treat and see some [more work from Banksy](http://banksy.co.uk/).*
+
 Visual content should indicate the emotion for which it aims. This could be accomplished abstractly with colour, metaphors, or irony, for example. Or it could be achieved concretely with associations which elicit the "right" feeling (safety, food, positivity, love...).
 
 ## Comprehension
@@ -27,6 +30,10 @@ Thus, our brains need a picture to process information faster and create a conne
 ## Retention
 
 Retention is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
+
+<img src="http://i.imgur.com/8p4Xzhd.jpg" alt="Astronaut and circus horse meet up in an alleyway" width=48% />
+<img src="http://i.imgur.com/5OUeje6.jpg" alt="Human television sharing intimate dinner with television" width="48%" />
+*According to above theory, both of these strange stock images should get good scores on memorability. Yet the algorithm only found the romantic dinner between two (semi-human) tv's to be highly memorable. Source: [Buzzfeed](https://www.buzzfeed.com/daves4/unexplainable-stock-photos?utm_term=.px0waDlZ3#.okVGnrX2z)*
 
 ## We scienced the $#!† out of images, so now what?
 
