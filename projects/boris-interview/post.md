@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/wqvo221.gif" width=100% />
+<img src="http://i.imgur.com/XXBPJbY.jpg" width=100% />
 
 # The Experience that Cried for a New Business
 
