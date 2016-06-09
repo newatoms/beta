@@ -6,7 +6,7 @@ When you work in teams where everybody is expected to contribute from their own 
 
 That’s why ealier this year, New Atoms traveled to London for its first Offsite.
 
-The offsite facilitated important talks about the the future of news, technology and the future in general. In the evening the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food, or in pubs with delicious beverages in hand.
+The offsite facilitated important talks about the the future of news, technology and the future in general. In the evening the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand.
 
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at FNAC" width=100% />
 
