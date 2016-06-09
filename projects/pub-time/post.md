@@ -1,14 +1,15 @@
 <img src="http://netdna.walyou.netdna-cdn.com/wp-content/uploads//2012/04/beer-robot-friend.jpg" alt="Snow plower clears the way" width=100% />
 
-Sharing awkward stories builds stronger and more efficient teams. Communicating openly and respectfully about personal and subjects and loaded issues lets you to pierce through your own assumptions.
+Sharing awkward stories builds stronger and more efficient teams. 
+Communicating openly and respectfully about personal and loaded subjects lets you to pierce through your own assumptions.
 
 Spending time offsite is a great way to communicate this way,  since it enables you to detach the conversations from the day to day topics.
 
-Earlier this year, New Atoms traveled to London for its first FNAC (Future New Atoms Conference). Among a lot of important talks about the future of the company, the future of news, and the future in general. There were also talks about riding bikes into canals, brawls at McDonalds and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food, or in pubs with delicious beverages in hand.
+Earlier this year, New Atoms traveled to London for its first FNAC (Future New Atoms Conference). We talked a lot about the future of the company, the future of news, and the future in general. There were also talks about riding bikes into canals, painting miniatures and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food, or in pubs with delicious beverages in hand.
 
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at FNAC" width=100% />
 
-Many times these lighter conversations gave rise to weightier topics. Topics like gender politics, the morale issues of advertising and our urge to break through conventions. It was by discussing these things that all our individual assumptions began to emerge. We noticed that when the discussion would be the hottest, we would be unable to actually listen, preventing us to notice that most of us were saying the same . The fear of being misunderstood stopped us from learning from each others perspectives.
+Many times these lighter conversations gave rise to weightier topics. Topics like gender politics, the morale issues of advertising and our urge to break through conventions. It was by discussing these things that all our individual assumptions began to emerge. We noticed that when the discussion would be the hottest, we would be unable to actually listen. Our fear of being misunderstood preventing us to notice that most of us were saying the same. Our urge to convice the others of our point of view stopped us from learning from each others perspectives.
 
 It took us a while before we realised that we are all on the same side. That if one of us has a strong opinion, we should not try to fight it with our own, but that we need to understand what they are actually trying to convey.
 
