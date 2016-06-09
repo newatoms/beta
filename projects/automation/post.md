@@ -7,7 +7,7 @@ It is speculated on the internet that Einstein once wrote: "Everybody is a geniu
 
 If you are bad at something and you don't seem to get better at it, no matter your efforts, you usually do an even worse job than you are capable of. But if you enjoy doing something and see yourself getting better at it, you will often exceed expectations.
 
-This suggests that people are more efficient when they do what they enjoy and can improve in. It also means that there is something beyond the [carrot and the stick](https://en.wikipedia.org/wiki/Carrot_and_stick). It speaks of the power of motivation through happiness and self fulfillment instead of motivation through fear or rewards. You might even go as far as to conclude that if everyone does the things they enjoy and has the opportunity to develop themselves, their contribution to society will be maximised.
+This suggests that people are more efficient when they do what they enjoy and can improve in. It also means that there is something beyond the [carrot and the stick](https://en.wikipedia.org/wiki/Carrot_and_stick). It speaks of the power of motivation through happiness and self fulfilment instead of motivation through fear or rewards. You might even go as far as to conclude that if everyone does the things they enjoy and has the opportunity to develop themselves, their contribution to society will be maximised.
 
 But of course, there are always tasks that nobody wants to do—tasks you just can't get better at, that are repetitive and have predetermined goals with inflexible solutions. Tasks that don't need creativity, only execution. So to who do you assign those tasks? Robots!
 
