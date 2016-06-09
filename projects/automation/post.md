@@ -5,7 +5,11 @@ The robots are taking over and we are happy that it does. Happy because they wil
 
 The world would be a happier, more fluid and communal place if robots did all the jobs they can do better than people?
 
-It is speculated on the internet that Einstein once wrote: "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." Regardless of who wrote this, we have all experienced its truth when we've had to do things we were bad at. We have experienced it at school, at our first jobs and probably in all aspects of life.
+It is speculated on the internet that Einstein once wrote: 
+
+> ”Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." 
+
+Regardless of who wrote this, we have all experienced its truth when we've had to do things we were bad at. We have experienced it at school, at our first jobs and probably in all aspects of life.
 
 If you are bad at something and you don't seem to get better at it, no matter your efforts, you usually do an even worse job than you are capable of. But if you enjoy doing something and see yourself getting better at it, you will often exceed expectations.
 
