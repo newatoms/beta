@@ -1,11 +1,8 @@
 <img src="http://netdna.walyou.netdna-cdn.com/wp-content/uploads//2012/04/beer-robot-friend.jpg" alt="Snow plower clears the way" width=100% />
 
 Sharing awkward stories builds stronger and more efficient teams. 
-Communicating openly and respectfully about personal and loaded subjects lets you to pierce through your own assumptions.
 
-Spending time offsite is a great way to communicate this way,  since it enables you to detach the conversations from the day to day topics.
-
-Earlier this year, New Atoms traveled to London for its first FNAC (Future New Atoms Conference). We talked a lot about the future of the company, the future of news, and the future in general. There were also talks about riding bikes into canals, painting miniatures and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food, or in pubs with delicious beverages in hand.
+Earlier this year, New Atoms traveled to London for its first FNAC (Future New Atoms Conference). We talked a lot about the future of the company, the future of news, and the future in general. There were also talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food, or in pubs with delicious beverages in hand.
 
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at FNAC" width=100% />
 
