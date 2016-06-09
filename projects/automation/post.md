@@ -7,7 +7,7 @@ The world would be a happier, more fluid and communal place if robots did all th
 
 It is speculated on the internet that Einstein once wrote: 
 
-> ”Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." 
+> Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid. 
 
 Regardless of who wrote this, we have all experienced its truth when we've had to do things we were bad at. We have experienced it at school, at our first jobs and probably in all aspects of life.
 
@@ -18,7 +18,9 @@ This suggests that people are more efficient when they do what they enjoy and ca
 But of course, there are always tasks that nobody wants to do—tasks you just can't get better at, that are repetitive and have predetermined goals with inflexible solutions. Tasks that don't need creativity, only execution. So to who do you assign those tasks? Robots!
 
 # Automation makes your job fun again
-Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions. Humans are great at creation while robots are superior at execution.
+Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions. 
+
+> Humans are great at creation while robots are superior at execution.
 
 Automation is not only good for doing certain things more efficiently than people, it is a great way to make sure that no one needs to have a job they hate.
 
