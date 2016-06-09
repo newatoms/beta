@@ -1,5 +1,5 @@
 
-<img src="http://i.imgur.com/2HNf90E.jpg" alt="Dinosaur eye" width=100% />
+<img src="http://i.imgur.com/2HNf90E.jpg" alt="" width=100% />
 *The deadly sin of latte art imagery. By [Michael Allen Smith](https://www.flickr.com/photos/digitalcolony/)*
 
 According to the images they use on their posts, it seems like a lot of bloggers like cappuccinos with foam art. They work on the same laptops, but still use paper and pencils to show they are creative. All fine, but why does everyone use these generic stock photos when they don’t say anything about the written content?
@@ -32,7 +32,7 @@ So how can you apply this user behaviour knowledge so that people will resonate 
 
 To make it easier on yourself, you can set some guidelines:
 
-* Images should be interesting on their own. 
+* Images should be interesting on their own.
 * Trigger curiosity; don’t go for the obvious.
 * Images should create a context. Create an atmosphere into which you would like your readers to enter.
 * Images need to tell part of the story.
