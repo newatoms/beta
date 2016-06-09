@@ -3,7 +3,7 @@
 
 Learning to communicate openly, honestly and respectfully about loaded issues removes barriers. Spending time offsite is a great catalyst for this because it enables you to detach the conversations from the day to day topics.
 
-Since we work in teams it’s crucial to understand and get to know each other. The value of intense meetings at a different location than where your office is stated, facilitates a different mindset. Making room for personal conversations enhances the work talk later on. Apart from that it’s fun to be with like minded people in a different country, it’s good to get everyone on the same page when talking about the future of your company.
+Since we work in teams it’s crucial to understand and get to know each other. The value of intense meetings at a different location than where your office is stated, facilitates a different mindset. Making room for personal conversations increases the quality of the work talk later on. Apart from that it’s fun to be with like minded people in a different country, it’s good to get everyone on the same page when talking about the future of your company.
 
 That’s why New Atoms, earlier this year, traveled to London for its first FNAC (Future New Atoms Conference).
 
