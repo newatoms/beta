@@ -33,7 +33,7 @@ Telling your teammates they don’t understand something or that you might know 
 
 This vulnerability is key to getting to the core of any problem. If teammates feel too proud to show their weaknesses, this can get in the way of problems that are both avoidable and easily solvable. Besides, how can teammates fill each other's "knowledge gaps" if there's no room for mistakes?
 
-Incredibly, the productivity of people working together has little to do with how smart, or cool, or experienced they all are. It has everything to do with feeling safe. And feeling safe has everything to do with knowing we are all understood—that judgements will not be speeding towards us like unpredictable projectiles—which inherently means understanding the perspectives of others. And the most genuine path to understanding, is through collaboration.
+Incredibly, the productivity of people working together has little to do with how smart, or cool, or experienced they all are. It has everything to do with feeling safe. And feeling safe has everything to do with knowing we are all understood—that judgements will not be speeding towards us like unpredictable projectiles—which inherently means understanding the perspectives of others. And the most genuine path to understanding, is through working together.
 
 ## So how do we make the best teams?
 
