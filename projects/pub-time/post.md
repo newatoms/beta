@@ -18,4 +18,5 @@ It was only by talking through these assumptions and learning how to *listen* th
 
 This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Not only did it increased personal investment in our colleagues, it also enabled us to look at the world with a less clouded vision. It made us realise even more, that first you must understand what others are saying before you can respond.
 
+
 Image: [Beer pouring robot](http://walyou.com/beer-pouring-robot/) by [Squacco](https://www.flickr.com/photos/squeakywheel)
