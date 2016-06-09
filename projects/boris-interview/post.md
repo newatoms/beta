@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Kssh2mw.jpg" width=100% />
+<img src="https://i.imgur.com/nZ5Gow7.jpg" alt="The two sides of Boris" width=100% />
 
 # The Experience that Cried for a New Business
 
