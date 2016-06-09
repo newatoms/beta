@@ -33,7 +33,7 @@ Retention is related to the memorable experience that visual content tends to cr
 
 <img src="http://i.imgur.com/8p4Xzhd.jpg" alt="Astronaut and circus horse meet up in an alleyway" width=48% />
 <img src="http://i.imgur.com/d9Iz6eJ.jpg" alt="Guy pondering his life using huge cake as a pillow" width="48%" />
-*According to above theory, both of these strange stock images should get good scores on memorability. Yet the algorithm only found the guy using a cake as a pillow highly memorable. Source: [Buzzfeed](https://www.buzzfeed.com/daves4/unexplainable-stock-photos?utm_term=.px0waDlZ3#.okVGnrX2z)/[Getty Images](https://www.getty.com)*
+*According to above theory, both of these strange stock images should get good scores on memorability. Yet the algorithm only found the guy using a cake as a pillow highly memorable. Source: [Buzzfeed](https://www.buzzfeed.com/daves4/unexplainable-stock-photos?utm_term=.px0waDlZ3#.okVGnrX2z)/[Getty Images](https://www.gettyimages.com)*
 
 ## We scienced the $#!† out of images, so now what?
 
