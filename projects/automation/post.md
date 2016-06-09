@@ -11,13 +11,17 @@ This suggests that people are more efficient when they do what they enjoy and ca
 
 But of course, there are always tasks that nobody wants to do—tasks you just can't get better at, that are repetitive and have predetermined goals with inflexible solutions. Tasks that don't need creativity, only execution. So to who do you assign those tasks? Robots!
 
-# Automation
-Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions. Humans are great at creation while robots are superior at execution.
+<img src="https://i.imgur.com/15e8adM.gif" alt="Automated egg splitting" width=100% />
+See what an awesome job this robot is doing. Imagine having to split all those eggs manually!
 
-Automation is not only good for doing certain things more efficiently than people, it is a great way to make sure that no one needs to have a job they hate.
+# Automation
+Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions. Humans are great at creation while robots are superior at execution. However, the power of automation is not only in doing certain things more efficiently than people, it is also in making sure that no one needs to have a job they hate.
 
 Of course this will not be achieved overnight. Those whose jobs would be automated would need time to rediscover what they enjoy and are good at. We should not just fire everyone who has a job better suited for robots, but we should look to automation for the future workforce. What if humans only had to do jobs they enjoy and the rest done by robots?
 
 Imagine a world where you would constantly be stimulated to come up with smart, fun and social solutions. Imagine a world where we only had to do constructive, creative things. Nothing would ever come to a standstill. Systems would become fluid and communal and each individual could influence the world around them with their own strengths and beliefs.
 
 Image: Kenny Louie - [Did it just get dark?](https://www.flickr.com/photos/kwl/3632116185/in/photolist-6wXxAR-7AAedL-EFWoYo-eW5ynW-eW5ymd-FLD78W-8KDLbv-5ouuHm-eVT9tt-6VfF99-eW5ynj-GBN8Sc-8M1mk5-cJoKT-FN5nxY-7jVFfG-8LXiCM-7PtQJe-GBNa6K-dLzeYh-8M1mih-eVT9rk-eW5ynA-8M1mjm-pCEwtS-7KxKak-fwJWW8-GBNbgF-EGexZe-D6827J-7hwgz3-7sJV2h-5NirV3-DAJrjJ-GzoD2f-GzoDsW-9pUJSo-8LXiFi-8CZwzu-8Qx2nn-dAdU2c-bAXtpM-GzoB3A-g4eA1M-nKpBca-bAXt9H-Gh6rcN-5J2hqN-dCHnPA-D683fW)
+
+Manual egg seperating: https://www.youtube.com/watch?v=tgBKBj6tLKI
+Automatic egg seperating: https://www.youtube.com/watch?v=78VDqoQdavY
