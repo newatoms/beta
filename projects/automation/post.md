@@ -17,7 +17,7 @@ This suggests that people are more efficient when they do what they enjoy and ca
 
 But of course, there are always tasks that nobody wants to do—tasks you just can't get better at, that are repetitive and have predetermined goals with inflexible solutions. Tasks that don't need creativity, only execution. So to who do you assign those tasks? Robots!
 
-# Automation
+# Automation makes your job fun again
 Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions. Humans are great at creation while robots are superior at execution.
 
 Automation is not only good for doing certain things more efficiently than people, it is a great way to make sure that no one needs to have a job they hate.
