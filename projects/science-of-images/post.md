@@ -1,14 +1,10 @@
 
-<img src="http://i.imgur.com/2HNf90E.jpg" alt="Dinosaur eye" width=100% />
+<img src="http://i.imgur.com/2HNf90E.jpg" alt="" width=100% />
 *The deadly sin of latte art imagery. By [Michael Allen Smith](https://www.flickr.com/photos/digitalcolony/)*
 
-You may be creating a context for your writing into which no one really wants to enter. We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? In this episode: an attempt to convey our learning curve in the search for a valuable image that sticks.
+Stating that effective images can communicate messages very powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art, or Apple laptops surrounded by some fancy pens and craft paper on a desk? Not only are they boring to look at, they don’t say anything about the written content.
 
-According to the images seen atop their posts, a lot of bloggers are evidently writing about cappuccinos with foam art or strategically arranged laptops, smartphones, paper and pencils. We suppose that's all fine if that's the case, but why would one use these generic stock photos when they don’t say anything about the written content?
-
-To give ourselves an alternative for generic photos (and to prevent losing the fight for our readers' attention), we ask ourselves: How can we apply science and user behaviour knowledge to image finding so that readers will resonate with our images? According to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*."
-
-When used effectively, visual imagery can communicate a powerful message. There are scientific and psychological explanations for why certain images are relatable (or aren't) and tell your story successfully (or don't):
+We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? Yes, finding a good image is hard. Yet it does pay off greatly to find a valuable image that sticks. It makes your articles more comprehensible, appealing and memorable. Right, so how to find that million bucks image, you ask? According to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*." That is a good start, but does not give us much practical information. Luckily we can always rely on science. 
 
 ## Appeal
 
