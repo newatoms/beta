@@ -1,12 +1,12 @@
 <img src="http://netdna.walyou.netdna-cdn.com/wp-content/uploads//2012/04/beer-robot-friend.jpg" alt="Snow plower clears the way" width=100% />
 
-Learning to communicate openly, honestly and respectfully about loaded issues removes barriers. Spending time offsite is a great catalyst for this. It enables you to detach the conversations from the day to day topics.
+Learning to communicate openly, honestly and respectfully about loaded issues removes barriers. Spending time offsite is a great catalyst for this. 
 
-Since we work in teams it’s crucial to understand and get to know each other. The value of intense meetings at a different location than normal facilitates a different mindset. Making room for personal conversations increases the quality of the work talk later on. Most of all, it’s fun to be with like minded people in a different country. It’s also good for productivity when everyone is on the same page when talking about the future of your company.
+Since we work in teams it’s crucial to understand and get to know each other. The value of intense meetings in a non-work related environment facilitates a different mindset. Making room for personal conversations increases the quality of the work. Productivity increases when everyone is on the same page while discussing the future of your company.
 
 That’s why New Atoms, earlier this year, traveled to London for its first FNAC (Future New Atoms Conference).
 
-The FNAC facilitated important talks about the the future of news, technology and the future in general. It also became fun when talking about riding bikes into canals, brawls at McDonalds, past romantic relationships, utopia and [hipsters](https://www.buzzfeed.com/danieldalton/made-of-sock?utm_term=.prXqRlmP7G#.vgvERwOQ50). Most of the latter subjects unfolded in restaurants over large portions of meat, or in pubs with alcoholic beverages in hand.
+The FNAC facilitated important talks about the the future of news, technology and the future in general. In the evening we switched topics by talking about riding bikes into canals, brawls at McDonalds, past romantic relationships, utopia and [hipsters](https://www.buzzfeed.com/danieldalton/made-of-sock?utm_term=.prXqRlmP7G#.vgvERwOQ50). Most of the latter subjects unfolded in restaurants over large portions of meat, or in pubs with alcoholic beverages in hand.
 
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at FNAC" width=100% />
 
