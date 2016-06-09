@@ -20,7 +20,7 @@ This human probably spent countless hours fulfilling this task and thereby becam
 <img src="https://i.imgur.com/15e8adM.gif" alt="Automated egg splitting" width=100% />
 Creating this machine required great insight, combining knowledge from multiple fields and had a clear end goal. These are things we feel motivate and inspire people.
 
-Automation therefore is not only about doing certain things more efficiently than people, it is a great way to make sure that no one needs to have a job they hate.
+Automation is therefore not only about doing certain things more efficiently than people, it is a great way to make sure that no one needs to have a job they hate.
 
 Of course this will not be achieved overnight. Those whose jobs would be automated would need time to rediscover what they enjoy and are good at. We should not just fire everyone who has a job better suited for robots, but we should look to automation for the future workforce. What if humans only had to do jobs they enjoy and the rest done by robots?
 
