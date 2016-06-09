@@ -15,10 +15,10 @@ But of course, there are always tasks that nobody wants to do—tasks you just c
 Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions. Humans are great at creation while robots are superior at execution.
 
 <img src="https://i.imgur.com/KPN6As2.gif" alt="Manual egg splitting" width=100% />
-This human has probably spent countless hours fulfilling this task and thereby became an expert at it. However compared to a machine this human functions very poorly.
+This human probably spent countless hours fulfilling this task and thereby became an expert at it. However, compared to a machine this human functions very poorly.
 
 <img src="https://i.imgur.com/iEcoNxC.gif" alt="Automated egg splitting" width=100% />
-Creating this machine required great insight, combining knowledge from multiple field and had a clear end goal. These are things we feel motivate and inspire people.
+Creating this machine required great insight, combining knowledge from multiple fields and had a clear end goal. These are things we feel motivate and inspire people.
 
 Automation therefore is not only about doing certain things more efficiently than people, it is a great way to make sure that no one needs to have a job they hate.
 
