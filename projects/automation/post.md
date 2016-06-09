@@ -11,12 +11,11 @@ This suggests that people are more efficient when they do what they enjoy and ca
 
 But of course, there are always tasks that nobody wants to do—tasks you just can't get better at, that are repetitive and have predetermined goals with inflexible solutions. Tasks that don't need creativity, only execution. So to who do you assign those tasks? Robots!
 
-# Automation
-<img src="http://imgur.com/UqjPIL8.gif" alt="Manual egg splitting" width=100% />
-
-Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions. Humans are great at creation while robots are superior at execution. However, the power of automation is not only in doing certain things more efficiently than people, it is also in making sure that no one needs to have a job they hate.
-
 <img src="https://i.imgur.com/15e8adM.gif" alt="Automated egg splitting" width=100% />
+See what an awesome job this robot is doing. Imagine having to split all those eggs manually!
+
+# Automation
+Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions. Humans are great at creation while robots are superior at execution. However, the power of automation is not only in doing certain things more efficiently than people, it is also in making sure that no one needs to have a job they hate.
 
 Of course this will not be achieved overnight. Those whose jobs would be automated would need time to rediscover what they enjoy and are good at. We should not just fire everyone who has a job better suited for robots, but we should look to automation for the future workforce. What if humans only had to do jobs they enjoy and the rest done by robots?
 
