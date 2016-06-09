@@ -28,7 +28,7 @@ However, the power of automation is not only in doing certain things more effici
 
 Of course this will not be achieved overnight. Those whose jobs would be automated would need time to rediscover what they enjoy and are good at. We should not just fire everyone who has a job better suited for robots, but we should look to automation for the future workforce. 
 
-Imagine an automated workforce that facilitates an environment where you would constantly be stimulated to come up with smart, fun and social solutions. A future where we only had to do constructive, creative things. Nothing would ever come to a standstill. Systems would become fluid and communal and each individual could influence the world around them with their own strengths and beliefs.
+To conclude our plea, just imagine an automated workforce that facilitates an environment where you would constantly be stimulated to come up with smart, fun and social solutions. A future where we only had to do constructive, creative things. Nothing would ever come to a standstill. Systems would become fluid and communal and each individual could influence the world around them with their own strengths and beliefs.
 
 At New Atoms we probably never stop writing about the relationship between humans and machines, because we are thinking about this everyday. In an attempt to become *Humachines*. 
 
