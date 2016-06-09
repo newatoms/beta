@@ -3,8 +3,6 @@ Kenny Louie - [Did it just get dark?](https://www.flickr.com/photos/kwl/36321161
 
 The robots are taking over and we should be happy that they do. Happy because they will make our working and personal lives more fun. Why not let people do the creative thinking and let technology do the boring parts, robots never seem insulted (not yet…). 
 
-The world would be a happier, more fluid and communal place if robots did all the jobs they can do better than people?
-
 It is speculated on the internet that Einstein once wrote: 
 
 > Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid. 
