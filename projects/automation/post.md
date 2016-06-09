@@ -14,7 +14,13 @@ But of course, there are always tasks that nobody wants to do—tasks you just c
 # Automation
 Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions. Humans are great at creation while robots are superior at execution.
 
-Automation is not only good for doing certain things more efficiently than people, it is a great way to make sure that no one needs to have a job they hate.
+<img src="https://i.imgur.com/KPN6As2.gif" alt="Manual egg splitting" width=100% />
+This human has probably spent countless hours fulfilling this task and thereby became an expert at it. However compared to a machine this human functions very poorly.
+
+<img src="https://i.imgur.com/iEcoNxC.gif" alt="Automated egg splitting" width=100% />
+Creating this machine required great insight, combining knowledge from multiple field and had a clear end goal. These are things we feel motivate and inspire people.
+
+Automation therefore is not only about doing certain things more efficiently than people, it is a great way to make sure that no one needs to have a job they hate.
 
 Of course this will not be achieved overnight. Those whose jobs would be automated would need time to rediscover what they enjoy and are good at. We should not just fire everyone who has a job better suited for robots, but we should look to automation for the future workforce. What if humans only had to do jobs they enjoy and the rest done by robots?
 
