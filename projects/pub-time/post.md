@@ -8,7 +8,7 @@ Earlier this year, New Atoms traveled to London for its first FNAC (Future New A
 
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at FNAC" width=100% />
 
-Many times these lighter conversations gave rise to weightier topics. Topics like gender politics, the morale issues of advertising and our urge to break trough conventions. It was by discussing these things that all our individual assumptions began to emerge. When noticed that when the discussion would be the hottest, most of us were saying the same, unable to actually listen to the others.  The fear of being misunderstood stopped us from learning from each others perspectives.
+Many times these lighter conversations gave rise to weightier topics. Topics like gender politics, the morale issues of advertising and our urge to break through conventions. It was by discussing these things that all our individual assumptions began to emerge. When noticed that when the discussion would be the hottest, most of us were saying the same, unable to actually listen to the others. The fear of being misunderstood stopped us from learning from each others perspectives.
 
 It took us quite a few attempts to realise we were all on the same side. That if one of us has a strong opinion, we should not try to fight it with our own, but that we need to understand why these arguments are so important to them.
 
@@ -16,6 +16,6 @@ It was only by talking through these assumptions and learning how to *listen* th
 
 Aside from the drinking, having the opportunity to do this was arguably the most valuable thing we took away from our FNAC.
 
-This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Not only did it increased personal investment in our colleagues, it also enabled us to look at the world with a less clouded vision. It made us realise even more, that first you must understand what others are saying before you can respond.
+This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Not only did it increase personal investment in our colleagues, it also enabled us to look at the world with a less clouded vision. It made us realise even more, that first you must understand what others are saying before you can respond.
 
 Image: [Beer pouring robot](http://walyou.com/beer-pouring-robot/) by [Squacco](https://www.flickr.com/photos/squeakywheel)
