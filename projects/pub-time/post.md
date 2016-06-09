@@ -3,9 +3,11 @@
 
 Learning to communicate openly, honestly and respectfully about loaded issues removes barriers.
 
-Beer is a great catalyst for this.
+Spending time offsite is a great catalyst for this because it enables you to detach the conversations from the day to day topics.
 
 Earlier this year, New Atoms traveled to London for its first FNAC (Future New Atoms Conference). Among a lot of important talks about the future of the company, the future of news, and the future in general, there were also talks about riding bikes into canals, brawls at McDonalds, past romantic relationships, utopia and [hipsters](https://www.buzzfeed.com/danieldalton/made-of-sock?utm_term=.prXqRlmP7G#.vgvERwOQ50). Most of the latter subjects unfolded in restaurants over large portions of meat, or in pubs with alcoholic beverages in hand.
+
+<img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at FNAC" width=100% />
 
 Many times (because we were in many pubs), these lighter conversations gave rise to weightier topics, like gender politics. It was by discussing such things that all of our individual assumptions began to emerge.
 
