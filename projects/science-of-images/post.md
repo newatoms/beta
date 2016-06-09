@@ -28,8 +28,8 @@ Thus, our brains need a picture to process information faster and create a conne
 Retention is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
 
 <img src="http://i.imgur.com/8p4Xzhd.jpg" alt="Astronaut and circus horse meet up in an alleyway" width=48% />
-<img src="http://i.imgur.com/5OUeje6.jpg" alt="Human television sharing intimate dinner with television" width="48%" />
-*According to above theory, both of these strange stock images should get good scores on memorability. Yet the algorithm only found the romantic dinner between two (semi-human) tv's to be highly memorable. Source: [Buzzfeed](https://www.buzzfeed.com/daves4/unexplainable-stock-photos?utm_term=.px0waDlZ3#.okVGnrX2z)/[Getty Images](https://www.getty.com)*
+<img src="http://i.imgur.com/d9Iz6eJ.jpg" alt="Guy pondering his life using huge cake as a pillow" width="48%" />
+*According to above theory, both of these strange stock images should get good scores on memorability. Yet the algorithm only found the guy using a cake as a pillow highly memorable. Source: [Buzzfeed](https://www.buzzfeed.com/daves4/unexplainable-stock-photos?utm_term=.px0waDlZ3#.okVGnrX2z)/[Getty Images](https://www.gettyimages.com)*
 
 ## We scienced the $#!† out of images, so now what?
 
