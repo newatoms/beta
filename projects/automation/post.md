@@ -23,5 +23,4 @@ Imagine a world where you would constantly be stimulated to come up with smart, 
 
 Image: Kenny Louie - [Did it just get dark?](https://www.flickr.com/photos/kwl/3632116185/in/photolist-6wXxAR-7AAedL-EFWoYo-eW5ynW-eW5ymd-FLD78W-8KDLbv-5ouuHm-eVT9tt-6VfF99-eW5ynj-GBN8Sc-8M1mk5-cJoKT-FN5nxY-7jVFfG-8LXiCM-7PtQJe-GBNa6K-dLzeYh-8M1mih-eVT9rk-eW5ynA-8M1mjm-pCEwtS-7KxKak-fwJWW8-GBNbgF-EGexZe-D6827J-7hwgz3-7sJV2h-5NirV3-DAJrjJ-GzoD2f-GzoDsW-9pUJSo-8LXiFi-8CZwzu-8Qx2nn-dAdU2c-bAXtpM-GzoB3A-g4eA1M-nKpBca-bAXt9H-Gh6rcN-5J2hqN-dCHnPA-D683fW)
 
-Manual egg seperating: https://www.youtube.com/watch?v=tgBKBj6tLKI
 Automatic egg seperating: https://www.youtube.com/watch?v=78VDqoQdavY
