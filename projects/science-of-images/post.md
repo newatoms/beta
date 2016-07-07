@@ -37,10 +37,10 @@ Retention is related to the memorable experience that visual content tends to cr
 
 Keeping all of this science and psychology in mind while looking for an image feels overwhelming. To make it easier on ourselves, we set some relevant guidelines:
 
-* **A header image should work on its own, even outside its context.** The header image is often the first and only thing people see. You want to grab their attention with *appeal* and *retention*.   
 * **Images should trigger curiosity.** 
 * **Images should create a context.** Establish an atmosphere into which you would like your readers to enter.
 * **Images need to tell part of the story.** Don’t go for the obvious.
+* **A header image should work on its own, even outside its context.** The header image is often the first and only thing people see. You want to grab their attention with *appeal* and *retention*.   
 
 One last suggestion to make all of this less daunting: don’t start by trying to find the perfect image, only to end up spending hours searching. Iterating on content until it's good enough to publish is effective not only with [the writing process](insert Macaroni Bridges link here, if it's published!), but with finding effective images as well:
 
