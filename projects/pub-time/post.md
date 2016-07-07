@@ -4,7 +4,7 @@ Sharing awkward stories builds stronger and more efficient teams.
 
 When you work in teams where everybody is expected to contribute from their own experience, it’s crucial to understand each other. Meetings outside the usual environment give you a different mindset. They enable you to see your colleagues for the people they are instead of who you made them out to be.
 
-That’s why ealier this year, New Atoms traveled to London for its first Offsite.
+That’s why earlier this year, New Atoms traveled to London for its first Offsite.
 
 The offsite facilitated important talks about the the future of news, technology and the future in general. In the evening the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand.
 
