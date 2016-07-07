@@ -37,7 +37,7 @@ Retention is related to the memorable experience that visual content tends to cr
 
 Keeping all of this science and psychology in mind while looking for an image feels overwhelming. To make it easier on ourselves, we set some relevant guidelines:
 
-* **A header image should work on its own, even outside its context.** The header image is often the first and only thing people see. You want to grab their attention with *appeal*, *comprehension* and *retention*. Want to know more about what makes an image interesting? Read [Ten Tips for Making Interesting Images](https://medium.com/@caitlinwinner/ten-tips-for-making-interesting-images-19a59bd2eea2#.squ547nli) from @caitlinwinner.  
+* **A header image should work on its own, even outside its context.** The header image is often the first and only thing people see. You want to grab their attention with *appeal*, *comprehension* and *retention*.   
 * **Images should trigger curiosity.** 
 * **Images should create a context.** Establish an atmosphere into which you would like your readers to enter.
 * **Images need to tell part of the story.** Don’t go for the obvious.
@@ -52,3 +52,7 @@ This is an example of our process, which had a duration of about 30 minutes in t
 Because the process was documented and each image was rationalised, the next person to attempt the task could pick up where she left off rather than starting from the beginning.
 
 Especially if you’re collaborating on content, it’s important to be able to rationalise your images. With all the brain power we can muster (and that of people much smarter than us), we are trying to create contexts for our writing that people actually want to enter. Saying: “the image is beautiful and nice” just won’t cut it. Maybe just ask yourself: Are pictures of cappuccinos and laptops on desks worth a thousand words?
+
+---
+
+Want to know more about what makes an image interesting? Read [Ten Tips for Making Interesting Images](https://medium.com/@caitlinwinner/ten-tips-for-making-interesting-images-19a59bd2eea2#.squ547nli) from @caitlinwinner.
