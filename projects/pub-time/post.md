@@ -1,6 +1,6 @@
-<img src="http://netdna.walyou.netdna-cdn.com/wp-content/uploads//2012/04/beer-robot-friend.jpg" alt="Snow plower clears the way" width=100% />
+<img src="https://c6.staticflickr.com/9/8024/7167764005_a82b60f80e_h.jpg" width="100%" alt="Victorian Frame, Peacock Feathers">
 
-Sharing awkward stories builds stronger and more efficient teams.
+Sharing awkward stories and heavy opinions builds stronger and more efficient teams. Especially when everyone learns to efface his or her own assumptions and start to listen. 
 
 When you work in teams where everybody is expected to contribute from their own experience, it’s crucial to understand each other. Meetings outside the usual environment give you a different mindset. They enable you to see your colleagues for the people they are instead of who you made them out to be.
 
