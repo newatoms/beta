@@ -6,7 +6,10 @@ We all certainly have a goal or a reason before starting to write an article. Wh
 
 Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art? Not only are they boring, they don’t say anything about the written content.
 
-Right, so how to find that million dollar image? According to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best [images] are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*." That's a good start, but doesn't offer much practical information. Luckily, we can always rely on science.
+So how to find that million dollar image? According to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4),
+> the best [images] are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*. 
+
+That's a good start, but doesn't offer much practical information. Luckily, we can always rely on science.
 
 ## Appeal
 
