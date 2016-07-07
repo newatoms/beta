@@ -1,4 +1,4 @@
-<img src="https://c6.staticflickr.com/8/7559/16035355221_a91e82c3d5_h.jpg" width="100%" alt="Car trails and a London Pub">
+<img src="http://i.imgur.com/5CPHozf.png" width="100%" alt="We're all peacocks until we start listening to each other">
 
 Sharing awkward stories and heavy opinions builds stronger and more efficient teams.
 
