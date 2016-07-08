@@ -23,6 +23,8 @@ If you ask [Autodesk](http://www.autodesk.com/) CEO Carl Bass about the future w
 
 > “The factory of the future will have only two employees: a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment.”
 
+This might eventually apply to factories, but there are a lot of jobs (luckily) that still need human brains.   
+
 <img src="https://i.imgur.com/15e8adM.gif" alt="Automated egg splitting" width=100% />
 See what an awesome job this robot is doing. Imagine having to split all those eggs manually!
 
@@ -40,7 +42,7 @@ It's understandable that people are afraid that they'll lose their jobs due to a
 * Journalists, newspaper and periodical editors: It's quite unlikely, **8%**
 * Programmers and software development professionals: It's quite unlikely, **8%**
 
-It seems that we are quite save for now. On the other end the following jobs will eventually get done or solved due to technological solutions. The top 3 consists of:
+It seems that we are quite save for now. The following jobs though will eventually get done or solved due to technological solutions. The top 3 consists of:
 
 1. Telephone salesperson:	**99.0%**
 2. Typist or related keyboard worker:	**98.5%**
