@@ -19,7 +19,7 @@ But of course, there are always tasks that nobody wants to do—tasks you just c
 
 Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions.
 
-If you ask Autodesk CEO Carl Bass about the future work relationship between human workers and robots you'll find a strong prediction:
+If you ask [Autodesk](http://www.autodesk.com/) CEO Carl Bass about the future work relationship between human workers and robots you'll find a strong prediction:
 
 > “The factory of the future will have only two employees: a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment.”
 
