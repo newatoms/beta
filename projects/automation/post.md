@@ -11,7 +11,7 @@ Regardless of who wrote this, we have all experienced its truth when we've had t
 
 If you are bad at something and you don't seem to get better at it, no matter your efforts, you usually do an even worse job than you are capable of. But if you enjoy doing something and see yourself improve, you will often exceed expectations.
 
-This suggests that people are more efficient when they do what they enjoy and can improve at. It also means that there is something beyond the [carrot and the stick](https://en.wikipedia.org/wiki/Carrot_and_stick). It speaks of the power of motivation through happiness and self fulfilment instead of motivation through fear or rewards. You might even go as far as to conclude that if everyone does the things they enjoy and has the opportunity to develop themselves, their contribution to society will be maximised.
+This suggests that people are more efficient when they do what they enjoy and can improve at. It also means that there is something beyond the [carrot and the stick](https://en.wikipedia.org/wiki/Carrot_and_stick). It speaks of the power of motivation through happiness and self fulfillment instead of motivation through fear or rewards. You might even go as far as to conclude that if everyone does the things they enjoy and has the opportunity to develop themselves, their contribution to society will be maximised.
 
 But of course, there are always tasks that nobody wants to do—tasks you just can't get better at, that are repetitive and have predetermined goals with inflexible solutions. Tasks that don't need creativity, only execution. So who do you assign those tasks to? Robots!
 
@@ -34,4 +34,4 @@ At New Atoms we will probably never stop writing about the relationship between 
 
 Image: Kenny Louie - [Did it just get dark?](https://flic.kr/p/6wXxAR)
 
-Automatic egg seperating: https://www.youtube.com/watch?v=78VDqoQdavY
+Automatic egg separating: https://www.youtube.com/watch?v=78VDqoQdavY
