@@ -50,7 +50,7 @@ It seems that we are quite save for now. On the other end the following jobs wil
 
 The statistics were based on a paper done by researchers at Oxford University. The paper is called [The Future of Employment: How
 Susceptible Are Jobs to
-Computerisation?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf) So how do they measure this you might ask? See for yourself:
+Computerisation?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf) So how did they measure this you might ask? See for yourself:
 
 **These are the variables, used in the paper, that serve as indicators of bottlenecks to computerisation:**
 
