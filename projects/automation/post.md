@@ -13,17 +13,15 @@ Fact is that we just can't be good in everything. When we try hard to improve ou
 
 This suggests that people are more efficient when they do what they enjoy and can improve at. It also means that there is something beyond the [carrot and the stick](https://en.wikipedia.org/wiki/Carrot_and_stick). It speaks of the power of motivation through happiness and self fulfillment instead of motivation through fear or rewards. You might even go as far as to conclude that if everyone does the things they enjoy and has the opportunity to develop themselves, their contribution to society will be maximised.
 
-## It is going to happen
+## Human vs. robots
 
 But of course, there are always tasks that nobody wants to do—tasks you just can't get better at, that are repetitive and have predetermined goals with inflexible solutions. Tasks that don't need creativity, only execution. So who do you assign those tasks to? Robots!
 
-Autodesk CEO Carl Bass has a strong opinion about the future probability that we still have human employees working in factories.
-
-> “The factory of the future will have only two employees: a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment.”
-
 Robots are amazing at following instructions with inhuman precision while humans are great at coming up with the instructions.
 
-> Humans are great at creation while robots are superior at execution.
+If you ask Autodesk CEO Carl Bass about the future work relationship between human workers and robots you'll find a strong prediction:
+
+> “The factory of the future will have only two employees: a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment.”
 
 <img src="https://i.imgur.com/15e8adM.gif" alt="Automated egg splitting" width=100% />
 See what an awesome job this robot is doing. Imagine having to split all those eggs manually!
