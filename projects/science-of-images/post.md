@@ -2,12 +2,10 @@
 <img src="http://i.imgur.com/2HNf90E.jpg" alt="" width=100% />
 *The deadly sin of latte art imagery. By [Michael Allen Smith](https://www.flickr.com/photos/digitalcolony/)*
 
-Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content.
+Combining your content with valuable images that stick pays off greatly, as effective images can communicate messages powerfully. They trigger curiosity, create context and tell part of your story. Getting it right can make your article more appealing, comprehensible, and memorable.
 
-We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? Yes, finding a good image is hard. It does pay off greatly, though, to find a valuable image that sticks. It makes your articles more appealing, comprehensible, and memorable.
-
-So how to find that million dollar image? According to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4),
-> the best [images] are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*. 
+Yes, images are so important. This isn't exactly cutting-edge knowledge. Then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content. Well, finding a good image isn't easy. In this article we will focus on how to find that million dollar image. According to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4),
+> the best [images] are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*.
 
 That's a good start, but doesn't offer much practical information. Luckily, we can always rely on science.
 
