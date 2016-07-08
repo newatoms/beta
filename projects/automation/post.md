@@ -13,7 +13,7 @@ Fact is that we just can't be good in everything. When we try hard to improve ou
 
 This suggests that people are more efficient when they do what they enjoy and can improve at. It also means that there is something beyond the [carrot and the stick](https://en.wikipedia.org/wiki/Carrot_and_stick). It speaks of the power of motivation through happiness and self fulfillment instead of motivation through fear or rewards. You might even go as far as to conclude that if everyone does the things they enjoy and has the opportunity to develop themselves, their contribution to society will be maximised.
 
-## Human vs. robots
+## We're all instructors
 
 But of course, there are always tasks that nobody wants to do—tasks you just can't get better at, that are repetitive and have predetermined goals with inflexible solutions. Tasks that don't need creativity, only execution. So who do you assign those tasks to? Robots!
 
@@ -63,13 +63,13 @@ Podcast show Reply All from @Gimlet explains it all in their very recent episode
 
 ## To conclude our plea
 
-Just imagine an automated workforce that facilitates an environment where you would constantly be stimulated to come up with smart, fun and social solutions. Looking at high scores on:
+Besides some "dangers": an increasing dependability on software and the jobs that get swallowed, New Atoms chooses to work *with* the robots rather than ignoring their potential. Just imagine an automated workforce that facilitates an environment where you would constantly be stimulated to come up with smart, fun and social solutions. Lets focus on the things humans are still great at:
 
 * Perception and Manipulation
 * Creative Intelligence
 * Social Intelligence
 
-A future where we only have to do constructive, creative things. Nothing would ever come to a standstill. Systems would become fluid and communal and each individual could influence the world around them with their own strengths and beliefs. Wouldn't that be amazing?
+Lets sketch a future where we only have to do constructive, creative things. Nothing would ever come to a standstill. Systems would become fluid and communal and each individual could influence the world around them with their own strengths and beliefs. Wouldn't that be amazing?
 
 At New Atoms we will probably never stop writing about the relationship between humans and machines, because we are thinking about this everyday. In an attempt to become *Humachines*.
 
