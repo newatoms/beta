@@ -36,7 +36,7 @@ Of course this will not be achieved overnight. Those whose jobs would be automat
 
 ## What our future workforce looks like
 
-It's understandable that people are afraid that they'll lose their jobs due to automation. Before we all start panicking, lets find out what future jobs are likely to be done by humans. A year ago, the BBC created [a tool where you can fill in your job title and it then calculates the *likelihood of automation](http://www.bbc.com/news/technology-34066941). We immediately looked for some jobs that we're currently doing at New Atoms:
+It's understandable that people are afraid that they'll lose their jobs due to automation. Before we all start panicking, lets find out what future jobs are likely to be done by humans. A year ago, the BBC created [a tool where you can fill in your job title and it then calculates the *likelihood of automation*](http://www.bbc.com/news/technology-34066941). We immediately looked for some jobs that we're currently doing at New Atoms:
 
 * Author, writer or translator: It's not very likely, **33%**
 * Journalists, newspaper and periodical editors It's quite unlikely, **8%**
