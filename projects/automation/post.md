@@ -39,7 +39,7 @@ Of course this will not be achieved overnight. Those whose jobs would be automat
 It's understandable that people are afraid that they'll lose their jobs due to automation. Before we all start panicking, lets find out what future jobs are likely to be done by humans. A year ago, the BBC created [a tool where you can fill in your job title and it then calculates the *likelihood of automation*](http://www.bbc.com/news/technology-34066941). We immediately looked for some jobs that we're currently doing at New Atoms:
 
 * Author, writer or translator: It's not very likely, **33%**
-* Journalists, newspaper and periodical editors It's quite unlikely, **8%**
+* Journalists, newspaper and periodical editors: It's quite unlikely, **8%**
 * Programmers and software development professionals: It's quite unlikely, **8%**
 
 It seems that we are quite save for now. On the other end the following jobs will eventually get done or solved due to technological solutions. The top 3 consists of:
@@ -52,14 +52,14 @@ The statistics were based on a paper done by researchers at Oxford University. T
 Susceptible Are Jobs to
 Computerisation?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf) So how do they measure this you might ask? See for yourself:
 
-** These are the variables, used in the paper, that serve as indicators of bottlenecks to computerisation:**
+**These are the variables, used in the paper, that serve as indicators of bottlenecks to computerisation:**
 
 <img src="http://i.imgur.com/Ntzcuxt.png" alt="O∗NET variables that serve as indicators of bottlenecks to computerisation" width=100% />
-Credit: Tabel 1 of *THE FUTURE OF EMPLOYMENT: HOW SUSCEPTIBLE ARE JOBS TO COMPUTERISATION?∗ Carl Benedikt Frey and Michael A. Osborne.  
+Credit: Tabel 1 of _THE FUTURE OF EMPLOYMENT: HOW SUSCEPTIBLE ARE JOBS TO COMPUTERISATION?_ Carl Benedikt Frey and Michael A. Osborne.  
 
-There are more disadvantages that lurk beneath this creation of a techo utopia. In a way, we get dependable on technology. Acouple of months ago thousands of programmers let the world now that [One programmer almost broke the internet by deleting 11 lines of code](http://uk.businessinsider.com/npm-left-pad-controversy-explained-2016-3?r=US&IR=T). It's about what happens when an open source software package gets deleted by the maker.
+There are more disadvantages that lurk beneath this creation of a techo utopia. In a way, we get dependable on technology. A couple of months ago thousands of programmers let the world know that [One programmer almost broke the internet by deleting 11 lines of code](http://uk.businessinsider.com/npm-left-pad-controversy-explained-2016-3?r=US&IR=T). It's about what happens when an open source software package gets deleted by the maker.
 
-Podcast show Reply All from @Gimlet explains it all in their very recent episode: [#69 Disappeared](https://gimletmedia.com/episode/69-disappeared/). All though the coding world trebled a bit, they fixed the problem quite rapidly. Luckily they're in the problem solving business.
+Podcast show Reply All from @Gimlet explains it all in their very recent episode: [#69 Disappeared](https://gimletmedia.com/episode/69-disappeared/). Although the coding world trebled a bit, they fixed the problem quite rapidly. Luckily they're in the problem solving business.
 
 ## To conclude our plea
 
