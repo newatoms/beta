@@ -57,7 +57,7 @@ Computerisation?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future
 <img src="http://i.imgur.com/Ntzcuxt.png" alt="O∗NET variables that serve as indicators of bottlenecks to computerisation" width=100% />
 Credit: Tabel 1 of _THE FUTURE OF EMPLOYMENT: HOW SUSCEPTIBLE ARE JOBS TO COMPUTERISATION?_ Carl Benedikt Frey and Michael A. Osborne.  
 
-There are more disadvantages that lurk beneath this creation of a techo utopia. In a way, we get dependable on technology. A couple of months ago thousands of programmers let the world know that [One programmer almost broke the internet by deleting 11 lines of code](http://uk.businessinsider.com/npm-left-pad-controversy-explained-2016-3?r=US&IR=T). It's about what happens when an open source software package gets deleted by the maker.
+Other than that we must create new jobs, there's an other disadvantage that lurk beneath this creation of a techno utopia. In a way, we get dependable on technology. A couple of months ago thousands of programmers let the world know that [One programmer almost broke the internet by deleting 11 lines of code](http://uk.businessinsider.com/npm-left-pad-controversy-explained-2016-3?r=US&IR=T). It's about what happens when an open source software package gets deleted by the maker.
 
 Podcast show Reply All from @Gimlet explains it all in their very recent episode: [#69 Disappeared](https://gimletmedia.com/episode/69-disappeared/). Although the coding world trebled a bit, they fixed the problem quite rapidly. Luckily they're in the problem solving business.
 
