@@ -10,7 +10,7 @@ That's a good start, but doesn't offer much practical information. Luckily, we c
 
 ## The *appealing* factor; Back to our survival instincts
 
-We all have it ones in a while; we get appealed by a stunning image that give these little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while scanning.
+We all have it ones in a while; we get struck by a stunning image that give these little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while suppressing the urge of sharing your findings just yet.
 
 Why these encounters of meeting our instinctive emotion happen is hard to explain, lets try it anyway.
 
