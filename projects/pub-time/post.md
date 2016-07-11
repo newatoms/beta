@@ -4,9 +4,9 @@ Sharing awkward stories and heavy opinions builds stronger and more efficient te
 
 When you work in teams where everybody is expected to contribute from their own experience, it’s crucial to understand each other. Meetings outside the usual environment give you a different mindset. They enable you to see your colleagues for the people they are instead of who you made them out to be.
 
-That’s why earlier this year, New Atoms traveled to London for its first offsite.
+That’s why earlier this year, New Atoms traveled to London for its first off-site.
 
-The offsite facilitated important talks about the the future of news, technology and the future in general. In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand.
+The off-site facilitated important talks about the the future of news, technology and the future in general. In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand.
 
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at FNAC" width=100% />
 
@@ -14,9 +14,9 @@ Many times, these lighter conversations gave rise to weightier topics—topics l
 
 It took us quite a few attempts to realise we were all on the same page—that if someone has a strong opinion, we should not try to fight it with our own, but rather to understand what they are trying to convey.
 
-It was only by talking through these assumptions and learning how to *listen* that they began to melt away and be replaced by empathy. We were able to understand each other and see from one another's perspectives. We learned how to communicate effectively on a personal level, looking past our own baggage and assumptions.
+It was only by talking through these assumptions and learning how to *listen* that they began to melt away and be replaced by empathy. We were able to understand each other and see from one another's perspectives. We learned how to communicate effectively on a personal level, looking past our own baggage and assumptions. We learned to trust.
 
-This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Not only did it increase personal investment in our colleagues, it also enabled us to look at the world with a less clouded vision. It made us realise even more that first you must understand what others are saying before you can respond.
+This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Months later, we feel the positive effects. Not only did it increase personal investment in our colleagues, it also enabled us to look at the world with a less clouded, more analytical vision. It made us realise even more that you must first understand what others are saying before you can respond fairly and intelligently.
 
 
-Image (modified): Victorian Frame 8 ~ Feathers by [Temari 09](https://flic.kr/p/bVoEw2) (CC BY 2.0). 
+Image (modified): Victorian Frame 8 ~ Feathers by [Temari 09](https://flic.kr/p/bVoEw2) (CC BY 2.0).
