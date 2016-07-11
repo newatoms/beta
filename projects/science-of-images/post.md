@@ -15,7 +15,7 @@ We all have it ones in a while; we get struck by a stunning image that give thes
 
 Why these encounters with our emotions happen is hard to explain, but let's try anyway.
 
-The *appeal* we have towards an image is our natural attraction. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
+*Appeal* is our natural attraction towards an image. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
 
 Immediate, emotional reactions are some of the strongest connections we can make to visual content. They occur from the part of the brain that is also related to our [survival instincts](http://adventure.howstuffworks.com/survival/wilderness/wired-for-survival1.htm), which means that the reaction will likely be more direct and intense if it appeals to our emotions.
 
