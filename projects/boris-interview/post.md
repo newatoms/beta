@@ -15,6 +15,15 @@ First of all, the way in which media companies currently grow quickly leads to s
 
 Now let's say the same newspaper hires two more people: one to write a blogpost about beers in Belgium and another one to write about fries in France. It may seem like the newspaper has increased its production by 300%. However, all of these people now need to make trips, do research and may need mediation at some point in their process. This causes a drastic increase in overhead, causing the production per person diminish and leaving the organisation with less value for its money. This is obviously a very bad incentive for media companies to grow.
 
-So, says Boris, these companies need to look at the way in which technological organisations grow: they hire people with a variety of experience and skills to make the company as a whole more valuable. Implementing such a system of sharing knowledge, work and experience in media production enables individuals to increase their production as well as that of the people around them.
+So, says Boris, these companies need to look at the way in which technological organisations grow: they hire people with a variety of experience and skills to make the company as a whole more valuable. Each person contributes from their strengths. Implementing such a system—sharing knowledge, work, and experience—in media production enables individuals to increase their production as well as that of the people around them.
+
+The other fundamental problem in the news industry is the difficulty it has adapting to developments in technology, specifically those that influence social behaviour. Because the technology sector is so much better at adapting to the changing behaviours of its audience and its user base, it is able to fulfill a lot of their needs much more immediately than the news industry.
+
+Boris apprehends that
+> the moment traditional media and news media drop one beat—the moment they don't manage to adapt quickly enough to what their user base needs from them... the moment [they fail to] provide good, quick news sources on the internet, with enough reliability as they did with television...—other media stepped in and it was over.
+
+What are the implications? Now, people who are very conscious of which messages are being sent, how they are formulated, and the ways in which they impact the world (those in news media) have been usurped by people who have a lot less awareness about what the role and influence of such messages is (those in technology). They don't understand that, when they transmit widely significant information, they change people's lives.
+
+What they do understand is that they're effectively making a product that people are buying. Naturally, they continue to develop the product, their decisions directed by user research. In doing this, they're actually (often unconsciously) changing politics, changing government, changing the ways in which people interact with one another.
 
 And so the idea for New Atoms was born.
