@@ -59,7 +59,7 @@ Credit: Tabel 1 of _THE FUTURE OF EMPLOYMENT: HOW SUSCEPTIBLE ARE JOBS TO COMPUT
 
 Other than that we must create new jobs, there's an other disadvantage that lurk beneath this creation of a techno utopia. In a way, we get dependable on technology. A couple of months ago thousands of programmers let the world know that [One programmer almost broke the internet by deleting 11 lines of code](http://uk.businessinsider.com/npm-left-pad-controversy-explained-2016-3?r=US&IR=T). It's about what happens when an open source software package gets deleted by the maker.
 
-Podcast show Reply All from @Gimlet explains it all in their very recent episode: [#69 Disappeared](https://gimletmedia.com/episode/69-disappeared/). Although the coding world trebled a bit, they fixed the problem quite rapidly. Lucky for us, they're in the problem solving business.
+When we rely on this prolific open source world we see that we can get comfortable with automation. In the Podcast show Reply All (really worth checking out) from @Gimlet they explain it all in their episode: [#69 Disappeared](https://gimletmedia.com/episode/69-disappeared/).  Although the coding world trembled a bit, programmers fixed the problem quite rapidly. Most important to remember and lucky for us, they're in the problem solving business.
 
 ## To conclude our plea
 
