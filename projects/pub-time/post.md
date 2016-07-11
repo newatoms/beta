@@ -14,9 +14,9 @@ Many times, these lighter conversations gave rise to weightier topics—topics l
 
 It took us quite a few attempts to realise we were all on the same page—that if someone has a strong opinion, we should not try to fight it with our own, but rather to understand what they are trying to convey.
 
-It was only by talking through these assumptions and learning how to *listen* that they began to melt away and be replaced by empathy. We were able to understand each other and see from one another's perspectives. We learned how to communicate effectively on a personal level, looking past our own baggage and assumptions.
+It was only by talking through these assumptions and learning how to *listen* that they began to melt away and be replaced by empathy. We were able to understand each other and see from one another's perspectives. We learned how to communicate effectively on a personal level, looking past our own baggage and assumptions. We learned to trust.
 
-This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Not only did it increase personal investment in our colleagues, it also enabled us to look at the world with a less clouded vision. It made us realise even more that you must first  understand what others are saying before you can respond fairly and intelligently.
+This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Months later, we feel the positive effects. Not only did it increase personal investment in our colleagues, it also enabled us to look at the world with a less clouded, more analytical vision. It made us realise even more that you must first understand what others are saying before you can respond fairly and intelligently.
 
 
 Image (modified): Victorian Frame 8 ~ Feathers by [Temari 09](https://flic.kr/p/bVoEw2) (CC BY 2.0).
