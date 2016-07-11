@@ -26,4 +26,8 @@ What are the implications? Now, people who are very conscious of which messages 
 
 What they do understand is that they're effectively making a product that people are buying. Naturally, they continue to develop the product, their decisions directed by user research. In doing this, they're actually (often unconsciously) changing politics, changing government, changing the ways in which people interact with one another.
 
+The idea that you could really change the world if you have access to a lot of people is highly relevant to journalism. Social media is highly interesting for that reason: it's all of our role to shape the future and mass media is a tool for such an endeavour. If you have well- functioning, mindful mass media, then the future can be shaped in the right ways.
+
+Technology developed a system which uses every communication method available, the modern ways of working, and the ability to share information on a massive scale. With that, they solve a lot of the same problems with which journalism is struggling using a different kind of process.
+
 And so the idea for New Atoms was born.
