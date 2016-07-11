@@ -24,7 +24,7 @@ Immediate, emotional reactions are some of the strongest connections we can make
 
 Visual content should indicate the emotion for which it aims. This could be accomplished abstractly with colour, metaphors, or irony, for example. Or it could be achieved concretely with associations which elicit the "right" feeling (safety, food, positivity, love...).
 
-## The *comprehension* of images: Faster than our own shadows
+## The *comprehension* element: Faster than our own shadows
 
 For your high-speed brain, triggering your emotions in an instant is custom. So how quickly are we able to grasp the concept of an image? Images are understandable much more quickly than words.
 
@@ -32,7 +32,7 @@ This is because *comprehension* is linked to the way our brains translate data i
 
 Thus, our brains need a picture to process information faster and create a connection between the visual representation and its concept. It’s impressive how the visual perception in our brain makes such a complex task easy. This could also be a scientific explanation for why "an image is worth a thousand words.”
 
-## *Retention*; Weird images do well
+## The *retention* ability; Go weird and crazy
 
 *Retention* is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
 
