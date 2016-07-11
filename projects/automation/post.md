@@ -63,7 +63,7 @@ When we rely on this prolific open source world we see that we can get comfortab
 
 ## To conclude our plea
 
-Besides some "dangers": an increasing dependability on software and the jobs that get swallowed, New Atoms chooses to work *with* the robots rather than ignoring their potential. Just imagine an automated workforce that facilitates an environment where you would constantly be stimulated to come up with smart, fun and social solutions. Lets focus on the things humans are still great at:
+Besides some "dangers": an increasing dependability on software and the jobs that get swallowed, New Atoms chooses to work *with* the robots rather than ignoring their potential. Just imagine an automated workforce that facilitates an environment where you would constantly be stimulated to come up with smart, fun and social solutions. Lets focus on the things humans are great at:
 
 * Perception and Manipulation
 * Creative Intelligence
