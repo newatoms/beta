@@ -32,7 +32,7 @@ See what an awesome job this robot is doing. Imagine having to split all those e
 
 However, the power of automation is not only in doing certain things more efficiently than people, it is also in making sure that no one needs to have a job they hate.
 
-Of course this will not be achieved overnight. Those whose jobs would be automated would need time to rediscover what they enjoy and are good at. We should not just fire everyone who has a job better suited for robots, but we should look to automation for the future workforce.
+Of course this will not be achieved overnight. Those whose jobs would be automated would need time to rediscover what they enjoy and are good at. It does not require a psychologist or economist to say humans excel when working on something they enjoy most. We should not be scared for automation for new generations to come. Robots help us reveal our hidden talents.
 
 ## What our future workforce looks like
 
