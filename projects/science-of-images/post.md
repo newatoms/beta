@@ -10,10 +10,9 @@ That's a good start, but it doesn't offer much practical information. Luckily, w
 
 ## The *appeal* factor: Back to our survival instincts
 
-We all have it ones in a while; we get struck by a stunning image that give these little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while suppressing the urge of sharing your findings just yet.
+We all have it once in a while: we're struck by a stunning image that induces little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while suppressing the urge of sharing your findings just yet.
 
-
-Why these encounters with our emotions happen is hard to explain, but let's try anyway.
+These encounters with our emotions are hard to explain, but let's try anyway.
 
 *Appeal* is our natural attraction towards an image. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
 
@@ -26,13 +25,13 @@ Visual content should indicate the emotion for which it aims. This could be acco
 
 ## The *comprehension* element: Faster than our own shadows
 
-For your high-speed brain, triggering your emotions in an instant is custom. So how quickly are we able to grasp the concept of an image? Images are understandable much more quickly than words.
+For your high-speed brain, instantaneously triggering emotions is a common activity. So how quickly are we able to grasp the concept of an image? Images are understandable much more quickly than words.
 
 This is because *comprehension* is linked to the way our brains translate data in order to simplify it. [It has been observed that 90% of the information sent to our brains is visual](http://blog.hubspot.com/blog/tabid/6307/bid/33423/19-Reasons-You-Should-Include-Visual-Content-in-Your-Marketing-Data.aspx#sm.00001ztsyhxnje9dr7r1i72p6g37j), with our brains responding to it 60,000 faster than they do for text.
 
 Thus, our brains need a picture to process information faster and create a connection between the visual representation and its concept. It’s impressive how the visual perception in our brain makes such a complex task easy. This could also be a scientific explanation for why "an image is worth a thousand words.”
 
-## The *retention* ability; Go weird and crazy
+## The *retention* capacity: Go weird and crazy
 
 *Retention* is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
 
