@@ -4,26 +4,34 @@
 
 We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? It pays off greatly to find a valuable image that sticks. It makes your articles more appealing, comprehensible, and memorable.
 
-Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content. Well, as it turns out finding a good image is hard. According to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), the best images are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*. 
-  
+Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content. Well, as it turns out finding a good image is hard. According to [@Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), the best images are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*.
+
 That's a good start, but doesn't offer much practical information. Luckily, we can always rely on science.
 
-## Appeal
+## The *appealing* factor; Back to our survival instincts
 
-*Appeal* is our natural attraction towards an image. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
+We all have it ones in a while; we get appealed by a stunning image that give these little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while scanning.
+
+Why these encounters of meeting our instinctive emotion happen is hard to explain, lets try it anyway.
+
+The *appeal* we have towards an image is our natural attraction. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
 
 Immediate, emotional reactions are some of the strongest connections we can make to visual content. They occur from the part of the brain that is also related to our [survival instincts](http://adventure.howstuffworks.com/survival/wilderness/wired-for-survival1.htm), which means that the reaction will likely be more direct and intense if it appeals to our emotions.
 
 <img src="http://i.imgur.com/IVmdxZf.jpg" alt="Banksy's Caveman" width=100% />
 *Banksy's caveman by [Lord Jim](https://flic.kr/p/4qq592), ([CC BY 2.0](http://creativecommons.org/licenses/by/2.0/)). Also, give yourself a treat and see some [more work from Banksy](http://banksy.co.uk/).*
 
-## Comprehension
+Visual content should indicate the emotion for which it aims. This could be accomplished abstractly with colour, metaphors, or irony, for example. Or it could be achieved concretely with associations which elicit the "right" feeling (safety, food, positivity, love...).
 
-*Comprehension* is linked to the way our brains translate data in order to simplify it. [It has been observed that 90% of the information sent to our brains is visual](http://blog.hubspot.com/blog/tabid/6307/bid/33423/19-Reasons-You-Should-Include-Visual-Content-in-Your-Marketing-Data.aspx#sm.00001ztsyhxnje9dr7r1i72p6g37j), with our brains responding to it 60,000 faster than they do for text.
+## The *comprehension* of images; Faster than our own shadow
+
+For your high-speed brain, triggering your emotions in an instant is custom. So how quick are we able to grasp the concept of an image? Images are understandable in a far quicker fashion than words do.
+
+This is because *comprehension* is linked to the way our brains translate data in order to simplify it. [It has been observed that 90% of the information sent to our brains is visual](http://blog.hubspot.com/blog/tabid/6307/bid/33423/19-Reasons-You-Should-Include-Visual-Content-in-Your-Marketing-Data.aspx#sm.00001ztsyhxnje9dr7r1i72p6g37j), with our brains responding to it 60,000 faster than they do for text.
 
 Thus, our brains need a picture to process information faster and create a connection between the visual representation and its concept. It’s impressive how the visual perception in our brain makes such a complex task easy. This could also be a scientific explanation for why "an image is worth a thousand words.”
 
-## Retention
+## *Retention*; Weird images do good
 
 *Retention* is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
 
