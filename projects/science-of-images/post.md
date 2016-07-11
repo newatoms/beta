@@ -12,7 +12,8 @@ That's a good start, but it doesn't offer much practical information. Luckily, w
 
 We all have it ones in a while; we get struck by a stunning image that give these little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while suppressing the urge of sharing your findings just yet.
 
-Why these encounters of meeting our instinctive emotion happen is hard to explain, but let's try anyway.
+
+Why these encounters with our emotions happen is hard to explain, but let's try anyway.
 
 The *appeal* we have towards an image is our natural attraction. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
 
