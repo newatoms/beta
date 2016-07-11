@@ -7,9 +7,9 @@ It is speculated on *the internet* that Einstein once wrote:
 
 > Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
 
-Regardless of who wrote this, we have all experienced its truth when we've had to do things we were bad at. We have experienced it at school, at our first jobs and probably in all aspects of life.
+Regardless of who wrote this, we have all experienced its truth when we've had to do things we don't like. We have experienced it at school, at our first jobs and probably in all aspects of life.
 
-Fact is that we just can't be good in everything. When we try hard to improve our weaknesses, no matter the efforts, we usually fail. But if you enjoy doing something and see yourself improve, you will often exceed expectations.
+Fact is that we just can't be good in everything. But if you enjoy doing something and see yourself improve, you will often exceed expectations.
 
 This suggests that people are more efficient when they do what they enjoy and can improve at. It also means that there is something beyond the [carrot and the stick](https://en.wikipedia.org/wiki/Carrot_and_stick). It speaks of the power of motivation through happiness and self fulfillment instead of motivation through fear or rewards. You might even go as far as to conclude that if everyone does the things they enjoy and has the opportunity to develop themselves, their contribution to society will be maximised.
 
