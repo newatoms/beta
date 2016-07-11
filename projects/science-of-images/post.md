@@ -8,7 +8,7 @@ Stating that effective images can communicate messages powerfully isn't exactly 
 
 That's a good start, but doesn't offer much practical information. Luckily, we can always rely on science.
 
-## The *appealing* factor; Back to our survival instincts
+## The *appeal* factor; Back to our survival instincts
 
 We all have it ones in a while; we get appealed by a stunning image that give these little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while scanning.
 
