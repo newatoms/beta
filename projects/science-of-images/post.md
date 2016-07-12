@@ -35,9 +35,10 @@ Thus, our brains need a picture to process information faster and create a conne
 
 *Retention* is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
 
-<img src="http://i.imgur.com/8p4Xzhd.jpg" alt="Astronaut and circus horse meet up in an alleyway" width=48% />
-<img src="http://i.imgur.com/d9Iz6eJ.jpg" alt="Guy pondering his life using huge cake as a pillow" width="48%" />
-*According to above theory, both of these strange stock images should get good scores on memorability. Yet the algorithm only found the guy using a cake as a pillow highly memorable. Source: [Buzzfeed](https://www.buzzfeed.com/daves4/unexplainable-stock-photos?utm_term=.px0waDlZ3#.okVGnrX2z)/[Getty Images](https://www.gettyimages.com)*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lauterbrunnen_-_Staubbachfall.jpg/1280px-Lauterbrunnen_-_Staubbachfall.jpg" alt="Lauterbrunnen" width=48% />
+<img src="https://i.imgur.com/wJ8JJyZ.jpg" alt="Mule wearing gas masks in WWI, 1916" width="41.7%" />
+
+*The landscape picture, though beautiful, gets a low score of 0.421, while the striking gas mask picture gets a high score of 0.703.*
 
 ## We scienced the $#!† out of images, so now what?
 
@@ -53,3 +54,9 @@ Especially if you’re collaborating on content, it’s important to be able to 
 ---
 
 Want to know more about what makes an image interesting? Read [Ten Tips for Making Interesting Images](https://medium.com/@caitlinwinner/ten-tips-for-making-interesting-images-19a59bd2eea2#.squ547nli) from @caitlinwinner.
+
+*Images:*
+
+*Landscape: Lauterbrunnen, [Noel Reynolds](https://www.flickr.com/photos/29237715@N05/7297409636)*
+
+*Gas masks: Germany, 1916.*
