@@ -37,7 +37,7 @@ Thus, our brains need a picture to process information faster and create a conne
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lauterbrunnen_-_Staubbachfall.jpg/1280px-Lauterbrunnen_-_Staubbachfall.jpg" alt="Lauterbrunnen" width=48% />
 <img src="https://i.imgur.com/wJ8JJyZ.jpg" alt="Mule wearing gas masks in WWI, 1916" width="48%" />
-*The landscape picture, although soothing, gets a low score of 0.421, while the striking gas masks picture gets a high score of 0.703.*
+*The landscape picture, though soothing, gets a low score of 0.421, while the striking gas mask picture gets a high score of 0.703.*
 
 ## We scienced the $#!† out of images, so now what?
 
