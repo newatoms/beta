@@ -8,7 +8,7 @@ One of Boris's most uttered words, to the annoyance of most of the people who su
 
 This hunger has steered him into software development, media production, design, consulting in the cultural space, managing various teams, and eventually into the field of journalism. He felt at home in this field that exists solely to investigate the *what*s and the *why*s about the things that move our world. Even within a context in which curiosity is fundamental, Boris noticed that there were few questions regarding methods and motives—that the way journalism is practiced is stuck in mostly irrelevant traditions.
 
-Boris says about his experiences that "whenever you cross those boundaries into another field, you see the things in which that field is better than other fields, or things that field is behind in from other fields."
+Boris says about his experiences that "whenever you cross the boundaries into another field, you see the things in which that field is better than other[s], or [ways in which] that field is behind other[s]."
 
 This led to an urge to understand and improve the field of journalism, and so he went to work. During this time, he [injected his commitment to understand](http://www.slideshare.net/SNDupdate/boris-van-hoytema-at-snddc-making-the-future-of-news-46870634?ref=http://www.snd.org/dc2015/finding-neverland-boris-van-hoytema-on-the-upside-of-utopia-plus-5-mantras-for-design/) into the BBC's [*Future of News*](http://www.bbc.co.uk/news/resources/idt-bbb9e158-4a1b-43c7-8b3b-9651938d4d6a) project, an initiative that tries to understand future global news trends and innovate accordingly.
 
