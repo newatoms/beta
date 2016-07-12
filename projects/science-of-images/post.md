@@ -4,11 +4,15 @@
 
 We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? It pays off greatly to find a valuable image that sticks. It makes your articles more appealing, comprehensible, and memorable.
 
-Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content. Well, as it turns out finding a good image is hard. According to [Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), the best images are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*. 
-  
-That's a good start, but doesn't offer much practical information. Luckily, we can always rely on science.
+Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content. As it turns out, finding a good image is hard. According to [@Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best images are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*."
 
-## Appeal
+That's a good start, but it doesn't offer much practical information. Luckily, we can always rely on science.
+
+## The *appeal* factor: Back to our survival instincts
+
+We all have it once in a while: we're struck by a stunning image that induces little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while suppressing the urge of sharing your findings just yet.
+
+These encounters with our emotions are hard to explain, but let's try anyway.
 
 *Appeal* is our natural attraction towards an image. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
 
@@ -17,19 +21,24 @@ Immediate, emotional reactions are some of the strongest connections we can make
 <img src="http://i.imgur.com/IVmdxZf.jpg" alt="Banksy's Caveman" width=100% />
 *Banksy's caveman by [Lord Jim](https://flic.kr/p/4qq592), ([CC BY 2.0](http://creativecommons.org/licenses/by/2.0/)). Also, give yourself a treat and see some [more work from Banksy](http://banksy.co.uk/).*
 
-## Comprehension
+Visual content should indicate the emotion for which it aims. This could be accomplished abstractly with colour, metaphors, or irony, for example. Or it could be achieved concretely with associations which elicit the "right" feeling (safety, food, positivity, love...).
 
-*Comprehension* is linked to the way our brains translate data in order to simplify it. [It has been observed that 90% of the information sent to our brains is visual](http://blog.hubspot.com/blog/tabid/6307/bid/33423/19-Reasons-You-Should-Include-Visual-Content-in-Your-Marketing-Data.aspx#sm.00001ztsyhxnje9dr7r1i72p6g37j), with our brains responding to it 60,000 faster than they do for text.
+## The *comprehension* element: Faster than our own shadows
+
+For your high-speed brain, instantaneously triggering emotions is a common activity. So how quickly are we able to grasp the concept of an image? Images are understandable much more quickly than words.
+
+This is because *comprehension* is linked to the way our brains translate data in order to simplify it. [It has been observed that 90% of the information sent to our brains is visual](http://blog.hubspot.com/blog/tabid/6307/bid/33423/19-Reasons-You-Should-Include-Visual-Content-in-Your-Marketing-Data.aspx#sm.00001ztsyhxnje9dr7r1i72p6g37j), with our brains responding to it 60,000 faster than they do for text.
 
 Thus, our brains need a picture to process information faster and create a connection between the visual representation and its concept. It’s impressive how the visual perception in our brain makes such a complex task easy. This could also be a scientific explanation for why "an image is worth a thousand words.”
 
-## Retention
+## The *retention* capacity: Go weird and crazy
 
 *Retention* is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
 
-<img src="http://i.imgur.com/8p4Xzhd.jpg" alt="Astronaut and circus horse meet up in an alleyway" width=48% />
-<img src="http://i.imgur.com/d9Iz6eJ.jpg" alt="Guy pondering his life using huge cake as a pillow" width="48%" />
-*According to above theory, both of these strange stock images should get good scores on memorability. Yet the algorithm only found the guy using a cake as a pillow highly memorable. Source: [Buzzfeed](https://www.buzzfeed.com/daves4/unexplainable-stock-photos?utm_term=.px0waDlZ3#.okVGnrX2z)/[Getty Images](https://www.gettyimages.com)*
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lauterbrunnen_-_Staubbachfall.jpg/1280px-Lauterbrunnen_-_Staubbachfall.jpg" alt="Lauterbrunnen" width=48% />
+<img src="https://i.imgur.com/wJ8JJyZ.jpg" alt="Mule wearing gas masks in WWI, 1916" width="41.7%" />
+
+*The landscape picture, though beautiful, gets a low score of 0.421, while the striking gas mask picture gets a high score of 0.703.*
 
 ## We scienced the $#!† out of images, so now what?
 
@@ -45,3 +54,9 @@ Especially if you’re collaborating on content, it’s important to be able to 
 ---
 
 Want to know more about what makes an image interesting? Read [Ten Tips for Making Interesting Images](https://medium.com/@caitlinwinner/ten-tips-for-making-interesting-images-19a59bd2eea2#.squ547nli) from @caitlinwinner.
+
+*Images:*
+
+*Landscape: Lauterbrunnen, [Noel Reynolds](https://www.flickr.com/photos/29237715@N05/7297409636)*
+
+*Gas masks: Germany, 1916.*
