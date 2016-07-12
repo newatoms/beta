@@ -36,7 +36,8 @@ Thus, our brains need a picture to process information faster and create a conne
 *Retention* is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lauterbrunnen_-_Staubbachfall.jpg/1280px-Lauterbrunnen_-_Staubbachfall.jpg" alt="Lauterbrunnen" width=48% />
-<img src="https://i.imgur.com/wJ8JJyZ.jpg" alt="Mule wearing gas masks in WWI, 1916" width="48%" />
+<img src="https://i.imgur.com/wJ8JJyZ.jpg" alt="Mule wearing gas masks in WWI, 1916" width="42%" />
+
 *The landscape picture, although soothing, gets a low score of 0.421, while the striking gas masks picture gets a high score of 0.703.*
 
 ## We scienced the $#!† out of images, so now what?
