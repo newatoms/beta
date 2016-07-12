@@ -20,7 +20,7 @@ So, says Boris, these companies need to look at the way in which technological o
 The other fundamental problem in the news industry is the difficulty it has adapting to developments in technology, specifically those that influence social behaviour. Because the technology sector is so much better at adapting to the changing behaviours of its audience and its user base, it is able to fulfill a lot of their needs much more immediately than the news industry.
 
 Boris apprehends that
-> the moment traditional media and news media drop one beat—the moment they don't manage to adapt quickly enough to what their user base needs from them... the moment [they fail to] provide good, quick news sources on the internet, with enough reliability as they did with television...—other media stepped in and it was over.
+> the moment traditional media and news media dropped one beat; the moment they didn't adapt quickly enough to what their user base needed from them; the moment [they failed to] provide good, quick, reliable news sources on the internet, other media stepped in and it was over.
 
 What are the implications? Now, people who are very conscious of which messages are being sent, how they are formulated, and the ways in which they impact the world (those in news media) have been usurped by people who have a lot less awareness about what the role and influence of such messages is (those in technology). They don't understand that, when they transmit widely significant information, they change people's lives.
 
