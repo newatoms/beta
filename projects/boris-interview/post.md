@@ -11,7 +11,7 @@ This led to an urge to understand and improve the field of journalism, and so he
 
 While poking around in the business of the BBC, Boris stumbled on a set of structural problems that make it hard for news organisations to keep up with the market. The two key fields for improvement: scalability and adaptability.
 
-First of all, the way in which media companies currently grow quickly leads to scalability problems. Let's say a newspaper hires someone to write a story on corruption in Afghanistan. Not only will this person write the story, but they will need to make a trip there and do all the research involved, so they will spend 100% of their time on this one article.
+First of all, the way in which media companies currently grow quickly leads to scalability problems. Let's say a newspaper hires someone to write a story on corruption in Afghanistan. This person is charged with understanding everything happening there. Not only will this person write the story, but they will need to make a trip there and do all the research involved, so they will spend 100% of their time on this one article.
 
 Now let's say the same newspaper hires two more people: one to write a blogpost about beers in Belgium and another one to write about fries in France. It may seem like the newspaper has increased its production by 300%. However, all of these people now need to make trips, do research and may need mediation at some point in their process. This causes a drastic increase in overhead, making your production per person diminish and leaving you with less value for your money. This is obviously a very bad incentive for media companies to grow.
 
