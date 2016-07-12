@@ -1,13 +1,16 @@
 <img src="https://i.imgur.com/nZ5Gow7.jpg?1" alt="The two sides of Boris" width=100% />
+*"I'm interested in large, complex systems. I wanna know why people do things, what makes them do things, and how all these things fit together."*
 
 # The Experience that Cried for a New Business
 
 One of Boris's most uttered words, to the annoyance of most of the people who surround him, is "*why*".
 "*Why* is there a need for this to exist?", "*Why* would you want to change this and *why* haven't you?", "*Why* are we not asking *why*?" Even though it can be wildly annoying at times, it enables him to understand small bits of the world around him. The more small bits of understanding he collects, the more they contribute to a bigger understanding—an understanding that leads to a hunger for even more understanding.
 
-This hunger steered him into the field journalism, a world filled with people who specialise in asking the *what*s and the *why*s about the things that move our world. Even within a group of naturally curious people, Boris noticed that few would question themselves about their methods and motives.
+This hunger has steered him into software development, media production, design, consulting in the cultural space, managing various teams, and eventually into the field of journalism, a world that exists solely to investigate the *what*s and the *why*s about the things that move our world. Even within a context in which curiosity is fundamental, Boris noticed that there were few questions regarding methods and motives and that the way journalism is practiced is stuck in mostly irrelevant traditions.
 
-This led to an urge to understand and improve the field of journalism, and so he went to work. During this time, he worked as a Journalist, an Editorial Consultant, a Designer, a Programmer, and a Producer for [BBC News](http://www.bbc.com/news). He  [injected his commitment to understand](http://www.slideshare.net/SNDupdate/boris-van-hoytema-at-snddc-making-the-future-of-news-46870634?ref=http://www.snd.org/dc2015/finding-neverland-boris-van-hoytema-on-the-upside-of-utopia-plus-5-mantras-for-design/) into the BBC's [*Future of News*](http://www.bbc.co.uk/news/resources/idt-bbb9e158-4a1b-43c7-8b3b-9651938d4d6a) project, an initiative that tries to understand future global news trends and innovate accordingly.
+Boris says about his experiences that "whenever you cross those boundaries into another field, you see the things in which that field is better than other fields, or things that field is behind in from other fields."
+
+This led to an urge to understand and improve the field of journalism, and so he went to work. During this time, he [injected his commitment to understand](http://www.slideshare.net/SNDupdate/boris-van-hoytema-at-snddc-making-the-future-of-news-46870634?ref=http://www.snd.org/dc2015/finding-neverland-boris-van-hoytema-on-the-upside-of-utopia-plus-5-mantras-for-design/) into the BBC's [*Future of News*](http://www.bbc.co.uk/news/resources/idt-bbb9e158-4a1b-43c7-8b3b-9651938d4d6a) project, an initiative that tries to understand future global news trends and innovate accordingly.
 
 While poking around in the business of the BBC, Boris stumbled on a set of structural problems that make it hard for news organisations to keep up with the market. The two key fields for improvement: scalability and adaptability.
 
