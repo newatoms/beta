@@ -1,16 +1,20 @@
 <img src="https://i.imgur.com/YEniqtv.jpg" width="100%" alt="The team in june">
 
+How could we ever strive to understand the world if no more than half of our team members have a significant degree, and even less of us has relevant work experience?
+
 We don't hire on experience, we hire on personality.
 
-Our team(s) work hyper-collaboration. Every product we make is the result of a team building iteratively on one another's work, giving feedback with each iteration. This means that individual skills matter less than the ability to function in a team.
+Our team(s) work hyper-collaboration. Every product we make is the result of a team building iteratively on one another's work, giving feedback every time we add something new. This way individual skills matters less than the ability to function in a team.
 
 # To which aspects of personality do we pay attention?
 
 ## Leave the ego at the door
 
-We create products together, and therefore take ownership over everything we produce together.
-Having an inflated ego is actually dangerous for our process since it will almost always result in heated disagreements with the team member reviewing your work, a slower production rate, and most likely an increase in stress levels.
-Egos also hamper learning within a team, since people will fear the potential backlash of giving feedback.
+In order to be able to function as a team, our teams need to take  ownership over everything they produce. Even though we all have the romantic idea of having this one super star in your team that brings the entire team to a higher level, we often do not realize that with great skill often comes great ego.
+
+Having an inflated ego is not only annoying for the people around you, it is actually dangerous for our process since it will almost always result in heated disagreements.
+
+The fear of hurting the ego of  team member will often lead to a lower production rate and a lower overall quality. How can you ever improve something if nobody dares to point out what needs improving?
 
 ## Hunger to learn
 
