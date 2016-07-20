@@ -5,7 +5,7 @@
 
 Boris is our boss. One of his most uttered words, to the annoyance of most of the people who surround him, is "why". "*Why* is there a need for this to exist?" "*Why* would you want to change this and *why* haven't you?" "*Why* are we not asking *why*?" Even though it can be wildly annoying at times, it enables him to understand small bits of the world around him. The more small bits of understanding he collects, the more they contribute to a bigger understanding. An understanding that leads to a hunger for even more understanding.
 
-This hunger has steered him into software development, media production and design. Then consulting in the cultural space, managing various teams, and eventually into the field of journalism. He felt at home in this field that exists solely to investigate the *what*s and the *why*s about the things that move our world. Even within a context in which curiosity is fundamental, Boris noticed that there were few questions regarding methods and motives. This causes the way journalism is practiced to be stuck in mostly irrelevant traditions.
+This hunger has steered him into software development, media production and design. He also consulted in the cultural space, managed various teams, and eventually found himself in the field of journalism. He felt at home in this field that exists solely to investigate the *what*s and the *why*s about the things that move our world. Even within a context in which curiosity is fundamental, Boris noticed that there were few questions regarding methods and motives. This causes the way journalism is practiced to be stuck in mostly irrelevant traditions.
 
 Boris says about his experiences that "whenever you cross the boundaries into another field, you see the things in which that field is better than others, or ways in which that field is behind others."
 
@@ -19,16 +19,16 @@ Now let's say the same newspaper hires two more people: one to write a blogpost 
 
 So, says Boris, these companies need to look at the way in which technological organisations grow. They hire people with a variety of experience and skills to make the company as a whole more valuable. Each person contributes from their strengths. Implementing such a system in media production (one of sharing knowledge, work, and experience) enables individuals to increase their production as well as that of the people around them.
 
-The other fundamental problem in the news industry, is the difficulty it has adapting to developments in technology. In particular those that influence social behaviour.  The technology sector is simply so much better at adapting to the changing behaviours of its audience and its user base. Therefore, it is able to fulfill a lot of their needs much more immediately than the news industry.
+The other fundamental problem in the news industry, is the difficulty it has adapting to developments in technology. The developments influencing social behaviour are of particular complexity. The technology sector is simply so much better at adapting to the changing behaviours of its audience and its user base. Therefore, it is able to fulfill a lot of their needs much more immediately than the news industry.
 
 Boris apprehends that
 > the moment traditional media and news media dropped one beat;
 the moment they didn't adapt quickly enough to what their user base needed from them;
 the moment they failed to provide good, quick, reliable news sources on the internet, other media stepped in and it was over.
 
-What are the implications? Now, people in news media have been usurped by people in technology. The former are very conscious of which messages are being sent, how they are formulated, and the ways in which they impact the world. They latter have a lot less awareness about what the role and influence of such messages is. They don't understand that, when they transmit widely significant information, they change people's lives.
+What are the implications? Now, people in news media have been usurped by people in technology. The former are very conscious of which messages are being sent, how they are formulated, and the ways in which they impact the world. The latter have a lot less awareness about what the role and influence of such messages is. They don't understand that, when they transmit widely significant information, they change people's lives.
 
-What they do understand is that they're effectively making a product that people are buying. Naturally, they continue to develop the product, their decisions directed by user research. In doing this, they're actually (often unconsciously) changing many things. For example politics, government and the ways in which people interact with one another.
+What they do understand is that they're effectively making a product that people are buying. Naturally, they continue to develop the product, their decisions directed by user research. In doing this, they're actually (often unconsciously) changing many things such as politics, government and the ways in which people interact with one another.
 
 The idea that you could really change the world if you have access to a lot of people is highly relevant to journalism. Social media is very interesting for that reason. We all have a responsibility in shaping the future and mass media is a tool for such an endeavour. If you have well-functioning, mindful mass media, then the future can be shaped in the right ways.
 
