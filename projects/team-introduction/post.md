@@ -1,21 +1,32 @@
 <img src="https://i.imgur.com/YEniqtv.jpg" width="100%" alt="The team in june">
 
-We don't hire on experience, we hire on personality.
+How could we ever presume to understand the world if no more than half of our team members have a significant degree, and even less of us has relevant work experience?
 
-Our team(s) work hyper-collaboration. Every product we make is the result of a team building iteratively on one another's work, giving feedback with each iteration. This means that individual skills matter less than the ability to function in a team.
+We don't hire on experience, we hire on personality and mindset.
 
-# To which aspects of personality do we pay attention?
+Our team(s) work in hyper-collaboration. Every product we make is the result of a team building iteratively on one another's work, giving feedback every time we add something new. This way individual skills matter less than the ability to function in a team.
 
-## Leave the ego at the door
+# It's a complicated thing, this ego
 
-We create products together, and therefore take ownership over everything we produce together.
-Having an inflated ego is actually dangerous for our process since it will almost always result in heated disagreements with the team member reviewing your work, a slower production rate, and most likely an increase in stress levels.
-Egos also hamper learning within a team, since people will fear the potential backlash of giving feedback.
+To be able to function as a team, our teams need to take ownership over everything they produce. The biggest hurdle in this is ego.
 
-## Hunger to learn
+It is never easy to receive hear feedback on something into which you put a lot of effort, even though it might improve it greatly. The more you feel responsible for the whole, the harder it becomes.
 
-The mission of New Atoms is to 'understand the world and make valuable products from that understanding'. Every person working at New Atoms should therefore have a thirst for learning. For us, learning is not about knowing everything there is to know about one topic, but about gathering knowledge about many things and making connections between them. We believe this hunger can be a learned skill, but we try to find people who have an intrinsic motivation to learn.
+When a post.supply team starts working for a new client, the first step is always to understand what they do and why they do it. This requires a lot of research and reflection. At one point, Matthijs, the team's business developer, had made an inaccurate assumption leading to two articles being close to useless. "Even though I knew I was wrong, I just could not admit it." Its a hard thing, this ego. "It took me quite a while to realise that Sam and Thomas where trying to help me, and not discredit me," Matthijs says.
 
-## Open for discussions
+"When something like that happens, I always try to ask questions that help someone make a distinction between quality and ego," Sam, the team's technical developer, tells us.
 
-We don't do managers. We don't do oversight. This means that teams choose their own paths and update their own workflows. To do this effectively, teams need to communicate fluidly and give room for each team member to share their opinion. This only works when members value discussions highly, enjoy obtaining insights together, and acknowledge that there is a time and place for discussions.
+The fear of hurting the ego of a team member will often lead to a lower production rate and lower overall quality. How can we ever improve something if nobody dares to point out what needs improving?
+
+In order to prevent things like this happening, the team is encouraged to discuss everything that is in the way of doing their work with their team members.
+
+To stimulate this, the team does not do employee evaluations. "Things that are in your way of doing your job should always be discussable." Boris, the founder of New Atoms, strongly believes that when you create a specific moment to discuss performance, team members will not discuss these things within their teams in harmful ways.
+
+## We don't want to manage
+We are convinced that individuals function best if they are capable of contributing in ways they see fit, not in ways that are determined by others.
+
+Our teams don't have managers. Every team is responsible for setting their own goals and making sure these goals are met. To do this effectively, they need to communicate fluidly and leave room for each team member to share her or his opinion. The more team members become engulfed in the process, the more they value discussions and enjoy obtaining insights together.
+
+The mission of New Atoms is *to understand the world and make valuable products from that understanding*. This means that every person working at New Atoms needs to have a natural thirst for learning. Learning is not about knowing everything there is to know about one topic, but about gathering knowledge of many things and making connections between them.
+
+Making connections and gaining new insights feels incredibly rewarding, sparking a need for more. The more connections made, the tighter the teams get.
