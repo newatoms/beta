@@ -46,11 +46,40 @@ Thus, our brains need a picture to process information faster and create a conne
 
 On the MIT researches' website [you can upload your own picture to measure the memorability score](http://memorability.csail.mit.edu/demo.html).  
 
-If we get a high score on memorability (retention) it means the image has got our attention. The retention score has a lot to do with our experience of seeing pictures and the familiarity we have with them. Researchers at The Pennsylvania State University measured the *Familiarity* we have with pictures in:
+If you get a high score on memorability (retention) it means the image has got our attention. The retention score has a lot to do with our experience of seeing pictures and the familiarity we have with them. Researchers at The Pennsylvania State University measured the *Familiarity* we have with pictures in:
 
 [Studying Aesthetics in Photographic Images Using a Computational Approach](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf).
 
 Because of our curiosity, when we see something unusual or rare we perceive it in a different way from what we get to see on a regular basis. Therefore it increases the change of retention.   
+
+## The *technical* part: improve your judgement on beauty
+
+Until now we found out: why it's hard to say *why* we find an image beautiful. Because the *why* relates to our emotions. We also found out why we should pay more attention to choosing an image for our content. Because we humans have a very talented high-speed brain for recognising concepts of something visual. And that pictures get attention if they're out of the ordinary, weird and original.   
+
+Now we're getting to the technical part of photography and how to use this knowledge to your advantage when looking for an image. The Researches at The Pennsylvania State University described certain technology tactics.
+
+Among others, these tactics were described as *appealing* to people when executed well:
+
+**Exposure of Light and Colourfulness**
+> Too much exposure (leading to brighter shots) often yields lower quality pictures. Those that are too dark are often also not appealing. Thus light exposure can often be a good discriminant between high and low quality photographs.
+
+<img src="http://i.imgur.com/zQpLxru.png" width=100% />
+
+*The proposed colorfulness measure. The two photographs on the left have high values while the two on the right have low values.*
+
+**Saturation**
+> Saturation indicates chromatic purity. Pure colors in a photo tend to be more appealing than dull or impure ones. Professionals enhance the saturation to result in deeper blue sky, greener grass, more vivid flowers, etc.
+
+**The Rule of Thirds**
+> A very popular rule of thumb in photography is the Rule of Thirds. We observed that most professional photographs that follow this rule have the main object stretch from an intersection up to the center of the image.
+
+**Low Depth of Field Indicators**
+> Professional photographers often reduce the depth of field (DOF) for shooting single objects.
+
+<img src="https://c7.staticflickr.com/7/6060/6284415318_93b2e8a349_b.jpg" width="100%" />
+*In this picture the photographer focused on the main "object" in the front to draw the spectators attention to that part of the picture. Photograph by [Kenny Holston](https://flic.kr/p/azkgJf)*
+
+More knowledge about the technology behind photography will improve your judgement of what is beautiful and what isn't.
 
 ## We scienced the $#!† out of images, so now what?
 
