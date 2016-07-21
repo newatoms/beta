@@ -40,11 +40,13 @@ Thus, our brains need a picture to process information faster and create a conne
 
 *The landscape picture, though beautiful, gets a low score of 0.421, while the striking gas mask picture gets a high score of 0.703.*
 
-If we get a high score on memorability (retention) it means the image has got our attention. The retention score has a lot to do with our experience of seeing pictures all the time. Researchers at Stanford measured the *Familiarity* we have with pictures in: 
+On the MIT researches' website [you can upload your own picture to measure the memorability score](http://memorability.csail.mit.edu/demo.html).  
+
+If we get a high score on memorability (retention) it means the image has got our attention. The retention score has a lot to do with our experience of seeing pictures and the familiarity we have with them. Researchers at Stanford measured the *Familiarity* we have with pictures in:
 
 [Studying Aesthetics in Photographic Images Using a Computational Approach](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf).
 
-Our opinions are often governed by what we have seen in the past. Because of our curiosity, when we see something unusual or rare we perceive it in a different way from what we get to see on a regular basis. And therefore increases the change of memorability.   
+Because of our curiosity, when we see something unusual or rare we perceive it in a different way from what we get to see on a regular basis. Therefore it increases the change of retention.   
 
 ## We scienced the $#!† out of images, so now what?
 
