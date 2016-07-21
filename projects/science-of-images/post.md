@@ -2,7 +2,7 @@
 <img src="http://i.imgur.com/2HNf90E.jpg" alt="" width=100% />
 *The deadly sin of latte art imagery. By [Michael Allen Smith](https://www.flickr.com/photos/digitalcolony/)*
 
-**It pays off to attach a valuable image that fits your content. What does science have to say about this?**
+**It pays off to enrich your content with great imagery. But what makes an image good? We consulted scientific research to find out.**
 
 We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? It pays off greatly to find a valuable image that sticks. It makes your articles more appealing, comprehensible, and memorable.
 
