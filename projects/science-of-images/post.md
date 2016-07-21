@@ -52,7 +52,7 @@ If you get a high score on memorability (retention) it means the image has got o
 
 Because of our curiosity, when we see something unusual or rare we perceive it in a different way from what we get to see on a regular basis. Therefore it increases the chance of retention.   
 
-## The *technical* part: improve your judgement on beauty
+## The *technical* part: Improve your judgement on beauty
 
 Up till now we found out some answers to noteworthy questions when looking for an image that will strengthen your content.
 
