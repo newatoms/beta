@@ -89,7 +89,7 @@ Among others, the following tactics were described as *appealing* to people when
 <img src="https://c7.staticflickr.com/7/6060/6284415318_93b2e8a349_b.jpg" width="100%" />
 *In this picture the photographer focused on the main "object" in the front to draw the spectators attention to that part of the picture. Photograph by [Kenny Holston](https://flic.kr/p/azkgJf)*
 
-More knowledge about the technology behind photography will improve your judgement of what is beautiful and what isn't.
+More knowledge about the technology behind photography will improve your judgement of what is beautiful and what is considered less good-looking.
 
 ## We scienced the $#!† out of images, so now what?
 
