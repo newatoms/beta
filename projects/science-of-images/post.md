@@ -12,7 +12,7 @@ That's a good start, but it doesn't offer much practical information. Luckily, w
 
 We all have it once in a while: we're struck by a stunning image that induces little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while suppressing the urge of sharing your findings just yet.
 
-These encounters with our emotions are hard to explain. *Why* an image is beautiful is often described as being subjective, but scientists wouldn't be scientist if they wouldn't try to objectify the subjective.
+These encounters with our emotions are hard to explain. *Why* an image is beautiful is often described as being subjective, but scientists wouldn't be scientist if they don't try to objectify the subjective.
 
 *Appeal* is our natural attraction towards an image. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
 
@@ -39,6 +39,12 @@ Thus, our brains need a picture to process information faster and create a conne
 <img src="https://i.imgur.com/wJ8JJyZ.jpg" alt="Mule wearing gas masks in WWI, 1916" width="41.7%" />
 
 *The landscape picture, though beautiful, gets a low score of 0.421, while the striking gas mask picture gets a high score of 0.703.*
+
+If we get a high score on memorability (retention) it means the image has got our attention. The retention score has a lot to do with our experience of seeing pictures all the time. Researchers at Stanford measured the *Familiarity* we have with pictures in: 
+
+[Studying Aesthetics in Photographic Images Using a Computational Approach](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf).
+
+Our opinions are often governed by what we have seen in the past. Because of our curiosity, when we see something unusual or rare we perceive it in a different way from what we get to see on a regular basis. And therefore increases the change of memorability.   
 
 ## We scienced the $#!† out of images, so now what?
 
