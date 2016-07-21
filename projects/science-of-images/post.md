@@ -37,7 +37,7 @@ Thus, our brains need a picture to process information faster and create a conne
 
 ## The *retention* capacity: Go weird and crazy
 
-*Retention* is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
+*Retention* is related to the memorable experience that visual content tends to create. There are [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lauterbrunnen_-_Staubbachfall.jpg/1280px-Lauterbrunnen_-_Staubbachfall.jpg" alt="Lauterbrunnen" width=48% />
 <img src="https://i.imgur.com/wJ8JJyZ.jpg" alt="Mule wearing gas masks in WWI, 1916" width="41.7%" />
@@ -50,13 +50,13 @@ If you get a high score on memorability (retention) it means the image has got o
 
 [Studying Aesthetics in Photographic Images Using a Computational Approach](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf).
 
-Because of our curiosity, when we see something unusual or rare we perceive it in a different way from what we get to see on a regular basis. Therefore it increases the change of retention.   
+Because of our curiosity, when we see something unusual or rare we perceive it in a different way from what we get to see on a regular basis. Therefore it increases the chance of retention.   
 
 ## The *technical* part: improve your judgement on beauty
 
 Until now we found out: why it's hard to say *why* we find an image beautiful. Because the *why* relates to our emotions. We also found out why we should pay more attention to choosing an image for our content. Because we humans have a very talented high-speed brain for recognising concepts of something visual. And that pictures get attention if they're out of the ordinary, weird and original.   
 
-Now we're getting to the technical part of photography and how to use this knowledge to your advantage when looking for an image. The Researches at The Pennsylvania State University described certain technology tactics.
+Now we're getting to the technical part of photography and how to use this knowledge to your advantage when looking for an image. The researchers at The Pennsylvania State University described certain technology tactics.
 
 Among others, these tactics were described as *appealing* to people when executed well:
 
