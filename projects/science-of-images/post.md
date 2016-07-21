@@ -98,6 +98,6 @@ Want to know more about what makes an image interesting? Read [Ten Tips for Maki
 
 *Images:*
 
-*Landscape: Lauterbrunnen, [Noel Reynolds](https://www.flickr.com/photos/29237715@N05/7297409636)*
+* *Landscape: Lauterbrunnen, [Noel Reynolds](https://www.flickr.com/photos/29237715@N05/7297409636)*
 
-*Gas masks: Germany, 1916.*
+* *Gas masks: Germany, 1916.*
