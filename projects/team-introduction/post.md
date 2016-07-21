@@ -2,11 +2,11 @@
 
 How could we ever presume to understand the world if no more than half of our team members have a significant degree, and even less of us has relevant work experience?
 
-We don't hire on experience, we hire on personality.
+We don't hire on experience, we hire on personality and mindset.
 
 Our team(s) work in hyper-collaboration. Every product we make is the result of a team building iteratively on one another's work, giving feedback every time we add something new. This way individual skills matter less than the ability to function in a team.
 
-# Ego is a fickle bitch
+# Its a complicated thing, this ego.
 
 To be able to function as a team, our teams need to take ownership over everything they produce. The biggest hurdle in this is ego.
 
@@ -18,11 +18,14 @@ When a post.supply team starts working for a new client, the first step is alway
 
 The fear of hurting the ego of a team member will often lead to a lower production rate and lower overall quality. How can we ever improve something if nobody dares to point out what needs improving?
 
-In order to prevent things like this happening, the team is encouraged to discuss everything that is in their way of doing their work with their team members.
+In order to prevent things like this happening, the team is encouraged to discuss everything that is in the way of doing their work with their team members.
 
-To stimulate this, the team does not do employee evaluations or even managers. "These things should always be discussable." Boris, the founder of New Atoms, strongly believes that when you create a specific moment to discuss performance, team members will not discuss these things within their teams.
+To stimulate this, the team does not do employee evaluations. "Things that are in your way of doing your job should always be discussable." Boris, the founder of New Atoms, strongly believes that when you create a specific moment to discuss performance, team members will not discuss these things within their teams.
 
-Because the teams have no managers, they are always required to communicate fluidly and leave room for each team member to share her or his opinion. The more team members become engulfed in the process, the more they value discussions and enjoy obtaining insights together.
+## We don't want to manage
+We are convinced that individuals function best if they are capable to contribute in ways they see fit, not in a way that is determined by others.
+
+Teams don't have managers. Every team is responsible for setting their own goals and making sure these goals are met. To do this effectively, teams need to communicate fluidly and leave room for each team member to share her or his opinion. The more team members become engulfed in the process, the more they value discussions and enjoy obtaining insights together.
 
 The mission of New Atoms is *to understand the world and make valuable products from that understanding*. This means that every person working at New Atoms needs to have a natural thirst for learning. Learning is not about knowing everything there is to know about one topic, but about gathering knowledge of many things and making connections between them.
 
