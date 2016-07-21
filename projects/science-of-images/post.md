@@ -54,9 +54,9 @@ Because of our curiosity, when we see something unusual or rare we perceive it i
 
 ## The *technical* part: improve your judgement on beauty
 
-Up till now we found out some pretty noteworthy things when looking for an image that will strengthen your content.
+Up till now we found out some answers to noteworthy questions when looking for an image that will strengthen your content.
 
-* Why it's hard to say we find an image beautiful? Because the *why* relates to our emotions. The reason behind an image being beautiful is often described as instinctive, but scientists wouldn't be scientist if they don't try to objectify the subjective.
+* Why is it hard to say we find an image beautiful? Because the *why* relates to our emotions. The reason behind an image being beautiful is often described as instinctive, but scientists wouldn't be scientist if they don't try to objectify the subjective.
 
 * We also found out why we should pay more attention when choosing an image for our content. Because we humans have a very talented high-speed brain for recognising concepts of something visual.
 
