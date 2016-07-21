@@ -16,7 +16,7 @@ That's a good start, but it doesn't offer much practical information. Luckily, w
 
 We all have it once in a while: we're struck by a stunning image that induces little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while suppressing the urge of sharing your findings just yet.
 
-These encounters with our emotions are hard to explain. *Why* an image is beautiful is often described as being subjective, but scientists wouldn't be scientist if they don't try to objectify the subjective.
+These encounters with our emotions are hard to explain, but lets try it anyway.
 
 *Appeal* is our natural attraction towards an image. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
 
@@ -54,9 +54,11 @@ Because of our curiosity, when we see something unusual or rare we perceive it i
 
 ## The *technical* part: improve your judgement on beauty
 
-Until now we found out: why it's hard to say *why* we find an image beautiful. Because the *why* relates to our emotions. We also found out why we should pay more attention to choosing an image for our content. Because we humans have a very talented high-speed brain for recognising concepts of something visual. And that pictures get attention if they're out of the ordinary, weird and original.   
+Until now we found out why it's hard to say we find an image beautiful. Because the *why* relates to our emotions. The reason behind an image being beautiful is often described as instinctive, but scientists wouldn't be scientist if they don't try to objectify the subjective.
 
-Now we're getting to the technical part of photography and how to use this knowledge to your advantage when looking for an image. The researchers at The Pennsylvania State University described certain technology tactics.
+We also found out why we should pay more attention to choosing an image for our content. Because we humans have a very talented high-speed brain for recognising concepts of something visual. And that pictures get attention if they're out of the ordinary, weird and original.   
+
+Now we're getting to the technical part of photography and how to use this knowledge to your advantage when looking for an image. Researchers at *The Pennsylvania State University* described certain technology tactics.
 
 Among others, these tactics were described as *appealing* to people when executed well:
 
