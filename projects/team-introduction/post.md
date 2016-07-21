@@ -18,9 +18,9 @@ When a post.supply team starts working for a new client, the first step is alway
 
 The fear of hurting the ego of a team member will often lead to a lower production rate and lower overall quality. How can we ever improve something if nobody dares to point out what needs improving?
 
-In order to prevent things like this happening, the team is encouraged to discuss everything that is in the way of doing their work with their team members.
+In order to prevent things like this from happening,  teams are encouraged to discuss everything that is in the way of doing their work with their team members, instead of with a manager, someone from HR or in an employee evaluation.
 
-To stimulate this, the team does not do employee evaluations. "Things that are in your way of doing your job should always be discussable." Boris, the founder of New Atoms, strongly believes that when you create a specific moment to discuss performance, team members will not discuss these things within their teams in harmful ways.
+Even though this might be uncomfortable in the beginning, it leads to more open, stronger and more productive teams.
 
 ## We don't want to manage
 We are convinced that individuals function best if they are capable of contributing in ways they see fit, not in ways that are determined by others.
