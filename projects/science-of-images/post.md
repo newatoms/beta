@@ -54,17 +54,21 @@ Because of our curiosity, when we see something unusual or rare we perceive it i
 
 ## The *technical* part: improve your judgement on beauty
 
-Until now we found out why it's hard to say we find an image beautiful. Because the *why* relates to our emotions. The reason behind an image being beautiful is often described as instinctive, but scientists wouldn't be scientist if they don't try to objectify the subjective.
+Up till now we found out some pretty noteworthy things when looking for an image that will strengthen your content.
 
-We also found out why we should pay more attention when choosing an image for our content. Because we humans have a very talented high-speed brain for recognising concepts of something visual. And that pictures get attention if they're out of the ordinary, weird and original.   
+* Why it's hard to say we find an image beautiful? Because the *why* relates to our emotions. The reason behind an image being beautiful is often described as instinctive, but scientists wouldn't be scientist if they don't try to objectify the subjective.
 
-Now we're getting to the technical part of photography. Some tactics on how to use this knowledge to your advantage when looking for an image. Researchers at *The Pennsylvania State University* described certain technology tactics.
+* We also found out why we should pay more attention when choosing an image for our content. Because we humans have a very talented high-speed brain for recognising concepts of something visual.
+
+* Then we've learned that pictures get attention if they're out of the ordinary, weird and original.   
+
+It's time to get to the technical part of photography. How do you use this knowledge to your advantage when looking for an image? Researchers at *The Pennsylvania State University* described certain technology tactics.
 
 In their abstract they recognise the subjectivity when judging the quality of a picture. By referring to a computational approach they try to tackle it anyway.
 
 > [In this [earlier mentioned] paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf), [they] treat the challenge of automatically inferring aesthetic quality of pictures using their visual content as a machine learning problem, with a peer-rated online photo sharing website as data source.
 
-Among others, these tactics were described as *appealing* to people when executed well:
+Among others, the following tactics were described as *appealing* to people when executed well:
 
 **Exposure of Light and Colourfulness**
 > Too much exposure (leading to brighter shots) often yields lower quality pictures. Those that are too dark are often also not appealing. Thus light exposure can often be a good discriminant between high and low quality photographs.
