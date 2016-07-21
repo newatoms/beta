@@ -4,7 +4,9 @@
 
 We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? It pays off greatly to find a valuable image that sticks. It makes your articles more appealing, comprehensible, and memorable.
 
-Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content. As it turns out, finding a good image is hard. According to [@Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best images are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*."
+Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content. As it turns out, finding a good image is hard.
+
+According to [@Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best images are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*."
 
 That's a good start, but it doesn't offer much practical information. Luckily, we can always rely on science.
 
@@ -42,7 +44,7 @@ Thus, our brains need a picture to process information faster and create a conne
 
 On the MIT researches' website [you can upload your own picture to measure the memorability score](http://memorability.csail.mit.edu/demo.html).  
 
-If we get a high score on memorability (retention) it means the image has got our attention. The retention score has a lot to do with our experience of seeing pictures and the familiarity we have with them. Researchers at Stanford measured the *Familiarity* we have with pictures in:
+If we get a high score on memorability (retention) it means the image has got our attention. The retention score has a lot to do with our experience of seeing pictures and the familiarity we have with them. Researchers at The Pennsylvania State University measured the *Familiarity* we have with pictures in:
 
 [Studying Aesthetics in Photographic Images Using a Computational Approach](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf).
 
