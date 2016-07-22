@@ -2,9 +2,13 @@
 <img src="http://i.imgur.com/2HNf90E.jpg" alt="" width=100% />
 *The deadly sin of latte art imagery. By [Michael Allen Smith](https://www.flickr.com/photos/digitalcolony/)*
 
+**It pays off to enrich your content with great imagery. But what makes an image good? We consulted scientific research to find out.**
+
 We all certainly have a goal or a reason before starting to write an article. Why wouldn’t we do the same with our visual content? It pays off greatly to find a valuable image that sticks. It makes your articles more appealing, comprehensible, and memorable.
 
-Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content. As it turns out, finding a good image is hard. According to [@Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best images are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*."
+Stating that effective images can communicate messages powerfully isn't exactly cutting-edge. So then why is it that so many bloggers love to use pictures of pretty latte art or workspaces strategically organised with Apple laptops and craft paper? Not only are they boring, they don’t say anything about the written content. As it turns out, finding a good image is hard.
+
+According to [@Haje Jan Kamps](https://medium.com/@Haje/your-press-release-needs-images-22a70ac3e1b1#.dlo0ykfq4), "the best images are something people can relate to in one way or another, which usually means that *the images need to tell part of the story*."
 
 That's a good start, but it doesn't offer much practical information. Luckily, we can always rely on science.
 
@@ -12,7 +16,7 @@ That's a good start, but it doesn't offer much practical information. Luckily, w
 
 We all have it once in a while: we're struck by a stunning image that induces little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while suppressing the urge of sharing your findings just yet.
 
-These encounters with our emotions are hard to explain, but let's try anyway.
+These encounters with our emotions are hard to explain, but let's try it anyway.
 
 *Appeal* is our natural attraction towards an image. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
 
@@ -33,12 +37,59 @@ Thus, our brains need a picture to process information faster and create a conne
 
 ## The *retention* capacity: Go weird and crazy
 
-*Retention* is related to the memorable experience that visual content tends to create. There are now [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
+*Retention* is related to the memorable experience that visual content tends to create. There are [algorithms created by MIT researchers](http://news.mit.edu/2015/csail-deep-learning-algorithm-predicts-photo-memorability-near-human-levels-1215) that predict photos' memorability at near-human levels. According to the algorithm, [weird and counterintuitive images do well, as do conflict and suspense](https://www.washingtonpost.com/news/innovations/wp/2015/12/29/forget-beautiful-sunrises-embrace-absurdity-heres-how-to-take-memorable-photos/).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lauterbrunnen_-_Staubbachfall.jpg/1280px-Lauterbrunnen_-_Staubbachfall.jpg" alt="Lauterbrunnen" width=48% />
 <img src="https://i.imgur.com/wJ8JJyZ.jpg" alt="Mule wearing gas masks in WWI, 1916" width="41.7%" />
 
 *The landscape picture, though beautiful, gets a low score of 0.421, while the striking gas mask picture gets a high score of 0.703.*
+
+On the MIT researches' website [you can upload your own picture to measure the memorability score](http://memorability.csail.mit.edu/demo.html).  
+
+If you get a high score on memorability (retention) it means the image has got our attention. The retention score has a lot to do with our experience of seeing pictures and the familiarity we have with them. Researchers at The Pennsylvania State University measured the *Familiarity* we have with pictures in:
+
+[Studying Aesthetics in Photographic Images Using a Computational Approach](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf).
+
+Because of our curiosity, when we see something unusual or rare we perceive it in a different way from what we get to see on a regular basis. Therefore it increases the chance of retention.   
+
+## The *technical* part: Improve your judgement on beauty
+
+Up till now we found out some answers to noteworthy questions when looking for an image that will strengthen your content.
+
+* Why is it hard to say we find an image beautiful? Because the *why* relates to our emotions. The reason behind an image being beautiful is often described as instinctive, but scientists wouldn't be scientist if they don't try to objectify the subjective.
+
+* We also found out why we should pay more attention when choosing an image for our content. Because we humans have a very talented high-speed brain for recognising concepts of something visual.
+
+* Then we've learned that pictures get attention if they're out of the ordinary, weird and original.   
+
+It's time to get to the technical part of photography. How do you use this knowledge to your advantage when looking for an image? Researchers at *The Pennsylvania State University* described certain technology tactics.
+
+In their abstract they recognise the subjectivity when judging the quality of a picture. By referring to a computational approach they try to tackle it anyway.
+
+> [In this [earlier mentioned] paper](http://infolab.stanford.edu/~wangz/project/imsearch/Aesthetics/ECCV06/datta.pdf), [they] treat the challenge of automatically inferring aesthetic quality of pictures using their visual content as a machine learning problem, with a peer-rated online photo sharing website as data source.
+
+Among others, the following tactics were described as *appealing* to people when executed well:
+
+**Exposure of Light and Colourfulness**
+> Too much exposure (leading to brighter shots) often yields lower quality pictures. Those that are too dark are often also not appealing. Thus light exposure can often be a good discriminant between high and low quality photographs.
+
+<img src="http://i.imgur.com/zQpLxru.png" width=100% />
+
+*The proposed colorfulness measure. The two photographs on the left have high values while the two on the right have low values.*
+
+**Saturation**
+> Saturation indicates chromatic purity. Pure colors in a photo tend to be more appealing than dull or impure ones. Professionals enhance the saturation to result in deeper blue sky, greener grass, more vivid flowers, etc.
+
+**The Rule of Thirds**
+> A very popular rule of thumb in photography is the Rule of Thirds. We observed that most professional photographs that follow this rule have the main object stretch from an intersection up to the center of the image.
+
+**Low Depth of Field Indicators**
+> Professional photographers often reduce the depth of field (DOF) for shooting single objects.
+
+<img src="https://c7.staticflickr.com/7/6060/6284415318_93b2e8a349_b.jpg" width="100%" />
+*In this picture the photographer focused on the main "object" in the front to draw the spectators attention to that part of the picture. Photograph by [Kenny Holston](https://flic.kr/p/azkgJf)*
+
+More knowledge about the technology behind photography will improve your judgement of what is beautiful and what is considered less good-looking.
 
 ## We scienced the $#!† out of images, so now what?
 
@@ -57,6 +108,6 @@ Want to know more about what makes an image interesting? Read [Ten Tips for Maki
 
 *Images:*
 
-*Landscape: Lauterbrunnen, [Noel Reynolds](https://www.flickr.com/photos/29237715@N05/7297409636)*
+* *Landscape: Lauterbrunnen, [Noel Reynolds](https://www.flickr.com/photos/29237715@N05/7297409636)*
 
-*Gas masks: Germany, 1916.*
+* *Gas masks: Germany, 1916.*
