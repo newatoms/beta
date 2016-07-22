@@ -22,13 +22,15 @@ This led to an urge to understand and improve the field of journalism, and so he
 ## The problems with journalism today
 This led to a lot of poking around in the business of the BBC. Boris stumbled on a set of structural problems that make it hard for news organisations to keep up with the market. The two key fields for improvement: *scalability* and *adaptability*.
 
-First of all, the way in which media companies currently grow quickly leads to scalability problems. Let's say a newspaper hires someone to write a story on corruption in France. This person is charged with understanding everything about the situation there. Not only will she write the story herself, but she will need to take a trip there and do all the research involved herself. This means she will spend 100% of her time on this one article.
+First of all, the way in which media companies currently grow quickly leads to scalability problems. Let's say a newspaper hires someone to write a story on The National Front in France. This person is charged with understanding everything about the situation there. Not only will she write the story herself, but she will need to travel there and do all the research involved herself. This means she will spend 100% of her time on this one article.
 
-Once all the research has been done, conclusions have been drawn, and the whole is comprised to a well rounded article, it gets published. Only then does it become visible for the rest of the world, including all other journalists. The problem with this, as we have all experienced, is that you never put all your research into the final work.
+Once all the research has been done, conclusions have been drawn, and the whole is comprised to a well rounded article, it gets published. Only then does it become visible for the rest of the world, including all other journalists. The problem with this, is that no journalist ever puts all their research into the final work.
 
-Now let's say the newspaper is totally getting into a groove for France and hires two more people—one to write a blogpost about their lovely beers and another to write about the latest French fashion.
+Now let's say the newspaper is totally getting into a groove for France and hires two more people—one to write a blogpost about their lovely wines and another to write about the latest French fashion.
 
-It may seem like the newspaper has increased its production by 300%. However, because all these people only get access to the parts of each others' research that has been published, they all have to take their own trips and do their own research.
+It may seem like the newspaper has increased its production by 300%. However, because each journalist only gets access to the research that has been published, they all have to take their own trips and do their own research.
+
+There is no system in journalism that allows journalists to share more of their research than what got into published articles, making journalists mostly limited to their own research.
 
 This causes a drastic increase in overhead, causing the production per person to diminish and leaving the organisation with less value for its money. This is obviously a very bad incentive for media companies to grow.
 
