@@ -17,7 +17,7 @@ Boris says about his experiences that "whenever you cross the boundaries into an
 
 This led to an urge to understand and improve the field of journalism, and so he went to work. During this time, he [applied his commitment to understand](http://www.slideshare.net/SNDupdate/boris-van-hoytema-at-snddc-making-the-future-of-news-46870634?ref=http://www.snd.org/dc2015/finding-neverland-boris-van-hoytema-on-the-upside-of-utopia-plus-5-mantras-for-design/) to the BBC's [*Future of News*](http://www.bbc.co.uk/news/resources/idt-bbb9e158-4a1b-43c7-8b3b-9651938d4d6a) project. This is an initiative that tries to understand future global news trends and innovate accordingly.
 
-<img src="http://i.imgur.com/mH1OYUp.jpg">
+<img src="http://i.imgur.com/mH1OYUp.jpg" width="100%">
 
 ## The problems with journalism today
 This led to a lot of poking around in the business of the BBC. Boris stumbled on a set of structural problems that make it hard for news organisations to keep up with the market. The two key fields for improvement: *scalability* and *adaptability*.
@@ -34,7 +34,7 @@ There is no system in journalism that allows journalists to share more than what
 
 This causes a drastic increase in overhead, causing the production per person to diminish and leaving the organisation with less value for its money. This is obviously a very bad incentive for media companies to grow.
 
-<img src="http://i.imgur.com/rSUnmd6.jpg">
+<img src="http://i.imgur.com/rSUnmd6.jpg" width="100%">
 
 ## What journalism can learn from technology
 So, says Boris, these companies need to look at the way in which technological organisations grow. They hire people with a variety of experience and skills to make the company as a whole more valuable. Each person contributes from their strengths. Implementing such a system in media production (one of sharing knowledge, work, and experience) enables individuals to increase their production as well as that of the people around them.
@@ -51,7 +51,7 @@ What are the implications? Now, people in news media have been usurped by people
 
 What they do understand is that they're effectively making a product that people are buying. Naturally, they continue to develop the product, their decisions directed by user research. In doing this, they're actually (often unconsciously) changing many things such as politics, government and the ways in which people interact with one another.
 
-<img src="http://i.imgur.com/tRpArDS.jpg">
+<img src="http://i.imgur.com/tRpArDS.jpg" width="100%">
 ## The solution? A marriage
 The idea that you could really change the world if you have access to a lot of people is highly relevant to journalism. Social media is very interesting for that reason. We all have a responsibility in shaping the future and mass media is a tool for such an endeavour. If you have well-functioning, mindful mass media, then the future can be shaped in the right ways.
 
