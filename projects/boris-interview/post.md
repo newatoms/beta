@@ -24,7 +24,7 @@ This led to a lot of poking around in the business of the BBC. Boris stumbled on
 
 First of all, the way in which media companies currently grow quickly leads to scalability problems. Let's say a newspaper hires someone to write a story on The National Front in France. This person is charged with understanding everything about the situation there. Not only will she write the story herself, but she will need to travel there and do all the research involved herself. This means she will spend 100% of her time on this one article.
 
-Once all the research has been done, conclusions have been drawn, and all the gathered information is pulled together into a well rounded article, it gets published. Only then does it become visible for the rest of the world, including all other journalists. The problem with this, is that no journalist ever puts all their research into the final work.
+Once all the research has been done, conclusions have been drawn, and everything is pulled together into a well rounded article, it gets published. Only then does it become visible for the rest of the world, including all other journalists. The problem with this, is that no journalist ever puts all their research into the final work.
 
 Now let's say the newspaper is totally getting into a groove for France and hires two more people—one to write a blogpost about their lovely wines and another to write about the latest French fashion.
 
