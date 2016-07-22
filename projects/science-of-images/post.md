@@ -16,7 +16,7 @@ That's a good start, but it doesn't offer much practical information. Luckily, w
 
 We all have it once in a while: we're struck by a stunning image that induces little inner sparks of enjoyment or horror. Your eyes get wider, you move your head a little closer to the screen and you contemplate while suppressing the urge of sharing your findings just yet.
 
-These encounters with our emotions are hard to explain, but lets try it anyway.
+These encounters with our emotions are hard to explain, but let's try it anyway.
 
 *Appeal* is our natural attraction towards an image. We might not be able to explain *why* we love an image because [our conscious thought hasn’t yet caught up with our subconscious](https://en.wikipedia.org/wiki/Empirical_relationship).
 
