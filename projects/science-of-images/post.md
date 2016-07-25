@@ -79,6 +79,9 @@ Among others, the following tactics were described as *appealing* to people when
 **The Rule of Thirds**
 > A very popular guideline in photography is the Rule of Thirds. Most professional photographs that follow this rule are composed with the subject at one of the intersections of imaginary lines drawn to separate the picture plane into thirds, or stretching across a horizontal or vertical axis at one third of the image from an edge.
 
+<img src="http://i.imgur.com/0kNwuaA.jpg" alt="rule of thirds" /></a>
+*Photograph by Krysten Koehn*
+
 **Low Depth of Field Indicators**
 > Professional photographers often adjust the depth of field for shooting specific images. This refers to what is in focus in the image and what is not. For example, a portrait could have a shallow depth of field in which only the subject is in focus, whereas a landscape could have a large depth of field so that distant details are still recognisable.
 
