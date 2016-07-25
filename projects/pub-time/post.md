@@ -1,6 +1,6 @@
 <img src="http://i.imgur.com/5CPHozf.png" width="100%" alt="We're all peacocks until we start listening to each other">
 
-Sharing awkward stories and heavy opinions builds stronger and more efficient teams, especially when everyone learns to efface his or her own assumptions and start to listen.
+Sharing awkward stories and heavy opinions builds stronger and more efficient teams, especially when everyone learns to subdue their assumptions and starts to listen.
 
 When you work in teams where everybody is expected to contribute from their own experience, it’s crucial to understand each other. Meetings outside the usual environment give you a different mindset. They enable you to see your colleagues for the people they are instead of who you made them out to be.
 
