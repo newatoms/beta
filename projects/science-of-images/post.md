@@ -33,7 +33,7 @@ For our high-speed brains, instantaneously triggering emotions is a common activ
 
 This is because *comprehension* is linked to the way our brains translate data in order to simplify it. [It has been observed that 90% of the information sent to our brains is visual](http://blog.hubspot.com/blog/tabid/6307/bid/33423/19-Reasons-You-Should-Include-Visual-Content-in-Your-Marketing-Data.aspx#sm.00001ztsyhxnje9dr7r1i72p6g37j), with our brains responding to it 60,000 faster than they do for text.
 
-Thus, our brains need a picture to process information faster and create a connection between the visual representation and its concept. It’s impressive how the visual perception in our brains makes simplifies such a complex task. This could also be a scientific explanation for why "an image is worth a thousand words.”
+Thus, our brains need a picture to process information faster and create a connection between the visual representation and its concept. It’s impressive how the visual perception in our brains simplifies such a complex task. This could also be a scientific explanation for why "an image is worth a thousand words.”
 
 ## The *retention* capacity: Go weird and crazy
 
@@ -71,10 +71,10 @@ Among others, the following tactics were described as *appealing* to people when
 
 <img src="http://i.imgur.com/zQpLxru.png" width=100% />
 
-*The proposed color measure. The two photographs on the left are perceived as high quality while the two on the right are perceived as low quality.*
+*The proposed colour measure. The two photographs on the left are perceived as high quality while the two on the right are perceived as low quality.*
 
 **Saturation**
-> Saturation indicates chromatic purity. Pure colors in a photo tend to be more appealing than dull or impure ones. Professionals enhance the saturation to result in deeper blue sky, greener grass, more vivid flowers, etc.
+> Saturation indicates chromatic purity. Pure colours in a photo tend to be more appealing than dull or impure ones. Professionals enhance the saturation to result in deeper blue sky, greener grass, more vivid flowers, etc.
 
 **The Rule of Thirds**
 > A very popular guideline in photography is the Rule of Thirds. Most professional photographs that follow this rule are composed with the subject at one of the intersections of imaginary lines drawn to separate the picture plane into thirds, or stretching across a horizontal or vertical axis at one third of the image from an edge.
