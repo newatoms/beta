@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/YEniqtv.jpg" width="100%" alt="The team in june">
 
-How could we ever presume to understand the world if no more than half of our team members have a significant degree, and even less of us has relevant work experience?
+How could we ever presume to add value to the world if no more than half of our team members have a significant degree, and even less of us has relevant work experience?
 
 We don't hire on experience, we hire on personality and mindset.
 
