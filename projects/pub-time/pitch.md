@@ -3,7 +3,7 @@
 To illustrate the effect of having off-sites on teambuilding
 
 ### Method
-We will write about the New Atoms off-site future conference, specifically the team's time spent in various pubs and it's effect on the team months later.  
+We will write about the New Atoms off-site future conference, specifically the team's time spent in various pubs and its effect on the team months later.  
 
 ### Example
 We could write about some of the important issues we discussed, for example feminism. Learning to communicate openly, honestly and respectfully about loaded issues removes barriers. This is a precursor to similar communication in a work environment, helping everyone to feel safe and respected.
