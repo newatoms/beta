@@ -83,6 +83,9 @@ Among others, the following tactics were described as *appealing* to people when
 **The Rule of Thirds**
 > A very popular rule of thumb in photography is the Rule of Thirds. We observed that most professional photographs that follow this rule have the main object stretch from an intersection up to the center of the image.
 
+<img src="http://i.imgur.com/0kNwuaA.jpg" alt="rule of thirds" /></a>
+*Photograph by Krysten Koehn*
+
 **Low Depth of Field Indicators**
 > Professional photographers often reduce the depth of field (DOF) for shooting single objects.
 
