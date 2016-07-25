@@ -1,6 +1,6 @@
 ### Goal
 
-To illustrate the effect of having off-sites on teambuilding
+To illustrate the importance of having an off-site for team-building.
 
 ### Method
 We will write about the New Atoms off-site future conference, specifically the team's time spent in various pubs and its effect on the team months later.  
