@@ -1,7 +1,7 @@
 #How the process of New Atoms enables them to create valuable content
 
 ##Goal
-To show Beta readers that traditional methods in journalism are outdated, and that agile journalism introduces solutions to some of its problems.
+To show Beta readers that agile journalism introduces solutions to some of the problematic, outdated methods in traditional journalism..
 
 ##Method
 
