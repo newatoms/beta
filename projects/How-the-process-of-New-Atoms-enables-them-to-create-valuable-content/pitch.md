@@ -1,8 +1,7 @@
 #How the process of New Atoms enables them to create valuable content
 
 ##Goal
-
-To reach people that will share New Atoms content, hire New Atoms to write content for them or who New Atoms could hire.
+To show Beta readers that agile journalism introduces better alternatives to some of the problematic, outdated methods in traditional journalism.
 
 ##Method
 
