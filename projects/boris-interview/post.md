@@ -1,9 +1,6 @@
 <img src="https://i.imgur.com/nZ5Gow7.jpg?1" alt="The two sides of Boris" width=100%/>
 *"I'm interested in large, complex systems. I wanna know why people do things, what makes them do things, and how all these things fit together."*
 
-# The Experience that Cried for a New Business
-
-
 Meet Boris. Boris is our boss. One of his most uttered words, to the annoyance of most of the people who surround him, is "why". "*Why* is there a need for this to exist?" "*Why* would you want to change this and *why* haven't you?" "*Why* are we not asking *why*?" Even though it can be wildly annoying at times, it enables him to understand small bits of the world around him. The more small bits of understanding he collects, the more they contribute to a bigger understanding. An understanding that leads to a hunger for even more understanding.
 
 ## How crossing boundaries offers perspective
