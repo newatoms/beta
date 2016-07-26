@@ -1,7 +1,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Jas_Messengers01.JPG" width=100% />
 
-No one in journalism actually collaborates. We're trying to fix that.
-
 Imagine articles that have escaped the tradition of being written by only one person (along with her or his perspectives and ego), and rather by a whole diverse team with each contributor's individual skills, views and voice.
 
 Traditionally, producing an article goes something like this: first you find a subject, then you do some research possibly followed by an interview. After gathering all the necessary information, you start writing your article, often to discover your research is inadequate. So you do some more research and interviewing and re-write your article. Maybe you run it by a colleague, who has an idea that you implement. Then you present your work to your editor. The editor has some comments and offers perspectives you failed to think of. Annoyed by your own lack of insight, you re-write yet again and hopefully get approved for printing.
