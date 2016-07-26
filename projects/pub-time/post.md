@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
 
-Sharing awkward stories and heavy opinions builds stronger and more efficient teams, especially when everyone learns to subdue their assumptions and starts to listen.
+**Sharing awkward stories and heavy opinions outside of the office builds stronger and more efficient teams. Especially when everyone learns to subdue their assumptions and starts to listen.**
 
 When you work in teams where everybody is expected to contribute from their own experience, it’s crucial to understand each other. Meetings outside the usual environment give you a different mindset. They enable you to see your colleagues for the people they are instead of who you made them out to be.
 
