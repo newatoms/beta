@@ -6,7 +6,7 @@ Traditionally, producing an article goes something like this: first you find a s
 
 Several people have contributed to the writing process. So, collaboration, right? Nope.
 
-## An agile way of working has helped us introduce the idea of *continuous press*.
+## Agile journalism empowers real collaboration
 
 <img src="http://i.giphy.com/lXiRLb0xFzmreM8k8.gif" width="100%">
 
@@ -18,7 +18,7 @@ Think of it like this: if you had a really cool science class when you were a ki
 
 Now imagine the same challenge, but in a way that each bridge is only started by one student. It then goes through a rotation, allowing each student to add small parts and make small improvements based on their aptitudes. In the end, you have a much higher success rate, and kids have worked together to make better things.
 
-## What all teams can learn from kids building macaroni bridges
+## Focussing on solving small tasks actually increases creative freedom
 
 This process isn't new. It's been used in software engineering for the last decade or so. These super-smart people call it *agile working*.
 
