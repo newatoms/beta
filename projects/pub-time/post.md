@@ -25,7 +25,7 @@ It was only by talking through these assumptions and learning how to *listen* th
 ### The tangible effects of our off-site
 This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Months later, we feel the positive effects of meeting outside the usual environment. It gave us a different mindset and increased personal investment in our colleagues. We bonded through sharing personal stories and making new shared memories.
 
-It enabled us to see our colleagues for the people they are instead of who you make them out to be. Well-founded knowledge of each other made for more empathy and understanding, making our teamwork a much more comfortable endeavour.
+It enabled us to see our colleagues for the people they are instead of who you make them out to be. Well-founded knowledge of each other made for more empathy and understanding, making our permanent collaboration a much more comfortable endeavour.
 
 It also enriched our look at the world with a less clouded, more analytical vision. It made us realise even more that you must first understand what others are saying before you can respond fairly and intelligently. Set aside your ego,  take a step back, and go from there.
 
