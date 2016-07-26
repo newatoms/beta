@@ -2,9 +2,10 @@
 
 **Sharing awkward stories and heavy opinions outside of the office builds stronger and more efficient teams. Especially when everyone learns to subdue their assumptions and starts to listen.**
 
-When you work in teams where everybody is expected to contribute from their own experience, it’s crucial to understand each other. Meetings outside the usual environment give you a different mindset. They enable you to see your colleagues for the people they are instead of who you made them out to be.
+At New Atoms, our world spins by the virtue of great teamwork. We work together on all jobs at hand, contributing from our own experience. We never go it alone. Therefore, trust and mutual understanding are absolutely crucial. Shared coffee breaks and regular after work beers are a start, but we believe they don't suffice.
 
-That’s why earlier this year, New Atoms traveled to London for its first off-site.
+Building trust and understanding requires a change of scenery, mixed up with good food and drinks, sprinkled with heavy work- and non-work-related discussions and silly jokes. As we like to call it: an off-site. Earlier this year, we traveled to London for our very first edition. Here's the story.
+
 
 The off-site facilitated important talks about the the future of news, technology and the future in general. In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Most of the latter subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand.
 <img src="http://i.imgur.com/5CPHozf.png" width="100%" alt="We're all peacocks until we start listening to each other">
