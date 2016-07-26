@@ -18,7 +18,7 @@ Think of it like this: if you had a really cool science class when you were a ki
 
 Now imagine the same challenge, but in a way that each bridge is only started by one student. It then goes through a rotation, allowing each student to add small parts and make small improvements based on their aptitudes. In the end, you have a much higher success rate, and kids have worked together to make better things.
 
-## Focussing on solving small tasks actually increases creative freedom
+## Focus on solving small tasks to increase creative freedom
 
 This process isn't new. It's been used in software engineering for the last decade or so. These super-smart people call it *agile working*.
 
