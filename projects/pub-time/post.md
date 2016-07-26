@@ -9,12 +9,12 @@ Building trust and understanding requires a change of scenery, mixed up with goo
 ### Bonding over food, drinks and big topics  
 Our days in London formed a great time to talk about the business we are in. Boris, our boss, gave daily talks about the the future of news, technology and the future in general.
 
-In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. But also weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand.
+In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. But also weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. Having a brand new team member on board, it facilitated becoming acquainted pressure cooker-style.
 
 <img src="http://i.imgur.com/5CPHozf.png" width="100%" alt="We're all peacocks until we start listening to each other">
 
 ### Shutting up to reach mutual understanding
-Not only did the off-site facilitate getting to know each other better. A crucial thing it taught us, was to stop talking and start listening.
+Not only did the off-site made us get to know each other better. A crucial thing it taught us, was to stop talking and start listening.
 
 Weighty conversations sometimes gave rise to heated discussions. As the temperature rose, our individual assumptions began to emerge. Most of us were saying the same things with different words, unable to actually listen to the others. The fear of being misunderstood stopped us from listening and made it impossible to learn from each other.
 
