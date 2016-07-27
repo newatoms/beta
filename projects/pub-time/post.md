@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
+<img src="http://i.imgur.com/7DEoqCJ.jpg" width="100%" alt="London">
 
 **Sharing awkward stories and strong opinions outside the office builds more productive and efficient teams. When everyone learns to subdue their assumptions and starts to listen, collaboration will flourish.**
 
@@ -11,7 +11,7 @@ Our days in London provided the perfect opportunity to talk about the business o
 
 In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. But weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions were also discussed. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. Having a brand new team member on board, these evenings facilitated becoming acquainted pressure-cooker style.
 
-<img src="http://i.imgur.com/sYWiOYy.jpg" width="100%" alt="London">
+<img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
 
 ### Shutting up to reach mutual understanding
 Not only did the off-site help us get to know each other better, a crucial thing it taught us was to stop talking and start listening.
