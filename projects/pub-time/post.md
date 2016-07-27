@@ -11,7 +11,7 @@ Our days in London provided the perfect opportunity to talk about the business o
 
 In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. But weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions were also discussed. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. Having a brand new team member on board, these evenings facilitated becoming acquainted pressure-cooker style.
 
-<img src="https://images.unsplash.com/reserve/nTr1589kTgyXCOdStCGm_MikaRuusunen.jpg?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=f178f8e2ffeaa1c9c721232373d5ea56" width="100%" alt="London">
+<img src="http://i.imgur.com/sYWiOYy.jpg" width="100%" alt="London">
 
 ### Shutting up to reach mutual understanding
 Not only did the off-site help us get to know each other better, a crucial thing it taught us was to stop talking and start listening.
