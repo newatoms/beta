@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/fTbX7GH.jpg" width="100%" alt="London">
+<img src="http://i.imgur.com/rgVf7I0.jpg" width="100%" alt="London">
 
 **Sharing awkward stories and strong opinions outside the office builds more productive and efficient teams. When everyone learns to subdue their assumptions and starts to listen, collaboration will flourish.**
 
@@ -32,4 +32,4 @@ It also declouded our view of the world through a more analytical vision. It mad
 Our second off-site is planned in November, and we can't wait to find out what we will learn next.
 
 
-Image: London eye by [Vic Xia](https://www.flickr.com/photos/viictoria4) (CC BY 2.0).
+Image: London Eye and County Hall by [Clogsilk](https://www.flickr.com/photos/clogsilk/) on Flickr (CC BY 2.0).
