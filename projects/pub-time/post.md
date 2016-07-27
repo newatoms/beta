@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
+<img src="http://i.imgur.com/fTbX7GH.jpg" width="100%" alt="London Eye">
 
 **Sharing awkward stories and strong opinions outside the office builds more productive and efficient teams. When everyone learns to subdue their assumptions and starts to listen, collaboration will flourish.**
 
@@ -11,7 +11,7 @@ Our days in London provided the perfect opportunity to talk about the business o
 
 In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. But weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions were also discussed. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. Having a brand new team member on board, these evenings facilitated becoming acquainted pressure-cooker style.
 
-<img src="http://i.imgur.com/5CPHozf.png" width="100%" alt="We're all peacocks until we start listening to each other">
+<img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
 
 ### Shutting up to reach mutual understanding
 Not only did the off-site help us get to know each other better, a crucial thing it taught us was to stop talking and start listening.
@@ -32,4 +32,4 @@ It also declouded our view of the world through a more analytical vision. It mad
 Our second off-site is planned in November, and we can't wait to find out what we will learn next.
 
 
-Image (modified): Victorian Frame 8 ~ Feathers by [Temari 09](https://flic.kr/p/bVoEw2) (CC BY 2.0).
+Image: London eye by [Vic Xia](https://www.flickr.com/photos/viictoria4) (CC BY 2.0).
