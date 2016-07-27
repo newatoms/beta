@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
 
-**Sharing awkward stories and heavy opinions outside of the office builds stronger and more efficient teams. Especially when everyone learns to subdue their assumptions and starts to listen.**
+**Sharing awkward stories and heavy opinions outside the office builds stronger and more efficient teams. Especially when everyone learns to subdue their assumptions and starts to listen.**
 
 At New Atoms, our world spins by the virtue of great teamwork. We work together on all jobs at hand, contributing from our own experience. We never go it alone. Therefore, trust and mutual understanding are absolutely crucial. Shared coffee breaks and regular after work beers are a start, but we believe they don't suffice.
 
@@ -9,12 +9,12 @@ Building trust and understanding requires a change of scenery, mixed up with goo
 ### Bonding over food, drinks and big topics  
 Our days in London formed a great time to talk about the business we are in. Boris, our boss, gave daily talks about the the future of news, technology and the future in general.
 
-In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. But also weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. Having a brand new team member on board, it facilitated becoming acquainted pressure cooker-style.
+In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. But also weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. Having a brand new team member on board, it facilitated becoming acquainted pressure-cooker style.
 
 <img src="http://i.imgur.com/5CPHozf.png" width="100%" alt="We're all peacocks until we start listening to each other">
 
 ### Shutting up to reach mutual understanding
-Not only did the off-site made us get to know each other better. A crucial thing it taught us, was to stop talking and start listening.
+Not only did the off-site make us get to know each other better. A crucial thing it taught us was to stop talking and start listening.
 
 Weighty conversations sometimes gave rise to heated discussions. As the temperature rose, our individual assumptions began to emerge. Most of us were saying the same things with different words, unable to actually listen to the others. The fear of being misunderstood stopped us from listening and made it impossible to learn from each other.
 
@@ -23,11 +23,11 @@ It took us quite a few attempts to realise we were all on the same page. If some
 It was only by talking through these assumptions and learning how to *listen* that they began to melt away and be replaced by empathy. We were able to understand each other and see from one another's perspectives. We learned how to communicate effectively on a personal level, looking past our own baggage and assumptions. We learned to trust.
 
 ### The tangible effects of our off-site
-This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Months later, we feel the positive effects of meeting outside the usual environment. It gave us a different mindset and increased personal investment in our colleagues. We bonded through sharing personal stories and making new shared memories.
+This understanding accompanied us back to Amsterdam and permeated our work-related conversations. Months later, we feel the positive effects of having met outside the usual environment. It gave us a different mindset and increased personal investment in our colleagues. We bonded through sharing personal stories and making new shared memories.
 
-It enabled us to see our colleagues for the people they are instead of who you make them out to be. Well-founded knowledge of each other made for more empathy and understanding, making our permanent collaboration a much more comfortable endeavour.
+It enabled us to see our colleagues for the people they are instead of who we made them out to be. Well-founded knowledge of each other made for more empathy and understanding, making our permanent collaboration a much more comfortable endeavour.
 
-It also enriched our look at the world with a less clouded, more analytical vision. It made us realise even more that you must first understand what others are saying before you can respond fairly and intelligently. Set aside your ego,  take a step back, and go from there.
+It also enriched our view of the world with a less clouded, more analytical vision. It made us realise even more that you must first understand what others are saying before you can respond fairly and intelligently. Set aside your ego,  take a step back, and go from there.
 
 The next off-site is planned in November, and we can't wait to find out what we will learn next.
 
