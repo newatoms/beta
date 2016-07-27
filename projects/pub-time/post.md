@@ -27,9 +27,9 @@ This understanding accompanied us back to Amsterdam and permeated our work-relat
 
 It enabled us to see our colleagues for the people they are instead of who we had made them out to be. Well-founded knowledge of one other made for more empathy and understanding, making our permanent collaboration a much more comfortable endeavour. Pardon us for getting a little sappy here, but we are certain these developments lead to more productive teamwork.
 
-It also enriched our view of the world with a less clouded, more analytical vision. It made us realise even more that you must first understand what others are saying before you can respond fairly and intelligently. Set aside your ego, take a step back, and go from there.
+It also declouded our view of the world through a more analytical vision. It made us realise even more that you must first understand what others are saying before you can respond fairly and intelligently. Set aside your ego, take a step back, and go from there.
 
-The next off-site is planned in November, and we can't wait to find out what we will learn next.
+Our second off-site is planned in November, and we can't wait to find out what we will learn next.
 
 
 Image (modified): Victorian Frame 8 ~ Feathers by [Temari 09](https://flic.kr/p/bVoEw2) (CC BY 2.0).
