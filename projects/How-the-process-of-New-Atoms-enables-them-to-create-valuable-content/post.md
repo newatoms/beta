@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Jas_Messengers01.JPG" width=100% />
 
-We are trying, as a team, to revolutionize the news industry. 
+We are trying to revolutionize the news industry. 
 
 We imagine news that has broken free from centuries-old methods. We imagine articles that have escaped the problematic tradition of a single voice, perspective and ego. We imagine *real* collaboration.
 
