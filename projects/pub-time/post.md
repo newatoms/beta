@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
 
-**Sharing awkward stories and strong opinions outside the office builds productive, efficient teams. When everyone learns to subdue their assumptions and starts to listen, collaboration will flourish.**
+**Sharing awkward stories and strong opinions outside the office builds more productive and efficient teams. When everyone learns to subdue their assumptions and starts to listen, collaboration will flourish.**
 
 At New Atoms, our world spins by the virtue of great teamwork. We work together on all jobs at hand, contributing from our own experience. We never go it alone. Therefore, trust and mutual understanding are absolutely critical. Shared coffee breaks and regular after work beers are a start, but we believe they don't suffice.
 
