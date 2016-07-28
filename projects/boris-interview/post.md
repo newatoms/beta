@@ -36,10 +36,10 @@ This causes a drastic increase in overhead, causing the production per person to
 
 <img src="http://i.imgur.com/rSUnmd6.jpg" width="100%">
 
-## What journalism can learn from technology
-So, says Boris, these companies need to look at the way in which technological organisations grow. They hire people with a variety of experience and skills to make the company as a whole more valuable. Each person contributes from their strengths. Implementing such a system in media production (one of sharing knowledge, work, and experience) enables individuals to increase their production as well as that of the people around them.
+## What journalism can learn from technological organisations
+So, says Boris, these companies need to look at the way in which technological organisations––think silicon valley––grow. They hire people with a variety of experience and skills to make the company as a whole more valuable. Each person contributes from their strengths. Implementing such a system in media production––one of sharing knowledge, work, and experience––enables individuals to increase their production as well as that of the people around them.
 
-The other fundamental problem in the news industry, is the difficulty it has adapting to developments in technology. The developments influencing social behaviour are of particular complexity. The technology sector is simply so much better at adapting to the changing behaviours of its audience and its user base. Therefore, it is able to fulfill a lot of their needs much more immediately than the news industry.
+The other fundamental problem in the news industry, is how adapts to changes in the world. This becomes very apparent when you compare the news industry to the technology sector in how they have adapted the rise in internet usage. The technology sector is simply so much better at adapting to the changing behaviours of its audience. Therefore, it is able to fulfill a lot of their needs much more immediately than the news industry.
 
 Boris apprehends that
 > the moment traditional media and news media dropped one beat;
@@ -52,6 +52,7 @@ What are the implications? Now, people in news media have been usurped by people
 What they do understand is that they're effectively making a product that people are buying. Naturally, they continue to develop the product, their decisions directed by user research. In doing this, they're actually (often unconsciously) changing many things such as politics, government and the ways in which people interact with one another.
 
 <img src="http://i.imgur.com/tRpArDS.jpg" width="100%">
+
 ## The solution? A marriage
 The idea that you could really change the world if you have access to a lot of people is highly relevant to journalism. Social media is very interesting for that reason. We all have a responsibility in shaping the future and mass media is a tool for such an endeavour. If you have well-functioning, mindful mass media, then the future can be shaped in the right ways.
 
