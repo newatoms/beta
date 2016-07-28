@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/5CPHozf.png" width="100%" alt="We're all peacocks until we start listening to each other">
+<img src="http://i.imgur.com/fTbX7GH.jpg" width="100%" alt="London Eye">
 
 Teamwork is all about trust.
 
@@ -9,13 +9,13 @@ At New Atoms, our world spins by the virtue of great teamwork. We work together 
 Building trust and understanding sometimes requires a change of scenery, blended with good food and drinks and sprinkled with spirited discussions and silly jokes. As we like to call it: an off-site. Earlier this year, we traveled to London for our very first edition. Here's the story.
 
 ### Bonding over food, drinks and big topics  
+<img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
+
 Our days in London provided the perfect opportunity to talk about the business of journalism. Boris, our fearless leader, gave daily talks about the the future of news, technology and the future in general.
 
 In the evenings, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions were also discussed. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. These settings seem to work magic for communication.
 
 It was the opportunity to discuss such a variety of topics with abandon, from business to silly to serious, that naturally led us to feel a personal investment in one another. Especially having a brand new team member on board, these evenings facilitated becoming acquainted pressure cooker-style.
-
-<img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
 
 ### Shutting up to reach mutual understanding
 The pressure-cooker, while a facilitator, can sometimes overheat.
@@ -39,4 +39,4 @@ A more analytical vision helps to decloud our view of the world, thus positionin
 
 Our second off-site is planned in November, and we can't wait to find out what we will learn next.
 
-Image (modified): Victorian Frame 8 ~ Feathers by [Temari 09](https://flic.kr/p/bVoEw2) (CC BY 2.0).
+Image: London eye by [Vic Xia](https://www.flickr.com/photos/viictoria4) (CC BY 2.0).
