@@ -79,7 +79,7 @@ Among others, the following tactics were described as *appealing* to people when
 **The Rule of Thirds**
 > A very popular guideline in photography is the Rule of Thirds. Most professional photographs that follow this rule are composed with the subject at one of the intersections of imaginary lines drawn to separate the picture plane into thirds, or stretching across a horizontal or vertical axis at one third of the image from an edge.
 
-<img src="http://i.imgur.com/0kNwuaA.jpg" alt="rule of thirds" /></a>
+<img src="http://i.imgur.com/0kNwuaA.jpg" alt="rule of thirds" width=100% /></a>
 *Photograph by Krysten Koehn*
 
 **Low Depth of Field Indicators**
