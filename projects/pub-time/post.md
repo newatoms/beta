@@ -1,5 +1,7 @@
 <img src="https://i.imgur.com/lIEtu3A.jpg" alt="New Atoms team at off-site" width=100% />
 
+how an offsite can build the trust you need for true teamwork
+
 **Sharing awkward stories and strong opinions outside the office builds more productive and efficient teams. When everyone learns to subdue their assumptions and starts to listen, collaboration will flourish.**
 
 At New Atoms, our world spins by the virtue of great teamwork. We work together on all jobs at hand, contributing from our own experience. We never go it alone. Therefore, trust and mutual understanding are absolutely critical. Shared coffee breaks and regular after work beers are a start, but we believe they don't suffice.
@@ -9,7 +11,9 @@ Building trust and understanding requires a change of scenery, blended with good
 ### Bonding over food, drinks and big topics  
 Our days in London provided the perfect opportunity to talk about the business of journalism. Boris, our boss, gave daily talks about the the future of news, technology and the future in general.
 
-In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. But weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions were also discussed. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. Having a brand new team member on board, these evenings facilitated becoming acquainted pressure-cooker style.
+In the evening, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions were also discussed. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. These settings seemed to work magic for communication.
+
+It was by discussing such a variety of topics, from business to silly to serious, Having a brand new team member on board, these evenings facilitated becoming acquainted pressure-cooker style.
 
 <img src="http://i.imgur.com/5CPHozf.png" width="100%" alt="We're all peacocks until we start listening to each other">
 
