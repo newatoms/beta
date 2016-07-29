@@ -11,7 +11,8 @@ Traditionally, producing an article goes something like this: You are a journali
 Several people have contributed to the writing process. So, collaboration, right? Nope.
 
 We actually believe this process is borderline lunacy in today's world. In the spirit of information sharing, we think the field of journalism can be vastly improved with works created by a whole diverse, multidisciplinary team. Each contributor's research, skills, views and voice blend together to make something more dimensional and balanced than what we are accustomed to reading.
-## Agile journalism empowers real collaboration
+
+## Agile journalism empowers actual collaboration
 
 <img src="http://i.giphy.com/lXiRLb0xFzmreM8k8.gif" width="100%">
 
@@ -25,7 +26,7 @@ In our version of this process, every little iteration a team member contributes
 
 ## Increasing creative freedom by working together
 
-With *real* collaboration, solutions emerge that no one individual could ever expect. Things develop from multiple perspectives. This is collaboration that harnesses individual talent. It enables us to go beyond the conventions and constraints of traditional journalism into newer and more fruitful territories.
+With genuine collaboration, solutions emerge that no one individual could ever expect. Things develop from multiple perspectives. This is collaboration that harnesses individual talent. It enables us to go beyond the conventions and constraints of traditional journalism into newer and more fruitful territories.
 
 Enabling an agile workflow best situates us to use our talents within our team. We (and our work) are benefitting from the complimentary talents and insights of others, working in true collaboration to deliver creative works.
 
