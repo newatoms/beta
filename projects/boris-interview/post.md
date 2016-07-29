@@ -39,7 +39,7 @@ This causes a drastic increase in overhead, causing the production per person to
 ## What journalism can learn from technological organisations
 So, says Boris, these companies need to look at the way in which technological organisations––think silicon valley––grow. They hire people with a variety of experience and skills to make the company as a whole more valuable. Each person contributes from their strengths. Implementing such a system in media production––one of sharing knowledge, work, and experience––enables individuals to increase their production as well as that of the people around them.
 
-The other fundamental problem in the news industry, is how adapts to changes in the world. This becomes very apparent when you compare the news industry to the technology sector in how they have adapted the rise in internet usage. The technology sector is simply so much better at adapting to the changing behaviours of its audience. Therefore, it is able to fulfill a lot of their needs much more immediately than the news industry.
+The other fundamental problem in the news industry is how it adapts to changes in the world. This becomes very apparent when comparing the news industry to the technology sector in how they have adapted to internet usage. The technology sector is simply so much better at adapting to the changing behaviours of its audience. Therefore, it is able to fulfill a lot of their needs much more immediately than the news industry.
 
 Boris apprehends that
 > the moment traditional media and news media dropped one beat;
