@@ -15,12 +15,12 @@ Our days in London provided the perfect opportunity to talk about the business o
 
 In the evenings, the conversations would transgress into talks about riding bikes into canals, our love for [Adventure Time](https://www.youtube.com/watch?v=OBYZPdu22Cg) and past romantic relationships. Weightier topics, such as gender politics, the moral issues of advertising and our urge to break through conventions were also discussed. Most of these subjects unfolded in restaurants over large portions of food or in pubs with delicious beverages in hand. These settings seem to work magic for communication.
 
-It was the opportunity to discuss such a variety of topics with abandon, from business to silly to serious, that naturally led us to feel a personal investment in one another. Especially having a brand new team member on board, these evenings facilitated becoming acquainted pressure cooker-style.
+It was the opportunity to discuss such a variety of topics freely, from business to silly to serious, that naturally led us to feel a personal investment in one another. Especially having a brand new team member on board, these evenings facilitated becoming acquainted pressure cooker-style.
 
 ### Shutting up to reach mutual understanding
 The pressure-cooker, while a facilitator, can sometimes overheat.
 
-There were moments when our weighty pub conversations gave rise to heated discussions. As the temperature rose, our individual assumptions began to emerge. Most of us were saying the same things with different words, but the fear of being misunderstood stopped us from listening and made it impossible to learn from one another.
+There were moments when our weighty pub conversations gave rise to heated discussions. As the temperature rose, our individual assumptions began to emerge. Most of us were saying the same things with different words, but the fear of being misunderstood stopped us from listening. It made it impossible to learn from one another.
 
 It took us quite a few attempts to realise we were all on the same page. Thankfully, an off-site creates the time and space for these attempts. We learned through trial and error that if someone has a strong opinion, we should not try to fight it with our own, but rather understand what they are trying to convey.
 
