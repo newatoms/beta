@@ -20,7 +20,7 @@ This led to an urge to understand and improve the field of journalism, and so he
 
 This led to a lot of poking around in the business of the BBC. Boris stumbled on a set of structural problems that make it hard for news organisations to keep up with the market. The two key fields for improvement: *scalability* and *adaptability*.
 
-The way in which media companies currently grow quickly leads to *scalability* problems. Let's say a newspaper hires someone to write a story on [The National Front](https://en.wikipedia.org/wiki/National_Front_(France) in France. This person is charged with understanding everything about the situation there. Not only will she write the story herself, but she will need to travel there and do all the research involved. This means she will spend 100% of her time on this one article.
+The way in which media companies currently grow quickly leads to *scalability* problems. Let's say a newspaper hires someone to write a story on [The National Front](https://en.wikipedia.org/wiki/National_Front_(France)) in France. This person is charged with understanding everything about the situation there. Not only will she write the story herself, but she will need to travel there and do all the research involved. This means she will spend 100% of her time on this one article.
 
 Once all the research has been done, conclusions have been drawn, and everything is pulled together into a well rounded article, it gets published. Only then does it become visible for the rest of the world, including other journalists. The problem with this is that no journalist ever puts all their research into the final work. Much of it is hidden and lost in the pages of her personal notebook.
 
