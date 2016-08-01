@@ -26,6 +26,8 @@ In our version of this process, every little iteration a team member contributes
 
 ## Increasing creative freedom by working together
 
+In many contexts, collaboration signals the need for constant compromise or constraint. But collaborating in the New Atoms way increases creative freedom instead of reduces it. No one is stuck in a rigid job description—we are free to explore whatever interests us, and everyone can contribute to everything. We weave our additions into the greater whole by finding solutions based on what we each know, enjoy, and are able to do.
+
 With genuine collaboration, solutions emerge that no one individual could ever expect. Things develop from multiple perspectives. This is collaboration that harnesses individual talent. It enables us to go beyond the conventions and constraints of traditional journalism into newer and more fruitful territories.
 
 Enabling an agile workflow best situates us to use our talents within our team. We (and our work) are benefitting from the complimentary talents and insights of others, working in true collaboration to deliver creative works.
