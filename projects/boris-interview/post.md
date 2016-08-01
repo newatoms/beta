@@ -46,15 +46,16 @@ the moment they didn't adapt quickly enough to what their user base needed from 
 the moment they failed to provide good, quick, reliable news sources on the internet; other media stepped in and it was over.
 
 ## The consequences of an inflexible trade
-What are the implications? Now, people in news media have been usurped by people in technology. The former are very conscious of which messages are being sent, how they are formulated, and the ways in which they impact the world. The latter have a lot less awareness about what the role and influence of such messages is. They don't understand that, when they transmit widely significant information, they change people's lives.
 
-What they do understand is that they're effectively making a product that people are buying. Naturally, they continue to develop the product, their decisions directed by user research. In doing this, they're actually (often unconsciously) changing many things such as politics, government and the ways in which people interact with one another.
+What are the implications? Information delivered via news media has been usurped by that broadcasted via technology. Those in the news sector are very conscious of which messages are being sent, how they are formulated, and the ways in which they impact the world. Those in the technology sector have a lot less awareness about what the role and influence of such messages is. They may not fully understand that, when they transmit widely significant information, they change people's lives.
+
+What they do understand is that they're effectively making a product that people are buying. Naturally, they continue to develop the product, their decisions directed by user research. Any social media outlet is a powerful example. In doing this, they're actually (often unconsciously) changing many things such as politics, culture, and the ways in which people interact with one another.
 
 ## The solution? A marriage
 
 <img src="http://i.imgur.com/tRpArDS.jpg" width="100%">
 
-The idea that you could really change the world if you have access to masses of people is highly relevant to journalism. Social media is very interesting for that reason: we all have a responsibility in shaping the future and mass media is a tool for such an endeavour. If you have well-functioning, mindful mass media, then the future can be shaped in the right ways.
+The idea that you could really change the world (not only disseminate information) if you have access to masses of people is highly relevant to journalism. Social media is very interesting for that reason: we all have a responsibility in shaping the future and mass media is a tool for such an endeavour. If you have well-functioning, mindful mass media, then the future can be shaped in positive ways.
 
 Technology developed a system which uses every communication method available, the modern ways of working, and the ability to share information on a massive scale. With that, they solve a lot of the same problems with which journalism is struggling using a different kind of process.
 
