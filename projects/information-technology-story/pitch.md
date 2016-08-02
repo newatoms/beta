@@ -2,7 +2,7 @@
 To show where and how the character New Atoms enters the narrative of information technology.
 
 ## Method
-We will write an article about the trajectory of information technology related to media, and the ways in which New Atoms is both merging into the IT narrative and contributing to its direction and propulsion.
+We will write an article about the trajectory of information technology related to media, and the ways in which New Atoms is both merging into the IT narrative and helping determine its direction.
 
 ## Example
 The article could be in more of a narrative style, telling the story of IT/media and introducing New Atoms as a protagonist in the story (inspired by the telegram "puppet theater" at the London Museum of Natural History). Within this narrative, we could also write about the ways in which traditional media production has become irrelevant to our time, and how New Atoms is addressing the industry's current needs.
