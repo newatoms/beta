@@ -36,7 +36,7 @@ This causes a drastic increase in overhead, causing the production per person to
 
 <img src="http://i.imgur.com/rSUnmd6.jpg" width="100%">
 
-These companies need to look at the way in which technological organisations––think silicon valley––grow, explains Boris. They hire people with a variety of experience and skills to make the company as a whole more valuable. Each person contributes from their strengths. Implementing such a system in media production––one of sharing knowledge, work, and experience––enables individuals to increase their production as well as that of the people around them.
+These companies need to look at the way in which technological organisations—think silicon valley—grow, explains Boris. They hire people with a variety of experience and skills to make the company as a whole more valuable. Each person contributes from their strengths. Implementing such a system in media production—one of sharing knowledge, work, and experience—enables individuals to increase their production as well as that of the people around them.
 
 The other fundamental problem in the news industry is its lack of *adaptability* to changes in the world. This becomes very apparent when comparing the news industry to the technology sector in how they have adapted to internet usage. The technology sector is simply so much better at moving with the changing behaviours of its audience because it is a new industry compared to journalism. It doesn't have any existing traditions. It's an industry that made its own systems for the creative process. Therefore, it is able to fulfill a lot of society's needs much more immediately than the news industry.
 
