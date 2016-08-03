@@ -51,10 +51,6 @@ What are the implications? Information delivered via news media has been usurped
 
 What they do understand is that they're effectively making a product that people are buying. Naturally, they continue to develop the product, their decisions directed by user research. Any social media outlet is a powerful example. In doing this, they're actually (often unconsciously) changing many things such as politics, culture, and the ways in which people interact with one another.
 
-<<<<<<< HEAD
-=======
-<img src="http://i.imgur.com/tRpArDS.jpg" width="100%">
->>>>>>> origin/live
 ## The solution? A marriage
 
 <img src="http://i.imgur.com/tRpArDS.jpg" width="100%">
