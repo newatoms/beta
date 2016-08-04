@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/nZ5Gow7.jpg?1" alt="The two sides of Boris" width=100%/>
-*"I'm interested in large, complex systems. I wanna know why people do things, what makes them do things, and how all these things fit together."*
+<img src="https://c2.staticflickr.com/4/3487/3305410831_396af6ff76_b.jpg" alt="Utopia" width=100%/>
+*"I'm interested in large, complex systems. I wanna know why people do things, what makes them do things, and how all these things fit together."* —Boris van Hoytema
 
 Meet Boris. Boris is the founder of [New Atoms](www.newatoms.com). One of his most uttered words, to the annoyance of most of the people who surround him, is "why". "*Why* is there a need for this to exist?" "*Why* would you want to change this and *why* haven't you?" "*Why* are we not asking *why*?" Even though it can be wildly annoying at times, it enables him to understand small bits of the world around him. The more small bits of understanding he collects, the more they contribute to a bigger understanding—an understanding that leads to a hunger for even more understanding.
 
@@ -59,6 +59,6 @@ The idea that you could really change the world (not only disseminate informatio
 
 Technology developed a system which uses every communication method available, the modern ways of working, and the ability to share information on a massive scale. With that, they solve a lot of the same problems with which journalism is struggling using a different kind of process.
 
-And so the idea for New Atoms was born.
+For Boris, all of these experiences and ideas coming together begged the question: "If news organisations didn't exist, what would we create? And so the idea for New Atoms was born.
 
 Image credits: [Jacob Creswick](https://unsplash.com/photos/ra3oAd6hrnM), [Andy Mai](https://unsplash.com/photos/Ndc2U5NUpLs), [Alex Wong](https://unsplash.com/photos/WGaFJIoHB4Y) on [Unsplashed](https://unsplash.com).
