@@ -1,8 +1,3 @@
-New Atoms team members give insight into how they deal with ego when they create iterative creative works as a team.
-
-New Atoms (**situation**) team members (**protagonist**) want to work together to make great creative works (**objective**). But when egos get in the way (**disaster**) and people cannot objectively process feedback from other team members, hindering productivity (**conflict**), these egos (**opponent**) must be identified and attended to effectively (**resolution**).
-
-
 
 <img src="https://i.imgur.com/YEniqtv.jpg" width="100%" alt="The team in june">
 
