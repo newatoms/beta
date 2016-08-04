@@ -59,6 +59,6 @@ The idea that you could really change the world (not only disseminate informatio
 
 Technology developed a system which uses every communication method available, the modern ways of working, and the ability to share information on a massive scale. With that, they solve a lot of the same problems with which journalism is struggling using a different kind of process.
 
-For Boris, all of these experiences and ideas coming together begged the question: "If news organisations didn't exist, what would we create? And so the idea for New Atoms was born.
+For Boris, all of these experiences and ideas coming together begged the question: "If news organisations didn't exist, what would we create?" And so the idea for New Atoms was born.
 
 Image credits: [Jacob Creswick](https://unsplash.com/photos/ra3oAd6hrnM), [Andy Mai](https://unsplash.com/photos/Ndc2U5NUpLs), [Alex Wong](https://unsplash.com/photos/WGaFJIoHB4Y) on [Unsplashed](https://unsplash.com).
