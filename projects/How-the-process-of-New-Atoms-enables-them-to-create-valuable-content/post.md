@@ -33,4 +33,5 @@ With this kind of collaboration, solutions emerge that no one individual could e
 Enabling an agile workflow best situates us to use our talents within our team. We (and our work) are benefitting from the complimentary talents and insights of others, working in a new kind of collaboration to deliver creative works.
 
 Image: The [Jazz Messengers](https://en.wikipedia.org/wiki/Terence_Blanchard#/media/File:Jas_Messengers01.JPG) by Roland Godefroy
+
 Gif: [GFAUGHT](http://gfaught.tumblr.com/)
