@@ -1,23 +1,24 @@
+
 <img src="https://i.imgur.com/YEniqtv.jpg" width="100%" alt="The team in june">
 
-How could we ever presume to add value to the world if no more than half of our team members have a significant degree, and even less of us has relevant work experience?
+Ego is part of the human condition. In ourselves. In others. It's just a fact of being a person.
 
-We don't hire on experience, we hire on personality and mindset.
+It's never easy to receive criticism for something into which you've put a lot of effort. Even when it's constructive, even when such feedback could improve it greatly. The more of yourself you've poured into something, the harder it becomes to hear that it may not be reaching it's full potential. But how can we ever improve something if we cannot hear that it needs improvement? Or if nobody dares to point out what needs improving?
 
-Our team(s) work in hyper-collaboration. Every product we make is the result of a team building iteratively on one another's work, giving feedback every time we add something new. This way individual skills matter less than the ability to function in a team.
+Within a team, ego can be a massive hurdle. The fear of wounding the ego of another team member or the hyperactivity of our own egos will often lead to less productivity and lower work and product quality.
 
-# It's a complicated thing, this ego
+At [New Atoms](www.newatoms.com), our teams work in hyper-collaboration. Every product we make is the result of a team building iteratively on one another's work in very small steps, giving and receiving feedback every time we add something new. This process is our first measure in combatting egos—when tasks are kept small, it's more difficult to feel responsible for the whole, therefore easier to receive feedback. You can imagine, however, that in such a give-and-take environment, egos can be very harmful to the machine running smoothly when they do appear.
 
-To be able to function as a team, our teams need to take ownership over everything they produce. The biggest hurdle in this is ego.
+## It's a complicated thing, this ego
+Case in point: A while back, Matthijs, the team's business developer, had made an inaccurate assumption leading to two articles being close to useless. "Even though I knew I was wrong, I just could not admit it," he later told us. When our egos rear their ugly heads, not only do we get in the way of our own success but the team's as a whole. "It took me quite a while to realise that Sam and Thomas where trying to help the team, not discredit *me*," Matthijs says.
 
-It is never easy to receive feedback on something into which you put a lot of effort, even though it might improve it greatly. The more you feel responsible for the whole, the harder it becomes.
+"When something like that happens, I always try to ask questions that help someone make a distinction between overall quality and their own ego," Sam, the team's technical developer, tells us.
 
-When a [post.supply](https://post.supply/) team starts working for a new client, the first step is always to understand what they do and why they do it. This requires a lot of research and reflection. At one point, Matthijs, the team's business developer, had made an inaccurate assumption leading to two articles being close to useless. "Even though I knew I was wrong, I just could not admit it." Its a hard thing, this ego. "It took me quite a while to realise that Sam and Thomas where trying to help me, and not discredit me," Matthijs says.
+Good companies recognise this distinction. On [Slack](https://slack.com/)'s blog, [*Several People Are Typing*](https://slackhq.com/), [Evie Nagy](https://medium.com/@EvieN) writes:
 
-"When something like that happens, I always try to ask questions that help someone make a distinction between quality and ego," Sam, the team's technical developer, tells us.
+>When you’re working closely with other people, there’s an important balance between taking your work seriously and not taking yourself too seriously. Good communication means both personal availability and a respect for others’ time and ideas. [(*Be a teammate, not a hero*)](https://slackhq.com/be-a-teammate-not-a-hero-f200d58de25b#.1p9qkn9nm).
 
-The fear of hurting the ego of a team member will often lead to a lower production rate and lower overall quality. How can we ever improve something if nobody dares to point out what needs improving?
+## Communication is connection
+With this in mind, our teams are encouraged to discuss everything hindering their work with their team members. Though this might be a bit scary or uncomfortable in the beginning, getting it all out there is a good way to combat ego. Communicating genuinely and being open to hearing the perspectives of others almost always leads to humility and understanding. This, in turn, leads to more open, stronger, and more productive teams.
 
-In order to prevent things like this from happening,  teams are encouraged to discuss everything that is in the way of doing their work with their team members, instead of with a manager, someone from HR or in an employee evaluation.
-
-Even though this might be uncomfortable in the beginning, it leads to more open, stronger and more productive teams.
+At New Atoms, our mission is to understand the world and make great products based on that understanding. We can only begin to do this if we can check our egos at the door. 
