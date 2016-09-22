@@ -28,7 +28,7 @@ WebComponents will let you specify your own HTML elements. These custom elements
 
 ## What is new
 
-Next to the single-page-app and server-side-rendered app WebComponents adds an exciting new architecture to the playground. We can use WebComponents to build a constellation of mini-apps that can be plugged and played to create an application.
+Next to the *single-page-app* and *server-side-rendered-app* WebComponents adds an exciting new architecture to the playground. We can use WebComponents to build a constellation of mini-apps that can be plugged and played to create a bigger application.
 
 Something about this doesn’t sound new at all, after all, we have Directives in Angular, Components in React and Ember etcetera. Yet all of those require you to use those libraries, which are clearly designed to be used to develop a whole application.
 
