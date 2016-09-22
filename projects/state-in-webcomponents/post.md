@@ -2,7 +2,7 @@
 
 How able you are to adapt your software will to some degree decide how able you will be to adapt your business. Having one singular architecture makes this significantly harder. Enter WebComponents.
 
-## Building web software
+## Every company is a software company
 
 Almost every new web app that is built is either a Single Page App or a server side rendered one.
 
