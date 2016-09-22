@@ -1,4 +1,4 @@
-# Adaptive Development for Divergence with WebComponents
+# WebComponents: an easy way to make your business adaptable
 
 How able you are to adapt your software will to some degree decide how able you will be to adapt your business. Having one singular architecture makes this significantly harder. Enter WebComponents.
 
