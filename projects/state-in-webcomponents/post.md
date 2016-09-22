@@ -60,7 +60,7 @@ The idea here is that we build an operating system for our company. A layer of s
 
 We believe that if the software is your operating system, the people need to be in control of that. This calls for everyone in the company to understand what the software does. This does not mean knowing how to develop it, but it does mean that people should have a basic literature of the code. This imposes methods of development that WebComponents can assist in greatly.
 
-Most of our company processes are in (web)apps, and some in microservices. Connecting all of this is a Firebase Real Time Database that we use to keep every one of these in Sync and to authenticate users.
+Most of our company processes are in (web)apps, and some in micro-services. Connecting all of this is a Firebase Real Time Database that we use to keep every one of these in Sync and to authenticate users.
 
 ## We develop elements to fit into this constellation.
 
