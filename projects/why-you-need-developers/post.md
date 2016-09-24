@@ -13,6 +13,7 @@ On the other side of this problem is the advertising industry that is usually re
 For both industries, what users crave today is something in the middle, where the content and the experience fit them.
 
 ![Coca Cola "taste the feeling"](taste-the-feeling.jpg)
+*By [Wes Dickinson](https://www.flickr.com/photos/nainokin/)
 
 ## Sorry advertising, we don’t buy your empty messages anymore
 
@@ -27,7 +28,7 @@ But when you look past the experience, there is usually little value added to th
 Users increasingly need this practical value. The rise of content marketing illustrates that consumers will like your product if you add value to their lives.
 
 ![News papers destiny](old-news-papers.jpg)
-*By [Wes Dickinson](https://www.flickr.com/photos/nainokin/)
+By [Suzette](https://www.flickr.com/photos/suzettesuzette/), [RBerteig](https://www.flickr.com/photos/rberteig/), [Gabe Rosiak](https://www.flickr.com/photos/gaberosiak/).
 
 ## Sorry editorial, we can’t use your antiquated media anymore
 
