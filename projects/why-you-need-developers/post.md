@@ -32,9 +32,10 @@ News organisations, magazines and a lot of blogs are really good at just that.
 
 However, making use of [*User Experience* or *UX design*](https://www.youtube.com/watch?v=Ovj4hFxko7c) techniques to tell a story in journalism is still in its infancy and often gets underestimated.
 
-It might feel a bit weird to most jounalists, yet they can learn a lot from advertising and design agencies when it comes to creating a whole experience and how to convey a message to a big audience.
 
-Quality in journalism and only trying to be the new inspiring "creative" Art Director both have their strenghts, but real value for both the sender and the receivers lies in the middle.
+It might feel a bit weird to most journalists, yet they can learn a lot from advertising and design agencies when it comes to creating a whole experience and how to convey a message to a big audience.
+
+Quality in journalism and only trying to be the new inspiring "creative" Art Director both have their strengths, but real value for both the sender and the receivers lies in the middle.
 
 ## What you make is more than content
 
