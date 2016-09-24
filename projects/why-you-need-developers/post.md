@@ -1,29 +1,58 @@
-# You don't need writers and illustrators anymore
+# Rethinking creative production: Content and experience developers
 
-The ever-changing landscape of publishing mediums and user expectations of your creative works requires editorial and advertising organisations to do both high-quality content *and* make great experiences. The problem is, **you don't do both**.
+Time to say good bye to the writers, journalists, illustrators, art-directors, and editors. We believe we need to move away from the tool-based jobs in journalism and advertising towards roles based on developing great content and experiences.
 
-Are you in marketing? You actually don't do content. Are you from an editorial organisation? Maybe you should think more about the experience. Of course, it's more complicated than that, but let's just picture this for a moment.
+***
 
-## Yes, you heard, advertising is dead
-In modern society advertising doesn't work anymore for most brands, we know that by now. The advertising industry is great in creating wild experiences. But [the growing popularity of ad blockers](https://techcrunch.com/2015/06/07/adblocking/) and the rise of people watching television on demand ensures advertising losing its effectiveness. Then, agencies give each other awards when creating beautiful, hip and trendy artworks which are good for their portfolios.
+The media we can publish on are changing faster and faster with new technology, and with that the expectations of the users.
 
-But when leaving out the experience, there's little research or story—read: core value—left.
+This is becoming an increasingly significant problem for the editorial industry, as they are usually superb at creating great content, but traditionally weak at crafting the experiences the users require.
 
-Users need this backbone of practical value. Audiences have an increasing demand for immediate value from your company (hence, the growing demand for content marketing), because you have a certain expertise whether you're a product or a service.
+On the other side of this problem is the advertising industry that is usually really good at creating solid experiences that connect to users, yet they are often lacking in solid content.
 
-## Content is perceived differently than it should be
+For both industries, what users crave today is something in the middle, where the content and the experience fit them.
 
-On the other end, you've got editorial organisations who—[since the first newspapers arose in the 17th century](https://en.wikipedia.org/wiki/List_of_the_oldest_newspapers)—are specialised in producing content. Content as in finding stories, asking the right questions, gathering data and putting their efforts in writing.
+## Sorry advertising, we don’t buy your empty messages anymore
 
-News organisations excel in just that.
+Today, the traditional brand-building advertising doesn't work anymore. Showing us a picture of a beautiful person holding a product has gotten so normal for everyone that it no longer convinces us to see a product as part of our life.
 
-However, making use of [*User Experience* or *UX design*](https://www.youtube.com/watch?v=Ovj4hFxko7c) techniques to tell a story in journalism is still in its infancy and often gets underestimated. While it is seen as blasphemy, yet journalists can learn from advertising and design agencies when it comes to creating a whole experience and how to convey a message to a big audience.
+It has even gotten so bad that [people increasingly block ads on every page on the internet](https://techcrunch.com/2015/06/07/adblocking/) or pay monthly fees for television on demand to get past them.
 
-Content and Experience both need the same level of attention in creating an effective creative work. It's a holistic approach to modern production in either the news- and advertising industry. Content is not about choosing text, illustration, infographics, photography, video, audio or datavisualisations and leave from there—these are the tools you, as a *developer*, use to tell your story the best way possible. You use these tools to create a user experience. Rather than creating a post you create a creative work.
+Meanwhile, advertising agencies seem obsessed with giving each other awards when creating beautiful, hip and trendy artworks, great experiences that look great in their portfolios.
 
-## You need Developers
+But when you look past the experience, there is usually little value added to the life of the user.
 
-Rather than searching for the ultimate content super hero you need *Content Developers* and *Experience Developers*. As well for creating creative works for businesses or news publications.
+Users increasingly need this practical value. The rise of content marketing illustrates that consumers will like your product if you add value to their lives.
+
+## Sorry editorial, we can’t use your antiquated media anymore
+
+On the other end, you've got editorial organisations who—[since the first newspapers arose in the 17th century](https://en.wikipedia.org/wiki/List_of_the_oldest_newspapers)—are specialised in producing solid content. Content as in finding stories, asking the right questions, gathering data and putting their efforts in excellent writing.
+
+News organisations, magazines and a lot of blogs are really good at just that.
+
+However, making use of [*User Experience* or *UX design*](https://www.youtube.com/watch?v=Ovj4hFxko7c) techniques to tell a story in journalism is still in its infancy and often gets underestimated.
+
+It might feel a bit weird to most jounalists, yet they can learn a lot from advertising and design agencies when it comes to creating a whole experience and how to convey a message to a big audience.
+
+Quality in journalism and only trying to be the new inspiring "creative" Art Director both have their strenghts, but real value for both the sender and the receivers lies in the middle.
+
+## What you make is more than content
+
+When people talk about _content_ they usually mean the whole creative work, e.g. a blog post, a YouTube video or a webcomic etcetera. Yet the content is just it’s contents, the concepts and relationships that make up the story.
+
+The other essential part of creating things is it’s delivery, its communication, or in short it’s experience.
+
+Content is not about choosing text, illustration, infographics, photography, video, audio or data visualisations, these are tools that you can use, as a *developer*, to tell your story the best way possible. You use these tools to create a user experience.
+
+Content and Experience both need a high level of attention in creating an effective creative work.
+
+We propose a holistic approach of producing creative works, both for the news- and advertising industry.
+
+We propose no longer siloing the producers of the creative works in their tools, but splitting up their responsibilities according to creating the content and the experience.
+
+## You need Content and Experience Developers
+
+Rather than searching for the ultimate creative super hero we believe you need *Content Developers* and *Experience Developers*. Both for creating creative works for businesses of news publications.
 
 The *Content Developer* does everything he can to make sure every creative work has the content it needs to achieve its goals.
 
@@ -38,14 +67,10 @@ The Experience Developer does everything he can to make sure every creative work
 
 Activities include:
 
-* Finding out what medium and tools fit the goals of the post best.
+* Finding out what medium and tools are fit the goals of the post best.
 * Doing user research to find out which forms work well and which don't.
 * Creating creative works for the greatest impact.
 * Writing, drawing, photographing, filming or whatever else can make up the creative work.
-* Using analytics to fine-tune creative works to the behaviour of users.
+* Using analytics to fine tune creative works to the behaviour of users.
 * Making sure people can find the creative works with targeted campaigns on social media.
 * Understanding what social media need what approach and how they can be used to generate inbound traffic.
-
-## The gap is in the middle
-
-Conservatism in journalism and only trying to be the new inspiring "creative" Art Director both have their strengths, but the real value for both the sender and the receivers lies in the middle.
