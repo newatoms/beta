@@ -27,6 +27,7 @@ But when you look past the experience, there is usually little value added to th
 Users increasingly need this practical value. The rise of content marketing illustrates that consumers will like your product if you add value to their lives.
 
 ![News papers destiny](old-news-papers.jpg)
+*By [Wes Dickinson](https://www.flickr.com/photos/nainokin/)
 
 ## Sorry editorial, we can’t use your antiquated media anymore
 
