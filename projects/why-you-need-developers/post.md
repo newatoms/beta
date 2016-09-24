@@ -12,6 +12,8 @@ On the other side of this problem is the advertising industry that is usually re
 
 For both industries, what users crave today is something in the middle, where the content and the experience fit them.
 
+![Coca Cola "taste the feeling"](taste-the-feeling.jpg)
+
 ## Sorry advertising, we don’t buy your empty messages anymore
 
 Today, the traditional brand-building advertising doesn't work anymore. Showing us a picture of a beautiful person holding a product has gotten so normal for everyone that it no longer convinces us to see a product as part of our life.
