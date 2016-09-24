@@ -24,6 +24,8 @@ But when you look past the experience, there is usually little value added to th
 
 Users increasingly need this practical value. The rise of content marketing illustrates that consumers will like your product if you add value to their lives.
 
+![News papers destiny](old-news-papers.jpg)
+
 ## Sorry editorial, we can’t use your antiquated media anymore
 
 On the other end, you've got editorial organisations who—[since the first newspapers arose in the 17th century](https://en.wikipedia.org/wiki/List_of_the_oldest_newspapers)—are specialised in producing solid content. Content as in finding stories, asking the right questions, gathering data and putting their efforts in excellent writing.
@@ -31,7 +33,6 @@ On the other end, you've got editorial organisations who—[since the first news
 News organisations, magazines and a lot of blogs are really good at just that.
 
 However, making use of [*User Experience* or *UX design*](https://www.youtube.com/watch?v=Ovj4hFxko7c) techniques to tell a story in journalism is still in its infancy and often gets underestimated.
-
 
 It might feel a bit weird to most journalists, yet they can learn a lot from advertising and design agencies when it comes to creating a whole experience and how to convey a message to a big audience.
 
