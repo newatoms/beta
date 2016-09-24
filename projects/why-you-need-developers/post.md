@@ -13,7 +13,7 @@ On the other side of this problem is the advertising industry that is usually re
 For both industries, what users crave today is something in the middle, where the content and the experience fit them.
 
 ![Coca Cola "taste the feeling"](taste-the-feeling.jpg)
-*By [Wes Dickinson](https://www.flickr.com/photos/nainokin/)
+By [Wes Dickinson](https://www.flickr.com/photos/nainokin/)
 
 ## Sorry advertising, we don’t buy your empty messages anymore
 
