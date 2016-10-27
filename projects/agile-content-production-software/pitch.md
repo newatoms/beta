@@ -16,7 +16,7 @@ This leads to a team that is more:
 - adaptible
 - effective
 
-Switching to Agile with a team is not daunting
+Switching to Agile with a team is not daunting, in order to show this we'll make the following tangible:
 - The initial costs
 - The potential dangers of working Agile
 
